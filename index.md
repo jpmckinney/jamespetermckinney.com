@@ -10,7 +10,7 @@ layout: default
 * Art exhibitions in [Toronto](resources/art/toronto/) and [Montreal](resources/art/montreal/)
 * [Festivals in Toronto and Montreal](resources/festivals/)
 * [Other events in Toronto and Montreal](resources/events/)
-* [City and art maps](resources/maps/)
+* [Maps of art galleries in cities worldwide](resources/maps/)
 * [<span class="glyphicon glyphicon-download"></span> The feeds I subscribe to (OPML)](feeds.xml)
 * [<span class="glyphicon glyphicon-download"></span> The podcasts I listen to (OPML)](podcasts.xml)
 
@@ -26,5 +26,5 @@ Most recent post: [12 Canadian podcast recommendations](https://medium.com/@jpmc
 ## Active projects
 
 * [Popolo](http://www.popoloproject.com/) to establish international standard data formats for legislative information
-* [Canadian Open Government Civil Society Network](http://www.opengovdialogue.ca/) for ongoing dialogue between the Government of Canada and civil society organizations
+* [Canadian Open Government Civil Society Network](http://www.opengovdialogue.ca/) for ongoing dialogue between the Government of Canada and civil society
 * [TechPo](http://www.techpo.org/) to promote links between technology, policy and society in Montreal

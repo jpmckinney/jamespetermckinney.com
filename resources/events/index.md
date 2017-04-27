@@ -4,7 +4,7 @@ layout: default
 published: true
 ---
 
-<h1><a href="/">Home</a> / Events</h1>
+# [Home](/) / Events
 
 ## Montreal
 
