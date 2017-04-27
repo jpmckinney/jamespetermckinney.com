@@ -8,7 +8,7 @@ published: true
 
 ## Montreal
 
-**[GALLERY MAP](<https://www.google.com/maps/d/u/0/edit?mid=1pKDvWCvnInNN2igV2ruxxL_srzE)**>
+**[GALLERY MAP](https://www.google.com/maps/d/u/0/edit?mid=1pKDvWCvnInNN2igV2ruxxL_srzE)**
 
 ### Downtown
 
