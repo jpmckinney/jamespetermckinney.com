@@ -38,10 +38,16 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
   -Jun 24 <http://www.neverapart.com/exhibitions/two-spirit-sur-thrivance-and-the-art-of-interrupting-narratives/>  
   -Jun 25 <http://www.neverapart.com/exhibitions/182-days/>  
 
+_**May 6-Jun 17 <http://artmur.com/artistes/clint-neufeld/clint-neufeld/> <http://artmur.com/artistes/jessica-houston/this-mountain/> <http://artmur.com/artistes/renato-garza-cervera/marees-humaines/>**_  
+
 ### Mile End
 
 -Jun 10 <http://www.optica.ca/programmation/index.php> I've Only Known My Own  
 -Jun 10 <http://www.artdiagonale.org/on-view-exhibitions.html> Guillaume Adjutor Provost  
+
+### Plateau
+
+_May 5-May 27 <http://www.galerieyoun.com/projects/hugo-alonso-2/>_  
 
 ### Little Burgundy
 
