@@ -7,7 +7,7 @@ layout: default
 
 ## Resources
 
-* Contemporary art exhibitions in [Toronto](resources/art/toronto/) and [Montreal](resources/art/montreal/)
+* Art exhibitions in [Toronto](resources/art/toronto/) and [Montreal](resources/art/montreal/)
 * [Festivals in Toronto and Montreal](resources/festivals/)
 * [Other events in Toronto and Montreal](resources/events/)
 * [City and art maps](resources/maps/)

@@ -4,7 +4,7 @@ layout: default
 published: true
 ---
 
-<h1><a href="/">Home</a> / Contemporary art exhibitions</h1>
+<h1><a href="/">Home</a> / Art</h1>
 
 ## Toronto
 
