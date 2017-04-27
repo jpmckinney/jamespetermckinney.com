@@ -4,11 +4,13 @@ layout: default
 published: true
 ---
 
-# Contemporary art exhibitions
+<h1><a href="/">Home</a> / Contemporary art exhibitions</h1>
 
 ## Montreal
 
 **[GALLERY MAP](https://www.google.com/maps/d/u/0/edit?mid=1pKDvWCvnInNN2igV2ruxxL_srzE)**
+
+<p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon.</p>
 
 ### Downtown
 
@@ -36,17 +38,13 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
   -Jun 24 <http://www.neverapart.com/exhibitions/two-spirit-sur-thrivance-and-the-art-of-interrupting-narratives/>  
   -Jun 25 <http://www.neverapart.com/exhibitions/182-days/>  
 
-## Mile End
+### Mile End
 
 -Jun 10 <http://www.optica.ca/programmation/index.php> I've Only Known My Own  
 -Jun 10 <http://www.artdiagonale.org/on-view-exhibitions.html> Guillaume Adjutor Provost  
 
-## Little Burgundy
+### Little Burgundy
 
 -May 13 <http://www.patrickmikhailgallery.com/exhibitions/interior-element>  
 -Jun 18 <http://1700laposte.com/expositions/vide-et-vertige/> Su  
 **-Jul 15 <http://linconnue.biz/exhibitions/old-show-title>**  
-
-<p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon.</p>
-
-<p><span class="glyphicon glyphicon-home"></span> <a href="/">Home</a></p>

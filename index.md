@@ -1,5 +1,6 @@
 ---
 title: James McKinney
+layout: default
 ---
 
 # James McKinney
@@ -7,14 +8,11 @@ title: James McKinney
 ## Resources
 
 * Contemporary art exhibitions in [Toronto](resources/art/toronto/) and [Montreal](resources/art/montreal/)
-* Events in [Toronto](resources/events/toronto/) and [Montreal](resources/events/montreal/)
+* [Festivals in Toronto and Montreal](resources/festivals/)
+* [Other events in Toronto and Montreal](resources/events/)
 * [City and art maps](resources/maps/)
-
-## Projects
-
-* [Popolo](http://www.popoloproject.com/) to establish international standard data formats for legislative information
-* [Canadian Open Government Civil Society Network](http://www.opengovdialogue.ca/) for ongoing dialogue between the Government of Canada and civil society organizations
-* [TechPo](http://www.techpo.org/) to promote links between technology, policy and society in Montreal
+* [<span class="glyphicon glyphicon-download"></span> The feeds I subscribe to (OPML)](feeds.xml)
+* [<span class="glyphicon glyphicon-download"></span> The podcasts I listen to (OPML)](podcasts.xml)
 
 ## Elsewhere
 
@@ -25,6 +23,8 @@ title: James McKinney
 
 Most recent post: [12 Canadian podcast recommendations](https://medium.com/@jpmckinney/12-canadian-podcast-recommendations-6e237ad9d290)
 
-## Following
+## Active projects
 
-* The feeds I subscribe to ([OPML format](feeds.xml))
+* [Popolo](http://www.popoloproject.com/) to establish international standard data formats for legislative information
+* [Canadian Open Government Civil Society Network](http://www.opengovdialogue.ca/) for ongoing dialogue between the Government of Canada and civil society organizations
+* [TechPo](http://www.techpo.org/) to promote links between technology, policy and society in Montreal

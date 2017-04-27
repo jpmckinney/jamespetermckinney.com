@@ -4,6 +4,11 @@ h3 {
   font-family: 'Sorts Mill Goudy', serif;
 }
 
+h2,
+h3 {
+  margin-top: 40px;
+}
+
 p,
 ul {
   font-family: 'Open Sans', sans-serif;
