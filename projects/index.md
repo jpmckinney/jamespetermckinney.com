@@ -1,0 +1,85 @@
+---
+title: James McKinney - Projects
+layout: default
+published: true
+---
+
+# [Home](/) / Projects
+
+See [LinkedIn](https://www.linkedin.com/in/mckinneyjames/) for resume.
+
+{% capture one %}
+## Data standards
+
+* [Popolo](http://www.popoloproject.com/), author
+* [Data Catalog Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat/), invited expert
+* [Organization Ontology (ORG)](https://www.w3.org/TR/vocab-org/), invited expert
+* [Open Contracting Data Standard](http://standard.open-contracting.org/), core team (1.0)
+* [US Project Open Data Metadata Schema](https://project-open-data.cio.gov/v1.1/schema/), contributor (1.0)
+* [Who's Got Dirt API](http://www.influencemapping.org/work/whosgotdirt/), author
+* [W3C vCard Ontology](https://www.w3.org/TR/vcard-rdf/), co-author
+
+## Open source software
+
+* [csvkit](https://github.com/wireservice/csvkit)
+* [Represent Civic Information API](http://represent.opennorth.ca/)
+* [Represent Boundaries](https://github.com/opennorth/represent-boundaries)
+* [Citizen Budget](http://www.citizenbudget.com/)
+* [Ready Reckoner](http://www.readyreckoner.ca/)
+* [OpenHouseNS](http://www.openhousens.ca/)
+* [My RubyGems](https://rubygems.org/profiles/jpmckinney) ([status](http://jpmckinney.github.io/))
+* [My pull requests](https://github.com/pulls?q=is%3Apr+author%3Ajpmckinney+is%3Aclosed)
+
+## Open databases
+
+* [Canadian open government data catalogs](https://github.com/jpmckinney/open_data_canada)
+* [Canadian government open source software](https://github.com/jpmckinney/open_source_canada)
+* [Ontario government agency data inventories](https://github.com/jpmckinney/ontario_agency_data_inventories)
+* [Canadian information request summaries and responses](https://github.com/jpmckinney/information_request_summaries_and_responses)
+
+## Networks I've contributed to
+
+* [Open Government Partnership](https://www.opengovpartnership.org/)
+* [International Open Data Charter](http://opendatacharter.net/)
+* [Opening Parliament](https://openingparliament.org/)
+* [Geothink](http://geothink.ca/)
+* [InfluenceMapping](http://www.influencemapping.org/)
+* [Joined-up Data Alliance](http://juds.joinedupdata.org/)
+* [Open Civic Data](http://docs.opencivicdata.org/)
+* [Poplus](http://poplus.org/)
+* [Québec Ouvert](http://www.quebecouvert.org/)
+* [Montréal Ouvert](http://montrealouvert.net/)
+{% endcapture %}
+
+{% capture two %}
+## Talks
+
+### 2016
+
+* [Open Government Partnership Global Summit](https://en.ogpsummit.org/), Paris {% comment %}Dec{% endcomment %}
+* [International Open Data Conference](https://internationalopendataconfer2016.sched.com/), Madrid {% comment %}Oct{% endcomment %}
+* [g0v Summit](http://summit.g0v.tw/2016/), Taipei {% comment %}May{% endcomment %}
+* Canadian Open Data Summit, Saint John {% comment %}Apr{% endcomment %}
+* [Civic Data Workshop](https://www.youtube.com/watch?v=-OrOqTKZ7mQ), Washington, DC {% comment %}Jan{% endcomment %}
+* [MISA/ASIM Canada](http://www.misa-asim.ca/) Open Data Special Interest Group, Toronto {% comment %}Jan{% endcomment %}
+* [Civic Tech Toronto](http://civictech.ca/2016/01/20/hacknight-25-jan-19/), Toronto {% comment %}Jan{% endcomment %}
+
+### 2015
+
+* Seoul Open Forum, Seoul {% comment %}Dec{% endcomment %}
+* [Open Government Partnership Global Summit](https://ogpsummit2015.sched.com/), Mexico {% comment %}Oct{% endcomment %}
+* [Technology for Investigative Journalism](http://www.influencemapping.org/workshop/), London {% comment %}Sep{% endcomment %}
+* [International Open Data Conference](https://internationalopendataconfer2015.sched.com/), Ottawa {% comment %}May{% endcomment %}
+* Canadian Open Data Summit, Ottawa {% comment %}May{% endcomment %}
+* [Spaghetti Open Data](http://www.spaghettiopendata.org/page/benvenut-sod15), Bologna {% comment %}Mar{% endcomment %}
+
+### 2014
+
+* [Open Government Partnership Americas Regional Meeting](https://www.opengovpartnership.org/get-involved/americas-regional-meeting), San Jose {% comment %}Nov{% endcomment %}
+* [Open Knowledge Festival](http://2014.okfestival.org/), Berlin {% comment %}Jul{% endcomment %}
+* [LegComm](http://www.sliq.com/legcomm2014.html), Montreal {% comment %}Jun{% endcomment %}
+* Canadian Open Data Summit, Vancouver {% comment %}Feb{% endcomment %}
+* [Open Data for Development Challenge](http://open-dev-ouvert.ca/), Montreal {% comment %}Jan{% endcomment %}
+{% endcapture %}
+
+{% include two-column.html one=one two=two %}
