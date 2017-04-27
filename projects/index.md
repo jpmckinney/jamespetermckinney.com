@@ -9,49 +9,6 @@ published: true
 See [LinkedIn](https://www.linkedin.com/in/mckinneyjames/) for resume.
 
 {% capture one %}
-## Data standards
-
-* [Popolo](http://www.popoloproject.com/), author
-* [Data Catalog Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat/), invited expert
-* [Organization Ontology (ORG)](https://www.w3.org/TR/vocab-org/), invited expert
-* [Open Contracting Data Standard](http://standard.open-contracting.org/), core team (1.0)
-* [US Project Open Data Metadata Schema](https://project-open-data.cio.gov/v1.1/schema/), contributor (1.0)
-* [Who's Got Dirt API](http://www.influencemapping.org/work/whosgotdirt/), author
-* [W3C vCard Ontology](https://www.w3.org/TR/vcard-rdf/), co-author
-
-## Open source software
-
-* [csvkit](https://github.com/wireservice/csvkit)
-* [Represent Civic Information API](http://represent.opennorth.ca/)
-* [Represent Boundaries](https://github.com/opennorth/represent-boundaries)
-* [Citizen Budget](http://www.citizenbudget.com/)
-* [Ready Reckoner](http://www.readyreckoner.ca/)
-* [OpenHouseNS](http://www.openhousens.ca/)
-* [My RubyGems](https://rubygems.org/profiles/jpmckinney) ([status](http://jpmckinney.github.io/))
-* [My pull requests](https://github.com/pulls?q=is%3Apr+author%3Ajpmckinney+is%3Aclosed)
-
-## Open databases
-
-* [Canadian open government data catalogs](https://github.com/jpmckinney/open_data_canada)
-* [Canadian government open source software](https://github.com/jpmckinney/open_source_canada)
-* [Ontario government agency data inventories](https://github.com/jpmckinney/ontario_agency_data_inventories)
-* [Canadian information request summaries and responses](https://github.com/jpmckinney/information_request_summaries_and_responses)
-
-## Networks I've contributed to
-
-* [Open Government Partnership](https://www.opengovpartnership.org/)
-* [International Open Data Charter](http://opendatacharter.net/)
-* [Opening Parliament](https://openingparliament.org/)
-* [Geothink](http://geothink.ca/)
-* [InfluenceMapping](http://www.influencemapping.org/)
-* [Joined-up Data Alliance](http://juds.joinedupdata.org/)
-* [Open Civic Data](http://docs.opencivicdata.org/)
-* [Poplus](http://poplus.org/)
-* [Québec Ouvert](http://www.quebecouvert.org/)
-* [Montréal Ouvert](http://montrealouvert.net/)
-{% endcapture %}
-
-{% capture two %}
 ## Talks
 
 ### 2016
@@ -80,6 +37,51 @@ See [LinkedIn](https://www.linkedin.com/in/mckinneyjames/) for resume.
 * [LegComm](http://www.sliq.com/legcomm2014.html), Montreal {% comment %}Jun{% endcomment %}
 * Canadian Open Data Summit, Vancouver {% comment %}Feb{% endcomment %}
 * [Open Data for Development Challenge](http://open-dev-ouvert.ca/), Montreal {% comment %}Jan{% endcomment %}
+
+{% comment %}
+## Networks I've contributed to
+
+* [Open Government Partnership](https://www.opengovpartnership.org/)
+* [International Open Data Charter](http://opendatacharter.net/)
+* [Opening Parliament](https://openingparliament.org/)
+* [Geothink](http://geothink.ca/)
+* [InfluenceMapping](http://www.influencemapping.org/)
+* [Joined-up Data Alliance](http://juds.joinedupdata.org/)
+* [Open Civic Data](http://docs.opencivicdata.org/)
+* [Poplus](http://poplus.org/)
+* [Québec Ouvert](http://www.quebecouvert.org/)
+* [Montréal Ouvert](http://montrealouvert.net/)
+{% endcomment %}
+{% endcapture %}
+
+{% capture two %}
+## Databases
+
+* [Canadian open government data catalogs](https://github.com/jpmckinney/open_data_canada)
+* [Canadian government open source software](https://github.com/jpmckinney/open_source_canada)
+* [Ontario government agency data inventories](https://github.com/jpmckinney/ontario_agency_data_inventories)
+* [Canadian information request summaries and responses](https://github.com/jpmckinney/information_request_summaries_and_responses)
+
+## Standards
+
+* [Popolo](http://www.popoloproject.com/), author
+* [Data Catalog Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat/), invited expert
+* [Organization Ontology (ORG)](https://www.w3.org/TR/vocab-org/), invited expert
+* [Open Contracting Data Standard](http://standard.open-contracting.org/), core team (1.0)
+* [US Project Open Data Metadata Schema](https://project-open-data.cio.gov/v1.1/schema/), contributor (1.0)
+* [Who's Got Dirt API](http://www.influencemapping.org/work/whosgotdirt/), author
+* [W3C vCard Ontology](https://www.w3.org/TR/vcard-rdf/), co-author
+
+## Software
+
+* [csvkit](https://github.com/wireservice/csvkit)
+* [Represent Civic Information API](http://represent.opennorth.ca/)
+* [Represent Boundaries](http://represent.poplus.org/)
+* [Citizen Budget](http://www.citizenbudget.com/)
+* [Ready Reckoner](http://www.readyreckoner.ca/)
+* [OpenHouseNS](http://www.openhousens.ca/)
+* [My RubyGems](https://rubygems.org/profiles/jpmckinney) ([status](http://jpmckinney.github.io/))
+* [My pull requests](https://github.com/pulls?q=is%3Apr+author%3Ajpmckinney+is%3Aclosed)
 {% endcapture %}
 
 {% include two-column.html one=one two=two %}
