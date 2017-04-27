@@ -89,4 +89,4 @@ _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_
 
 <div class="alert alert-info" role="alert"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bold is want-to-see. Italic is upcoming. <code>*</code> ends soon.</div>
 
-[back](/)
+<p><span class="glyphicon glyphicon-home"></span> <a href="/">Home</a></p>
