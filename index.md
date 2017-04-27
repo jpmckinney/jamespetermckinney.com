@@ -5,6 +5,7 @@ layout: default
 
 # James McKinney
 
+{% capture one %}
 ## Resources
 
 * Art exhibitions in [Toronto](resources/art/toronto/) and [Montreal](resources/art/montreal/)
@@ -13,7 +14,9 @@ layout: default
 * [Maps of art galleries in cities worldwide](resources/maps/)
 * [<span class="glyphicon glyphicon-download"></span> The feeds I subscribe to (OPML)](feeds.xml)
 * [<span class="glyphicon glyphicon-download"></span> The podcasts I listen to (OPML)](podcasts.xml)
+{% endcapture %}
 
+{% capture two %}
 ## Elsewhere
 
 * I document my art visits on [Instagram](https://www.instagram.com/mckinney.james/)
@@ -22,6 +25,9 @@ layout: default
 * I maintain code on [GitHub](https://github.com/jpmckinney/)
 
 Most recent post: [12 Canadian podcast recommendations](https://medium.com/@jpmckinney/12-canadian-podcast-recommendations-6e237ad9d290)
+{% endcapture %}
+
+{% include two-column.html one=one two=two %}
 
 ## Active projects
 

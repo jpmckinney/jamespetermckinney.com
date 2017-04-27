@@ -10,7 +10,7 @@ published: true
 
 **[GALLERY MAP](https://www.google.com/maps/d/u/0/edit?mid=1sMiga7vQsqWdqEVQCqHsxjX2jeU)**
 
-<p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon.</p>
+<p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon. Exhibitions are removed once visited.</p>
 
 _**May 26-Jun 4 <http://kofflerarts.org/programs-events/2017/02/27/bad-jews/>**_  
 _**Jun 15-Jun 25 <http://national.ballet.ca/Productions/2016-17-Season/Swan-Lake>**_  
