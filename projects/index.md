@@ -6,8 +6,6 @@ published: true
 
 # [Home](/) / Projects
 
-See [LinkedIn](https://www.linkedin.com/in/mckinneyjames/) for resume.
-
 {% capture one %}
 ## Talks
 
