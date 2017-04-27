@@ -65,7 +65,7 @@ _**May 10-May 27 <http://interaccess.org/exhibition/cultivars-possible-worlds>**
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
-## Dundas St
+### Dundas St
 
 -May 14 <http://www.loopgallery.ca/2017/04/19/adrian-fish-deutsche-demokratische-republik-the-stasi-archives-2/>  
   -May 14 <http://www.loopgallery.ca/2017/04/19/ava-roth-encaustic-sewings/>  
@@ -73,7 +73,7 @@ _**May 10-May 27 <http://interaccess.org/exhibition/cultivars-possible-worlds>**
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
 
-## Bloordale & Junction Triangle
+### Bloordale & Junction Triangle
 
 -May 3 <http://darrengallery.com/upcoming/> Maya Fuhr  
 -May 6 <http://www.robertkananajgallery.com/index.php?page=upcoming-exhibits>  
