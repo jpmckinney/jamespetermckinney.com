@@ -15,60 +15,64 @@ _**Jun 15-Jun 25 <http://national.ballet.ca/Productions/2016-17-Season/Swan-Lake
 
 ### Downtown North
 
-Bloor to Queen and Ossington to Don Valley
-
-\* -Apr 28 <http://www.dx.org/index.cfm?pagepath=Exhibitions/Current_Exhibitions&id=47464> Su  
-\* -Apr 28 <http://airdgallery.org/> Ontario Society of Artists  
+<u>-Apr 28</u> <http://www.dx.org/index.cfm?pagepath=Exhibitions/Current_Exhibitions&id=47464> Su  
+<u>-Apr 28</u> <http://airdgallery.org/> Ontario Society of Artists  
 -Jun 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/katherine-knight-portraits-and-collections> SuW8  
-  <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/kind-words-can-never-die-a-personal-collection-of> SuW8  
+  -Jun 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/kind-words-can-never-die-a-personal-collection-of> SuW8  
   -Sep 4 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/huicholes-%E2%80%93-a-people-walking-towards-the-light> SuW8  
 **-Jul 30 <http://www.ago.net/art-gallery-of-ontario-partners-with-tate-modern-to-present-georgia-okeeffe-retrospective-in-summer-2017> SuWF9**  
 **-Aug 13 <http://www.ryerson.ca/ric/exhibitions/eupcoming/>**  
+
 _**May 3-Jul 15 <http://artmuseum.utoronto.ca/exhibition/its-all-happening-so-fast/>**_  
 _Jun 29- <http://artmatters.ca/wp/2017/01/canada-a-work-in-progress/>_  
 
+Bloor to Queen and Ossington to Don Valley
+
 ### Downtown South
 
-South of Queen and Bathurst to Don Valley
-
-\* -Apr 29 <http://roberta.to/artists/ian/ian.html>  
+<u>-Apr 29</u> <http://roberta.to/artists/ian/ian.html>  
 -May 20 <http://www.redheadgallery.org/teridonovan-predicament>  
 -Jun 3 <http://lacap.ca/sur-gallery/current-exhibition/single-view/calendar/2017/04/13/event/tx_cal_phpicalendar/strike_a_chord/>  
 -Jun 18 <http://www.harbourfrontcentre.com/visualarts/2017/coastal-2/> <http://www.harbourfrontcentre.com/visualarts/2017/yukon-sketchbooks/>  
+
 _May 5-Jun 10 <http://danielfariagallery.com/exhibitions/chris-curreri-unruly-matter>_  
 _May 12-Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
 _May 24-Jun 17 <http://www.redheadgallery.org/upcoming/> Leah Garnett_  
 _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
 
+South of Queen and Bathurst to Don Valley
+
 ### Queen St
 
-West of Bathurst
-
-\* -Apr 27 <http://www.onlyonegallery.com/constans>  
-\* -Apr 29 <http://www.paulpetro.com/exhibitions/483-Bark-2> <http://www.paulpetro.com/exhibitions/484-Pleasure>  
+<u>-Apr 27</u> <http://www.onlyonegallery.com/constans>  
+<u>-Apr 29</u> <http://www.paulpetro.com/exhibitions/483-Bark-2> <http://www.paulpetro.com/exhibitions/484-Pleasure>  
 -May 12 <http://www.onlyonegallery.com/currents>  
 -May 27 <https://www.parinadimigallery.com/between-motion-and-stillness>  
 -Jun 3 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
+
 _**May 10-May 27 <http://interaccess.org/exhibition/cultivars-possible-worlds>**_  
+
+West of Bathurst
 
 ## Dundas St
 
-West of Ossington
-
 -May 14 <http://www.loopgallery.ca/2017/04/19/adrian-fish-deutsche-demokratische-republik-the-stasi-archives-2/>  
-  <http://www.loopgallery.ca/2017/04/19/ava-roth-encaustic-sewings/>  
+  -May 14 <http://www.loopgallery.ca/2017/04/19/ava-roth-encaustic-sewings/>  
 -May 20 <http://mkg127.com/upcomingshows.html> Jaime Angelopolous
+
+West of Ossington
 
 ### Dupont St & The Junction
 
-\* **-Apr 29 <http://angellgallery.com/exhibition/the-readable-city>**  
-\* -Apr 29 <http://www.katzmancontemporary.com/projects/#/current/> Yvonne Singer  
-\* -Apr 29 <http://becontemporary.com/upcoming.php> Sorel Etrog  
-\* -Apr 29 <http://coopercolegallery.com/exhibition/elias-hansen/> <http://coopercolegallery.com/exhibition/sandy-plotnikoff/>  
-\* -Apr 29 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Jim Verburg  
-\* -Apr 30 <http://mattergallery.com/> Grand Opening  
+**<u>-Apr 29</u> <http://angellgallery.com/exhibition/the-readable-city>**  
+<u>-Apr 29</u> <http://www.katzmancontemporary.com/projects/#/current/> Yvonne Singer  
+<u>-Apr 29</u> <http://becontemporary.com/upcoming.php> Sorel Etrog  
+<u>-Apr 29</u> <http://coopercolegallery.com/exhibition/elias-hansen/> <http://coopercolegallery.com/exhibition/sandy-plotnikoff/>  
+<u>-Apr 29</u> <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Jim Verburg  
+<u>-Apr 30</u> <http://mattergallery.com/> Grand Opening  
 -May 20 <http://dupontprojects.com/exhibitions/> Maegan Rose Mehler  
 -Jun 3 <https://www.christiecontemporary.com/bolliger-text>  
+
 _May 3-Jun 10 <http://gallery.alisonmilne.com/exhibitions/yusuf-aksoy-in-konya/>_  
 _May 5-May 27 <http://angellgallery.com/exhibition/measures-of-time>_  
 _May 12-Jun 10 <http://coopercolegallery.com/exhibition/bjorn-copeland-2017/>_  
@@ -77,16 +81,17 @@ _Jul 7-Aug 5 <http://coopercolegallery.com/exhibition/tau-lewis-curtis-santiago-
 
 ## Bloordale & Junction Triangle
 
--May 3 <http://darrengallery.com/upcoming/> Maya Fuhr
+-May 3 <http://darrengallery.com/upcoming/> Maya Fuhr  
 -May 6 <http://www.robertkananajgallery.com/index.php?page=upcoming-exhibits>  
 **-May 20 <http://cuttsgallery.com/exhibitions/claude-tousignant/>**  
 **-May 27 <http://www.mercerunion.org/exhibitions/jumana-manna-a-magical-substance-flows-into-me/>**  
 -May 27 <http://www.galeriedivision.com/toronto/exhibition/-background-love>  
+
 _May 5-May 28 <http://darrengallery.com/upcoming/> Yuri Dojc_  
 _May 5-Jun 3 <http://scotiabankcontactphoto.com/2017/featured-exhibition/clint-roenisch-gallery-were-the-heirs-to-the-glimmering-world>_  
 _May 5-Jun 10 <http://gallerytpw.ca/exhibitions/luis-jacob/>_  
 _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_  
 
-<div class="alert alert-info" role="alert"><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bold is want-to-see. Italic is upcoming. <code>*</code> ends soon.</div>
+<p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon.</p>
 
 <p><span class="glyphicon glyphicon-home"></span> <a href="/">Home</a></p>
