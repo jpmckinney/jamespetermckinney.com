@@ -20,9 +20,10 @@ layout: default
 ## Elsewhere
 
 * I document my art visits on [Instagram](https://www.instagram.com/mckinney.james/) <i class="fa fa-instagram" aria-hidden="true"></i>
-* I write on [Medium](https://medium.com/@jpmckinney) <i class="fa fa-medium" aria-hidden="true"></i> and [Twitter](https://twitter.com/mckinneyjames) <i class="fa fa-twitter" aria-hidden="true"></i>
-* I log the books I read on [Goodreads](https://www.goodreads.com/user/show/46218598-james)
-* I maintain code on [GitHub](https://github.com/jpmckinney/) <i class="fa fa-github" aria-hidden="true"></i>
+* [Medium](https://medium.com/@jpmckinney) <i class="fa fa-medium" aria-hidden="true"></i>
+* [Twitter](https://twitter.com/mckinneyjames) <i class="fa fa-twitter" aria-hidden="true"></i>
+* [Goodreads](https://www.goodreads.com/user/show/46218598-james)
+* [GitHub](https://github.com/jpmckinney/) <i class="fa fa-github" aria-hidden="true"></i>
 * [LinkedIn](https://www.linkedin.com/in/mckinneyjames/) <i class="fa fa-linkedin" aria-hidden="true"></i>
 
 Most recent post: [12 Canadian podcast recommendations](https://medium.com/@jpmckinney/12-canadian-podcast-recommendations-6e237ad9d290)
