@@ -35,7 +35,6 @@ _Jun 29- <http://artmatters.ca/wp/2017/01/canada-a-work-in-progress/>_
   -May 27 <http://abbozzogallery.com/peter-dusek-serenity-part-of-the-scotiabank-contact-photography-festival-2017/>  
 -May 27 <http://www.pfoac.com/Toronto/ML_2017_FR.html>  
 -Jun 3 <http://lacap.ca/sur-gallery/current-exhibition/single-view/calendar/2017/04/13/event/tx_cal_phpicalendar/strike_a_chord/>  
--Jun 10 <http://danielfariagallery.com/exhibitions/chris-curreri-unruly-matter>  
 -Jun 18 <http://www.harbourfrontcentre.com/visualarts/2017/coastal-2/> <http://www.harbourfrontcentre.com/visualarts/2017/yukon-sketchbooks/>  
 
 _May 12-Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
@@ -46,13 +45,13 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 ### Queen St
 
--May 12 <http://www.onlyonegallery.com/currents>  
+**-May 12 <http://www.onlyonegallery.com/currents>**  
 -May 27 <https://www.parinadimigallery.com/between-motion-and-stillness>  
 -Jun 3 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
 -Jun 3 <http://scotiabankcontactphoto.com/2017/open-exhibition/walnut-contemporary-space-within>  
 -Jun 3 <http://www.paulpetro.com/exhibitions/485-What-Came-To-Light-At-Blast-Hole-Pond-River>  
-  -Jun 3 <http://www.paulpetro.com/exhibitions/488-Shorelines>  
--Jun 4 <https://criticaldistance.ca/opening-thursday-signals-sentiments/>
+  -Jun 3 <http://www.paulpetro.com/exhibitions/488-Shorelines>  
+-Jun 4 <https://criticaldistance.ca/opening-thursday-signals-sentiments/>  
 -Jun 10 <http://www.susanhobbs.com/exhibits/1396-shirley-wiitasalo>  
   -Jun 10 <http://birchcontemporary.com/exhibition/a-silent-storm> <http://birchcontemporary.com/exhibition/common>  
 
@@ -71,22 +70,24 @@ _**May 10-May 27 <http://interaccess.org/exhibition/cultivars-possible-worlds>**
 ### Bloordale & Junction Triangle
 
 <u>-May 3</u> <http://darrengallery.com/new-page-5/> Maya Fuhr  
-<u>-May 6</u> <http://www.robertkananajgallery.com/index.php?page=upcoming-exhibits>  
+<u>-May 6</u> <http://www.robertkananajgallery.com/index.php?mact=CGBlog,cntnt01,detail,0&cntnt01articleid=65&cntnt01returnid=62>  
+  -Jun 3 <http://scotiabankcontactphoto.com/2017/featured-exhibition/clint-roenisch-gallery-were-the-heirs-to-the-glimmering-world>  
+  -Jun 10 <http://gallerytpw.ca/exhibitions/luis-jacob/>  
+  -Jun 10 <http://danielfariagallery.com/exhibitions/chris-curreri-unruly-matter>  
 **-May 20 <http://cuttsgallery.com/exhibitions/claude-tousignant/>**  
-  **-May 27 <http://www.olgakorpergallery.com/exhibitions/view?id=94>**  
+  **-May 27 <http://www.olgakorpergallery.com/exhibitions/view?id=94>**  
 **-May 27 <http://www.mercerunion.org/exhibitions/jumana-manna-a-magical-substance-flows-into-me/>**  
+  -May 28 <http://darrengallery.com/upcoming/> Yuri Dojc  
 -May 27 <http://www.galeriedivision.com/toronto/exhibition/-background-love>  
--May 28 <http://darrengallery.com/upcoming/> Yuri Dojc  
--Jun 3 <http://scotiabankcontactphoto.com/2017/featured-exhibition/clint-roenisch-gallery-were-the-heirs-to-the-glimmering-world>  
--Jun 10 <http://gallerytpw.ca/exhibitions/luis-jacob/>  
 
 _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_  
 
 ### Dupont St & The Junction
 
--Jun 10 <http://gallery.alisonmilne.com/exhibitions/yusuf-aksoy-in-konya/>  
 -May 27 <http://angellgallery.com/exhibition/measures-of-time>  
 -Jun 3 <http://scotiabankcontactphoto.com/2017/featured-exhibition/zalucky-contemporary-jardim>  
+-Jun 10 <http://gallery.alisonmilne.com/exhibitions/yusuf-aksoy-in-konya/>  
+
 _May 12-Jun 10 <http://coopercolegallery.com/exhibition/bjorn-copeland-2017/>_  
 _May 26-Jul 8 <http://becontemporary.com/upcoming.php>_  
 _Jul 7-Aug 5 <http://coopercolegallery.com/exhibition/tau-lewis-curtis-santiago-2017/>_  
