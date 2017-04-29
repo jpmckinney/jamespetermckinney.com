@@ -17,8 +17,8 @@ published: true
 ### Seasonal
 
 * Jan-Jun <http://torontorollerderby.com/season-schedule/> Feb 11, Mar 4, Mar 25, Apr 8, Apr 22, May 13, Jun 3
+* **Jun-Aug <http://www.openrooffestival.com/> film/music**
 * May-Sep <http://electricisland.to/> music
-* Jun-Aug <http://www.openrooffestival.com/> film/music
 * Jun-Sep Union Summer Market food
 * Jun-Sep <http://torontobakersmarket.com/> food
 * Jun-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
