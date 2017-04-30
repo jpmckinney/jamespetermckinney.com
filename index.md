@@ -20,13 +20,13 @@ layout: default
 ## Elsewhere
 
 * I document my art visits on [Instagram](https://www.instagram.com/mckinney.james/) <i class="fa fa-instagram" aria-hidden="true"></i>
-* [Medium](https://medium.com/@jpmckinney) <i class="fa fa-medium" aria-hidden="true"></i>
+* [Medium](https://medium.com/@jpmckinney/latest) <i class="fa fa-medium" aria-hidden="true"></i>
 * [Twitter](https://twitter.com/mckinneyjames) <i class="fa fa-twitter" aria-hidden="true"></i>
 * [Goodreads](https://www.goodreads.com/user/show/46218598-james)
 * [GitHub](https://github.com/jpmckinney/) <i class="fa fa-github" aria-hidden="true"></i>
 * [LinkedIn](https://www.linkedin.com/in/mckinneyjames/) <i class="fa fa-linkedin" aria-hidden="true"></i>
 
-Most recent post: [12 Canadian podcast recommendations](https://medium.com/@jpmckinney/12-canadian-podcast-recommendations-6e237ad9d290)
+Most recent post: [Aryen Hoekstra: The Flicker](https://medium.com/@jpmckinney/aryen-hoekstra-the-flicker-b1b13064b6c7)
 {% endcapture %}
 
 {% include two-column.html one=one two=two %}
