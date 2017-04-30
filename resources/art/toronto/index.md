@@ -18,6 +18,8 @@ _**Jun 15-Jun 25 <http://national.ballet.ca/Productions/2016-17-Season/Swan-Lake
 ### Downtown North
 
 -May 10 <https://www.hashtaggallery.com/blogs/shows-events/april-28-may-10-case-mackeen-pop-transfer>  
+-May 26 <http://airdgallery.org/> Robert Burley_  
+-Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/campbell-house-museum-a-shape-to-your-shadow>  
 -Jun 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/katherine-knight-portraits-and-collections> SuW8  
   -Jun 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/kind-words-can-never-die-a-personal-collection-of> SuW8  
   -Sep 4 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/huicholes-%E2%80%93-a-people-walking-towards-the-light> SuW8  
@@ -35,6 +37,7 @@ _Jun 29- <http://artmatters.ca/wp/2017/01/canada-a-work-in-progress/>_
   -May 27 <http://abbozzogallery.com/peter-dusek-serenity-part-of-the-scotiabank-contact-photography-festival-2017/>  
 -May 27 <http://www.pfoac.com/Toronto/ML_2017_FR.html>  
 -Jun 3 <http://lacap.ca/sur-gallery/current-exhibition/single-view/calendar/2017/04/13/event/tx_cal_phpicalendar/strike_a_chord/>  
+-Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/contact-gallery-pacifier>  
 -Jun 18 <http://www.harbourfrontcentre.com/visualarts/2017/coastal-2/> <http://www.harbourfrontcentre.com/visualarts/2017/yukon-sketchbooks/>  
 
 _May 12-Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
@@ -54,6 +57,7 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 -Jun 4 <https://criticaldistance.ca/opening-thursday-signals-sentiments/>  
 -Jun 10 <http://www.susanhobbs.com/exhibits/1396-shirley-wiitasalo>  
   -Jun 10 <http://birchcontemporary.com/exhibition/a-silent-storm> <http://birchcontemporary.com/exhibition/common>  
+  -Jun 10 <http://www.georgiascherman.com/GSP%202017%20Exhibitions/SB_Its_all_a_blur/SB-Its_all_a-blur_MAINPAGE.html>  
 
 _**May 10-May 27 <http://interaccess.org/exhibition/cultivars-possible-worlds>**_  
 
@@ -74,6 +78,7 @@ _**May 10-May 27 <http://interaccess.org/exhibition/cultivars-possible-worlds>**
   -Jun 3 <http://scotiabankcontactphoto.com/2017/featured-exhibition/clint-roenisch-gallery-were-the-heirs-to-the-glimmering-world>  
   -Jun 10 <http://gallerytpw.ca/exhibitions/luis-jacob/>  
   -Jun 10 <http://danielfariagallery.com/exhibitions/chris-curreri-unruly-matter>  
+  -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/scrap-metal-right-now>  
 **-May 20 <http://cuttsgallery.com/exhibitions/claude-tousignant/>**  
   **-May 27 <http://www.olgakorpergallery.com/exhibitions/view?id=94>**  
 **-May 27 <http://www.mercerunion.org/exhibitions/jumana-manna-a-magical-substance-flows-into-me/>**  

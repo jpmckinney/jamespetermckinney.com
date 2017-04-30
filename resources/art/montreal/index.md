@@ -54,3 +54,5 @@ _May 5-May 27 <http://www.galerieyoun.com/projects/hugo-alonso-2/>_
 -May 13 <http://www.patrickmikhailgallery.com/exhibitions/interior-element>  
 -Jun 18 <http://1700laposte.com/expositions/vide-et-vertige/> Su  
 **-Jul 15 <http://linconnue.biz/exhibitions/old-show-title>**  
+
+_May 4-Jun 17 <http://galeriedivision.com/montreal/exhibition/-history-of-the-world>_  
