@@ -56,7 +56,6 @@ published: true
 * <http://fringetoronto.com/> performance Jun 29-10
 * <https://www.facebook.com/events/973999926048189> Senseless art 9
 * <http://torontoartblast.com/> art 9, 16-17, 23-24, 30-31
-* <http://toronto.figmentproject.org/> art 23-24
 * Toronto Art Crawl Entertainment District art 8
 * <http://vectorfestival.org/vector-festival-2016/> new media art 13-17
 * <http://bigonbloorfestival.com/> art/culture (street) 23-24
@@ -75,6 +74,7 @@ published: true
 
 * <http://summerworks.ca/> performance 4-14
 * <http://zinedream.com/> comics 19
+* <http://toronto.figmentproject.org/> art 19
 * <http://tract9.com/toronto-events/design-fest-toronto/> design 13
 * <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 19-21
 * <http://theex.com/> fair 19-Sep 5
@@ -83,7 +83,7 @@ published: true
 ### Sep
 
 * <http://www.infuture.ca/> art 15-25
-* <http://www.tiff.net/festivals/festival16> film 8-18
+* **<http://www.tiff.net/festivals/festival16> film 8-18**
 * <http://www.endlesscity.org/forms/events> art 28-30
 * <http://torontourbanrootsfest.com/> music 16-18
 * <http://www.munkdebates.com/> talk
@@ -93,7 +93,6 @@ published: true
 * <http://7a-11d.ca/> performance biennial
 * <http://www.nbto.com/> art 1 \Sep
 * <http://queenwestartcrawl.com/> art 1-2
-* <http://7a-11d.ca/> art 13-22
 * <https://www.arttoronto.ca/> art 28-31
 * <http://www.worldpressphotobrookfieldplace.com/> photography 4-25
 * <https://www.musicgallery.org/x-avant-xi-new-music-festival-reverberations/> new music 13-16
