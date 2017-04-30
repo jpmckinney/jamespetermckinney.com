@@ -6,7 +6,7 @@ layout: default
 # James McKinney
 
 {% capture one %}
-## Resources
+## Reference
 
 * Art exhibitions in [Toronto](resources/art/toronto/) and [Montreal](resources/art/montreal/)
 * [Festivals in Toronto and Montreal](resources/festivals/)
