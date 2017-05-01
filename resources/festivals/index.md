@@ -121,6 +121,7 @@ published: true
 * <http://endlesscity.org/events/> art/music Jan 20-28
 * <http://www.theartistproject.com/> art fair 23-26
 * <http://buddiesinbadtimes.com/show/the-37th-rhubarb-festival/> performance 17-28
+* <http://www.eroticartsandcrafts.com/> 11
 * <http://2017.cinefranco.com/en/2016-festival> film 21-Mar 7
 
 ### Mar
