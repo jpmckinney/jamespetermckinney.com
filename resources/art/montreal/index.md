@@ -30,15 +30,13 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
 
 ### Mile Ex
 
--May 6 <http://www.neverapart.com/exhibitions/regimen/>  
-  -Jun 24 <http://www.neverapart.com/exhibitions/scenes-nocturnes/>  
+**-Jun 17 <http://artmur.com/artistes/clint-neufeld/clint-neufeld/> <http://artmur.com/artistes/jessica-houston/this-mountain/> <http://artmur.com/artistes/renato-garza-cervera/marees-humaines/>**  
+-Jun 24 <http://www.neverapart.com/exhibitions/scenes-nocturnes/>  
   -Jun 24 <http://www.neverapart.com/exhibitions/notre-heritage/>  
   -Jun 24 <http://www.neverapart.com/exhibitions/losing-face/>  
   -Jun 24 <http://www.neverapart.com/exhibitions/risen/>  
   -Jun 24 <http://www.neverapart.com/exhibitions/two-spirit-sur-thrivance-and-the-art-of-interrupting-narratives/>  
   -Jun 25 <http://www.neverapart.com/exhibitions/182-days/>  
-
-_**May 6-Jun 17 <http://artmur.com/artistes/clint-neufeld/clint-neufeld/> <http://artmur.com/artistes/jessica-houston/this-mountain/> <http://artmur.com/artistes/renato-garza-cervera/marees-humaines/>**_  
 
 ### Mile End
 
@@ -47,12 +45,14 @@ _**May 6-Jun 17 <http://artmur.com/artistes/clint-neufeld/clint-neufeld/> <http:
 
 ### Plateau
 
-_May 5-May 27 <http://www.galerieyoun.com/projects/hugo-alonso-2/>_  
+-May 27 <http://www.galerieyoun.com/projects/hugo-alonso-2/>  
+-Jun 17 <http://www.galeriesimonblais.com/fr/expositions/rythme-pastels-1997-2003>  
+
+_May 19-Jul 8 <http://www.galeriesimonblais.com/fr/expositions/blanc>_  
 
 ### Little Burgundy
 
 -May 13 <http://www.patrickmikhailgallery.com/exhibitions/interior-element>  
 -Jun 18 <http://1700laposte.com/expositions/vide-et-vertige/> Su  
 **-Jul 15 <http://linconnue.biz/exhibitions/old-show-title>**  
-
-_May 4-Jun 17 <http://galeriedivision.com/montreal/exhibition/-history-of-the-world>_  
+-Jun 17 <http://galeriedivision.com/montreal/exhibition/-history-of-the-world>  

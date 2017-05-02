@@ -84,6 +84,7 @@ _**May 10-May 27 <http://interaccess.org/exhibition/cultivars-possible-worlds>**
 **-May 27 <http://www.mercerunion.org/exhibitions/jumana-manna-a-magical-substance-flows-into-me/>**  
   -May 28 <http://darrengallery.com/upcoming/> Yuri Dojc  
 -May 27 <http://www.galeriedivision.com/toronto/exhibition/-background-love>  
+  -May 27 <http://www.franzkaka.com/krista-belle-stewart.html>  
 
 _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_  
 
