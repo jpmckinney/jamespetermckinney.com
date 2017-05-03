@@ -46,6 +46,7 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
 ### Plateau
 
 -May 27 <http://www.galerieyoun.com/projects/hugo-alonso-2/>  
+-Jun 4 <http://en.galeriedeste.com/exhibition/115/press_release/>  
 -Jun 17 <http://www.galeriesimonblais.com/fr/expositions/rythme-pastels-1997-2003>  
 
 _May 19-Jul 8 <http://www.galeriesimonblais.com/fr/expositions/blanc>_  

@@ -19,6 +19,7 @@ _**Jun 15-Jun 25 <http://national.ballet.ca/Productions/2016-17-Season/Swan-Lake
 
 -May 10 <https://www.hashtaggallery.com/blogs/shows-events/april-28-may-10-case-mackeen-pop-transfer>  
 -May 26 <http://airdgallery.org/> Robert Burley_  
+-May 28 <http://www.whippersnapper.ca/exhibitions/art-and-tomatoes/>  
 -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/campbell-house-museum-a-shape-to-your-shadow>  
 -Jun 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/katherine-knight-portraits-and-collections> SuW8  
   -Jun 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/kind-words-can-never-die-a-personal-collection-of> SuW8  
@@ -28,6 +29,7 @@ _**Jun 15-Jun 25 <http://national.ballet.ca/Productions/2016-17-Season/Swan-Lake
 **-Aug 13 <http://www.ryerson.ca/ric/exhibitions/eupcoming/>**  
 
 _Jun 29- <http://artmatters.ca/wp/2017/01/canada-a-work-in-progress/>_  
+_Jul 12-Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -35,6 +37,7 @@ _Jun 29- <http://artmatters.ca/wp/2017/01/canada-a-work-in-progress/>_
 
 -May 20 <http://www.redheadgallery.org/teridonovan-predicament>  
   -May 27 <http://abbozzogallery.com/peter-dusek-serenity-part-of-the-scotiabank-contact-photography-festival-2017/>  
+  -Jun 3 <https://gallery44.org/exhibitions/what-does-one-do-such-clairvoyant-image>  
 -May 27 <http://www.pfoac.com/Toronto/ML_2017_FR.html>  
 -Jun 3 <http://lacap.ca/sur-gallery/current-exhibition/single-view/calendar/2017/04/13/event/tx_cal_phpicalendar/strike_a_chord/>  
 -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/contact-gallery-pacifier>  
