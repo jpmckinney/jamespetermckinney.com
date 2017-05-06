@@ -17,7 +17,6 @@ _**Jun 15-Jun 25 <http://national.ballet.ca/Productions/2016-17-Season/Swan-Lake
 
 ### Downtown North
 
--May 10 <https://www.hashtaggallery.com/blogs/shows-events/april-28-may-10-case-mackeen-pop-transfer>  
 -May 26 <http://airdgallery.org/> Robert Burley_  
 -May 28 <http://www.whippersnapper.ca/exhibitions/art-and-tomatoes/>  
 -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/campbell-house-museum-a-shape-to-your-shadow>  
@@ -38,12 +37,13 @@ _Jul 12-Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/dil
 -May 20 <http://www.redheadgallery.org/teridonovan-predicament>  
   -May 27 <http://abbozzogallery.com/peter-dusek-serenity-part-of-the-scotiabank-contact-photography-festival-2017/>  
   -Jun 3 <https://gallery44.org/exhibitions/what-does-one-do-such-clairvoyant-image>  
+  -Jun 10 <http://openstudio.ca/exhibition/the-inhabitants-of-space/> <http://openstudio.ca/exhibition/dorona-zierler-wear-me/> <http://openstudio.ca/exhibition/field-notes/> <http://openstudio.ca/exhibition/varied-editions-carlina-chen-2/>  
 -May 27 <http://www.pfoac.com/Toronto/ML_2017_FR.html>  
 -Jun 3 <http://lacap.ca/sur-gallery/current-exhibition/single-view/calendar/2017/04/13/event/tx_cal_phpicalendar/strike_a_chord/>  
 -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/contact-gallery-pacifier>  
 -Jun 18 <http://www.harbourfrontcentre.com/visualarts/2017/coastal-2/> <http://www.harbourfrontcentre.com/visualarts/2017/yukon-sketchbooks/>  
 
-_May 12-Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
+_May 12-Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/> Anne-Marie Proulx, CCC_  
 _May 24-Jun 17 <http://www.redheadgallery.org/upcoming/> Leah Garnett_  
 _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
 
@@ -76,9 +76,7 @@ _**May 10-May 27 <http://interaccess.org/exhibition/cultivars-possible-worlds>**
 
 ### Bloordale & Junction Triangle
 
-<u>-May 3</u> <http://darrengallery.com/new-page-5/> Maya Fuhr  
-<u>-May 6</u> <http://www.robertkananajgallery.com/index.php?mact=CGBlog,cntnt01,detail,0&cntnt01articleid=65&cntnt01returnid=62>  
-  -Jun 3 <http://scotiabankcontactphoto.com/2017/featured-exhibition/clint-roenisch-gallery-were-the-heirs-to-the-glimmering-world>  
+-Jun 3 <http://scotiabankcontactphoto.com/2017/featured-exhibition/clint-roenisch-gallery-were-the-heirs-to-the-glimmering-world>  
   -Jun 10 <http://gallerytpw.ca/exhibitions/luis-jacob/>  
   -Jun 10 <http://danielfariagallery.com/exhibitions/chris-curreri-unruly-matter>  
   -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/scrap-metal-right-now>  

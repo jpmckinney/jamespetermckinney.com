@@ -41,7 +41,9 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
 ### Mile End
 
 -Jun 10 <http://www.optica.ca/programmation/index.php> I've Only Known My Own  
--Jun 10 <http://www.artdiagonale.org/on-view-exhibitions.html> Guillaume Adjutor Provost  
+  -Jun 10 <http://www.artdiagonale.org/on-view-exhibitions.html> Guillaume Adjutor Provost  
+
+_May 18-Jun 23 <http://www.centreclark.com/fr/projects/vertically-integrated-socialism> <http://www.centreclark.com/fr/projects/strangers-and-stand-ins>_  
 
 ### Plateau
 
