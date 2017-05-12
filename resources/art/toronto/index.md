@@ -38,7 +38,7 @@ _Jul 12-Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/dil
   -May 27 <http://abbozzogallery.com/peter-dusek-serenity-part-of-the-scotiabank-contact-photography-festival-2017/>  
   -Jun 3 <https://gallery44.org/exhibitions/what-does-one-do-such-clairvoyant-image>  
   -Jun 10 <http://openstudio.ca/exhibition/the-inhabitants-of-space/> <http://openstudio.ca/exhibition/dorona-zierler-wear-me/> <http://openstudio.ca/exhibition/field-notes/> <http://openstudio.ca/exhibition/varied-editions-carlina-chen-2/>  
-  -Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/> Anne-Marie Proulx, CCC  
+  -Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/> Anne-Marie Proulx, CCC  
 -May 27 <http://www.pfoac.com/Toronto/ML_2017_FR.html>  
 -Jun 3 <http://lacap.ca/sur-gallery/current-exhibition/single-view/calendar/2017/04/13/event/tx_cal_phpicalendar/strike_a_chord/>  
 -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/contact-gallery-pacifier>  
@@ -81,7 +81,7 @@ _May 20-Jun 11 <http://www.loopgallery.ca/upcoming/> Lana Shereck, Phillip Woolf
   -Jun 10 <http://gallerytpw.ca/exhibitions/luis-jacob/>  
   -Jun 10 <http://danielfariagallery.com/exhibitions/chris-curreri-unruly-matter>  
   -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/scrap-metal-right-now>  
-  -Jun 10 <http://www.galleryhouse.ca/exhibitions/> Dina Goldstein, Daniel Lanois  
+  -Jun 10 <http://www.galleryhouse.ca/exhibitions/> Dina Goldstein, Daniel Lanois  
 **-May 20 <http://cuttsgallery.com/exhibitions/claude-tousignant/>**  
   **-May 27 <http://www.olgakorpergallery.com/exhibitions/view?id=94>**  
 **-May 27 <http://www.mercerunion.org/exhibitions/jumana-manna-a-magical-substance-flows-into-me/>**  
