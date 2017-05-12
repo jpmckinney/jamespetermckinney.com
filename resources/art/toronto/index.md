@@ -77,17 +77,17 @@ _May 20-Jun 11 <http://www.loopgallery.ca/upcoming/> Lana Shereck, Phillip Woolf
 
 ### Bloordale & Junction Triangle
 
--Jun 3 <http://scotiabankcontactphoto.com/2017/featured-exhibition/clint-roenisch-gallery-were-the-heirs-to-the-glimmering-world>  
-  -Jun 10 <http://gallerytpw.ca/exhibitions/luis-jacob/>  
-  -Jun 10 <http://danielfariagallery.com/exhibitions/chris-curreri-unruly-matter>  
-  -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/scrap-metal-right-now>  
-  -Jun 10 <http://www.galleryhouse.ca/exhibitions/> Dina Goldstein, Daniel Lanois  
 **-May 20 <http://cuttsgallery.com/exhibitions/claude-tousignant/>**  
   **-May 27 <http://www.olgakorpergallery.com/exhibitions/view?id=94>**  
 **-May 27 <http://www.mercerunion.org/exhibitions/jumana-manna-a-magical-substance-flows-into-me/>**  
   -May 28 <http://darrengallery.com/upcoming/> Yuri Dojc  
 -May 27 <http://www.galeriedivision.com/toronto/exhibition/-background-love>  
   -May 27 <http://www.franzkaka.com/krista-belle-stewart.html>  
+-Jun 3 <http://scotiabankcontactphoto.com/2017/featured-exhibition/clint-roenisch-gallery-were-the-heirs-to-the-glimmering-world>  
+  -Jun 10 <http://gallerytpw.ca/exhibitions/luis-jacob/>  
+  -Jun 10 <http://danielfariagallery.com/exhibitions/chris-curreri-unruly-matter>  
+  -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/scrap-metal-right-now>  
+  -Jun 10 <http://www.galleryhouse.ca/exhibitions/> Dina Goldstein, Daniel Lanois  
 
 _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_  
 
