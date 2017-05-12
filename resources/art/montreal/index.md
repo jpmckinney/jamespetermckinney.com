@@ -26,6 +26,7 @@ published: true
 
 _May 20-Jun 24 <http://ellephant.org/exhibitions/upcoming/> Sabrina Ratté_  
 _**Jun 21-Oct 8 <http://www.macm.org/en/expositions/olafur-eliasson/> <http://www.macm.org/en/expositions/expo-67/>**_  
+_**Jun 29-Jul 30 <http://matthewnamour.com/expositions/premier-anniversaire/>**_  
 _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_  
 
 ### Mile Ex
@@ -44,6 +45,8 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
   -Jun 10 <http://www.artdiagonale.org/on-view-exhibitions.html> Guillaume Adjutor Provost  
 
 _May 18-Jun 23 <http://www.centreclark.com/fr/projects/vertically-integrated-socialism> <http://www.centreclark.com/fr/projects/strangers-and-stand-ins>_  
+_May 26-Jul 4 <http://occurrence.ca/joan-fontcuberta/>_  
+_Jun 1-Jul 8 <http://www.ateliercirculaire.org/new-events/2017/6/1/members-salon-2017>_  
 
 ### Plateau
 
@@ -51,11 +54,13 @@ _May 18-Jun 23 <http://www.centreclark.com/fr/projects/vertically-integrated-soc
 -Jun 4 <http://en.galeriedeste.com/exhibition/115/press_release/>  
 -Jun 17 <http://www.galeriesimonblais.com/fr/expositions/rythme-pastels-1997-2003>  
 
+_May 18-Jun 28 <http://www.galeriebernard.ca/en/expositions/en-cours/> Raymond Dupuis_  
 _May 19-Jul 8 <http://www.galeriesimonblais.com/fr/expositions/blanc>_  
 
 ### Little Burgundy
 
--May 13 <http://www.patrickmikhailgallery.com/exhibitions/interior-element>  
 -Jun 18 <http://1700laposte.com/expositions/vide-et-vertige/> Su  
 **-Jul 15 <http://linconnue.biz/exhibitions/old-show-title>**  
 -Jun 17 <http://galeriedivision.com/montreal/exhibition/-history-of-the-world>  
+
+_May 19-Jul 1 <http://www.parisianlaundry.com/fr/expositions/avenir> BGL_  

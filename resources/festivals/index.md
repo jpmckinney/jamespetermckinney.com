@@ -28,7 +28,8 @@ published: true
 ### May
 
 * **<https://www.facebook.com/doorsopenTO> architecture 27-28**
-* **<https://www.hotdocs.ca/> film Apr 27-7**
+* <https://www.hotdocs.ca/> film Apr 27-7
+* <http://www.torontocomics.com/> comics 13-14
 * <https://tjff.com/> film 4-14
 * <https://performance.rcmusic.ca/21c> music 25-29
 * <http://www.insideout.ca/initiatives/toronto> film 26-Jun 5

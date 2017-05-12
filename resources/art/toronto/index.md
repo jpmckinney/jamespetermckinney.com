@@ -17,7 +17,7 @@ _**Jun 15-Jun 25 <http://national.ballet.ca/Productions/2016-17-Season/Swan-Lake
 
 ### Downtown North
 
--May 26 <http://airdgallery.org/> Robert Burley_  
+-May 26 <http://airdgallery.org/> Robert Burley  
 -May 28 <http://www.whippersnapper.ca/exhibitions/art-and-tomatoes/>  
 -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/campbell-house-museum-a-shape-to-your-shadow>  
 -Jun 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/katherine-knight-portraits-and-collections> SuW8  
@@ -38,12 +38,12 @@ _Jul 12-Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/dil
   -May 27 <http://abbozzogallery.com/peter-dusek-serenity-part-of-the-scotiabank-contact-photography-festival-2017/>  
   -Jun 3 <https://gallery44.org/exhibitions/what-does-one-do-such-clairvoyant-image>  
   -Jun 10 <http://openstudio.ca/exhibition/the-inhabitants-of-space/> <http://openstudio.ca/exhibition/dorona-zierler-wear-me/> <http://openstudio.ca/exhibition/field-notes/> <http://openstudio.ca/exhibition/varied-editions-carlina-chen-2/>  
+  -Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/> Anne-Marie Proulx, CCC  
 -May 27 <http://www.pfoac.com/Toronto/ML_2017_FR.html>  
 -Jun 3 <http://lacap.ca/sur-gallery/current-exhibition/single-view/calendar/2017/04/13/event/tx_cal_phpicalendar/strike_a_chord/>  
 -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/contact-gallery-pacifier>  
 -Jun 18 <http://www.harbourfrontcentre.com/visualarts/2017/coastal-2/> <http://www.harbourfrontcentre.com/visualarts/2017/yukon-sketchbooks/>  
 
-_May 12-Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/> Anne-Marie Proulx, CCC_  
 _May 24-Jun 17 <http://www.redheadgallery.org/upcoming/> Leah Garnett_  
 _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
 
@@ -52,6 +52,7 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 ### Queen St
 
 **-May 12 <http://www.onlyonegallery.com/currents>**  
+**-May 27 <http://interaccess.org/exhibition/cultivars-possible-worlds>**  
 -May 27 <https://www.parinadimigallery.com/between-motion-and-stillness>  
 -Jun 3 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
 -Jun 3 <http://scotiabankcontactphoto.com/2017/open-exhibition/walnut-contemporary-space-within>  
@@ -62,8 +63,6 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
   -Jun 10 <http://birchcontemporary.com/exhibition/a-silent-storm> <http://birchcontemporary.com/exhibition/common>  
   -Jun 10 <http://www.georgiascherman.com/GSP%202017%20Exhibitions/SB_Its_all_a_blur/SB-Its_all_a-blur_MAINPAGE.html>  
 
-_**May 10-May 27 <http://interaccess.org/exhibition/cultivars-possible-worlds>**_  
-
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
 ### Dundas St
@@ -71,6 +70,8 @@ _**May 10-May 27 <http://interaccess.org/exhibition/cultivars-possible-worlds>**
 -May 14 <http://www.loopgallery.ca/2017/04/19/adrian-fish-deutsche-demokratische-republik-the-stasi-archives-2/>  
   -May 14 <http://www.loopgallery.ca/2017/04/19/ava-roth-encaustic-sewings/>  
 -May 20 <http://mkg127.com/upcomingshows.html> Jaime Angelopolous
+
+_May 20-Jun 11 <http://www.loopgallery.ca/upcoming/> Lana Shereck, Phillip Woolf_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
 
@@ -80,6 +81,7 @@ _**May 10-May 27 <http://interaccess.org/exhibition/cultivars-possible-worlds>**
   -Jun 10 <http://gallerytpw.ca/exhibitions/luis-jacob/>  
   -Jun 10 <http://danielfariagallery.com/exhibitions/chris-curreri-unruly-matter>  
   -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/scrap-metal-right-now>  
+  -Jun 10 <http://www.galleryhouse.ca/exhibitions/> Dina Goldstein, Daniel Lanois  
 **-May 20 <http://cuttsgallery.com/exhibitions/claude-tousignant/>**  
   **-May 27 <http://www.olgakorpergallery.com/exhibitions/view?id=94>**  
 **-May 27 <http://www.mercerunion.org/exhibitions/jumana-manna-a-magical-substance-flows-into-me/>**  
@@ -93,8 +95,8 @@ _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_
 
 -May 27 <http://angellgallery.com/exhibition/measures-of-time>  
 -Jun 3 <http://scotiabankcontactphoto.com/2017/featured-exhibition/zalucky-contemporary-jardim>  
+-Jun 10 <http://coopercolegallery.com/exhibition/bjorn-copeland-2017/>  
 -Jun 10 <http://gallery.alisonmilne.com/exhibitions/yusuf-aksoy-in-konya/>  
 
-_May 12-Jun 10 <http://coopercolegallery.com/exhibition/bjorn-copeland-2017/>_  
 _May 26-Jul 8 <http://becontemporary.com/upcoming.php>_  
 _Jul 7-Aug 5 <http://coopercolegallery.com/exhibition/tau-lewis-curtis-santiago-2017/>_  
