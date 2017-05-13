@@ -34,10 +34,7 @@ _Jul 12-Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/dil
 
 ### Downtown South
 
--May 20 <http://www.redheadgallery.org/teridonovan-predicament>  
-  -May 27 <http://abbozzogallery.com/peter-dusek-serenity-part-of-the-scotiabank-contact-photography-festival-2017/>  
-  -Jun 3 <https://gallery44.org/exhibitions/what-does-one-do-such-clairvoyant-image>  
-  -Jun 10 <http://openstudio.ca/exhibition/the-inhabitants-of-space/> <http://openstudio.ca/exhibition/dorona-zierler-wear-me/> <http://openstudio.ca/exhibition/field-notes/> <http://openstudio.ca/exhibition/varied-editions-carlina-chen-2/>  
+-May 27 <http://abbozzogallery.com/peter-dusek-serenity-part-of-the-scotiabank-contact-photography-festival-2017/>  
   -Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/> Anne-Marie Proulx, CCC  
 -May 27 <http://www.pfoac.com/Toronto/ML_2017_FR.html>  
 -Jun 3 <http://lacap.ca/sur-gallery/current-exhibition/single-view/calendar/2017/04/13/event/tx_cal_phpicalendar/strike_a_chord/>  
@@ -90,5 +87,5 @@ _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_
 -Jun 10 <http://coopercolegallery.com/exhibition/bjorn-copeland-2017/>  
 -Jun 10 <http://gallery.alisonmilne.com/exhibitions/yusuf-aksoy-in-konya/>  
 
-_May 26-Jul 8 <http://becontemporary.com/upcoming.php>_  
+_May 26-Jul 8 <http://becontemporary.com/upcoming.php> Ray Mead_  
 _Jul 7-Aug 5 <http://coopercolegallery.com/exhibition/tau-lewis-curtis-santiago-2017/>_  

@@ -100,6 +100,7 @@ published: true
 * <http://www.reelworld.ca/> film 12-16
 * <http://planetinfocus.org/> film 18-23
 * <http://www.imaginenative.org/> film 19-23
+* <http://ifoa.org/> books 19-29
 
 ### Nov
 
