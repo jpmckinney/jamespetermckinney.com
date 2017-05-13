@@ -21,6 +21,7 @@ published: true
 -Jun 23 <http://www.centrevox.ca/en/exposition/creer-a-rebours-vers-lexposition-the-case-of-peripheries/>  
   -Jun 23 <http://www.centrevox.ca/en/exposition/serge-tousignant/>  
   -Jun 17 <https://artexte.ca/exposition/document-xxl/>  
+-Jun 23 <http://galerienicolasrobert.com/?page_id=2764>  
 **-Sep 3 <http://dhc-art.org/> Ed Atkins Su**  
 -Oct 1 <http://www.musee-mccord.qc.ca/en/exhibitions/expo-67-and-fashion-in-montreal-in-the-1960s/> Su $20  
 

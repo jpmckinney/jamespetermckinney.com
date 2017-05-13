@@ -42,7 +42,6 @@ _Jul 12-Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/dil
 -May 27 <http://www.pfoac.com/Toronto/ML_2017_FR.html>  
 -Jun 3 <http://lacap.ca/sur-gallery/current-exhibition/single-view/calendar/2017/04/13/event/tx_cal_phpicalendar/strike_a_chord/>  
 -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/contact-gallery-pacifier>  
--Jun 18 <http://www.harbourfrontcentre.com/visualarts/2017/coastal-2/> <http://www.harbourfrontcentre.com/visualarts/2017/yukon-sketchbooks/>  
 
 _May 24-Jun 17 <http://www.redheadgallery.org/upcoming/> Leah Garnett_  
 _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
@@ -51,10 +50,7 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 ### Queen St
 
-**-May 12 <http://www.onlyonegallery.com/currents>**  
-**-May 27 <http://interaccess.org/exhibition/cultivars-possible-worlds>**  
 -May 27 <https://www.parinadimigallery.com/between-motion-and-stillness>  
--Jun 3 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
 -Jun 3 <http://scotiabankcontactphoto.com/2017/open-exhibition/walnut-contemporary-space-within>  
 -Jun 3 <http://www.paulpetro.com/exhibitions/485-What-Came-To-Light-At-Blast-Hole-Pond-River>  
   -Jun 3 <http://www.paulpetro.com/exhibitions/488-Shorelines>  
@@ -66,10 +62,6 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
 ### Dundas St
-
--May 14 <http://www.loopgallery.ca/2017/04/19/adrian-fish-deutsche-demokratische-republik-the-stasi-archives-2/>  
-  -May 14 <http://www.loopgallery.ca/2017/04/19/ava-roth-encaustic-sewings/>  
--May 20 <http://mkg127.com/upcomingshows.html> Jaime Angelopolous
 
 _May 20-Jun 11 <http://www.loopgallery.ca/upcoming/> Lana Shereck, Phillip Woolf_  
 
