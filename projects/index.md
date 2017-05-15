@@ -30,7 +30,7 @@ published: true
 
 ### 2014
 
-* [Open Government Partnership Americas Regional Meeting](https://www.opengovpartnership.org/get-involved/americas-regional-meeting), San Jose {% comment %}Nov{% endcomment %}
+* [Open Government Partnership Americas Regional Meeting](https://www.opengovpartnership.org/about/news-and-events/2014-americas-regional-meeting-reuni-n-regional-de-las-am-ricas), San Jose {% comment %}Nov{% endcomment %}
 * [Open Knowledge Festival](http://2014.okfestival.org/), Berlin {% comment %}Jul{% endcomment %}
 * [LegComm](http://www.sliq.com/legcomm2014.html), Montreal {% comment %}Jun{% endcomment %}
 * Canadian Open Data Summit, Vancouver {% comment %}Feb{% endcomment %}
