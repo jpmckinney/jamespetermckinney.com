@@ -60,6 +60,8 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 ### Dundas St
 
+-May 28 <https://unlovablegallery.com/blogs/news/golden-moles>  
+
 _May 20-Jun 11 <http://www.loopgallery.ca/upcoming/> Lana Shereck, Phillip Woolf_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
@@ -88,4 +90,5 @@ _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_
 -Jun 10 <http://gallery.alisonmilne.com/exhibitions/yusuf-aksoy-in-konya/>  
 
 _May 26-Jul 8 <http://becontemporary.com/upcoming.php> Ray Mead_  
+_May 27-Jun 17 <http://dupontprojects.com/exhibitions/> John Eisler_  
 _Jul 7-Aug 5 <http://coopercolegallery.com/exhibition/tau-lewis-curtis-santiago-2017/>_  

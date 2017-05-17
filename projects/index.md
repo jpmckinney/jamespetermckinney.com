@@ -34,7 +34,7 @@ published: true
 * [Open Knowledge Festival](http://2014.okfestival.org/), Berlin {% comment %}Jul{% endcomment %}
 * [LegComm](http://www.sliq.com/legcomm2014.html), Montreal {% comment %}Jun{% endcomment %}
 * Canadian Open Data Summit, Vancouver {% comment %}Feb{% endcomment %}
-* [Open Data for Development Challenge](http://open-dev-ouvert.ca/), Montreal {% comment %}Jan{% endcomment %}
+* [Open Data for Development Challenge](https://opendatadevelopmentchalleng2014.sched.com/), Montreal {% comment %}Jan{% endcomment %}
 
 {% comment %}
 ## Networks I've contributed to
