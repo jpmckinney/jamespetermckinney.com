@@ -47,6 +47,7 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 ### Queen St
 
+-May 26 <http://www.onlyonegallery.com/solargraphs>  
 -May 27 <https://www.parinadimigallery.com/between-motion-and-stillness>  
 -Jun 3 <http://scotiabankcontactphoto.com/2017/open-exhibition/walnut-contemporary-space-within>  
 -Jun 3 <http://www.paulpetro.com/exhibitions/485-What-Came-To-Light-At-Blast-Hole-Pond-River>  
@@ -61,8 +62,7 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 ### Dundas St
 
 -May 28 <https://unlovablegallery.com/blogs/news/golden-moles>  
-
-_May 20-Jun 11 <http://www.loopgallery.ca/upcoming/> Lana Shereck, Phillip Woolf_  
+-Jun 11 <http://www.loopgallery.ca/upcoming/> Lana Shereck, Phillip Woolf  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
 
@@ -91,4 +91,5 @@ _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_
 
 _May 26-Jul 8 <http://becontemporary.com/upcoming.php> Ray Mead_  
 _May 27-Jun 17 <http://dupontprojects.com/exhibitions/> John Eisler_  
+_Jun 2-Jul 8 <http://www.angellgallery.com/exhibition/delta-flowers> <http://www.angellgallery.com/exhibition/impossible-gardens>_  
 _Jul 7-Aug 5 <http://coopercolegallery.com/exhibition/tau-lewis-curtis-santiago-2017/>_  
