@@ -31,6 +31,7 @@ published: true
 * <https://www.hotdocs.ca/> film Apr 27-7
 * <http://www.torontocomics.com/> comics 13-14
 * <https://tjff.com/> film 4-14
+* <http://www.nextmusicfromtokyo.com/> music 19-20
 * <https://performance.rcmusic.ca/21c> music 25-29
 * <http://www.insideout.ca/initiatives/toronto> film 26-Jun 5
 * <http://subtletechnologies.com/festival/> art, tech, science 10-Jun 25

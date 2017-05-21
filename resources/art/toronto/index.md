@@ -64,30 +64,26 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 -May 28 <https://unlovablegallery.com/blogs/news/golden-moles>  
 -Jun 11 <http://www.loopgallery.ca/upcoming/> Lana Shereck, Phillip Woolf  
 
+_May 27-Jun 24 <http://mkg127.com/upcomingshows.html> Bill Burns_  
+
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
 
 ### Bloordale & Junction Triangle
 
-**-May 20 <http://cuttsgallery.com/exhibitions/claude-tousignant/>**  
-  **-May 27 <http://www.olgakorpergallery.com/exhibitions/view?id=94>**  
-**-May 27 <http://www.mercerunion.org/exhibitions/jumana-manna-a-magical-substance-flows-into-me/>**  
-  -May 28 <http://darrengallery.com/upcoming/> Yuri Dojc  
 -May 27 <http://www.galeriedivision.com/toronto/exhibition/-background-love>  
   -May 27 <http://www.franzkaka.com/krista-belle-stewart.html>  
--Jun 3 <http://scotiabankcontactphoto.com/2017/featured-exhibition/clint-roenisch-gallery-were-the-heirs-to-the-glimmering-world>  
-  -Jun 10 <http://gallerytpw.ca/exhibitions/luis-jacob/>  
-  -Jun 10 <http://danielfariagallery.com/exhibitions/chris-curreri-unruly-matter>  
-  -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/scrap-metal-right-now>  
-  -Jun 10 <http://www.galleryhouse.ca/exhibitions/> Dina Goldstein, Daniel Lanois  
+-Jun 10 <http://www.galleryhouse.ca/exhibitions/> Dina Goldstein, Daniel Lanois  
 
 _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_  
 
 ### Dupont St & The Junction
 
 -May 27 <http://angellgallery.com/exhibition/measures-of-time>  
+-May 31 <https://www.facebook.com/events/209283836256633/>  
 -Jun 3 <http://scotiabankcontactphoto.com/2017/featured-exhibition/zalucky-contemporary-jardim>  
 -Jun 10 <http://coopercolegallery.com/exhibition/bjorn-copeland-2017/>  
 -Jun 10 <http://gallery.alisonmilne.com/exhibitions/yusuf-aksoy-in-konya/>  
+-Jul 15 <http://civicstudies.ca/placeandplacement/>  
 
 _May 26-Jul 8 <http://becontemporary.com/upcoming.php> Ray Mead_  
 _May 27-Jun 17 <http://dupontprojects.com/exhibitions/> John Eisler_  
