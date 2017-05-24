@@ -44,6 +44,7 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
   -Jun 10 <http://www.artdiagonale.org/on-view-exhibitions.html> Guillaume Adjutor Provost  
   -Jun 23 <http://www.centreclark.com/fr/projects/vertically-integrated-socialism> <http://www.centreclark.com/fr/projects/strangers-and-stand-ins>  
   -Jul 4 <http://occurrence.ca/joan-fontcuberta/>  
+  -Jul 4 <http://occurrence.ca/les-ineluctables-catherine-tremblay/>  
 
 _Jun 1-Jul 8 <http://www.ateliercirculaire.org/new-events/2017/6/1/members-salon-2017>_  
 

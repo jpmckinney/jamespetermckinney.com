@@ -22,7 +22,7 @@ layout: default
 * I document my art visits on [Instagram](https://www.instagram.com/mckinney.james/) <i class="fa fa-instagram" aria-hidden="true"></i>
 * [Medium](https://medium.com/@jpmckinney/latest) <i class="fa fa-medium" aria-hidden="true"></i>
 * [Twitter](https://twitter.com/mckinneyjames) <i class="fa fa-twitter" aria-hidden="true"></i>
-* [Goodreads](https://www.goodreads.com/user/show/46218598-james)
+* [Goodreads](https://www.goodreads.com/review/list/46218598-james?shelf=read&sort=date_read)
 * [GitHub](https://github.com/jpmckinney/) <i class="fa fa-github" aria-hidden="true"></i>
 * [LinkedIn](https://www.linkedin.com/in/mckinneyjames/) <i class="fa fa-linkedin" aria-hidden="true"></i>
 

@@ -70,7 +70,7 @@ _May 27-Jun 24 <http://mkg127.com/upcomingshows.html> Bill Burns_
 
 ### Bloordale & Junction Triangle
 
--May 27 <http://www.galeriedivision.com/toronto/exhibition/-background-love>  
+-Jun 1 <http://www.galeriedivision.com/toronto/exhibition/-background-love>  
   -May 27 <http://www.franzkaka.com/krista-belle-stewart.html>  
 -Jun 10 <http://www.galleryhouse.ca/exhibitions/> Dina Goldstein, Daniel Lanois  
 
