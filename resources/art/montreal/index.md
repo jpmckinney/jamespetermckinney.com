@@ -23,6 +23,7 @@ published: true
 **-Sep 3 <http://dhc-art.org/> Ed Atkins Su**  
 -Oct 1 <http://www.musee-mccord.qc.ca/en/exhibitions/expo-67-and-fashion-in-montreal-in-the-1960s/> Su $20  
 
+_Jun 5-Jun 23 <http://www.concordia.ca/cuevents/finearts/fofa/2017/06/05/grad-exhibition-2017.html>_  
 _**Jun 21-Oct 8 <http://www.macm.org/en/expositions/olafur-eliasson/> <http://www.macm.org/en/expositions/expo-67/>**_  
 _**Jun 29-Jul 30 <http://matthewnamour.com/expositions/premier-anniversaire/>**_  
 _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_  
@@ -47,11 +48,10 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
   -Jul 4 <http://occurrence.ca/les-ineluctables-catherine-tremblay/>  
 
 _Jun 1-Jul 8 <http://www.ateliercirculaire.org/new-events/2017/6/1/members-salon-2017>_  
+_Jun 9-Jun 17 <http://www.lacentrale.org/en/programmation/soft-sprays>_  
 
 ### Plateau
 
--May 27 <http://www.galerieyoun.com/projects/hugo-alonso-2/>  
--Jun 4 <http://en.galeriedeste.com/exhibition/115/press_release/>  
 -Jun 17 <http://www.galeriesimonblais.com/fr/expositions/rythme-pastels-1997-2003>  
 -Jun 28 <http://www.galeriebernard.ca/en/expositions/en-cours/> Raymond Dupuis  
 -Jul 8 <http://www.galeriesimonblais.com/fr/expositions/blanc>  
