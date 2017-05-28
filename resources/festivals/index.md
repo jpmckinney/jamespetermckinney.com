@@ -33,6 +33,7 @@ published: true
 * <https://tjff.com/> film 4-14
 * <http://www.nextmusicfromtokyo.com/> music 19-20
 * <https://performance.rcmusic.ca/21c> music 25-29
+* <http://censured.info/> film 27-28
 * <http://www.insideout.ca/initiatives/toronto> film 26-Jun 5
 * <http://subtletechnologies.com/festival/> art, tech, science 10-Jun 25
 * _<http://www.ocadu.ca/gallery/gradex.htm> art (grad) 4-8_

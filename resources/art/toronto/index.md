@@ -12,13 +12,10 @@ published: true
 
 <p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon. Exhibitions are removed once visited.</p>
 
-**-Jun 4 <http://kofflerarts.org/programs-events/2017/02/27/bad-jews/>**  
-
 _**Jun 15-Jun 25 <http://national.ballet.ca/Productions/2016-17-Season/Swan-Lake>**_  
 
 ### Downtown North
 
-<u>-May 28</u> <http://www.whippersnapper.ca/exhibitions/art-and-tomatoes/>  
 -Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/campbell-house-museum-a-shape-to-your-shadow>  
 -Jun 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/katherine-knight-portraits-and-collections> SuW8  
   -Jun 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/kind-words-can-never-die-a-personal-collection-of> SuW8  
@@ -35,11 +32,9 @@ _Jul 12-Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/dil
 
 ### Downtown South
 
-<u>-May 27</u> <http://www.pfoac.com/Toronto/ML_2017_FR.html>  
-<u>-May 27</u> <http://abbozzogallery.com/peter-dusek-serenity-part-of-the-scotiabank-contact-photography-festival-2017/>  
-  -Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/> Anne-Marie Proulx, CCC  
+<u>-Jun 3</u> <http://lacap.ca/sur-gallery/current-exhibition/single-view/calendar/2017/04/13/event/tx_cal_phpicalendar/strike_a_chord/>  
+-Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/> Anne-Marie Proulx, CCC  
   -Jun 17 <http://www.redheadgallery.org/upcoming/> Leah Garnett  
--Jun 3 <http://lacap.ca/sur-gallery/current-exhibition/single-view/calendar/2017/04/13/event/tx_cal_phpicalendar/strike_a_chord/>  
 **-Jun 10 <https://scotiabankcontactphoto.com/2017/primary-exhibition/contact-gallery-pacifier>**  
 
 _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
@@ -49,11 +44,8 @@ _Jun 24-Sep 4 <http://thepowerplant.org/Exhibitions/2017/Summer-2017/The-Milline
 
 ### Queen St
 
-<u>-May 27</u> <https://www.parinadimigallery.com/between-motion-and-stillness>  
--Jun 3 <http://scotiabankcontactphoto.com/2017/open-exhibition/walnut-contemporary-space-within>  
--Jun 3 <http://www.paulpetro.com/exhibitions/485-What-Came-To-Light-At-Blast-Hole-Pond-River>  
-  -Jun 3 <http://www.paulpetro.com/exhibitions/488-Shorelines>  
--Jun 4 <https://criticaldistance.ca/opening-thursday-signals-sentiments/>  
+<u>-Jun 3</u> <http://scotiabankcontactphoto.com/2017/open-exhibition/walnut-contemporary-space-within>  
+<u>-Jun 4</u> <https://criticaldistance.ca/opening-thursday-signals-sentiments/>  
 -Jun 10 <http://www.susanhobbs.com/exhibits/1396-shirley-wiitasalo>  
   -Jun 10 <http://birchcontemporary.com/exhibition/a-silent-storm> <http://birchcontemporary.com/exhibition/common>  
   -Jun 10 <http://www.georgiascherman.com/GSP%202017%20Exhibitions/SB_Its_all_a_blur/SB-Its_all_a-blur_MAINPAGE.html>  
@@ -65,7 +57,6 @@ _Jun 15-Aug 18 <https://www.facebook.com/events/1384443938315539/> Gladstone_
 
 ### Dundas St
 
-<u>-May 28</u> <https://unlovablegallery.com/blogs/news/golden-moles>  
 -Jun 11 <http://www.loopgallery.ca/upcoming/> Lana Shereck, Phillip Woolf  
 -Jun 24 <http://mkg127.com/upcomingshows.html> Bill Burns  
 
@@ -73,18 +64,16 @@ _Jun 15-Aug 18 <https://www.facebook.com/events/1384443938315539/> Gladstone_
 
 ### Bloordale & Junction Triangle
 
-<u>-May 27</u> <http://www.franzkaka.com/krista-belle-stewart.html>  
-  -Jun 1 <http://www.galeriedivision.com/toronto/exhibition/-background-love>  
+<u>-Jun 1</u> <http://www.galeriedivision.com/toronto/exhibition/-background-love>  
 -Jun 10 <http://www.galleryhouse.ca/exhibitions/> Dina Goldstein, Daniel Lanois  
 
 _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_  
 
 ### Dupont St & The Junction
 
-<u>-May 27</u> <http://angellgallery.com/exhibition/measures-of-time>  
-  <u>-May 31</u> <https://www.facebook.com/events/209283836256633/> Akin  
+<u>-May 31</u> <https://www.facebook.com/events/209283836256633/> Akin  
   -Jun 17 <http://dupontprojects.com/exhibitions/> John Eisler  
--Jun 3 <http://scotiabankcontactphoto.com/2017/featured-exhibition/zalucky-contemporary-jardim>  
+<u>-Jun 3</u> <http://scotiabankcontactphoto.com/2017/featured-exhibition/zalucky-contemporary-jardim>  
 -Jun 10 <http://coopercolegallery.com/exhibition/bjorn-copeland-2017/>  
 -Jun 10 <http://gallery.alisonmilne.com/exhibitions/yusuf-aksoy-in-konya/>  
 -Jul 8 <http://becontemporary.com/upcoming.php> Ray Mead  
