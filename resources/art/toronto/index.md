@@ -52,6 +52,7 @@ _Jun 24-Sep 4 <http://thepowerplant.org/Exhibitions/2017/Summer-2017/The-Milline
 
 _Jun 12-Aug 17 <https://www.facebook.com/events/268513463621284/> Gladstone_  
 _Jun 15-Aug 18 <https://www.facebook.com/events/1384443938315539/> Gladstone_  
+_Jun 22-Aug 20 <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhouse-le-reve-aux-loups/>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 

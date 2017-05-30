@@ -60,7 +60,8 @@ _Jun 7-Jul 2 <http://www.galeriedeste.com/exhibition/114/>_
 
 ### Little Burgundy
 
--Jun 18 <http://1700laposte.com/expositions/vide-et-vertige/> Su  
-**-Jul 15 <http://linconnue.biz/exhibitions/old-show-title>**  
+-Jun 10 <http://galerieantoineertaskiran.com/exhibition/2017-kim-dorland-look-out/>  
 -Jun 17 <http://galeriedivision.com/montreal/exhibition/-history-of-the-world>  
+-Jun 18 <http://1700laposte.com/expositions/vide-et-vertige/> Su  
 -Jul 1 <http://www.parisianlaundry.com/fr/expositions/avenir> BGL  
+**-Jul 15 <http://linconnue.biz/exhibitions/old-show-title>**  
