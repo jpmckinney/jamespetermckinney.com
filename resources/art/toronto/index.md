@@ -47,11 +47,7 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 ### Queen St
 
-<u>-Jun 3</u> <http://scotiabankcontactphoto.com/2017/open-exhibition/walnut-contemporary-space-within>  
 <u>-Jun 4</u> <https://criticaldistance.ca/opening-thursday-signals-sentiments/>  
-<u>-Jun 10</u> <http://www.susanhobbs.com/exhibits/1396-shirley-wiitasalo>  
-  <u>-Jun 10</u> <http://birchcontemporary.com/exhibition/a-silent-storm> <http://birchcontemporary.com/exhibition/common>  
-  <u>-Jun 10</u> <http://www.georgiascherman.com/GSP%202017%20Exhibitions/SB_Its_all_a_blur/SB-Its_all_a-blur_MAINPAGE.html>  
 
 _Jun 12-Aug 17 <https://www.facebook.com/events/268513463621284/> Gladstone_  
 _Jun 15-Aug 18 <https://www.facebook.com/events/1384443938315539/> Gladstone_  
