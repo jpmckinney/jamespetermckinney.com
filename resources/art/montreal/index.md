@@ -14,7 +14,7 @@ published: true
 
 ### Downtown
 
-**-Jun 11 <https://www.mbam.qc.ca/en/exhibitions/on-view/chagall/> Su**  
+**<u>-Jun 11</u> <https://www.mbam.qc.ca/en/exhibitions/on-view/chagall/> Su**  
 -Jun 23 <http://www.centrevox.ca/en/exposition/creer-a-rebours-vers-lexposition-the-case-of-peripheries/>  
   -Jun 23 <http://www.centrevox.ca/en/exposition/serge-tousignant/>  
   -Jun 17 <https://artexte.ca/exposition/document-xxl/>  
@@ -30,7 +30,7 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
 
 ### Mile Ex
 
--Jun 10 <http://www.viedange.club/> Rachel Mclean
+<u>-Jun 10</u> <http://www.viedange.club/> Rachel Mclean  
 **-Jun 17 <http://artmur.com/artistes/clint-neufeld/clint-neufeld/> <http://artmur.com/artistes/jessica-houston/this-mountain/> <http://artmur.com/artistes/renato-garza-cervera/marees-humaines/>**  
 -Jun 24 <http://www.neverapart.com/exhibitions/scenes-nocturnes/>  
   -Jun 24 <http://www.neverapart.com/exhibitions/notre-heritage/>  
@@ -41,29 +41,29 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
 
 ### Mile End
 
--Jun 10 <http://www.optica.ca/programmation/index.php> I've Only Known My Own  
+<u>-Jun 10</u> <http://www.optica.ca/programmation/index.php> I've Only Known My Own  
   -Jun 10 <http://www.artdiagonale.org/on-view-exhibitions.html> Guillaume Adjutor Provost  
   -Jun 23 <http://www.centreclark.com/fr/projects/vertically-integrated-socialism> <http://www.centreclark.com/fr/projects/strangers-and-stand-ins>  
   -Jul 4 <http://occurrence.ca/joan-fontcuberta/>  
   -Jul 4 <http://occurrence.ca/les-ineluctables-catherine-tremblay/>  
   -Jul 8 <http://www.ateliercirculaire.org/new-events/2017/6/1/members-salon-2017>  
-  -Jun 17 <http://www.lacentrale.org/en/programmation/soft-sprays>  
+-Jun 17 <http://www.galeriesimonblais.com/fr/expositions/rythme-pastels-1997-2003>  
+-Jun 30 <http://www.galerieyoun.com/projects/bruno-leydet-tableaux-vivants/>  
+-Jul 8 <http://www.galeriesimonblais.com/fr/expositions/blanc>  
+
+_Aug 12-Sep 2 <http://www.galeriesimonblais.com/fr/expositions/avenir/> Jean-Michel Leclerc_  
 
 ### Plateau
 
--Jun 17 <http://www.galeriesimonblais.com/fr/expositions/rythme-pastels-1997-2003>  
+-Jun 17 <http://www.lacentrale.org/en/programmation/soft-sprays>  
 -Jun 28 <http://www.galeriebernard.ca/en/expositions/en-cours/> Raymond Dupuis  
--Jun 30 <http://www.galerieyoun.com/projects/bruno-leydet-tableaux-vivants/>  
 -Jul 2 <http://www.galeriedeste.com/exhibition/114/>  
--Jul 8 <http://www.galeriesimonblais.com/fr/expositions/blanc>  
 -Jul 14 <http://lelivart.com/portfolio_page/transformation/>  
-
-_Aug 12-Sep 2 <http://www.galeriesimonblais.com/fr/expositions/avenir/> Jean-Michel Leclerc_  
 
 ### Little Burgundy
 
 -Jun 10 <http://galerieantoineertaskiran.com/exhibition/2017-kim-dorland-look-out/>  
 -Jun 17 <http://galeriedivision.com/montreal/exhibition/-history-of-the-world>  
 -Jun 18 <http://1700laposte.com/expositions/vide-et-vertige/> Su  
--Jul 1 <http://www.parisianlaundry.com/fr/expositions/avenir> BGL  
-**-Jul 15 <http://linconnue.biz/exhibitions/old-show-title>**  
+**-Jul 1 <http://www.parisianlaundry.com/fr/expositions/ma-societe-des-tests> BGL**  
+**-Jul 15 <http://linconnue.biz/exhibitions/new-show>**  

@@ -71,9 +71,9 @@ _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_
 
 ### Dupont St & The Junction
 
-<u>-Jun 10</u> <http://coopercolegallery.com/exhibition/bjorn-copeland-2017/>  
+<u>-Jun 10</u> <https://coopercolegallery.com/exhibition/bjorn-copeland-extra-medium-2017/>  
 <u>-Jun 10</u> <http://gallery.alisonmilne.com/exhibitions/yusuf-aksoy-in-konya/>  
-<u>-Jun 17</u> <http://dupontprojects.com/exhibitions/> John Eisler  
+-Jun 17 <http://dupontprojects.com/exhibitions/> John Eisler  
   -Jul 8 <http://www.angellgallery.com/exhibition/delta-flowers> <http://www.angellgallery.com/exhibition/impossible-gardens>  
 -Jul 8 <http://becontemporary.com/upcoming.php> Ray Mead  
 -Jul 15 <http://civicstudies.ca/placeandplacement/>  
