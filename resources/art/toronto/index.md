@@ -27,12 +27,12 @@ _**Jun 15-Jun 25 <http://national.ballet.ca/Productions/2016-17-Season/Swan-Lake
 
 _Jun 29- <http://artmatters.ca/wp/2017/01/canada-a-work-in-progress/>_  
 _Jul 12-Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text>_  
+_Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://artmuseum.utoronto.ca/exhibition/in-dialogue/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
 ### Downtown South
 
-<u>-Jun 3</u> <http://lacap.ca/sur-gallery/current-exhibition/single-view/calendar/2017/04/13/event/tx_cal_phpicalendar/strike_a_chord/>  
 **<u>-Jun 10</u> <https://scotiabankcontactphoto.com/2017/primary-exhibition/contact-gallery-pacifier>**  
 -Jun 17 <http://www.redheadgallery.org/upcoming/> Leah Garnett  
   -Jun 24 <http://abbozzogallery.com/tadeusz-biernot-solo-exhibition-opening-june-3/>  
@@ -47,11 +47,11 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 ### Queen St
 
-<u>-Jun 4</u> <https://criticaldistance.ca/opening-thursday-signals-sentiments/>  
-
+_Jun 9-Jul 14 <http://www.paulpetro.com/exhibitions/491-So-Lightly-Here>_  
+_Jun 14-Jun 17 <http://www.paulpetro.com/exhibitions/497-From-The-Archives-To-Hot-Off-The-Press>_  
 _Jun 12-Aug 17 <https://www.facebook.com/events/268513463621284/> Gladstone_  
 _Jun 15-Aug 18 <https://www.facebook.com/events/1384443938315539/> Gladstone_  
-_Jun 22-Aug 20 <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhouse-le-reve-aux-loups/>  
+_Jun 22-Aug 20 <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhouse-le-reve-aux-loups/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -64,20 +64,21 @@ _Jun 22-Aug 20 <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhous
 
 ### Bloordale & Junction Triangle
 
-<u>-Jun 1</u> <http://www.galeriedivision.com/toronto/exhibition/-background-love>  
 <u>-Jun 10</u> <http://www.galleryhouse.ca/exhibitions/> Dina Goldstein, Daniel Lanois  
 
+_Jun 15-Jul 31 <http://cuttsgallery.com/save-the-date/save-the-date-gordon-anderson-drew-simpson/#/>_  
 _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_  
 
 ### Dupont St & The Junction
 
-<u>-Jun 17</u> <http://dupontprojects.com/exhibitions/> John Eisler  
-  -Jul 8 <http://www.angellgallery.com/exhibition/delta-flowers> <http://www.angellgallery.com/exhibition/impossible-gardens>  
-<u>-Jun 3</u> <http://scotiabankcontactphoto.com/2017/featured-exhibition/zalucky-contemporary-jardim>  
 <u>-Jun 10</u> <http://coopercolegallery.com/exhibition/bjorn-copeland-2017/>  
 <u>-Jun 10</u> <http://gallery.alisonmilne.com/exhibitions/yusuf-aksoy-in-konya/>  
+<u>-Jun 17</u> <http://dupontprojects.com/exhibitions/> John Eisler  
+  -Jul 8 <http://www.angellgallery.com/exhibition/delta-flowers> <http://www.angellgallery.com/exhibition/impossible-gardens>  
 -Jul 8 <http://becontemporary.com/upcoming.php> Ray Mead  
 -Jul 15 <http://civicstudies.ca/placeandplacement/>  
 
 _Jun 8-Jul 15 <http://robertkananajgallery.com/index.php?page=upcoming-exhibits>_  
+_Jun 9-Jul 15 <https://www.christiecontemporary.com/meunier-images>_  
+_Jun 9-Aug 5 <http://www.katzmancontemporary.com/1706-xiaolei-drive-thru>_  
 _Jul 7-Aug 5 <http://coopercolegallery.com/exhibition/tau-lewis-curtis-santiago-2017/>_  
