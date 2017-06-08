@@ -59,6 +59,7 @@ _Aug 12-Sep 2 <http://www.galeriesimonblais.com/fr/expositions/avenir/> Jean-Mic
 -Jun 28 <http://www.galeriebernard.ca/en/expositions/en-cours/> Raymond Dupuis  
 -Jul 2 <http://www.galeriedeste.com/exhibition/114/>  
 -Jul 14 <http://lelivart.com/portfolio_page/transformation/>  
+-Aug 12 <http://www.pfoac.com/index_FR.html>  
 
 ### Little Burgundy
 

@@ -62,6 +62,7 @@ published: true
 * <https://www.facebook.com/events/973999926048189> Senseless art 9
 * <http://torontoartblast.com/> art 9, 16-17, 23-24, 30-31
 * Toronto Art Crawl Entertainment District art 8
+* Momo Crawl food 24
 * <http://bigonbloorfestival.com/> art/culture (street) 23-24
 * <http://torontooutdoorart.org/> largest art fair 8-10
 * <http://nightitup.com/> (Markham) east asian night market 15-17
