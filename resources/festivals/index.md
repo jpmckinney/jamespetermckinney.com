@@ -48,6 +48,7 @@ published: true
 * <http://tasteoftoronto.com/> food 23-26
 * <http://www.pridetoronto.com/> 1-Jul 3
 * <http://torontoqueerfilmfest.com> film 14-17
+* <https://www.torontoartbookfair.com/art-book-week> books 12-18
 * <http://torontojazz.com/> music 24-Jul 3
 * <http://www.unsound.pl/> music 19-21
 * <http://fieldtriplife.com/> music 4-5

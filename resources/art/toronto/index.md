@@ -54,6 +54,7 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 -Jul 22 <http://birchcontemporary.com/exhibition/charles-goldman-4x4x4>
 -Aug 17 <https://www.facebook.com/events/268513463621284/> Gladstone Su  
   -Aug 18 <https://www.facebook.com/events/1384443938315539/> Gladstone Su  
+-Aug 26 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
 
 _Jun 22-Aug 20 <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhouse-le-reve-aux-loups/> Su_  
 _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-bennett-steven-beckly-sarah-sands-phillips>_  
@@ -70,7 +71,8 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 ### Bloordale & Junction Triangle
 
 -Jul 15 <http://robertkananajgallery.com/index.php?page=upcoming-exhibits>  
--Jul 31 <http://cuttsgallery.com/save-the-date/save-the-date-gordon-anderson-drew-simpson/#/>  
+-Jul 15 <http://www.olgakorpergallery.com/>  
+  -Jul 31 <http://cuttsgallery.com/save-the-date/save-the-date-gordon-anderson-drew-simpson/#/>  
 -Sep 9 <http://www.galeriedivision.com/toronto/exhibition/-sky-leaks>  
   <http://www.arsenalmontreal.com/en/exhibitions/david-spriggs> <http://www.arsenalmontreal.com/en/exhibitions/mark-jenkins-2>
 
