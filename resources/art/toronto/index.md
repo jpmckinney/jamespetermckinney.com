@@ -39,6 +39,7 @@ _Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://ar
   -Jun 24 <http://abbozzogallery.com/tadeusz-biernot-solo-exhibition-opening-june-3/>  
   -Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/> Anne-Marie Proulx, CCC  
   -Jul 8 <https://gallery44.org/exhibitions/proof-24>  
+  -Jul 15 <http://openstudio.ca/exhibition/saimaiyu-akesuk-curated-by-nancy-campbell/> <http://openstudio.ca/exhibition/jennie-suddick-speak-freely/> <http://openstudio.ca/exhibition/walter-procska-transforming-colours/>  
 -Jun 30 <http://www.pfoac.com/Toronto/JF_2017_EN.html> Dana Velan, Jérôme Fortin  
 
 _Jun 24-Sep 4 <http://thepowerplant.org/Exhibitions/2017/Summer-2017/The-Milliners-Daughter.aspx>_  
@@ -65,6 +66,8 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 
 -Jun 23 <http://milkglassco.tumblr.com/post/161583145967/june-16-23-at-milk-glass-birth-and-its-meanings>  
 -Jun 24 <http://mkg127.com/upcomingshows.html> Bill Burns  
+
+_Jun 17-Jul 9 <http://www.loopgallery.ca/portfolio/linda-heffernan/> <http://www.loopgallery.ca/portfolio/martha-eleen/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
 

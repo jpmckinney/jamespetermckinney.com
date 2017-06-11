@@ -14,6 +14,7 @@
             <outline title="Johns Hopkins Center for Government Excellence" xmlUrl="http://govex.jhu.edu/feed/" type="rss" text="Johns Hopkins Center for Government Excellence"/>
             <outline title="mySociety" xmlUrl="https://www.mysociety.org/feed/" type="rss" text="mySociety"/>
             <outline title="OOOCanada" xmlUrl="http://www.ooocanada.ca/web-blog.rss" type="rss" text="OOOCanada"/>
+            <outline title="Open Contracting Partnership" xmlUrl="http://www.open-contracting.org/feed/" type="rss" text="Open Contracting Partnership"/>
             <outline title="Open Data Institute Toronto" xmlUrl="http://oditoronto.org/feed/" type="rss" text="Open Data Institute Toronto"/>
             <outline title="Open Heroines - Medium" xmlUrl="https://medium.com/feed/open-heroines" type="rss" text="Open Heroines - Medium"/>
             <outline title="Open Heroines on Medium" xmlUrl="https://medium.com/feed/@OpenHeroines" type="rss" text="Open Heroines on Medium"/>
@@ -41,8 +42,10 @@
             <outline title="Chelsea Vowel" xmlUrl="http://apihtawikosisan.com/feed/" type="rss" text="Chelsea Vowel"/>
             <outline title="Christopher Wilson" xmlUrl="https://methodicalsnark.org/feed/" type="rss" text="Christopher Wilson"/>
             <outline title="David Eaves" xmlUrl="https://eaves.ca/feed/" type="rss" text="David Eaves"/>
+            <outline title="Desmond Cole" xmlUrl="https://thatsatruestory.wordpress.com/feed/" type="rss" text="Desmond Cole"/>
             <outline title="Elizabeth Dubois" xmlUrl="https://elizabethdubois.wordpress.com/feed/" type="rss" text="Elizabeth Dubois"/>
             <outline title="Eric Mill" xmlUrl="https://konklone.com/rss.xml" type="rss" text="Eric Mill"/>
+            <outline title="Finn Upham" xmlUrl="https://finnupham.wordpress.com/feed/" type="rss" text="Finn Upham"/>
             <outline title="Francis Irving" xmlUrl="http://www.flourish.org/feed/" type="rss" text="Francis Irving"/>
             <outline title="Friedrich Lindenberg" xmlUrl="http://pudo.org/atom.xml" type="rss" text="Friedrich Lindenberg"/>
             <outline title="Gillian Vrooman" xmlUrl="http://tenaciousg.ca/feed/" type="rss" text="Gillian Vrooman"/>
@@ -86,6 +89,7 @@
             <outline title="Arnold Engel on Medium" xmlUrl="https://medium.com/feed/@arnoldengel" type="rss" text="Arnold Engel on Medium"/>
             <outline title="Audree Lapierre on Medium" xmlUrl="https://medium.com/feed/@FFaudree" type="rss" text="Audree Lapierre on Medium"/>
             <outline title="Audrey Tang 唐鳳 on Medium" xmlUrl="https://medium.com/feed/@audrey.tang" type="rss" text="Audrey Tang 唐鳳 on Medium"/>
+            <outline title="Bianca Wylie on Medium" xmlUrl="https://medium.com/feed/@biancawylie/" type="rss" text="Bianca Wylie on Medium"/>
             <outline title="Catherine Bracy on Medium" xmlUrl="https://medium.com/feed/@bracy" type="rss" text="Catherine Bracy on Medium"/>
             <outline title="David Eaves on Medium" xmlUrl="https://medium.com/feed/@daeaves/" type="rss" text="David Eaves on Medium"/>
             <outline title="David Moore on Medium" xmlUrl="https://medium.com/feed/@ppolitics" type="rss" text="David Moore on Medium"/>
@@ -97,23 +101,33 @@
             <outline title="John Wonderlich on Medium" xmlUrl="https://medium.com/feed/@JohnWonderlich" type="rss" text="John Wonderlich on Medium"/>
             <outline title="Joshua Tauberer on Medium" xmlUrl="https://medium.com/feed/@joshuatauberer" type="rss" text="Joshua Tauberer on Medium"/>
             <outline title="Kat Braybrooke on Medium" xmlUrl="https://medium.com/feed/@codekat" type="rss" text="Kat Braybrooke on Medium"/>
+            <outline title="Katherine Benjamin on Medium" xmlUrl="https://medium.com/feed/@Katherine_Benjamin" type="rss" text="Katherine Benjamin on Medium"/>
             <outline title="Krzysztof Madejski on Medium" xmlUrl="https://medium.com/feed/@krzysztofmadejski" type="rss" text="Krzysztof Madejski on Medium"/>
             <outline title="Laura Munoz on Medium" xmlUrl="https://medium.com/feed/@lauramunoz" type="rss" text="Laura Munoz on Medium"/>
             <outline title="Laurenellen McCann on Medium" xmlUrl="https://medium.com/feed/@elle_mccann" type="rss" text="Laurenellen McCann on Medium"/>
+            <outline title="Lucy Chambers on Medium" xmlUrl="https://medium.com/feed/@lucyfedia" type="rss" text="Lucy Chambers on Medium"/>
             <outline title="Matt Hall on Medium" xmlUrl="https://medium.com/feed/@hallm13" type="rss" text="Matt Hall on Medium"/>
             <outline title="Mor Rubinstein on Medium" xmlUrl="https://medium.com/feed/@Morchickit" type="rss" text="Mor Rubinstein on Medium"/>
+            <outline title="Nick Scott on Medium" xmlUrl="https://medium.com/feed/@thefaketree" type="rss" text="Nick Scott on Medium"/>
             <outline title="Nisa Malli on Medium" xmlUrl="https://medium.com/feed/@nisa.malli" type="rss" text="Nisa Malli on Medium"/>
+            <outline title="Noe Jacomet on Medium" xmlUrl="https://medium.com/feed/@noejacomet" type="rss" text="Noe Jacomet on Medium"/>
             <outline title="Richard D. Bartlett on Medium" xmlUrl="https://medium.com/feed/@richdecibels" type="rss" text="Richard D. Bartlett on Medium"/>
             <outline title="Sean McDonald on Medium" xmlUrl="https://medium.com/feed/@McDapper/" type="rss" text="Sean McDonald on Medium"/>
             <outline title="Stacy Donohue on Medium" xmlUrl="https://medium.com/feed/@StacyDon" type="rss" text="Stacy Donohue on Medium"/>
+            <outline title="Tin Geber on Medium" xmlUrl="https://medium.com/feed/@tingeber" type="rss" text="Tin Geber on Medium"/>
             <outline title="Tom Steinberg on Medium" xmlUrl="https://medium.com/feed/@TomSteinberg/" type="rss" text="Tom Steinberg on Medium"/>
+            <outline title="Yuan Stevens on Medium" xmlUrl="https://medium.com/feed/@ystvns" type="rss" text="Yuan Stevens on Medium"/>
         </outline>
         <outline title="Culture">
+            <outline title="1001 Fesses" xmlUrl="http://1001fesses.tumblr.com/rss" type="rss" text="1001 Fesses"/>
             <outline title="mediaINDIGENA" xmlUrl="http://www.mediaindigena.com/feed" type="rss" text="mediaINDIGENA"/>
             <outline title="Mother 4" xmlUrl="http://blog.mother4game.com/rss" type="rss" text="Mother 4"/>
             <outline title="Métis In Space" xmlUrl="http://www.metisinspace.com/blog?format=RSS" type="rss" text="Métis In Space"/>
             <outline title="National Gallery of Canada" xmlUrl="http://www.gallery.ca/en/learn/851.xml" type="rss" text="National Gallery of Canada"/>
+            <outline title="Silent Shout" xmlUrl="http://silentshout.ca/feed/" type="rss" text="Silent Shout"/>
             <outline title="The Dictionary of Obscure Sorrows" xmlUrl="http://www.dictionaryofobscuresorrows.com/rss" type="rss" text="The Dictionary of Obscure Sorrows"/>
+            <outline title="Washing Dishes" xmlUrl="http://www.washingdishes.ca/fr/feed/" type="rss" text="Washing Dishes"/>
+            <outline title="Womanhood" xmlUrl="http://ayemag.com/category/womanhood/feed/" type="rss" text="Womanhood"/>
         </outline>
         <outline title="Comics">
             <outline title="BACK" xmlUrl="http://backcomic.com/rss.xml" type="rss" text="BACK"/>
@@ -127,14 +141,15 @@
             <outline title="Widdershins" xmlUrl="http://www.widdershinscomic.com/feed/" type="rss" text="Widdershins"/>
         </outline>
         <outline title="Toronto">
-            <outline title="Milk Glass Co." xmlUrl="http://milkglassco.tumblr.com/rss" type="rss" text="Milk Glass Co."/>
             <outline title="GTARollergirls" xmlUrl="http://www.gtarollergirls.com/feed" type="rss" text="GTARollergirls"/>
+            <outline title="Milk Glass Co." xmlUrl="http://milkglassco.tumblr.com/rss" type="rss" text="Milk Glass Co."/>
             <outline title="YYZ Deals" xmlUrl="http://yyzdeals.com/atom/1" type="rss" text="YYZ Deals"/>
         </outline>
         <outline title="Montreal">
             <outline title="Alexandraplatz Bar" xmlUrl="http://www.alexandraplatzbar.com/latest-new-blog?format=RSS" type="rss" text="Alexandraplatz Bar"/>
             <outline title="Catbus" xmlUrl="http://www.cat-bus.com/feed/" type="rss" text="Catbus"/>
             <outline title="Montréal Roller Derby" xmlUrl="http://mtlrollerderby.com/feed/" type="rss" text="Montréal Roller Derby"/>
+            <outline title="The Belgo Report" xmlUrl="http://www.thebelgoreport.com/feed/" type="rss" text="The Belgo Report"/>
             <outline title="YUL Deals" xmlUrl="http://yuldeals.com/atom/1" type="rss" text="YUL Deals"/>
         </outline>
     </body>

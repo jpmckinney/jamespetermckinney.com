@@ -42,6 +42,8 @@ _**Jun 29-Jul 30 <http://matthewnamour.com/expositions/premier-anniversaire/>**_
   -Jun 24 <http://www.neverapart.com/exhibitions/two-spirit-sur-thrivance-and-the-art-of-interrupting-narratives/>  
   -Jun 25 <http://www.neverapart.com/exhibitions/182-days/>  
 
+_Jun 15-Jul 23 <http://www.viedange.club> Nadia Belerique, Jenine Marsh_  
+
 ### Mile End
 
 _Aug 12-Sep 2 <http://www.galeriesimonblais.com/fr/expositions/avenir/> Jean-Michel Leclerc_  
@@ -56,6 +58,8 @@ _Aug 12-Sep 2 <http://www.galeriesimonblais.com/fr/expositions/avenir/> Jean-Mic
 
 ### Little Burgundy
 
+-Jul 9 <http://www.bbamgallery.com/homepage/bbam_june2017_800/>  
 **-Jul 15 <http://linconnue.biz/exhibitions/new-show>**  
 
 _Jun 14-Jul 12 <http://zartspace.com/Felicity-Tayler-Reecrire-Rewriting>_  
+_Jun 15-Jul 22 <http://galerieantoineertaskiran.com/exhibition/2017-come-as-you-are/>_  
