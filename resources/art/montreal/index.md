@@ -14,13 +14,14 @@ published: true
 
 ### Downtown
 
-**<u>-Jun 11</u> <https://www.mbam.qc.ca/en/exhibitions/on-view/chagall/> Su**  
 -Jun 23 <http://www.centrevox.ca/en/exposition/creer-a-rebours-vers-lexposition-the-case-of-peripheries/>  
   -Jun 23 <http://www.centrevox.ca/en/exposition/serge-tousignant/>  
   -Jun 17 <https://artexte.ca/exposition/document-xxl/>  
 -Jun 23 <http://www.concordia.ca/cuevents/finearts/fofa/2017/06/05/grad-exhibition-2017.html>  
 -Jun 24 <http://ellephant.org/skawennati-info/>  
+-Aug 20 <http://macm.org/en/exhibitions/between-self-and-other/> <http://macm.org/en/exhibitions/the-video-installation-project-1-10/>  
 -Oct 1 <http://www.musee-mccord.qc.ca/en/exhibitions/expo-67-and-fashion-in-montreal-in-the-1960s/> Su $20  
+-Nov 19 <http://macm.org/en/exhibitions/woman-and-her-world/> <http://macm.org/en/exhibitions/state-of-the-world-2/>  
 
 _**Jun 21-Oct 8 <http://www.macm.org/en/expositions/olafur-eliasson/> <http://www.macm.org/en/expositions/expo-67/>**_  
 _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_  
@@ -28,9 +29,9 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
 ### Old Port
 
 -Jun 23 <http://galerienicolasrobert.com/?page_id=2764>  
+-Aug 20 <http://fonderiedarling.org/THE-HOUSE-OF-DUST.html> <http://fonderiedarling.org/Unité-dhabitation.html>  
 **-Sep 3 <http://dhc-art.org/> Ed Atkins Su**  
 
-_Jun 15-Aug 20 <http://fonderiedarling.org/THE-HOUSE-OF-DUST.html> <http://fonderiedarling.org/Unité-dhabitation.html>_  
 _**Jun 29-Jul 30 <http://matthewnamour.com/expositions/premier-anniversaire/>**_  
 
 ### Mile Ex
@@ -41,8 +42,7 @@ _**Jun 29-Jul 30 <http://matthewnamour.com/expositions/premier-anniversaire/>**_
   -Jun 24 <http://www.neverapart.com/exhibitions/risen/>  
   -Jun 24 <http://www.neverapart.com/exhibitions/two-spirit-sur-thrivance-and-the-art-of-interrupting-narratives/>  
   -Jun 25 <http://www.neverapart.com/exhibitions/182-days/>  
-
-_Jun 15-Jul 23 <http://www.viedange.club> Nadia Belerique, Jenine Marsh_  
+-Jul 23 <http://www.viedange.club> Nadia Belerique, Jenine Marsh  
 
 ### Mile End
 
@@ -59,7 +59,8 @@ _Aug 12-Sep 2 <http://www.galeriesimonblais.com/fr/expositions/avenir/> Jean-Mic
 ### Little Burgundy
 
 -Jul 9 <http://www.bbamgallery.com/homepage/bbam_june2017_800/>  
+-Jul 12 <http://zartspace.com/Felicity-Tayler-Reecrire-Rewriting>  
 **-Jul 15 <http://linconnue.biz/exhibitions/new-show>**  
+-Jul 22 <http://galerieantoineertaskiran.com/exhibition/2017-come-as-you-are/>  
 
-_Jun 14-Jul 12 <http://zartspace.com/Felicity-Tayler-Reecrire-Rewriting>_  
-_Jun 15-Jul 22 <http://galerieantoineertaskiran.com/exhibition/2017-come-as-you-are/>_  
+_Jun 22-Sep 9 <http://galeriedivision.com/montreal/exhibition/-24>_  

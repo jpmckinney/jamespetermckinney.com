@@ -19,8 +19,8 @@ published: true
 * Jan-Jun <http://torontorollerderby.com/season-schedule/> Feb 11, Mar 4, Mar 25, Apr 8, Apr 22, May 13, Jun 3
 * **Jun-Aug <http://www.openrooffestival.com/> film/music**
 * May-Sep <http://electricisland.to/> music
-* Jun-Sep Union Summer Market food
 * Jun-Sep <http://torontobakersmarket.com/> food
+* Jun-Sep <http://torontounion.ca/news/union-summer> food
 * Jun-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
 * Dec-Mar <http://www.torontolongwinter.com/> art/performance/music
 * <http://www.super8porter.ca/Festivals.htm> film
@@ -36,63 +36,61 @@ published: true
 * <http://censured.info/> film 27-28
 * <http://www.insideout.ca/initiatives/toronto> film 26-Jun 5
 * <http://subtletechnologies.com/festival/> art, tech, science 10-Jun 25
-* _<http://www.ocadu.ca/gallery/gradex.htm> art (grad) 4-8_
+* _<http://www.ocadu.ca/gradex.htm> art (grad) 4-8_
 * _<http://www.maxex.ca/> photography (grad) 2-8, 13-Jun 4_
 
 ### Jun
 
 * **<https://luminatofestival.com/> art/performance/music 14-25**
+* <https://www.torontoartbookfair.com/art-book-week> books 12-18
 * <http://www.nuitrose.ca/> art/performance 16-17
-* <http://loveletterprojects.com/> art 20-25
 * <http://www.thejunctionsummersolstice.com/> 24
-* <http://tasteoftoronto.com/> food 23-26
 * <http://www.pridetoronto.com/> 1-Jul 3
 * <http://torontoqueerfilmfest.com> film 14-17
-* <https://www.torontoartbookfair.com/art-book-week> books 12-18
 * <http://torontojazz.com/> music 24-Jul 3
-* <http://www.unsound.pl/> music 19-21
 * <http://fieldtriplife.com/> music 4-5
-* <http://www.bestival.ca/> music 11-12
 * <http://nxne.com/> music 13-19
+* <http://tasteoftoronto.com/> food 23-26
 * <http://www.taste-of-asia.ca/> food 25-26
+* <s><http://loveletterprojects.com/> art 20-25</s>
+* <s><http://www.unsound.pl/> music 19-21</s>
+* <s><http://www.bestival.ca/> music 11-12</s>
 
 ### Jul
 
-* <http://fringetoronto.com/> performance Jun 29-10
-* **<http://vectorfestival.org/vector-festival-2016/> new media art 13-16**
-* <https://www.facebook.com/events/973999926048189> Senseless art 9
-* <http://torontoartblast.com/> art 9, 16-17, 23-24, 30-31
-* Toronto Art Crawl Entertainment District art 8
-* Momo Crawl food 24
-* <http://bigonbloorfestival.com/> art/culture (street) 23-24
-* <http://torontooutdoorart.org/> largest art fair 8-10
-* <http://nightitup.com/> (Markham) east asian night market 15-17
+* **<http://vectorfestival.org/vector-festival-2016/> art 13-16**
+* **<https://www.facebook.com/events/203378290186123/> food 30**
+* <https://fringetoronto.com/festivals/fringe> performance 5-16
+* <http://torontooutdoorart.org/> art 8-10
+* <http://www.torontoartcrawl.com> art 8
+* <http://bigonbloorfestival.com/> art/culture 23-24
+* <http://nightitup.com/> food 15-17
 * <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=817faf2c85006410VgnVCM10000071d60f89RCRD> Summerlicious food 8-24
-* <https://www.facebook.com/torontoanarchistbookfair> talk 23-24
 * <http://www.alldayidream.com/> music 17
 * <http://digitaldreamsfestival.ca/> music 2-3
 * <http://beachesjazz.com/> music 2-24
-* <http://veldmusicfestival.com/> music 30-31
 * <http://unitycharity.com/unityfest/> music 20-23
 * <http://www.torontosummermusic.com/> music 14-Aug 7
+* <s><http://torontoartblast.com/> art 9, 16-17, 23-24, 30-31</s>
+* <s><https://torontoanarchistbookfair.wordpress.com> talk 23-24</s>
 
 ### Aug
 
+* <http://veldmusicfestival.com/> music 5-6
 * <http://summerworks.ca/> performance 4-14
 * <http://zinedream.com/> comics 19
 * <http://toronto.figmentproject.org/> art 19
-* <http://tract9.com/toronto-events/design-fest-toronto/> design 13
 * <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 19-21
 * <http://theex.com/> fair 19-Sep 5
 * <http://embracepresents.com/festivals/time-festival/> music 6
 
 ### Sep
 
-* <http://www.infuture.ca/> art 15-25
 * **<http://www.tiff.net/festivals/festival16> film 8-18**
 * <http://www.endlesscity.org/forms/events> art 28-30
 * <http://torontourbanrootsfest.com/> music 16-18
 * <http://www.munkdebates.com/> talk
+* <s><http://www.infuture.ca/> art 15-25</s>
 
 ### Oct
 
@@ -101,7 +99,7 @@ published: true
 * <http://queenwestartcrawl.com/> art 1-2
 * <https://www.arttoronto.ca/> art 28-31
 * <http://www.worldpressphotobrookfieldplace.com/> photography 4-25
-* <https://www.musicgallery.org/x-avant-xi-new-music-festival-reverberations/> new music 13-16
+* <https://musicgallery.org/all-events/> music 13-16
 * <http://www.reelworld.ca/> film 12-16
 * <http://planetinfocus.org/> film 18-23
 * <http://www.imaginenative.org/> film 19-23

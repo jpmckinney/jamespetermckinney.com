@@ -42,7 +42,8 @@ _Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://ar
   -Jul 15 <http://openstudio.ca/exhibition/saimaiyu-akesuk-curated-by-nancy-campbell/> <http://openstudio.ca/exhibition/jennie-suddick-speak-freely/> <http://openstudio.ca/exhibition/walter-procska-transforming-colours/>  
 -Jun 30 <http://www.pfoac.com/Toronto/JF_2017_EN.html> Dana Velan, Jérôme Fortin  
 
-_Jun 24-Sep 4 <http://thepowerplant.org/Exhibitions/2017/Summer-2017/The-Milliners-Daughter.aspx>_  
+_Jun 24-Sep 4 <http://www.thepowerplant.org/Exhibitions/2017/Summer-2017/The-Milliners-Daughter.aspx>_  
+_Jun 24-Sep 17 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-summer-2017/>_  
 _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
@@ -52,7 +53,7 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 <u>-Jun 17</u> <http://www.paulpetro.com/exhibitions/497-From-The-Archives-To-Hot-Off-The-Press>  
   -Jul 14 <http://www.paulpetro.com/exhibitions/491-So-Lightly-Here>  
 -Jul 2 <http://katharinemulherin.com/nick-bierk-june-8-july-2-2017> <http://katharinemulherin.com/alex-beriault-paralleled-june-8-july-2-2017>  
--Jul 22 <http://birchcontemporary.com/exhibition/charles-goldman-4x4x4>
+-Jul 22 <http://birchcontemporary.com/exhibition/charles-goldman-4x4x4> <http://birchcontemporary.com/exhibition/donald-sultan-dominoes>  
 -Aug 17 <https://www.facebook.com/events/268513463621284/> Gladstone Su  
   -Aug 18 <https://www.facebook.com/events/1384443938315539/> Gladstone Su  
 -Aug 26 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
@@ -74,12 +75,14 @@ _Jun 17-Jul 9 <http://www.loopgallery.ca/portfolio/linda-heffernan/> <http://www
 ### Bloordale & Junction Triangle
 
 -Jul 15 <http://robertkananajgallery.com/index.php?page=upcoming-exhibits>  
+  -Jul 29 <http://clintroenisch.com/exhibitions/> The Morning Shines With The Lights Of Love  
 -Jul 15 <http://www.olgakorpergallery.com/>  
-  -Jul 31 <http://cuttsgallery.com/save-the-date/save-the-date-gordon-anderson-drew-simpson/#/>  
+  -Jul 31 <http://cuttsgallery.com/exhibitions/gordon-anderson-drew-simpson-richard-stipl/>  
 -Sep 9 <http://www.galeriedivision.com/toronto/exhibition/-sky-leaks>  
-  <http://www.arsenalmontreal.com/en/exhibitions/david-spriggs> <http://www.arsenalmontreal.com/en/exhibitions/mark-jenkins-2>
+  <http://www.arsenalmontreal.com/en/exhibitions/david-spriggs> <http://www.arsenalmontreal.com/en/exhibitions/mark-jenkins-2>  
 
 _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_  
+_Jun 24-Aug 12 <http://www.mercerunion.org/exhibitions/katinka-bock-_o_o__o/>  
 
 ### Dupont St & The Junction
 
@@ -89,6 +92,7 @@ _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_
 -Jul 15 <http://civicstudies.ca/placeandplacement/>  
 -Jul 15 <https://www.christiecontemporary.com/meunier-images>  
 -Jul 15 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>  
+-Jul 21 <http://www.katzmancontemporary.com/1706-fcp>  
 -Jul 30 <http://www.mattergallery.com/exhibitions/2017/6/1/simon-back>  
 -Aug 5 <http://www.katzmancontemporary.com/1706-xiaolei-drive-thru>  
 
