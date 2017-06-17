@@ -60,7 +60,8 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 _Jun 21-Jul 15 <http://www.redheadgallery.org/adam-filek-to-endless-blue-horizons>_  
 _Jun 22-Aug 20 <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhouse-le-reve-aux-loups/> Su_  
-_**Jul 14-Aug 12 <>**_  
+_Jul 1-Jul 31 <http://vectorfestival.org/events/alex-myers-at-loop-hole-gallery/>_  
+_**Jul 14-Aug 12 <http://vectorfestival.org/2017-pattern-recognition/>**_  
 _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-bennett-steven-beckly-sarah-sands-phillips>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
@@ -86,6 +87,7 @@ _Jun 17-Jul 9 <http://www.loopgallery.ca/portfolio/linda-heffernan/> <http://www
 _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_  
   _Jun 22-Jul 29 <http://danielfariagallery.com/exhibitions/katie-lyle-the-weather-in-the-room>_  
 _Jun 24-Aug 12 <http://www.mercerunion.org/exhibitions/katinka-bock-_o_o__o/>_  
+_Jul 13-Jul 16 <http://vectorfestival.org/events/local-host-irl-exhibition/>_  
 
 ### Dupont St & The Junction
 
