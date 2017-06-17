@@ -56,6 +56,8 @@ _Aug 12-Sep 2 <http://www.galeriesimonblais.com/fr/expositions/avenir/> Jean-Mic
 -Jul 14 <http://lelivart.com/portfolio_page/transformation/>  
 -Aug 12 <http://www.pfoac.com/index_FR.html>  
 
+_Sep 16-Oct 21 <https://studioxx.org/en/activities/parade-champions-michele-pearson-clarke/>_  
+
 ### Little Burgundy
 
 -Jul 9 <http://www.bbamgallery.com/homepage/bbam_june2017_800/>  

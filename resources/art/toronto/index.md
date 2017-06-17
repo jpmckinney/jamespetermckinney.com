@@ -58,7 +58,9 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
   -Aug 18 <https://www.facebook.com/events/1384443938315539/> Gladstone Su  
 -Aug 26 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
 
+_Jun 21-Jul 15 <http://www.redheadgallery.org/adam-filek-to-endless-blue-horizons>_  
 _Jun 22-Aug 20 <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhouse-le-reve-aux-loups/> Su_  
+_**Jul 14-Aug 12 <>**_  
 _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-bennett-steven-beckly-sarah-sands-phillips>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
@@ -82,7 +84,8 @@ _Jun 17-Jul 9 <http://www.loopgallery.ca/portfolio/linda-heffernan/> <http://www
   <http://www.arsenalmontreal.com/en/exhibitions/david-spriggs> <http://www.arsenalmontreal.com/en/exhibitions/mark-jenkins-2>  
 
 _Jun 22-Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique_  
-_Jun 24-Aug 12 <http://www.mercerunion.org/exhibitions/katinka-bock-_o_o__o/>  
+  _Jun 22-Jul 29 <http://danielfariagallery.com/exhibitions/katie-lyle-the-weather-in-the-room>_  
+_Jun 24-Aug 12 <http://www.mercerunion.org/exhibitions/katinka-bock-_o_o__o/>_  
 
 ### Dupont St & The Junction
 
@@ -98,3 +101,4 @@ _Jun 24-Aug 12 <http://www.mercerunion.org/exhibitions/katinka-bock-_o_o__o/>
 
 _Jun 17-Aug 25 <http://gallery.alisonmilne.com/exhibitions/introducing-stacey-nichol/>_  
 _Jul 7-Aug 5 <http://coopercolegallery.com/exhibition/tau-lewis-curtis-santiago-2017/>_  
+_Jul 15-Aug 26 <http://angellgallery.com/exhibition/minimal-ist-efforts> <http://angellgallery.com/exhibition/colleen-mccarten>_  

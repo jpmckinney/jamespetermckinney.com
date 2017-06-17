@@ -24,6 +24,7 @@ published: true
 * Jun-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
 * Dec-Mar <http://www.torontolongwinter.com/> art/performance/music
 * <http://www.super8porter.ca/Festivals.htm> film
+* <http://www.torontoartcrawl.com> art
 
 ### May
 
@@ -61,16 +62,15 @@ published: true
 * **<http://vectorfestival.org/vector-festival-2016/> art 13-16**
 * **<https://www.facebook.com/events/203378290186123/> food 30**
 * <https://fringetoronto.com/festivals/fringe> performance 5-16
-* <http://torontooutdoorart.org/> art 8-10
-* <http://www.torontoartcrawl.com> art 8
-* <http://bigonbloorfestival.com/> art/culture 23-24
-* <http://nightitup.com/> food 15-17
-* <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=817faf2c85006410VgnVCM10000071d60f89RCRD> Summerlicious food 8-24
-* <http://www.alldayidream.com/> music 17
-* <http://digitaldreamsfestival.ca/> music 2-3
-* <http://beachesjazz.com/> music 2-24
-* <http://unitycharity.com/unityfest/> music 20-23
-* <http://www.torontosummermusic.com/> music 14-Aug 7
+* <http://torontooutdoorart.org/> art 14-16
+* <http://bigonbloorfestival.com/> art/culture 22-23
+* <http://nightitup.com/> food 14-16
+* <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=817faf2c85006410VgnVCM10000071d60f89RCRD> Summerlicious food 7-23
+* <http://www.alldayidream.com/> music 15
+* <http://digitaldreamsfestival.ca/> music 7-8
+* <http://beachesjazz.com/> music 7-30
+* <http://unitycharity.com/unityfest/> music 13-15
+* <http://www.torontosummermusic.com/> music 13-Aug 5
 * <s><http://torontoartblast.com/> art 9, 16-17, 23-24, 30-31</s>
 * <s><https://torontoanarchistbookfair.wordpress.com> talk 23-24</s>
 
