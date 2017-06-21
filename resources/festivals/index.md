@@ -46,7 +46,7 @@ published: true
 * <https://www.torontoartbookfair.com/art-book-week> books 12-18
 * <http://www.nuitrose.ca/> art/performance 16-17
 * <http://www.thejunctionsummersolstice.com/> 24
-* <http://www.pridetoronto.com/> 1-Jul 3
+* <http://www.pridetoronto.com/> <https://yohomo.ca/> 1-Jul 3
 * <http://torontoqueerfilmfest.com> film 14-17
 * <http://torontojazz.com/> music 24-Jul 3
 * <http://fieldtriplife.com/> music 4-5
@@ -60,17 +60,17 @@ published: true
 ### Jul
 
 * **<http://vectorfestival.org/vector-festival-2016/> art 13-16**
-* **<https://www.facebook.com/events/203378290186123/> food 30**
+* **<https://www.facebook.com/events/203378290186123/> Momo Crawl food 30**
+* **<http://torontooutdoorart.org/> art 14-16**
 * <https://fringetoronto.com/festivals/fringe> performance 5-16
-* <http://torontooutdoorart.org/> art 14-16
 * <http://bigonbloorfestival.com/> art/culture 22-23
-* <http://nightitup.com/> food 14-16
 * <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=817faf2c85006410VgnVCM10000071d60f89RCRD> Summerlicious food 7-23
+* <http://nightitup.com/> Marham food 14-16
 * <http://www.alldayidream.com/> music 15
 * <http://digitaldreamsfestival.ca/> music 7-8
 * <http://beachesjazz.com/> music 7-30
-* <http://unitycharity.com/unityfest/> music 13-15
 * <http://www.torontosummermusic.com/> music 13-Aug 5
+* <http://unitycharity.com/unityfest/> music 13-15
 * <s><http://torontoartblast.com/> art 9, 16-17, 23-24, 30-31</s>
 * <s><https://torontoanarchistbookfair.wordpress.com> talk 23-24</s>
 

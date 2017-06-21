@@ -33,6 +33,7 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
 **-Sep 3 <http://dhc-art.org/> Ed Atkins Su**  
 
 _**Jun 29-Jul 30 <http://matthewnamour.com/expositions/premier-anniversaire/>**_  
+_**Jul 18-Dec 16 <https://phi-centre.com/en/event/lucid-realities-en/>**_  
 
 ### Mile Ex
 
