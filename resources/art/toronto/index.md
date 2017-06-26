@@ -20,7 +20,6 @@ published: true
   -Jul 2 <http://www.ryerson.ca/ric/exhibitions/SeanStiller/>  
 -Sep 4 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/huicholes-%E2%80%93-a-people-walking-towards-the-light> SuW8  
 
-_Jun 23-Jun 25 <https://www.hashtaggallery.com/blogs/upcoming-shows/june-23-25-steve-chmilar-wrong-century>_  
 _**Jun 29- <http://artmatters.ca/wp/2017/01/canada-a-work-in-progress/>**_  
 _Jul 12-Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text>_  
 _Jul 22-Jan 1 <https://www.agakhanmuseum.org/here>_  
@@ -30,16 +29,14 @@ _Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://ar
 
 ### Downtown South
 
-<u>-Jun 24</u> <http://abbozzogallery.com/tadeusz-biernot-solo-exhibition-opening-june-3/>  
-  -Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/> Anne-Marie Proulx, CCC  
+<u>-Jun 30</u> <http://www.pfoac.com/Toronto/JF_2017_EN.html> Dana Velan, Jérôme Fortin  
+-Jul 8 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/> Anne-Marie Proulx, CCC  
   -Jul 8 <https://gallery44.org/exhibitions/proof-24>  
   -Jul 15 <http://openstudio.ca/exhibition/saimaiyu-akesuk-curated-by-nancy-campbell/> <http://openstudio.ca/exhibition/jennie-suddick-speak-freely/> <http://openstudio.ca/exhibition/walter-procska-transforming-colours/>  
   -Jul 15 <http://www.redheadgallery.org/adam-filek-to-endless-blue-horizons>  
-<u>-Jun 30</u> <http://www.pfoac.com/Toronto/JF_2017_EN.html> Dana Velan, Jérôme Fortin  
 -Jul 23 <http://roberta.to> Catherine Telford-Keogh  
+-Sep 17 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-summer-2017/>  
 
-_**Jun 24-Sep 4 <http://www.thepowerplant.org/Exhibitions/2017/Summer-2017/The-Milliners-Daughter.aspx>**_  
-_Jun 24-Sep 17 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-summer-2017/>_  
 _Jun 27-Jul 21 <http://airdgallery.org> Family Focus_  
 _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
 
@@ -57,6 +54,7 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 -Aug 26 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
 
 _Jul 1-Jul 31 <http://vectorfestival.org/events/alex-myers-at-loop-hole-gallery/>_  
+_Jul 5-Aug 18 <http://www.susanhobbs.com/exhibits/1402-a-viewing-room-v2>_  
 _**Jul 14-Aug 12 <http://vectorfestival.org/2017-pattern-recognition/>**_  
 _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-bennett-steven-beckly-sarah-sands-phillips>_  
 
@@ -64,25 +62,25 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 
 ### Dundas St
 
-<u>-Jun 23</u> <http://milkglassco.tumblr.com/post/161583145967/june-16-23-at-milk-glass-birth-and-its-meanings>  
-<u>-Jun 24</u> <http://mkg127.com/upcomingshows.html> Bill Burns  
 -Jul 9 <http://www.loopgallery.ca/portfolio/linda-heffernan/> <http://www.loopgallery.ca/portfolio/martha-eleen/>  
+
+_Jul 1-Aug 12 <http://mkg127.com/upcomingshows.html>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
 
 ### Bloordale & Junction Triangle
 
 -Jul 15 <http://robertkananajgallery.com/index.php?page=upcoming-exhibits>  
+  -Jul 29 <http://gallerytpw.ca/exhibitions/kelly-jazvac/>  
   -Jul 29 <http://clintroenisch.com/exhibitions/> The Morning Shines With The Lights Of Love  
   -Jul 29 <http://danielfariagallery.com/exhibitions/katie-lyle-the-weather-in-the-room>  
   -Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique  
 -Jul 15 <http://www.olgakorpergallery.com/>  
   -Jul 31 <http://cuttsgallery.com/exhibitions/gordon-anderson-drew-simpson-richard-stipl/>  
+-Aug 12 <http://www.mercerunion.org/exhibitions/katinka-bock-_o_o__o/>  
 -Sep 9 <http://www.galeriedivision.com/toronto/exhibition/-sky-leaks>  
   <http://www.arsenalmontreal.com/en/exhibitions/david-spriggs> <http://www.arsenalmontreal.com/en/exhibitions/mark-jenkins-2>  
 
-_Jun 24-Jul 29 <http://gallerytpw.ca/exhibitions/kelly-jazvac/>_  
-_Jun 24-Aug 12 <http://www.mercerunion.org/exhibitions/katinka-bock-_o_o__o/>_  
 _Jul 13-Jul 16 <http://vectorfestival.org/events/local-host-irl-exhibition/>_  
 
 ### Dupont St & The Junction
@@ -93,11 +91,11 @@ _Jul 13-Jul 16 <http://vectorfestival.org/events/local-host-irl-exhibition/>_
 -Jul 15 <http://civicstudies.ca/placeandplacement/>  
 -Jul 15 <https://www.christiecontemporary.com/meunier-images>  
 -Jul 15 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>  
+-Jul 15 <http://dupontprojects.com/exhibitions/> Mackenzie Ludlow, Adam Revington  
 -Jul 21 <http://www.katzmancontemporary.com/1706-fcp>  
 -Jul 30 <http://www.mattergallery.com/exhibitions/2017/6/1/simon-back>  
 -Aug 5 <http://www.katzmancontemporary.com/1706-xiaolei-drive-thru>  
 -Aug 25 <http://gallery.alisonmilne.com/exhibitions/introducing-stacey-nichol/>  
 
-_Jun 24-Jul 15 <http://dupontprojects.com/exhibitions/> Mackenzie Ludlow, Adam Revington_  
 _Jul 7-Aug 5 <http://coopercolegallery.com/exhibition/tau-lewis-curtis-santiago-2017/>_  
 _Jul 15-Aug 26 <http://angellgallery.com/exhibition/minimal-ist-efforts> <http://angellgallery.com/exhibition/colleen-mccarten>_  

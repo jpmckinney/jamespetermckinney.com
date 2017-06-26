@@ -59,7 +59,7 @@ published: true
 
 ### Jul
 
-* **<http://vectorfestival.org/vector-festival-2016/> art 13-16**
+* **<http://vectorfestival.org> art 13-16**
 * **<https://www.facebook.com/events/203378290186123/> Momo Crawl food 30**
 * **<http://torontooutdoorart.org/> art 14-16**
 * <https://fringetoronto.com/festivals/fringe> performance 5-16
