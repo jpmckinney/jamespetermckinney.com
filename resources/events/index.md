@@ -38,6 +38,7 @@ published: true
 ### Listings
 
 * <http://www.onthegrid.city/toronto/>
+* <https://yohomo.ca>
 * <https://nowtoronto.com/>
 * <http://www.blogto.com/events/>
 * <http://www.blogto.com/radar/>
