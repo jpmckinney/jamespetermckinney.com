@@ -14,9 +14,8 @@ published: true
 
 ### Downtown North
 
-<u>-Jul 9</u> <https://www.facebook.com/events/1386601974760108/> Hashtag  
 **-Jul 15 <http://artmuseum.utoronto.ca/exhibition/its-all-happening-so-fast/>**  
-**-Aug 13 <http://www.ryerson.ca/ric/exhibitions/Dean/>**  
+**-Aug 13 <http://www.ryerson.ca/ric/exhibitions/Dean/> Jordan Browne **  
 -Sep 4 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/huicholes-%E2%80%93-a-people-walking-towards-the-light> SuW8  
 **-Dec 10 <http://artmatters.ca/wp/2017/01/canada-a-work-in-progress/>**  
 
@@ -28,12 +27,11 @@ _Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://ar
 
 ### Downtown South
 
-<u>-Jul 8</u> <http://www.yyzartistsoutlet.org/upcoming-exhibitions/> Anne-Marie Proulx, CCC  
-  <u>-Jul 8</u> <https://gallery44.org/exhibitions/proof-24>  
-  -Jul 15 <http://openstudio.ca/exhibition/saimaiyu-akesuk-curated-by-nancy-campbell/> <http://openstudio.ca/exhibition/jennie-suddick-speak-freely/> <http://openstudio.ca/exhibition/walter-procska-transforming-colours/>  
+-Jul 15 <http://openstudio.ca/exhibition/saimaiyu-akesuk-curated-by-nancy-campbell/> <http://openstudio.ca/exhibition/jennie-suddick-speak-freely/> <http://openstudio.ca/exhibition/walter-procska-transforming-colours/>  
   -Jul 15 <http://www.redheadgallery.org/adam-filek-to-endless-blue-horizons>  
 -Jul 21 <http://airdgallery.org> Family Focus  
 -Jul 23 <http://roberta.to> Catherine Telford-Keogh  
+-Aug 2 <https://www.coldstreamfineart.com/#/squeezed-gareb-shamus-junjul/>  
 -Sep 17 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-summer-2017/>  
 
 _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
@@ -44,6 +42,7 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 -Jul 15 <http://www.paulpetro.com/exhibitions/497-From-The-Archives-To-Hot-Off-The-Press>  
   -Jul 15 <http://www.paulpetro.com/exhibitions/491-So-Lightly-Here>  
+-Jul 16 <http://www.gallery50.ca/2017/06/art-brownie-summertime-xpecial.html>  
 -Jul 22 <http://birchcontemporary.com/exhibition/charles-goldman-4x4x4> <http://birchcontemporary.com/exhibition/donald-sultan-dominoes>  
   -Aug 18 <http://www.susanhobbs.com/exhibits/1402-a-viewing-room-v2>  
 -Jul 31 <http://vectorfestival.org/events/alex-myers-at-loop-hole-gallery/>  
@@ -52,7 +51,6 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 -Aug 20 <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhouse-le-reve-aux-loups/> Su  
 -Aug 26 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
 
-_Jul 8-Jul 16 <http://www.gallery50.ca/2017/06/art-brownie-summertime-xpecial.html>_  
 _**Jul 14-Aug 12 <http://vectorfestival.org/2017-pattern-recognition/>**_  
 _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-bennett-steven-beckly-sarah-sands-phillips>_  
 
@@ -60,7 +58,6 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 
 ### Dundas St
 
-<u>-Jul 9</u> <http://www.loopgallery.ca/portfolio/linda-heffernan/> <http://www.loopgallery.ca/portfolio/martha-eleen/>  
 -Aug 12 <http://mkg127.com/upcomingshows.html>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
@@ -83,9 +80,9 @@ _Jul 13-Jul 16 <http://vectorfestival.org/events/local-host-irl-exhibition/>_
 
 ### Dupont St & The Junction
 
-<u>-Jul 8</u> <https://coopercolegallery.com/exhibition/bjorn-copeland-extra-medium-2017/> <https://coopercolegallery.com/exhibition/nikki-woolsey-daily-luge-2017/>  
 <u>-Jul 8</u> <http://www.angellgallery.com/exhibition/delta-flowers> <http://www.angellgallery.com/exhibition/impossible-gardens>  
 <u>-Jul 8</u> <http://becontemporary.com/upcoming.php> Ray Mead  
+-Jul 15 <https://coopercolegallery.com/exhibition/bjorn-copeland-extra-medium-2017/> <https://coopercolegallery.com/exhibition/nikki-woolsey-daily-luge-2017/>  
 -Jul 15 <http://civicstudies.ca/placeandplacement/>  
 -Jul 15 <https://www.christiecontemporary.com/meunier-images>  
 -Jul 15 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>  
@@ -95,5 +92,5 @@ _Jul 13-Jul 16 <http://vectorfestival.org/events/local-host-irl-exhibition/>_
 -Aug 5 <http://www.katzmancontemporary.com/1706-xiaolei-drive-thru>  
 -Aug 25 <http://gallery.alisonmilne.com/exhibitions/introducing-stacey-nichol/>  
 
-_Jul 7-Aug 5 <http://coopercolegallery.com/exhibition/tau-lewis-curtis-santiago-2017/>_  
 _Jul 15-Aug 26 <http://angellgallery.com/exhibition/minimal-ist-efforts> <http://angellgallery.com/exhibition/colleen-mccarten>_  
+_Jul 21-Aug 26 <http://coopercolegallery.com/exhibition/tau-lewis-curtis-santiago-2017/> <https://coopercolegallery.com/exhibition/daniel-rios-rodriguez/>_  
