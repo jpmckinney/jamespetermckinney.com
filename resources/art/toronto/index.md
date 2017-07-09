@@ -15,7 +15,7 @@ published: true
 ### Downtown North
 
 **-Jul 15 <http://artmuseum.utoronto.ca/exhibition/its-all-happening-so-fast/>**  
-**-Aug 13 <http://www.ryerson.ca/ric/exhibitions/Dean/> Jordan Browne **  
+**-Aug 13 <http://www.ryerson.ca/ric/exhibitions/Dean/> Jordan Browne**  
 -Sep 4 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/huicholes-%E2%80%93-a-people-walking-towards-the-light> SuW8  
 **-Dec 10 <http://artmatters.ca/wp/2017/01/canada-a-work-in-progress/>**  
 
@@ -80,8 +80,6 @@ _Jul 13-Jul 16 <http://vectorfestival.org/events/local-host-irl-exhibition/>_
 
 ### Dupont St & The Junction
 
-<u>-Jul 8</u> <http://www.angellgallery.com/exhibition/delta-flowers> <http://www.angellgallery.com/exhibition/impossible-gardens>  
-<u>-Jul 8</u> <http://becontemporary.com/upcoming.php> Ray Mead  
 -Jul 15 <https://coopercolegallery.com/exhibition/bjorn-copeland-extra-medium-2017/> <https://coopercolegallery.com/exhibition/nikki-woolsey-daily-luge-2017/>  
 -Jul 15 <http://civicstudies.ca/placeandplacement/>  
 -Jul 15 <https://www.christiecontemporary.com/meunier-images>  
