@@ -73,7 +73,7 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
   -Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique  
 <u>-Jul 15</u> <http://www.olgakorpergallery.com/>  
   -Jul 31 <http://cuttsgallery.com/exhibitions/gordon-anderson-drew-simpson-richard-stipl/>  
-<u>-Jul 16</u> <http://vectorfestival.org/events/local-host-irl-exhibition/>  
+<u>-Jul 16</u> <http://vectorfestival.org/events/local-host-irl-exhibition/> Black Cat Artspace  
 -Jul 22 <http://www.franzkaka.com/vanessa-disler-unfinished-business.html>  
 -Aug 12 <http://www.mercerunion.org/exhibitions/katinka-bock-_o_o__o/>  
 -Sep 9 <http://www.galeriedivision.com/toronto/exhibition/-sky-leaks>  
@@ -82,11 +82,11 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 ### Dupont St & The Junction
 
 <u>-Jul 15</u> <https://coopercolegallery.com/exhibition/bjorn-copeland-extra-medium-2017/> <https://coopercolegallery.com/exhibition/nikki-woolsey-daily-luge-2017/>  
-<u>-Jul 15</u> <http://civicstudies.ca/placeandplacement/>  
-<u>-Jul 15</u> <https://www.christiecontemporary.com/meunier-images>  
-<u>-Jul 15</u> <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>  
+**<u>-Jul 15</u> <http://civicstudies.ca/placeandplacement/>**  
+**<u>-Jul 15</u> <https://www.christiecontemporary.com/meunier-images>**  
+<u>-Jul 15</u> <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
 <u>-Jul 15</u> <http://dupontprojects.com/exhibitions/> Mackenzie Ludlow, Adam Revington  
--Jul 21 <http://www.katzmancontemporary.com/1706-fcp>  
+**-Jul 21 <http://www.katzmancontemporary.com/1706-fcp>**  
 -Jul 29 <http://erinstumpprojects.com/current-exhibitions/hiba-abdallah-amanda-boulos-andrew-buszchak-peter-denton-shannon-gardensmith-daniel-griffin-hunt-jessica-jang-brennan-kelly-haeahn-kwon-megan-moore-kevin-murphy-jeanmarc-perin-walter-scott-larissa-tiggelers-yes-frills>  
 -Jul 30 <http://www.mattergallery.com/exhibitions/2017/6/1/simon-back>  
 -Aug 5 <http://www.katzmancontemporary.com/1706-xiaolei-drive-thru>  
