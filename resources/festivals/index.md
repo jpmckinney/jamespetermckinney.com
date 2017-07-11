@@ -19,6 +19,7 @@ published: true
 * Jan-Jun <http://torontorollerderby.com/season-schedule/> Feb 11, Mar 4, Mar 25, Apr 8, Apr 22, May 13, Jun 3
 * **Jun-Aug <http://www.openrooffestival.com/> film/music**
 * May-Sep <http://electricisland.to/> music
+* **Jun-Sep <https://www.canadianstage.com/> theatre Shakespeare in High Park**
 * Jun-Sep <http://torontobakersmarket.com/> food
 * Jun-Sep <http://torontounion.ca/news/union-summer> food
 * Jun-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
@@ -64,6 +65,7 @@ published: true
 * **<http://torontooutdoorart.org/> art 14-16**
 * <https://fringetoronto.com/festivals/fringe> performance 5-16
 * <http://bigonbloorfestival.com/> art/culture 22-23
+* <http://bubblerun.com/upcoming-locations/toronto-can-2017/> race 8
 * <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=817faf2c85006410VgnVCM10000071d60f89RCRD> Summerlicious food 7-23
 * <http://nightitup.com/> Marham food 14-16
 * <http://www.alldayidream.com/> music 15
