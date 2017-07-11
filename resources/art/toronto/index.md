@@ -74,7 +74,7 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 <u>-Jul 15</u> <http://www.olgakorpergallery.com/>  
   -Jul 31 <http://cuttsgallery.com/exhibitions/gordon-anderson-drew-simpson-richard-stipl/>  
 <u>-Jul 16</u> <http://vectorfestival.org/events/local-host-irl-exhibition/>  
--Jul 22 <http://www.franzkaka.com/vanessa-disler-unfinished-business.html>
+-Jul 22 <http://www.franzkaka.com/vanessa-disler-unfinished-business.html>  
 -Aug 12 <http://www.mercerunion.org/exhibitions/katinka-bock-_o_o__o/>  
 -Sep 9 <http://www.galeriedivision.com/toronto/exhibition/-sky-leaks>  
   <http://www.arsenalmontreal.com/en/exhibitions/david-spriggs> <http://www.arsenalmontreal.com/en/exhibitions/mark-jenkins-2>  
