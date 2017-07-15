@@ -84,7 +84,7 @@ published: true
 * <http://toronto.figmentproject.org/> art 19
 * <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 19-21
 * <http://theex.com/> fair 19-Sep 5
-* <http://embracepresents.com/festivals/time-festival/> music 6
+* <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6
 
 ### Sep
 
@@ -96,7 +96,7 @@ published: true
 
 ### Oct
 
-* <http://7a-11d.ca/> performance biennial
+* <http://7a-11d.ca/> performance biennial (odd)
 * <http://www.nbto.com/> art 1 \Sep
 * <http://queenwestartcrawl.com/> art 1-2
 * <https://www.arttoronto.ca/> art 28-31
