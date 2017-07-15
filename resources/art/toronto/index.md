@@ -14,10 +14,10 @@ published: true
 
 ### Downtown North
 
-**-Aug 13 <http://www.ryerson.ca/ric/exhibitions/Dean/> Jordan Browne**  
+**-Aug 13 <http://www.ryerson.ca/ric/exhibitions/Dean/> Jordan Browne SuW8**  
 -Sep 4 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/huicholes-%E2%80%93-a-people-walking-towards-the-light> SuW8  
 **-Dec 10 <http://artmatters.ca/wp/2017/01/canada-a-work-in-progress/>**  
--Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text>  
+-Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text> SuW8  
 
 _Jul 22-Jan 1 <https://www.agakhanmuseum.org/here>_  
 _Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://artmuseum.utoronto.ca/exhibition/in-dialogue/>_  
@@ -31,9 +31,9 @@ _Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://ar
 <u>-Jul 23</u> <http://roberta.to> Catherine Telford-Keogh  
 -Jul 29 <https://gallery44.org/exhibitions/outreach-2017-borders> <https://gallery44.org/exhibitions/365-2017> <https://gallery44.org/exhibitions/another-place-not-here>  
 -Aug 2 <https://www.coldstreamfineart.com/#/squeezed-gareb-shamus-junjul/>  
--Sep 17 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-summer-2017/>  
+-Sep 17 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-summer-2017/> Su  
 
-_Jul 19-29 <http://www.redheadgallery.org/ruth-roach-pierson-post-me-a-card>_  
+_Jul 19-Jul 29 <http://www.redheadgallery.org/ruth-roach-pierson-post-me-a-card>_  
 _Aug 2-Aug 5 <http://www.redheadgallery.org/sean-wainsteim-keep-well>_  
 _Aug 8-Aug 19 <http://www.redheadgallery.org/troy-brooks-shinigami>_  
 _Aug 22-Aug 26 <http://www.redheadgallery.org/cate-mcguire-all-the-air-in-the-room>_  
@@ -46,10 +46,10 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 <u>-Jul 22</u> <http://birchcontemporary.com/exhibition/charles-goldman-4x4x4> <http://birchcontemporary.com/exhibition/donald-sultan-dominoes>  
   -Aug 18 <http://www.susanhobbs.com/exhibits/1402-a-viewing-room-v2>  
--Jul 31 <http://vectorfestival.org/events/alex-myers-at-loop-hole-gallery/>  
+-Jul 31 <http://vectorfestival.org/events/alex-myers-at-loop-hole-gallery/> Su  
 **-Aug 12 <http://vectorfestival.org/2017-pattern-recognition/>**  
--Aug 17 <https://www.facebook.com/events/268513463621284/> Gladstone Su  
-  -Aug 18 <https://www.facebook.com/events/1384443938315539/> Gladstone Su  
+-Aug 17 <http://www.gladstonehotel.com/spaces/tsg-uprising/> Su  
+  -Aug 18 <http://www.gladstonehotel.com/spaces/10x10photoproject2017/> Su  
 -Aug 20 <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhouse-le-reve-aux-loups/> Su  
 -Aug 26 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
 
@@ -59,23 +59,23 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 
 ### Dundas St
 
-<u>-Jul 23</u> <https://www.hashtaggallery.com/blogs/upcoming-shows/july-13-23-hashtag-summer-show>  
+<u>-Jul 23</u> <https://www.hashtaggallery.com/blogs/upcoming-shows/july-13-23-hashtag-summer-show> late Su  
 -Aug 12 <http://mkg127.com/upcomingshows.html>  
--Aug 16 <http://www.loopgallery.ca/2017/07/10/michael-pflug-paintings/>  
+-Aug 16 <http://www.loopgallery.ca/2017/07/10/michael-pflug-paintings/> Su  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
 
 ### Bloordale & Junction Triangle
 
 <u>-Jul 22</u> <http://www.franzkaka.com/vanessa-disler-unfinished-business.html>  
--Jul 29 <http://gallerytpw.ca/exhibitions/kelly-jazvac/>  
+**-Jul 29 <http://gallerytpw.ca/exhibitions/kelly-jazvac/>**  
   -Jul 29 <http://clintroenisch.com/exhibitions/> The Morning Shines With The Lights Of Love  
   -Jul 29 <http://danielfariagallery.com/exhibitions/katie-lyle-the-weather-in-the-room>  
   -Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique  
 -Jul 31 <http://cuttsgallery.com/exhibitions/gordon-anderson-drew-simpson-richard-stipl/>  
 -Aug 12 <http://www.mercerunion.org/exhibitions/katinka-bock-_o_o__o/>  
 -Sep 9 <http://www.galeriedivision.com/toronto/exhibition/-sky-leaks>  
-  <http://www.arsenalmontreal.com/en/exhibitions/david-spriggs> <http://www.arsenalmontreal.com/en/exhibitions/mark-jenkins-2>  
+  -Sep 9 <http://www.arsenalmontreal.com/en/exhibitions/david-spriggs> <http://www.arsenalmontreal.com/en/exhibitions/mark-jenkins-2>  
 
 ### Dupont St & The Junction
 
