@@ -16,7 +16,7 @@ published: true
 
 **-Aug 13 <http://www.ryerson.ca/ric/exhibitions/Dean/> Jordan Browne SuW8**  
 -Sep 4 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/huicholes-%E2%80%93-a-people-walking-towards-the-light> SuW8  
-**-Dec 10 <http://artmatters.ca/wp/2017/01/canada-a-work-in-progress/>**  
+**-Dec 10 <http://www.ago.net/every-now-then-reframing-nationhood> SuW9F9**  
 -Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text> SuW8  
 
 _Jul 22-Jan 1 <https://www.agakhanmuseum.org/here>_  
@@ -26,7 +26,7 @@ _Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://ar
 
 ### Downtown South
 
-**<u>-Jul 21</u> <http://www.katzmancontemporary.com/1706-fcp>** First Canadian Place  
+**<u>-Jul 21</u> <http://www.katzmancontemporary.com/1706-fcp> First Canadian Place Su**  
 <u>-Jul 21</u> <http://airdgallery.org> Family Focus  
 <u>-Jul 23</u> <http://roberta.to> Catherine Telford-Keogh  
 -Jul 29 <https://gallery44.org/exhibitions/outreach-2017-borders> <https://gallery44.org/exhibitions/365-2017> <https://gallery44.org/exhibitions/another-place-not-here>  
@@ -47,11 +47,11 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 <u>-Jul 22</u> <http://birchcontemporary.com/exhibition/charles-goldman-4x4x4> <http://birchcontemporary.com/exhibition/donald-sultan-dominoes>  
   -Aug 18 <http://www.susanhobbs.com/exhibits/1402-a-viewing-room-v2>  
 -Jul 31 <http://vectorfestival.org/events/alex-myers-at-loop-hole-gallery/> Su  
-**-Aug 12 <http://vectorfestival.org/2017-pattern-recognition/>**  
+**-Aug 12 <http://vectorfestival.org/2017-pattern-recognition/> W8**  
 -Aug 17 <http://www.gladstonehotel.com/spaces/tsg-uprising/> Su  
   -Aug 18 <http://www.gladstonehotel.com/spaces/10x10photoproject2017/> Su  
 -Aug 20 <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhouse-le-reve-aux-loups/> Su  
--Aug 26 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
+-Aug 26 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html> Su  
 
 _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-bennett-steven-beckly-sarah-sands-phillips>_  
 
