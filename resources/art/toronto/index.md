@@ -71,6 +71,7 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 **-Jul 29 <http://gallerytpw.ca/exhibitions/kelly-jazvac/>**  
   -Jul 29 <http://clintroenisch.com/exhibitions/> The Morning Shines With The Lights Of Love  
   -Jul 29 <http://danielfariagallery.com/exhibitions/katie-lyle-the-weather-in-the-room>  
+  -Sep 9 <http://robertkananajgallery.com/index.php?page=upcoming-exhibits>  
   -Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique  
 -Jul 31 <http://cuttsgallery.com/exhibitions/gordon-anderson-drew-simpson-richard-stipl/>  
 -Aug 12 <http://www.mercerunion.org/exhibitions/katinka-bock-_o_o__o/>  
