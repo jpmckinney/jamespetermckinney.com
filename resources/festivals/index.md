@@ -32,10 +32,12 @@ published: true
 * **<http://vectorfestival.org> art 13-16**
 * **<http://torontooutdoorart.org/> art 14-16**
 * **<https://www.facebook.com/events/203378290186123/> Momo Crawl food 30**
+* <https://mowatcentre.ca/category/policy-in-a-pub/> meetup 13
 * <https://fringetoronto.com/festivals/fringe> performance 5-16
 * <http://bigonbloorfestival.com/> art/culture 22-23
 * <http://bubblerun.com/upcoming-locations/toronto-can-2017/> race 8
 * <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=817faf2c85006410VgnVCM10000071d60f89RCRD> Summerlicious food 7-23
+* <http://makerfestival.ca> 6-Aug 6
 * <http://nightitup.com/> Markham food 14-16
 * <http://www.alldayidream.com/> music 15
 * <http://digitaldreamsfestival.ca/> music 7-8
@@ -99,6 +101,7 @@ published: true
 * <http://buddiesinbadtimes.com/show/the-37th-rhubarb-festival/> performance 17-28
 * <http://www.eroticartsandcrafts.com/> 11
 * <http://2017.cinefranco.com/en/2016-festival> film 21-Mar 7
+* <http://playgroundconf.com> conference 23-25
 
 ### Mar
 
@@ -108,7 +111,7 @@ published: true
 
 ### Apr
 
-* <http://www.ppforum.ca/annual-dinners/testimonial-dinner> **#WonkProm** 20
+* <http://www.ppforum.ca/annual-dinners/testimonial-dinner> **#WonkProm** meetup 20
 * **<http://scotiabankcontactphoto.com/> photography 28-30**
 * **<http://imagesfestival.com/> art 14-23**
 * <http://fashionarttoronto.ca/> art/fashion 18-22
