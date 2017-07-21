@@ -10,7 +10,7 @@ published: true
 
 **[GALLERY MAP](https://www.google.com/maps/d/u/0/edit?mid=1pKDvWCvnInNN2igV2ruxxL_srzE)**
 
-<p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon. Exhibitions are removed once visited.</p>
+<span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon. Exhibitions are removed once visited.
 
 **-Aug 6 <http://tohu.ca/fr/programmation/spectacle/2016-2017/vice-and-vertu/>**  
 

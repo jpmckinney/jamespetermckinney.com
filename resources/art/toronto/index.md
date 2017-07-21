@@ -10,7 +10,9 @@ published: true
 
 **[GALLERY MAP](https://www.google.com/maps/d/u/0/edit?mid=1sMiga7vQsqWdqEVQCqHsxjX2jeU)**
 
-<p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon. Exhibitions are removed once visited.</p>
+<span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon. Exhibitions are removed once visited.
+
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Museums: Sunday, late: Aga Khan W8, Bata Shoe U8, DX, Gardiner F9, ROM F8
 
 ### Downtown North
 
@@ -23,6 +25,10 @@ _Jul 22-Jan 1 <https://www.agakhanmuseum.org/here>_
 _Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://artmuseum.utoronto.ca/exhibition/in-dialogue/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
+
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Sunday: AGO, Ryerson, Textile, Hashtag, Bau-Xi / Daniels Spectrum, Mississauga, OFFSITE, Parts, Project, Spence
+
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Late: AGO WF9, Ryerson W8, Art Museum W8, Textile W8, Hashtag 10 / Daniels Spectrum 9, Mississauga U8, Spence 8
 
 ### Downtown South
 
@@ -42,6 +48,10 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Sunday: Power Plant, Harbourfront / Arta, Corkin, Proof Studio, Struck, Thompson Landry
+
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Late: Power Plant U8, Coldstream 7 / Urban U8
+
 ### Queen St
 
 <u>-Jul 22</u> <http://birchcontemporary.com/exhibition/charles-goldman-4x4x4> <http://birchcontemporary.com/exhibition/donald-sultan-dominoes>  
@@ -57,6 +67,10 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Sunday: Koffler, Critical Distance, Gladstone Hotel, Craft, Graven Feather / 1313, BAND, David Kaye, Katharine Mulherin, Loop Hole, Northern, Nuvango, Propeller
+
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Late: InterAccess W8, Only One 7
+
 ### Dundas St
 
 <u>-Jul 23</u> <https://www.hashtaggallery.com/blogs/upcoming-shows/july-13-23-hashtag-summer-show> late Su  
@@ -64,6 +78,8 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 -Aug 16 <http://www.loopgallery.ca/2017/07/10/michael-pflug-paintings/> Su  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
+
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Sunday: Loop / Unlovable
 
 ### Bloordale & Junction Triangle
 
@@ -77,6 +93,8 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 -Aug 12 <http://www.mercerunion.org/exhibitions/katinka-bock-_o_o__o/>  
 -Sep 9 <http://www.galeriedivision.com/toronto/exhibition/-sky-leaks>  
   -Sep 9 <http://www.arsenalmontreal.com/en/exhibitions/david-spriggs> <http://www.arsenalmontreal.com/en/exhibitions/mark-jenkins-2>  
+
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Sunday: Darren
 
 ### Dupont St & The Junction
 

@@ -12,7 +12,7 @@ published: true
 
 ## Toronto
 
-<p><span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-go. <em>Italic</em> is student art.</p>
+<span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-go. <em>Italic</em> is student art.
 
 ### Seasonal
 
@@ -145,6 +145,7 @@ published: true
 
 * **<https://luminatofestival.com/> art/performance/music 14-25**
 * <https://www.torontoartbookfair.com/art-book-week> books 12-18
+* <http://dancemakers.org/events/> dance 13-24
 * <http://www.nuitrose.ca/> art/performance 16-17
 * <http://www.thejunctionsummersolstice.com/> 24
 * <http://www.pridetoronto.com/> <https://yohomo.ca/> 1-Jul 3
