@@ -12,7 +12,7 @@ published: true
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon. Exhibitions are removed once visited.
 
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Museums: Sunday, late: Aga Khan W8, Bata Shoe U8, DX, Gardiner F9, ROM F8
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Museums: Aga Khan W8, Bata Shoe U8, DX, Gardiner F9, ROM F8
 
 ### Downtown North
 
@@ -27,9 +27,9 @@ _Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://ar
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Sunday: AGO, Ryerson, Textile, Hashtag, Bau-Xi / Daniels Spectrum, Mississauga, OFFSITE, Parts, Project, Spence
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> AGO, Ryerson, Textile, Hashtag, Bau-Xi / Daniels Spectrum, Mississauga, OFFSITE, Parts, Project, Spence
 
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Late: AGO WF9, Ryerson W8, Art Museum W8, Textile W8, Hashtag 10 / Daniels Spectrum 9, Mississauga U8, Spence 8
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> AGO WF9, Ryerson W8, Art Museum W8, Textile W8, Hashtag 10 / Daniels Spectrum 9, Mississauga U8, Spence 8
 
 ### Downtown South
 
@@ -49,9 +49,9 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Sunday: Power Plant, Harbourfront / Arta, Corkin, Proof Studio, Struck, Thompson Landry
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Power Plant, Harbourfront / Arta, Corkin, Proof Studio, Struck, Thompson Landry
 
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Late: Power Plant U8, Coldstream 7 / Urban U8
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Power Plant U8, Coldstream 7 / Urban U8
 
 ### Queen St
 
@@ -68,9 +68,9 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Sunday: Koffler, Critical Distance, Gladstone Hotel, Craft, Graven Feather / 1313, BAND, David Kaye, Katharine Mulherin, Loop Hole, Northern, Nuvango, Propeller
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Koffler, Critical Distance, Gladstone Hotel, Craft, Graven Feather / 1313, BAND, David Kaye, Katharine Mulherin, Loop Hole, Northern, Nuvango, Propeller
 
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> Late: InterAccess W8, Only One 7
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> InterAccess W8, Only One 7
 
 ### Dundas St
 
@@ -79,7 +79,7 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Sunday: Loop / Unlovable
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Loop / Unlovable
 
 ### Bloordale & Junction Triangle
 
@@ -94,7 +94,7 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 -Sep 9 <http://www.galeriedivision.com/toronto/exhibition/-sky-leaks>  
   -Sep 9 <http://www.arsenalmontreal.com/en/exhibitions/david-spriggs> <http://www.arsenalmontreal.com/en/exhibitions/mark-jenkins-2>  
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Sunday: Darren
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
