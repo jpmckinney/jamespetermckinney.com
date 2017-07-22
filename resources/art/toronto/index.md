@@ -16,7 +16,7 @@ published: true
 
 ### Downtown North
 
-**-Aug 13 <http://www.ryerson.ca/ric/exhibitions/Dean/> Jordan Browne**  
+**<u>-Aug 13</u> <http://www.ryerson.ca/ric/exhibitions/Dean/> Jordan Browne**  
 -Sep 4 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/huicholes-%E2%80%93-a-people-walking-towards-the-light>  
 **-Dec 10 <http://www.ago.net/every-now-then-reframing-nationhood>**  
 **-Jan 1 <https://www.agakhanmuseum.org/here>**  
@@ -55,10 +55,10 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 ### Queen St
 
 <u>-Jul 31</u> <http://vectorfestival.org/events/alex-myers-at-loop-hole-gallery/>  
-**-Aug 12 <http://vectorfestival.org/2017-pattern-recognition/>**  
--Aug 17 <http://www.gladstonehotel.com/spaces/tsg-uprising/>  
-  -Aug 18 <http://www.gladstonehotel.com/spaces/10x10photoproject2017/>  
--Aug 18 <http://www.susanhobbs.com/exhibits/1402-a-viewing-room-v2>  
+**<u>-Aug 12</u> <http://vectorfestival.org/2017-pattern-recognition/>**  
+-<u>Aug 17</u> <http://www.gladstonehotel.com/spaces/tsg-uprising/>  
+  -<u>Aug 18</u> <http://www.gladstonehotel.com/spaces/10x10photoproject2017/>  
+-<u>Aug 18</u> <http://www.susanhobbs.com/exhibits/1402-a-viewing-room-v2>  
 -Aug 20 <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhouse-le-reve-aux-loups/>  
 -Aug 26 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
 
@@ -73,8 +73,8 @@ _Sep 7-Oct 14 <http://birchcontemporary.com/exhibition/howard-podeswa-still-life
 
 ### Dundas St
 
--Aug 12 <http://mkg127.com/current/current.html>  
--Aug 16 <http://www.loopgallery.ca/2017/07/10/michael-pflug-paintings/>  
+-<u>Aug 12</u> <http://mkg127.com/current/current.html>  
+-<u>Aug 16</u> <http://www.loopgallery.ca/2017/07/10/michael-pflug-paintings/>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
 
@@ -88,4 +88,4 @@ _Sep 7-Oct 14 <http://birchcontemporary.com/exhibition/howard-podeswa-still-life
 
 ### Dupont St & The Junction
 
--Aug 19 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>  
+-Aug 19 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
