@@ -38,8 +38,10 @@ _Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://ar
 <u>-Aug 2</u> <https://www.coldstreamfineart.com/#/squeezed-gareb-shamus-junjul/>  
 -Sep 17 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-summer-2017/>  
 
+_Jul 29-Aug 26 <http://abbozzogallery.com/celebrating-canada/>_  
 _Aug 2-Aug 5 <http://www.redheadgallery.org/sean-wainsteim-keep-well>_  
 _Aug 8-Aug 19 <http://www.redheadgallery.org/troy-brooks-shinigami>_  
+_Aug 12-Sep 16 <http://roberta.to/artists/motel@roberta/motel@roberta.html>_  
 _Aug 22-Aug 26 <http://www.redheadgallery.org/cate-mcguire-all-the-air-in-the-room>_  
 _Aug 30-Sep 23 <http://www.redheadgallery.org/jack-butler-blidfold>_  
 _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
@@ -60,7 +62,8 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 -Aug 20 <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhouse-le-reve-aux-loups/>  
 -Aug 26 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
 
-_Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-bennett-steven-beckly-sarah-sands-phillips>_  
+_Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-steven-beckly-martin-bennett-sarah-sands-phillips> <http://birchcontemporary.com/exhibition/shannon-garden-smith-brick-in-brick-up-brick-over-and-over>_  
+_Sep 7-Oct 14 <http://birchcontemporary.com/exhibition/howard-podeswa-still-life-with-paper>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -70,7 +73,7 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 
 ### Dundas St
 
--Aug 12 <http://mkg127.com/upcomingshows.html>  
+-Aug 12 <http://mkg127.com/current/current.html>  
 -Aug 16 <http://www.loopgallery.ca/2017/07/10/michael-pflug-paintings/>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
@@ -79,26 +82,10 @@ _Jul 27-Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-martin-
 
 ### Bloordale & Junction Triangle
 
-**<u>-Jul 29</u> <http://gallerytpw.ca/exhibitions/kelly-jazvac/>**  
-  <u>-Jul 29</u> <http://clintroenisch.com/exhibitions/> The Morning Shines With The Lights Of Love  
-  <u>-Jul 29</u> <http://danielfariagallery.com/exhibitions/katie-lyle-the-weather-in-the-room>  
-  -Sep 9 <http://robertkananajgallery.com/index.php?page=upcoming-exhibits>  
-  -Sep 23 <http://www.scrapmetalgallery.com/whats-on/> Nadia Belerique  
 <u>-Jul 31</u> <http://cuttsgallery.com/exhibitions/gordon-anderson-drew-simpson-richard-stipl/>  
--Aug 12 <http://www.mercerunion.org/exhibitions/katinka-bock-_o_o__o/>  
--Sep 9 <http://www.galeriedivision.com/toronto/exhibition/-sky-leaks>  
-  -Sep 9 <http://www.arsenalmontreal.com/en/exhibitions/david-spriggs> <http://www.arsenalmontreal.com/en/exhibitions/mark-jenkins-2>  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
-<u>-Jul 29</u> <http://erinstumpprojects.com/current-exhibitions/hiba-abdallah-amanda-boulos-andrew-buszchak-peter-denton-shannon-gardensmith-daniel-griffin-hunt-jessica-jang-brennan-kelly-haeahn-kwon-megan-moore-kevin-murphy-jeanmarc-perin-walter-scott-larissa-tiggelers-yes-frills>  
-<u>-Jul 30</u> <http://www.mattergallery.com/exhibitions/2017/6/1/simon-back>  
-**<u>-Aug 5</u> <http://www.katzmancontemporary.com/1706-xiaolei-drive-thru>**  
 -Aug 19 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>  
--Aug 20 <https://www.christiecontemporary.com/free-assembly-images>  
--Aug 25 <http://gallery.alisonmilne.com/exhibitions/introducing-stacey-nichol/>  
--Aug 26 <http://angellgallery.com/exhibition/minimal-ist-efforts> <http://angellgallery.com/exhibition/colleen-mccarten>  
--Aug 26 <http://coopercolegallery.com/exhibition/tau-lewis-curtis-santiago-2017/> <https://coopercolegallery.com/exhibition/2017-daniel-rios-rodriguez/>  
-
