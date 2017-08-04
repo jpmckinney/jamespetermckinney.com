@@ -26,7 +26,7 @@ layout: default
 * [GitHub](https://github.com/jpmckinney/) <i class="fa fa-github" aria-hidden="true"></i>
 * [LinkedIn](https://www.linkedin.com/in/mckinneyjames/) <i class="fa fa-linkedin" aria-hidden="true"></i>
 
-Most recent post: [Dupont St galleries, Toronto, April 29, 2017](https://medium.com/@jpmckinney/dupont-st-galleries-toronto-april-29-2017-de67dcecf9b3)
+Most recent post: [Coworking in Toronto](https://medium.com/@jpmckinney/coworking-in-toronto-848a6c68249b)
 {% endcapture %}
 
 {% include two-column.html one=one two=two %}
