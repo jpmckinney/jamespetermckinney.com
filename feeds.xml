@@ -12,9 +12,9 @@
             <outline title="HillNotes" xmlUrl="https://hillnotes.wordpress.com/feed/" type="rss" text="HillNotes"/>
             <outline title="International Consortium of Investigative Journalists" xmlUrl="https://www.icij.org/feeds/rss/globalmuckraker.xml" type="rss" text="International Consortium of Investigative Journalists"/>
             <outline title="Johns Hopkins Center for Government Excellence" xmlUrl="http://govex.jhu.edu/feed/" type="rss" text="Johns Hopkins Center for Government Excellence"/>
-            <outline title="mySociety" xmlUrl="https://www.mysociety.org/feed/" type="rss" text="mySociety"/>
             <outline title="OOOCanada" xmlUrl="http://www.ooocanada.ca/web-blog.rss" type="rss" text="OOOCanada"/>
             <outline title="Open Contracting Partnership" xmlUrl="http://www.open-contracting.org/feed/" type="rss" text="Open Contracting Partnership"/>
+            <outline title="Open Contracting Partnership" xmlUrl="https://medium.com/feed/@opencontracting" type="rss" text="Open Contracting Partnership"/>
             <outline title="Open Data Institute Toronto" xmlUrl="http://oditoronto.org/feed/" type="rss" text="Open Data Institute Toronto"/>
             <outline title="Open Heroines - Medium" xmlUrl="https://medium.com/feed/open-heroines" type="rss" text="Open Heroines - Medium"/>
             <outline title="Open Heroines on Medium" xmlUrl="https://medium.com/feed/@OpenHeroines" type="rss" text="Open Heroines on Medium"/>
@@ -41,7 +41,6 @@
             <outline title="Ben Balter" xmlUrl="http://ben.balter.com/feed.xml" type="rss" text="Ben Balter"/>
             <outline title="Chelsea Vowel" xmlUrl="http://apihtawikosisan.com/feed/" type="rss" text="Chelsea Vowel"/>
             <outline title="Christopher Wilson" xmlUrl="https://methodicalsnark.org/feed/" type="rss" text="Christopher Wilson"/>
-            <outline title="David Eaves" xmlUrl="https://eaves.ca/feed/" type="rss" text="David Eaves"/>
             <outline title="Desmond Cole" xmlUrl="https://thatsatruestory.wordpress.com/feed/" type="rss" text="Desmond Cole"/>
             <outline title="Elizabeth Dubois" xmlUrl="https://elizabethdubois.wordpress.com/feed/" type="rss" text="Elizabeth Dubois"/>
             <outline title="Eric Mill" xmlUrl="https://konklone.com/rss.xml" type="rss" text="Eric Mill"/>
@@ -98,6 +97,7 @@
             <outline title="Emily Shaw on Medium" xmlUrl="https://medium.com/feed/@emilydshaw" type="rss" text="Emily Shaw on Medium"/>
             <outline title="Emma Lindsay on Medium" xmlUrl="https://medium.com/feed/@emmalindsay" type="rss" text="Emma Lindsay on Medium"/>
             <outline title="Janet Haven on Medium" xmlUrl="https://medium.com/feed/@galaxygirl" type="rss" text="Janet Haven on Medium"/>
+            <outline title="Jenny Odell" xmlUrl="https://medium.com/feed/@the_jennitaur" type="rss" text="Jenny Odell"/>
             <outline title="John Wonderlich on Medium" xmlUrl="https://medium.com/feed/@JohnWonderlich" type="rss" text="John Wonderlich on Medium"/>
             <outline title="Joshua Tauberer on Medium" xmlUrl="https://medium.com/feed/@joshuatauberer" type="rss" text="Joshua Tauberer on Medium"/>
             <outline title="Kat Braybrooke on Medium" xmlUrl="https://medium.com/feed/@codekat" type="rss" text="Kat Braybrooke on Medium"/>
@@ -120,10 +120,12 @@
         </outline>
         <outline title="Culture">
             <outline title="1001 Fesses" xmlUrl="http://1001fesses.tumblr.com/rss" type="rss" text="1001 Fesses"/>
+            <outline title="DOMINIONATED" xmlUrl="http://dominionated.ca/feed/" type="rss" text="DOMINIONATED"/>
             <outline title="mediaINDIGENA" xmlUrl="http://www.mediaindigena.com/feed" type="rss" text="mediaINDIGENA"/>
             <outline title="Mother 4" xmlUrl="http://blog.mother4game.com/rss" type="rss" text="Mother 4"/>
             <outline title="Métis In Space" xmlUrl="http://www.metisinspace.com/blog?format=RSS" type="rss" text="Métis In Space"/>
             <outline title="National Gallery of Canada" xmlUrl="http://www.gallery.ca/en/learn/851.xml" type="rss" text="National Gallery of Canada"/>
+            <outline title="Sex City" xmlUrl="http://sexcityradio.blogspot.com/feeds/posts/default" type="rss" text="Sex City"/>
             <outline title="Silent Shout" xmlUrl="http://silentshout.ca/feed/" type="rss" text="Silent Shout"/>
             <outline title="The Dictionary of Obscure Sorrows" xmlUrl="http://www.dictionaryofobscuresorrows.com/rss" type="rss" text="The Dictionary of Obscure Sorrows"/>
             <outline title="Washing Dishes" xmlUrl="http://www.washingdishes.ca/fr/feed/" type="rss" text="Washing Dishes"/>
@@ -143,6 +145,7 @@
         <outline title="Toronto">
             <outline title="GTARollergirls" xmlUrl="http://www.gtarollergirls.com/feed" type="rss" text="GTARollergirls"/>
             <outline title="Milk Glass Co." xmlUrl="http://milkglassco.tumblr.com/rss" type="rss" text="Milk Glass Co."/>
+            <outline title="torontoartsreport" xmlUrl="https://www.torontoartsreport.com/feed.xml" type="rss" text="torontoartsreport"/>
             <outline title="YYZ Deals" xmlUrl="http://yyzdeals.com/atom/1" type="rss" text="YYZ Deals"/>
         </outline>
         <outline title="Montreal">
