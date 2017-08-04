@@ -27,26 +27,6 @@ published: true
 * <http://www.super8porter.ca/Festivals.htm> film
 * <http://www.torontoartcrawl.com> art
 
-### Jul
-
-* **<http://vectorfestival.org> art 13-16**
-* **<http://torontooutdoorart.org/> art 14-16**
-* **<https://www.facebook.com/events/203378290186123/> Momo Crawl food 30**
-* <https://mowatcentre.ca/category/policy-in-a-pub/> meetup 13
-* <https://fringetoronto.com/festivals/fringe> performance 5-16
-* <http://bigonbloorfestival.com/> art/culture 22-23
-* <http://bubblerun.com/upcoming-locations/toronto-can-2017/> race 8
-* <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=817faf2c85006410VgnVCM10000071d60f89RCRD> Summerlicious food 7-23
-* <http://makerfestival.ca> 6-Aug 6
-* <http://nightitup.com/> Markham food 14-16
-* <http://www.alldayidream.com/> music 15
-* <http://digitaldreamsfestival.ca/> music 7-8
-* <http://beachesjazz.com/> music 7-30
-* <http://www.torontosummermusic.com/> music 13-Aug 5
-* <http://unitycharity.com/unityfest/> music 13-15
-* <s><http://torontoartblast.com/> art 9, 16-17, 23-24, 30-31</s>
-* <s><https://torontoanarchistbookfair.wordpress.com> talk 23-24</s>
-
 ### Aug
 
 * **<http://summerworks.ca/> performance 3-13**
@@ -158,3 +138,23 @@ published: true
 * <s><http://loveletterprojects.com/> art 20-25</s>
 * <s><http://www.unsound.pl/> music 19-21</s>
 * <s><http://www.bestival.ca/> music 11-12</s>
+
+### Jul
+
+* **<http://vectorfestival.org> art 13-16**
+* **<http://torontooutdoorart.org/> art 14-16**
+* **<https://www.facebook.com/events/203378290186123/> Momo Crawl food 30**
+* <https://mowatcentre.ca/category/policy-in-a-pub/> meetup 13
+* <https://fringetoronto.com/festivals/fringe> performance 5-16
+* <http://bigonbloorfestival.com/> art/culture 22-23
+* <http://bubblerun.com/upcoming-locations/toronto-can-2017/> race 8
+* <http://www1.toronto.ca/wps/portal/contentonly?vgnextoid=817faf2c85006410VgnVCM10000071d60f89RCRD> Summerlicious food 7-23
+* <http://makerfestival.ca> 6-Aug 6
+* <http://nightitup.com/> Markham food 14-16
+* <http://www.alldayidream.com/> music 15
+* <http://digitaldreamsfestival.ca/> music 7-8
+* <http://beachesjazz.com/> music 7-30
+* <http://www.torontosummermusic.com/> music 13-Aug 5
+* <http://unitycharity.com/unityfest/> music 13-15
+* <s><http://torontoartblast.com/> art 9, 16-17, 23-24, 30-31</s>
+* <s><https://torontoanarchistbookfair.wordpress.com> talk 23-24</s>
