@@ -39,7 +39,7 @@ published: true
 {% comment %}
 ## Texts
 
-## Blogs
+### Blogs
 
 * [Medium](https://medium.com/@jpmckinney/latest) (2016-) <i class="fa fa-medium" aria-hidden="true"></i>
 * [Ontario Digital blog](https://medium.com/@jpmckinney.ontario/latest) (2016)

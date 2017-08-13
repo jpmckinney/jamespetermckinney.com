@@ -14,6 +14,17 @@ layout: default
 * [Maps of art galleries in cities worldwide](resources/maps/)
 * [<span class="glyphicon glyphicon-download"></span> The feeds I subscribe to (OPML)](feeds.xml)
 * [<span class="glyphicon glyphicon-download"></span> The podcasts I listen to (OPML)](podcasts.xml)
+
+{% comment %}
+The lists I subscribe to:
+
+* [Artery](https://artery.is)
+* [Canadian Art](http://canadianart.ca)
+* [Gavin Starks](http://dgen.net)
+* [Tom Steinberg](http://eepurl.com/bvqAT5)
+* Every art space in Toronto and Montreal
+* A few industry, local and miscellaneous newsletters
+{% endcomment %}
 {% endcapture %}
 
 {% capture two %}
