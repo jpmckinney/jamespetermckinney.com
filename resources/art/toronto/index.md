@@ -16,15 +16,15 @@ published: true
 
 ### Downtown North
 
-**<u>-Aug 13</u> <http://www.ryerson.ca/ric/exhibitions/Dean/> Jordan Browne**  
--Aug 18 <http://airdgallery.org>  
--AUg 27 <http://www.whippersnapper.ca/exhibitions/1065-2/>  
+<u>-Aug 18</u> <http://airdgallery.org>  
+<u>-Aug 27</u> <http://www.whippersnapper.ca/exhibitions/1065-2/>  
 -Sep 4 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/huicholes-%E2%80%93-a-people-walking-towards-the-light>  
 **-Dec 10 <http://www.ago.net/every-now-then-reframing-nationhood>**  
 **-Jan 1 <https://www.agakhanmuseum.org/here>**  
 -Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text>  
 
 _Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://artmuseum.utoronto.ca/exhibition/in-dialogue/>_  
+_Sep 13-Dec 10 <http://www.ryerson.ca/ric/exhibitions/FarawayNearby/>_  
 _Sep 20-Feb 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/tied,-dyed-and-woven-ikat-textiles-from-latin-amer>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
@@ -35,12 +35,12 @@ _Sep 20-Feb 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/tie
 
 ### Downtown South
 
-**-Aug 26 <https://gallery44.org/exhibitions/another-place-not-here>**  
-  -Aug 26 <http://abbozzogallery.com/celebrating-canada/>  
+<u>-Aug 19</u> <http://www.redheadgallery.org/troy-brooks-shinigami>  
+  **<u>-Aug 26</u> <https://gallery44.org/exhibitions/another-place-not-here>**  
+  <u>-Aug 26</u> <http://abbozzogallery.com/celebrating-canada/>  
+-Sep 16 <http://roberta.to/artists/motel@roberta/motel@roberta.html>  
 -Sep 17 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-summer-2017/>  
 
-_Aug 8-Aug 19 <http://www.redheadgallery.org/troy-brooks-shinigami>_  
-_Aug 12-Sep 16 <http://roberta.to/artists/motel@roberta/motel@roberta.html>_  
 _Aug 22-Aug 26 <http://www.redheadgallery.org/cate-mcguire-all-the-air-in-the-room>_  
 _Aug 30-Sep 23 <http://www.redheadgallery.org/jack-butler-blidfold>_  
 _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
@@ -53,14 +53,14 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 ### Queen St
 
-**<u>-Aug 12</u> <http://vectorfestival.org/2017-pattern-recognition/>**  
--<u>Aug 17</u> <http://www.gladstonehotel.com/spaces/tsg-uprising/>  
-  -<u>Aug 18</u> <http://www.gladstonehotel.com/spaces/10x10photoproject2017/>  
--<u>Aug 18</u> <http://www.susanhobbs.com/exhibits/1402-a-viewing-room-v2>  
-  -Aug 26 <http://birchcontemporary.com/exhibition/soon-comes-night-steven-beckly-martin-bennett-sarah-sands-phillips> <http://birchcontemporary.com/exhibition/shannon-garden-smith-brick-in-brick-up-brick-over-and-over>  
--Aug 20 <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhouse-le-reve-aux-loups/>  
--Aug 26 <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
+<u>-Aug 17</u> <http://www.gladstonehotel.com/spaces/tsg-uprising/>  
+  <u>-Aug 18</u> <http://www.gladstonehotel.com/spaces/10x10photoproject2017/>  
+<u>-Aug 18</u> <http://www.susanhobbs.com/exhibits/1402-a-viewing-room-v2>  
+  <u>-Aug 26</u> <http://birchcontemporary.com/exhibition/soon-comes-night-steven-beckly-martin-bennett-sarah-sands-phillips> <http://birchcontemporary.com/exhibition/shannon-garden-smith-brick-in-brick-up-brick-over-and-over>  
+**<u>-Aug 20</u> <http://kofflerarts.org/exhibitions/2017/01/30/mary-anne-barkhouse-le-reve-aux-loups/>**  
+<u>-Aug 26</u> <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
 
+_Aug 18-Aug 26 <https://criticaldistance.ca/moving-home/>_  
 _Sep 7-Oct 14 <http://birchcontemporary.com/exhibition/howard-podeswa-still-life-with-paper> <http://birchcontemporary.com/exhibition/balint-zsako-blood-orange>_  
 _**Sep 14-Nov 26 <http://kofflerarts.org/exhibitions/2017/06/07/staring-back-at-the-sun-video-art-from-israel1970-2012/>**_  
 
@@ -72,8 +72,9 @@ _**Sep 14-Nov 26 <http://kofflerarts.org/exhibitions/2017/06/07/staring-back-at-
 
 ### Dundas St
 
--<u>Aug 12</u> <http://mkg127.com/current/current.html>  
--<u>Aug 16</u> <http://www.loopgallery.ca/2017/07/10/michael-pflug-paintings/>  
+<u>-Aug 16</u> <http://www.loopgallery.ca/2017/07/10/michael-pflug-paintings/>  
+
+_Aug 15-Sep 3 <http://www.loopgallery.ca/2017/08/10/jj-leeamy-swartznatalie-waldberger-back-to-the-drawing-board/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
 
@@ -85,4 +86,5 @@ _**Sep 14-Nov 26 <http://kofflerarts.org/exhibitions/2017/06/07/staring-back-at-
 
 ### Dupont St & The Junction
 
--Aug 19 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
+<u>-Aug 19</u> <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
+-Sep 3 <http://dupontprojects.com/current/> Amanda Boulos  

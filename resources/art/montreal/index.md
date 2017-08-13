@@ -52,9 +52,9 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
 ### Mile End
 
 -Sep 2 <http://www.galeriesimonblais.com/en/exhibitions/masques-et-visages>  
+-Sep 2 <http://www.galeriesimonblais.com/en/exhibitions/a-mystic-rill>  
+-Sep 30 <http://www.galeriesimonblais.com/en/exhibitions/faits-divers>  
 
-_Aug 12-Sep 2 <http://www.galeriesimonblais.com/en/exhibitions/a-mystic-rill>_  
-_Aug 12-Sep 30 <http://www.galeriesimonblais.com/en/exhibitions/faits-divers>_  
 _Sep 6-Oct 14 <http://www.galeriesimonblais.com/en/exhibitions/le-capteur>_  
 _Sep 8-Oct 21 <http://www.ateliercirculaire.org/new-events/2017/9/7/adesmarteaux>_  
 _Oct 18-Nov 18 <http://www.galeriesimonblais.com/en/exhibitions/derives> <http://www.galeriesimonblais.com/en/exhibitions/a-venir>_  
@@ -69,11 +69,10 @@ _May 24-Jun 29 <http://www.ateliercirculaire.org/new-events/2018/5/24/salon-des-
 
 ### Plateau
 
--Aug 12 <http://www.pfoac.com/index_FR.html>  
 -Aug 20 <http://lelivart.com/portfolio_page/dialogues-shed-architecture-x-maxime-brouillet/>  
 -Sep 1 <http://www.lacentrale.org/programmation/leviathan-tombe-en-amour>  
+-Sep 16 <http://www.galeriebernard.ca/en/expositions/a-venirs/> Carole Baillargeon  
 
-_Aug 10-Sep 16 <http://www.galeriebernard.ca/en/expositions/a-venirs/> Carole Baillargeon_  
 _Sep 6-Oct 1 <http://www.galeriedeste.com/exhibition/116/#!1652>_  
 _Sep 16-Oct 21 <https://studioxx.org/en/activities/parade-champions-michele-pearson-clarke/>_  
 _Sep 28-Nov 4 <http://www.galeriebernard.ca/en/expositions/a-venirs/> Stéphanie L'Heureux_  
@@ -83,9 +82,12 @@ _Oct 5-Nov 12 <http://www.galeriedeste.com/exhibition/117/#!1657>_
 
 ### Little Burgundy
 
--Aug 12 <http://www.parisianlaundry.com/fr/expositions/modern>  
 -Sep 3 <https://www.facebook.com/events/1133577510119112>  
 -Sep 9 <http://galeriedivision.com/montreal/exhibition/-24>  
+
+_Aug 31-Oct 14 <http://www.patrickmikhailgallery.com/exhibitions/the-long-moment>_  
+_Oct 21-Nov 30 <http://www.patrickmikhailgallery.com/exhibitions> Janet Jones_  
+_Nov 18-Jan 6 <http://www.patrickmikhailgallery.com/exhibitions> Sara Angelucci_  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Arsenal T8
 
