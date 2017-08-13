@@ -37,6 +37,30 @@ published: true
 * [Open Data for Development Challenge](https://opendatadevelopmentchalleng2014.sched.com/), Montreal {% comment %}Jan{% endcomment %}
 
 {% comment %}
+## Texts
+
+## Blogs
+
+* [Medium](https://medium.com/@jpmckinney/latest) (2016-) <i class="fa fa-medium" aria-hidden="true"></i>
+* [Ontario Digital blog](https://medium.com/@jpmckinney.ontario/latest) (2016)
+* [OpenCorporates blog](https://blog.opencorporates.com/author/jpmckinney/) (2015)
+* [Open Contracting Partnership blog](https://www.open-contracting.org/author/james/) (2014)
+* [openDemocracy blog](https://www.opendemocracy.net/author/james-mckinney) (2014)
+* [Open North blog](https://duckduckgo.com/?q=site%3Aopennorth.ca+%22by+james+mckinney%22) (2011-2015)
+
+### Posts
+
+* [Boostrapping Culture in Government](http://www.cpsrenewal.ca/2017/06/bootstrapping-culture-in-government.html) (2017)
+* [Killer open-data apps from around the world](http://montrealouvert.net/2011/02/09/killer-open-data-apps-from-around-the-world/) (2011)
+* [Apache Solr Mastery: Adding custom search paths with hook_menu](https://evolvingweb.ca/blog/apache-solr-mastery-adding-custom-search-paths-hook-menu) (2010)
+
+### Reports
+
+* [Identifying recommended standards and best practices for open data](http://bit.ly/odwgstandards2) (2015)
+* [Gaps and opportunities for standardization in OGP members’ open data catalogs](http://bit.ly/odwgstandards1) (2015)
+{% endcomment %}
+
+{% comment %}
 ## Networks I've contributed to
 
 * [Open Government Partnership](https://www.opengovpartnership.org/)
