@@ -39,7 +39,15 @@ published: true
 {% comment %}
 ## Texts
 
-### Blogs
+### Articles
+
+* [Boostrapping Culture in Government](http://www.cpsrenewal.ca/2017/06/bootstrapping-culture-in-government.html) (2017)
+* [What’s needed to deliver on the federal government’s “open by default” promise?](http://policyoptions.irpp.org/magazines/march-2016/whats-needed-to-deliver-on-the-federal-governments-open-by-default-promise/) (2016)
+* [Rudny & McKinney: Making government information more accessible](http://nationalpost.com/opinion/rudny-mckinney-making-government-information-more-accessible/wcm/35ea360f-a5a9-4609-b984-bd17d2864844) (2016)
+* [Killer open-data apps from around the world](http://montrealouvert.net/2011/02/09/killer-open-data-apps-from-around-the-world/) (2011)
+* [Apache Solr Mastery: Adding custom search paths with hook_menu](https://evolvingweb.ca/blog/apache-solr-mastery-adding-custom-search-paths-hook-menu) (2010)
+
+### Blog posts
 
 * [Medium](https://medium.com/@jpmckinney/latest) (2016-) <i class="fa fa-medium" aria-hidden="true"></i>
 * [Ontario Digital blog](https://medium.com/@jpmckinney.ontario/latest) (2016)
@@ -47,12 +55,6 @@ published: true
 * [Open Contracting Partnership blog](https://www.open-contracting.org/author/james/) (2014)
 * [openDemocracy blog](https://www.opendemocracy.net/author/james-mckinney) (2014)
 * [Open North blog](https://duckduckgo.com/?q=site%3Aopennorth.ca+%22by+james+mckinney%22) (2011-2015)
-
-### Posts
-
-* [Boostrapping Culture in Government](http://www.cpsrenewal.ca/2017/06/bootstrapping-culture-in-government.html) (2017)
-* [Killer open-data apps from around the world](http://montrealouvert.net/2011/02/09/killer-open-data-apps-from-around-the-world/) (2011)
-* [Apache Solr Mastery: Adding custom search paths with hook_menu](https://evolvingweb.ca/blog/apache-solr-mastery-adding-custom-search-paths-hook-menu) (2010)
 
 ### Reports
 

@@ -24,7 +24,7 @@ published: true
 * Jun-Sep <http://torontounion.ca/news/union-summer> food
 * Jun-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
 * Dec-Mar <http://www.torontolongwinter.com/> art/performance/music
-* <http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm
+* **<http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
 * <http://www.super8porter.ca/Festivals.htm> film
 * <http://www.torontoartcrawl.com> art
 
