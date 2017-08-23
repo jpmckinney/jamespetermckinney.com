@@ -31,9 +31,10 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
 
 ### Old Port
 
--Aug 20 <http://fonderiedarling.org/THE-HOUSE-OF-DUST.html> <http://fonderiedarling.org/Unité-dhabitation.html>  
 **-Sep 3 <http://dhc-art.org/> Ed Atkins**  
 **-Dec 16 <https://phi-centre.com/en/event/lucid-realities-en/>**  
+
+_Sep 7-Sep 24 <http://matthewnamour.com/expositions/mike-davis-souvenirs-et-souffrances/>_  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Centre Phi FSa8, Fonderie Darling U10
 
@@ -55,6 +56,7 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
 -Sep 2 <http://www.galeriesimonblais.com/en/exhibitions/a-mystic-rill>  
 -Sep 30 <http://www.galeriesimonblais.com/en/exhibitions/faits-divers>  
 
+_Sep 1-Oct 7 <http://www.artdiagonale.org/on-view-exhibitions.html>_  
 _Sep 6-Oct 14 <http://www.galeriesimonblais.com/en/exhibitions/le-capteur>_  
 _Sep 8-Oct 21 <http://www.ateliercirculaire.org/new-events/2017/9/7/adesmarteaux>_  
 _Oct 18-Nov 18 <http://www.galeriesimonblais.com/en/exhibitions/derives> <http://www.galeriesimonblais.com/en/exhibitions/a-venir>_  
@@ -69,9 +71,9 @@ _May 24-Jun 29 <http://www.ateliercirculaire.org/new-events/2018/5/24/salon-des-
 
 ### Plateau
 
--Aug 20 <http://lelivart.com/portfolio_page/dialogues-shed-architecture-x-maxime-brouillet/>  
 -Sep 1 <http://www.lacentrale.org/programmation/leviathan-tombe-en-amour>  
 -Sep 16 <http://www.galeriebernard.ca/en/expositions/a-venirs/> Carole Baillargeon  
+-Sep 16 <http://www.galerieyoun.com/projects/damian-siqueiros-songs-inner-chamber/>  
 
 _Sep 6-Oct 1 <http://www.galeriedeste.com/exhibition/116/#!1652>_  
 _Sep 16-Oct 21 <https://studioxx.org/en/activities/parade-champions-michele-pearson-clarke/>_  

@@ -26,6 +26,7 @@ published: true
 * Dec-Mar <http://www.torontolongwinter.com/> art/performance/music
 * **<http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
 * <http://www.super8porter.ca/Festivals.htm> film
+* >http://sailincinema.com/movies.aspx> film
 * <http://www.torontoartcrawl.com> art
 
 ### Aug
