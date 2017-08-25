@@ -16,13 +16,13 @@ published: true
 
 ### Downtown North
 
-<u>-Aug 27</u> <http://www.whippersnapper.ca/exhibitions/1065-2/>  
 -Sep 4 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/huicholes-%E2%80%93-a-people-walking-towards-the-light>  
 -Sep 15 <http://airdgallery.org/>  
 **-Jan 1 <https://www.agakhanmuseum.org/here>**  
 -Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text>  
 
 _Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://artmuseum.utoronto.ca/exhibition/in-dialogue/>_  
+  _Sep 6-Oct 29 <http://artmuseum.utoronto.ca/exhibition/far-near-distances-us/>_  
 _Sep 13-Dec 10 <http://www.ryerson.ca/ric/exhibitions/FarawayNearby/>_  
 _Sep 20-Feb 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/tied,-dyed-and-woven-ikat-textiles-from-latin-amer>_  
 
@@ -34,14 +34,10 @@ _Sep 20-Feb 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/tie
 
 ### Downtown South
 
-**<u>-Aug 26</u> <https://gallery44.org/exhibitions/another-place-not-here>**  
-  <u>-Aug 26</u> <http://abbozzogallery.com/celebrating-canada/>  
-  <u>-Aug 26</u> <http://www.redheadgallery.org/cate-mcguire-all-the-air-in-the-room>  
 -Sep 9 <http://www.pfoac.com/Toronto/JP_2017_EN.html>  
 -Sep 16 <http://roberta.to/artists/motel@roberta/motel@roberta.html>  
 -Sep 17 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-summer-2017/>  
 
-_Aug 25-Sep 3 <http://www.artspin.ca/desire-lines>_  
 _Aug 30-Sep 23 <http://www.redheadgallery.org/jack-butler-blidfold>_  
 _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
 
@@ -53,8 +49,6 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 ### Queen St
 
-<u>-Aug 26</u> <http://birchcontemporary.com/exhibition/soon-comes-night-steven-beckly-martin-bennett-sarah-sands-phillips> <http://birchcontemporary.com/exhibition/shannon-garden-smith-brick-in-brick-up-brick-over-and-over>  
-<u>-Aug 26</u> <https://www.craftontario.com/exhibitions/current-exhibition/introduction.html>  
 **-Jan 7 <http://www.gladstonehotel.com/spaces/hardtwist12-yarn/>**  
 
 _Sep 6-Sep 26 <http://www.gladstonehotel.com/spaces/amblin-along/>_  
@@ -69,6 +63,7 @@ _**Sep 14-Nov 26 <http://kofflerarts.org/exhibitions/2017/06/07/staring-back-at-
 
 ### Dundas St
 
+-Sep 3 <https://www.hashtaggallery.com/blogs/shows-events/aug-24-sept-3-farrah-akbarali-autobiography-volume-1>  
 -Sep 3 <http://www.loopgallery.ca/2017/08/10/jj-leeamy-swartznatalie-waldberger-back-to-the-drawing-board/>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington

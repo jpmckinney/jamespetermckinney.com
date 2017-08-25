@@ -56,11 +56,13 @@ _Sep 7-Sep 24 <http://matthewnamour.com/expositions/mike-davis-souvenirs-et-souf
 -Sep 2 <http://www.galeriesimonblais.com/en/exhibitions/a-mystic-rill>  
 -Sep 30 <http://www.galeriesimonblais.com/en/exhibitions/faits-divers>  
 
+_Sep 8-Oct 21 <http://www.optica.ca/programmation/index.php#927>_  
 _Sep 1-Oct 7 <http://www.artdiagonale.org/on-view-exhibitions.html>_  
 _Sep 6-Oct 14 <http://www.galeriesimonblais.com/en/exhibitions/le-capteur>_  
 _Sep 8-Oct 21 <http://www.ateliercirculaire.org/new-events/2017/9/7/adesmarteaux>_  
 _Oct 18-Nov 18 <http://www.galeriesimonblais.com/en/exhibitions/derives> <http://www.galeriesimonblais.com/en/exhibitions/a-venir>_  
 _Nov 3-Nov 18 <http://www.ateliercirculaire.org/new-events/2017/11/3/pret-a-emporter>_  
+_Nov 11-Dec 16 <http://www.optica.ca/programmation/index.php#922>_  
 _Dec 1-Dec 21 <http://www.ateliercirculaire.org/new-events/2017/12/1/variations-maitres-japonais>_  
 _Jan 11-Feb 10 <http://www.ateliercirculaire.org/new-events/2018/1/11/daniel-sylvestre>_  
 _Feb 22-Mar 24 <http://www.ateliercirculaire.org/new-events/2018/2/22/natasha-petisch>_  
@@ -87,6 +89,7 @@ _Oct 5-Nov 12 <http://www.galeriedeste.com/exhibition/117/#!1657>_
 -Sep 3 <https://www.facebook.com/events/1133577510119112>  
 -Sep 9 <http://galeriedivision.com/montreal/exhibition/-24>  
 
+_Aug 30-Sep 30 <http://galerieantoineertaskiran.com/exhibition/2017-dominique-petrin-get-rid-of-the-fabric-softener/> <http://galerieantoineertaskiran.com/exhibition/2017-david-elliott-million-dollar-bash/>_  
 _Aug 31-Oct 14 <http://www.patrickmikhailgallery.com/exhibitions/the-long-moment>_  
 _Oct 21-Nov 30 <http://www.patrickmikhailgallery.com/exhibitions> Janet Jones_  
 _Nov 18-Jan 6 <http://www.patrickmikhailgallery.com/exhibitions> Sara Angelucci_  
