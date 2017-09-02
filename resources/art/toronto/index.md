@@ -52,10 +52,10 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 _Sep 6-Sep 26 <http://www.gladstonehotel.com/spaces/amblin-along/>_  
 _Sep 7-Oct 7 <http://generalhardware.ca> Scott Everingham_  
 _Sep 8-Oct 7 <http://www.paulpetro.com/exhibitions/486-Dəˈvīn-Kämədē>_  
-_Sep 9-Oct 1 <http://www.loopgallery.ca/shows/> Sandra Gregson, Carolyn Dinsmore_
-_Oct 7-Oct 29 <http://www.loopgallery.ca/shows/> John Abrams, Mindy Yan Miller_
-_Nov 4-Nov 26 <http://www.loopgallery.ca/shows/> Sung Ya Kim, Gareth Bate_
-_Dec 2-Dec 24 <http://www.loopgallery.ca/shows/>_
+_Sep 9-Oct 1 <http://www.loopgallery.ca/shows/> Sandra Gregson, Carolyn Dinsmore_  
+_Oct 7-Oct 29 <http://www.loopgallery.ca/shows/> John Abrams, Mindy Yan Miller_  
+_Nov 4-Nov 26 <http://www.loopgallery.ca/shows/> Sung Ya Kim, Gareth Bate_  
+_Dec 2-Dec 24 <http://www.loopgallery.ca/shows/>_  
 _Oct 12-Nov 11 <http://generalhardware.ca> Joe Fleming_  
 _Sep 7-Oct 14 <http://birchcontemporary.com/exhibition/howard-podeswa-still-life-with-paper> <http://birchcontemporary.com/exhibition/balint-zsako-blood-orange>_  
 _**Sep 14-Nov 26 <http://kofflerarts.org/exhibitions/2017/06/07/staring-back-at-the-sun-video-art-from-israel1970-2012/>**_  
