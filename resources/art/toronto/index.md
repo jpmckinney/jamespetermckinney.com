@@ -16,8 +16,6 @@ published: true
 
 ### Downtown North
 
--Sep 4 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/huicholes-%E2%80%93-a-people-walking-towards-the-light>  
--Sep 15 <http://airdgallery.org/>  
 **-Jan 1 <https://www.agakhanmuseum.org/here>**  
 -Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text>  
 
@@ -34,11 +32,11 @@ _Sep 20-Feb 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/tie
 
 ### Downtown South
 
--Sep 9 <http://www.pfoac.com/Toronto/JP_2017_EN.html>  
--Sep 16 <http://roberta.to/artists/motel@roberta/motel@roberta.html>  
--Sep 17 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-summer-2017/>  
+<u>-Sep 16</u> <http://roberta.to/artists/motel@roberta/motel@roberta.html>  
+<u>-Sep 17</u> <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-summer-2017/>  
+-Sep 23 <http://www.redheadgallery.org/jack-butler-blidfold>  
 
-_Aug 30-Sep 23 <http://www.redheadgallery.org/jack-butler-blidfold>_  
+_Sep 16-Oct 28 <https://abbozzogallery.com/jennifer-walton-fire-water-ice-snow/>_  
 _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
@@ -52,6 +50,13 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 **-Jan 7 <http://www.gladstonehotel.com/spaces/hardtwist12-yarn/>**  
 
 _Sep 6-Sep 26 <http://www.gladstonehotel.com/spaces/amblin-along/>_  
+_Sep 7-Oct 7 <http://generalhardware.ca> Scott Everingham_  
+_Sep 8-Oct 7 <http://www.paulpetro.com/exhibitions/486-Dəˈvīn-Kämədē>_  
+_Sep 9-Oct 1 <http://www.loopgallery.ca/shows/> Sandra Gregson, Carolyn Dinsmore_
+_Oct 7-Oct 29 <http://www.loopgallery.ca/shows/> John Abrams, Mindy Yan Miller_
+_Nov 4-Nov 26 <http://www.loopgallery.ca/shows/> Sung Ya Kim, Gareth Bate_
+_Dec 2-Dec 24 <http://www.loopgallery.ca/shows/>_
+_Oct 12-Nov 11 <http://generalhardware.ca> Joe Fleming_  
 _Sep 7-Oct 14 <http://birchcontemporary.com/exhibition/howard-podeswa-still-life-with-paper> <http://birchcontemporary.com/exhibition/balint-zsako-blood-orange>_  
 _**Sep 14-Nov 26 <http://kofflerarts.org/exhibitions/2017/06/07/staring-back-at-the-sun-video-art-from-israel1970-2012/>**_  
 
@@ -63,25 +68,35 @@ _**Sep 14-Nov 26 <http://kofflerarts.org/exhibitions/2017/06/07/staring-back-at-
 
 ### Dundas St
 
--Sep 3 <https://www.hashtaggallery.com/blogs/shows-events/aug-24-sept-3-farrah-akbarali-autobiography-volume-1>  
--Sep 3 <http://www.loopgallery.ca/2017/08/10/jj-leeamy-swartznatalie-waldberger-back-to-the-drawing-board/>  
-
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Loop / Unlovable
 
 ### Bloordale & Junction Triangle
 
+-Sep 30 <http://www.olgakorpergallery.com/exhibitions/current>  
+
+_Sep 6-Oct 14 <https://www.christiecontemporary.com/merritt-images>_  
+_Sep 8-Sep 30 <http://www.franzkaka.com/alex-turgeon-good-housekeeping.html>_  
+_Sep 9-Sep 25 <http://dupontprojects.com/exhibitions/>_  
+_Sep 9-Oct 14 <http://cuttsgallery.com/exhibitions/collage/#/images>_  
+_Sep 9-Oct 28 <http://danielfariagallery.com/exhibitions/allyson-vieira-work-over-time>_  
+_Sep 15-Nov 4 <http://www.mercerunion.org/exhibitions/deanna-bowen-on-trial-the-long-doorway/>_  
+_Oct 4-Nov 11 <http://www.olgakorpergallery.com/exhibitions/view?id=98>_  
+_Oct 21-Nov 18 <http://cuttsgallery.com/exhibitions/dana-holst/#/images>_  
+_Nov 3-Nov 25 <http://www.franzkaka.com/rachelle-sawatsky.html>_  
+_Nov 18-Dec 21 <http://www.olgakorpergallery.com/exhibitions/view?id=99>_  
+
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
--Sep 2 <http://dupontprojects.com/current/> Amanda Boulos  
-**-Sep 17 <http://www.mattergallery.com/exhibitions/2017/6/28/aydin-byktas>**  
+<u>**-Sep 17</u> <http://www.mattergallery.com/exhibitions/2017/6/28/aydin-byktas>**  
 
 _**Sep 6-Oct 28 <http://www.katzmancontemporary.com/current-exhibition>**_  
 _Sep 8-Oct 7 <http://angellgallery.com/exhibition/greg-haberny> <http://angellgallery.com/exhibition/passage-no-170424>_  
 _Sep 9-Oct 7 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Corwyn Lund_  
+_Sep 14-Oct 14 <http://www.galeriedivision.com/toronto/exhibition/-desires-and-relationships>_  
 _Oct 13-Nov 11 <http://angellgallery.com/exhibition/the-anxious-body>_  
 _Oct 14-Nov 11 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Lee Henderson_  
 _Nov 17-Dec 22 <http://angellgallery.com/exhibition/steve-driscoll-1>_  

@@ -26,18 +26,9 @@ published: true
 * Dec-Mar <http://www.torontolongwinter.com/> art/performance/music
 * **<http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
 * <http://www.super8porter.ca/Festivals.htm> film
-* >http://sailincinema.com/movies.aspx> film
+* <http://sailincinema.com/movies.aspx> film
 * <http://www.torontoartcrawl.com> art
-
-### Aug
-
-* **<http://summerworks.ca/> performance 3-13**
-* **<http://zinedream.com/> comics 19**
-* <http://toronto.figmentproject.org/> art 19
-* <http://veldmusicfestival.com/> music 5-6
-* <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 19-21
-* <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6
-* <http://theex.com/> fair 19-Sep 5
+* <https://www.badgirlscollective.ca> books
 
 ### Sep
 
@@ -160,3 +151,13 @@ published: true
 * <http://unitycharity.com/unityfest/> music 13-15
 * <s><http://torontoartblast.com/> art 9, 16-17, 23-24, 30-31</s>
 * <s><https://torontoanarchistbookfair.wordpress.com> talk 23-24</s>
+
+### Aug
+
+* **<http://summerworks.ca/> performance 3-13**
+* **<http://zinedream.com/> comics 19**
+* <http://toronto.figmentproject.org/> art 19
+* <http://veldmusicfestival.com/> music 5-6
+* <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 19-21
+* <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6
+* <http://theex.com/> fair 19-Sep 5
