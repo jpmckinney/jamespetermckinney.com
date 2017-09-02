@@ -91,7 +91,7 @@ _Nov 18-Dec 21 <http://www.olgakorpergallery.com/exhibitions/view?id=99>_
 
 ### Dupont St & The Junction
 
-<u>**-Sep 17</u> <http://www.mattergallery.com/exhibitions/2017/6/28/aydin-byktas>**  
+**<u>-Sep 17</u> <http://www.mattergallery.com/exhibitions/2017/6/28/aydin-byktas>**  
 
 _**Sep 6-Oct 28 <http://www.katzmancontemporary.com/current-exhibition>**_  
 _Sep 8-Oct 7 <http://angellgallery.com/exhibition/greg-haberny> <http://angellgallery.com/exhibition/passage-no-170424>_  
