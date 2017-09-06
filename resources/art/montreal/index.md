@@ -51,7 +51,7 @@ _Sep 14-Nov 30 <http://www.battatcontemporary.com/-venir-upcoming> Marion Wagsch
 -Oct 7 <http://www.artdiagonale.org/on-view-exhibitions.html> Les Grands Voyageurs  
 
 _Sep 6-Oct 14 <http://www.galeriesimonblais.com/en/exhibitions/le-capteur> <http://www.galeriesimonblais.com/fr/expositions/une-rencontre-au-sommet-estampe>_  
-_Sep 6-Oct 15 <http://en.dazibao.art/exhibition-akram-zaatari>_  
+_Sep 6-Oct 14 <http://en.dazibao.art/exhibition-akram-zaatari> <http://dazibao.art/projection-kim-kielhofner-montreal>_  
   _Sep 8-Oct 15 <http://www.centreclark.com/fr/projects/zanele-muholi-portraits-choisis> <http://www.centreclark.com/fr/projects/bmwyw> <http://www.centreclark.com/fr/projects/nouvelles-deesses-accessoires-de-connexion>_  
   _Sep 8-Oct 21 <http://www.optica.ca/programmation/index.php#927>_  
   _Sep 8-Oct 21 <http://www.ateliercirculaire.org/new-events/2017/9/7/adesmarteaux>_  

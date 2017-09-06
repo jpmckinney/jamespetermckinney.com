@@ -16,11 +16,11 @@ published: true
 
 ### Downtown North
 
+-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://artmuseum.utoronto.ca/exhibition/in-dialogue/>  
+  -Oct 29 <http://artmuseum.utoronto.ca/exhibition/far-near-distances-us/>  
 **-Jan 1 <https://www.agakhanmuseum.org/here>**  
 -Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text>  
 
-_Sep 6-Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://artmuseum.utoronto.ca/exhibition/in-dialogue/>_  
-  _Sep 6-Oct 29 <http://artmuseum.utoronto.ca/exhibition/far-near-distances-us/>_  
 _Sep 13-Dec 10 <http://www.ryerson.ca/ric/exhibitions/FarawayNearby/>_  
 _Sep 20-Feb 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/tied,-dyed-and-woven-ikat-textiles-from-latin-amer>_  
 
@@ -47,17 +47,17 @@ _Sep 16-Dec 2 <http://www.yyzartistsoutlet.org/upcoming-exhibitions/>_
 
 ### Queen St
 
+-Sep 26 <http://www.gladstonehotel.com/spaces/amblin-along/>  
+-Oct 1 <http://www.loopgallery.ca/shows/> Sandra Gregson, Carolyn Dinsmore  
+-Oct 7 <http://generalhardware.ca> Scott Everingham  
+-Oct 7 <http://www.paulpetro.com/exhibitions/486-Dəˈvīn-Kämədē>  
+-Oct 14 <http://birchcontemporary.com/exhibition/howard-podeswa-still-life-with-paper> <http://birchcontemporary.com/exhibition/balint-zsako-blood-orange>  
 **-Jan 7 <http://www.gladstonehotel.com/spaces/hardtwist12-yarn/>**  
 
-_Sep 6-Sep 26 <http://www.gladstonehotel.com/spaces/amblin-along/>_  
-_Sep 7-Oct 7 <http://generalhardware.ca> Scott Everingham_  
-_Sep 8-Oct 7 <http://www.paulpetro.com/exhibitions/486-Dəˈvīn-Kämədē>_  
-_Sep 9-Oct 1 <http://www.loopgallery.ca/shows/> Sandra Gregson, Carolyn Dinsmore_  
 _Oct 7-Oct 29 <http://www.loopgallery.ca/shows/> John Abrams, Mindy Yan Miller_  
 _Nov 4-Nov 26 <http://www.loopgallery.ca/shows/> Sung Ya Kim, Gareth Bate_  
 _Dec 2-Dec 24 <http://www.loopgallery.ca/shows/>_  
 _Oct 12-Nov 11 <http://generalhardware.ca> Joe Fleming_  
-_Sep 7-Oct 14 <http://birchcontemporary.com/exhibition/howard-podeswa-still-life-with-paper> <http://birchcontemporary.com/exhibition/balint-zsako-blood-orange>_  
 _**Sep 14-Nov 26 <http://kofflerarts.org/exhibitions/2017/06/07/staring-back-at-the-sun-video-art-from-israel1970-2012/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
@@ -74,13 +74,13 @@ _**Sep 14-Nov 26 <http://kofflerarts.org/exhibitions/2017/06/07/staring-back-at-
 
 ### Bloordale & Junction Triangle
 
+-Sep 25 <http://dupontprojects.com/exhibitions/> Ben Woolfitt  
 -Sep 30 <http://www.olgakorpergallery.com/exhibitions/current>  
+-Sep 30 <http://www.franzkaka.com/alex-turgeon-good-housekeeping.html>  
+-Oct 14 <https://www.christiecontemporary.com/merritt-images>  
+-Oct 14 <http://cuttsgallery.com/exhibitions/collage/#/images>  
+-Oct 28 <http://danielfariagallery.com/exhibitions/allyson-vieira-work-over-time>  
 
-_Sep 6-Oct 14 <https://www.christiecontemporary.com/merritt-images>_  
-_Sep 8-Sep 30 <http://www.franzkaka.com/alex-turgeon-good-housekeeping.html>_  
-_Sep 9-Sep 25 <http://dupontprojects.com/exhibitions/>_  
-_Sep 9-Oct 14 <http://cuttsgallery.com/exhibitions/collage/#/images>_  
-_Sep 9-Oct 28 <http://danielfariagallery.com/exhibitions/allyson-vieira-work-over-time>_  
 _Sep 15-Nov 4 <http://www.mercerunion.org/exhibitions/deanna-bowen-on-trial-the-long-doorway/>_  
 _Oct 4-Nov 11 <http://www.olgakorpergallery.com/exhibitions/view?id=98>_  
 _Oct 21-Nov 18 <http://cuttsgallery.com/exhibitions/dana-holst/#/images>_  
@@ -91,11 +91,10 @@ _Nov 18-Dec 21 <http://www.olgakorpergallery.com/exhibitions/view?id=99>_
 
 ### Dupont St & The Junction
 
-**<u>-Sep 17</u> <http://www.mattergallery.com/exhibitions/2017/6/28/aydin-byktas>**  
+-Oct 7 <http://angellgallery.com/exhibition/greg-haberny> <http://angellgallery.com/exhibition/passage-no-170424>  
+-Oct 7 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Corwyn Lund  
+**-Oct 28 <http://www.katzmancontemporary.com/current-exhibition> Standing Under Mis**  
 
-_**Sep 6-Oct 28 <http://www.katzmancontemporary.com/current-exhibition>**_  
-_Sep 8-Oct 7 <http://angellgallery.com/exhibition/greg-haberny> <http://angellgallery.com/exhibition/passage-no-170424>_  
-_Sep 9-Oct 7 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Corwyn Lund_  
 _Sep 14-Oct 14 <http://www.galeriedivision.com/toronto/exhibition/-desires-and-relationships>_  
 _Oct 13-Nov 11 <http://angellgallery.com/exhibition/the-anxious-body>_  
 _Oct 14-Nov 11 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Lee Henderson_  
