@@ -9,34 +9,45 @@ published: true
 {% capture one %}
 ## Talks
 
+{% comment %}
+### 2017
+
+* [IACCM Americas Conference](http://www2.iaccm.com/americas/), Toronto
+* WTO/EBRD Regional Workshop on Government Procurement, Tbilisi
+{% endcomment %}
+
 ### 2016
 
-* [Open Government Partnership Global Summit](https://en.ogpsummit.org/), Paris {% comment %}Dec{% endcomment %}
-* [International Open Data Conference](https://internationalopendataconfer2016.sched.com/), Madrid {% comment %}Oct{% endcomment %}
-* [g0v Summit](http://summit.g0v.tw/2016/), Taipei {% comment %}May{% endcomment %}
-* Canadian Open Data Summit, Saint John {% comment %}Apr{% endcomment %}
-* [Civic Data Workshop](https://www.youtube.com/watch?v=-OrOqTKZ7mQ), Washington, DC {% comment %}Jan{% endcomment %}
-* [MISA/ASIM Canada](http://www.misa-asim.ca/) Open Data Special Interest Group, Toronto {% comment %}Jan{% endcomment %}
-* [Civic Tech Toronto](http://civictech.ca/2016/01/20/hacknight-25-jan-19/), Toronto {% comment %}Jan{% endcomment %}
+* [Open Government Partnership Global Summit](https://en.ogpsummit.org/), Paris
+* [International Open Data Conference](https://internationalopendataconfer2016.sched.com/), Madrid
+* [g0v Summit](http://summit.g0v.tw/2016/), Taipei
+* Canadian Open Data Summit, Saint John
+* [Civic Data Workshop](https://www.youtube.com/watch?v=-OrOqTKZ7mQ), Washington, DC
+* [MISA/ASIM Canada](http://www.misa-asim.ca/) Open Data Special Interest Group, Toronto
+* [Civic Tech Toronto](http://civictech.ca/2016/01/20/hacknight-25-jan-19/), Toronto
 
 ### 2015
 
-* Seoul Open Forum, Seoul {% comment %}Dec{% endcomment %}
-* [Open Government Partnership Global Summit](https://ogpsummit2015.sched.com/), Mexico {% comment %}Oct{% endcomment %}
-* [Technology for Investigative Journalism](http://www.influencemapping.org/workshop/), London {% comment %}Sep{% endcomment %}
-* [International Open Data Conference](https://internationalopendataconfer2015.sched.com/), Ottawa {% comment %}May{% endcomment %}
-* Canadian Open Data Summit, Ottawa {% comment %}May{% endcomment %}
-* [Spaghetti Open Data](http://www.spaghettiopendata.org/page/benvenut-sod15), Bologna {% comment %}Mar{% endcomment %}
+* Seoul Open Forum, Seoul
+* [Open Government Partnership Global Summit](https://ogpsummit2015.sched.com/), Mexico
+* [Technology for Investigative Journalism](http://www.influencemapping.org/workshop/), London
+* [International Open Data Conference](https://internationalopendataconfer2015.sched.com/), Ottawa
+* Canadian Open Data Summit, Ottawa
+* [Spaghetti Open Data](http://www.spaghettiopendata.org/page/benvenut-sod15), Bologna
 
 ### 2014
 
-* [Open Government Partnership Americas Regional Meeting](https://www.opengovpartnership.org/about/news-and-events/2014-americas-regional-meeting-reuni-n-regional-de-las-am-ricas), San Jose {% comment %}Nov{% endcomment %}
-* [Open Knowledge Festival](http://2014.okfestival.org/), Berlin {% comment %}Jul{% endcomment %}
-* [LegComm](http://www.sliq.com/legcomm2014.html), Montreal {% comment %}Jun{% endcomment %}
-* Canadian Open Data Summit, Vancouver {% comment %}Feb{% endcomment %}
-* [Open Data for Development Challenge](https://opendatadevelopmentchalleng2014.sched.com/), Montreal {% comment %}Jan{% endcomment %}
+* [Open Government Partnership Americas Regional Meeting](https://www.opengovpartnership.org/about/news-and-events/2014-americas-regional-meeting-reuni-n-regional-de-las-am-ricas), San Jose
+* [Open Knowledge Festival](http://2014.okfestival.org/), Berlin
+* [LegComm](http://www.sliq.com/legcomm2014.html), Montreal
+* Canadian Open Data Summit, Vancouver
+* [Open Data for Development Challenge](https://opendatadevelopmentchalleng2014.sched.com/), Montreal
 
 {% comment %}
+## Interviews
+
+* (Restore interviews from backups)
+
 ## Texts
 
 ### Articles

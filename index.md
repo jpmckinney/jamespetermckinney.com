@@ -20,6 +20,8 @@ The lists I subscribe to:
 
 * [Artery](https://artery.is)
 * [Canadian Art](http://canadianart.ca)
+* [Lex Gill](https://tinyletter.com/alittlecloser)
+* [Forest Gregg](http://tinyletter.com/slow-news/archive)
 * [Gavin Starks](http://dgen.net)
 * [Tom Steinberg](http://eepurl.com/bvqAT5)
 * Every art space in Toronto and Montreal
