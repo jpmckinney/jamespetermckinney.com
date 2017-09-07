@@ -10,7 +10,7 @@ published: true
 
 **[GALLERY MAP](https://www.google.com/maps/d/u/0/edit?mid=1sMiga7vQsqWdqEVQCqHsxjX2jeU)**
 
-<span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon. Exhibitions are removed once visited.
+<span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon. Exhibitions are removed once visited. <span class="glyphicon glyphicon-time" aria-hidden="true"></span> is open late. <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> is open Sunday.
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Museums: Bata Shoe U8, DX, Gardiner F9, ROM F8
 

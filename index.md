@@ -12,8 +12,8 @@ layout: default
 * [Festivals in Toronto and Montreal](resources/festivals/)
 * [Other events in Toronto and Montreal](resources/events/)
 * [Maps of art galleries in cities worldwide](resources/maps/)
-* [<span class="glyphicon glyphicon-download"></span> The feeds I subscribe to (OPML)](feeds.xml)
-* [<span class="glyphicon glyphicon-download"></span> The podcasts I listen to (OPML)](podcasts.xml)
+* [<span class="glyphicon glyphicon-download"></span> The feeds I subscribe to (OPML)](feeds.xml) (<span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> 2017-08-04)
+* [<span class="glyphicon glyphicon-download"></span> The podcasts I listen to (OPML)](podcasts.xml) (<span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> 2017-08-04)
 
 {% comment %}
 The lists I subscribe to:
@@ -39,15 +39,15 @@ The lists I subscribe to:
 * [GitHub](https://github.com/jpmckinney/) <i class="fa fa-github" aria-hidden="true"></i>
 * [LinkedIn](https://www.linkedin.com/in/mckinneyjames/) <i class="fa fa-linkedin" aria-hidden="true"></i>
 
-Most recent post: [Coworking in Toronto](https://medium.com/@jpmckinney/coworking-in-toronto-848a6c68249b)
+Most recent post: [New Canadian Music: 10 Female Vocalists](https://medium.com/@jpmckinney/new-canadian-music-10-female-vocalists-c3294148b8c5)
 {% endcapture %}
 
 {% include two-column.html one=one two=two %}
 
 ## Active projects
 
-* [Popolo](http://www.popoloproject.com/) to establish international standard data formats for legislative information
 * [Canadian Open Government Civil Society Network](http://www.opengovdialogue.ca/) for ongoing dialogue between the Government of Canada and civil society
+* [Popolo](http://www.popoloproject.com/) to establish international standard data formats for legislative information
 * [TechPo](http://www.techpo.org/) to promote links between technology, policy and society in Montreal
 
 [Other things I've done](projects/)
