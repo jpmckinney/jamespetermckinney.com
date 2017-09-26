@@ -161,3 +161,4 @@ published: true
 * <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 19-21
 * <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6
 * <http://theex.com/> fair 19-Sep 5
+* <http://mainsquared.com/about-main-squared/> art 26-Sep 3
