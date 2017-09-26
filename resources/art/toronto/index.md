@@ -16,7 +16,7 @@ published: true
 
 ### Downtown North
 
--Oct 6 <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://artmuseum.utoronto.ca/exhibition/in-dialogue/>  
+<u>-Oct 6</u> <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://artmuseum.utoronto.ca/exhibition/in-dialogue/>  
   -Oct 29 <http://artmuseum.utoronto.ca/exhibition/far-near-distances-us/>  
 -Dec 10 <http://www.ryerson.ca/ric/exhibitions/eupcoming/>  
 **-Jan 1 <https://www.agakhanmuseum.org/here>**  
@@ -56,9 +56,9 @@ _**Jan 27-May 13 <http://www.thepowerplant.org/Exhibitions/2018/Winter-2018/Kade
 
 ### Queen St
 
--Oct 7 <http://interaccess.org/exhibition/eta>  
--Oct 7 <http://www.paulpetro.com/exhibitions/486-Dəˈvīn-Kämədē>  
--Oct 7 <http://generalhardware.ca> Scott Everingham  
+<u>-Oct 7</u> <http://interaccess.org/exhibition/eta>  
+<u>-Oct 7</u> <http://www.paulpetro.com/exhibitions/486-Dəˈvīn-Kämədē>  
+<u>-Oct 7</u> <http://generalhardware.ca> Scott Everingham  
 -Oct 14 <http://birchcontemporary.com/exhibition/howard-podeswa-still-life-with-paper> <http://birchcontemporary.com/exhibition/balint-zsako-blood-orange>  
   -Oct 14 <http://georgiascherman.com/Exhibitions.html> Divya Mehra  
   -Oct 14 <http://www.susanhobbs.com/current> Rhonda Weppler, Trevor Mahovsky  
@@ -103,8 +103,8 @@ _Nov 18-Dec 21 <http://www.olgakorpergallery.com/exhibitions/view?id=99>_
 
 ### Dupont St & The Junction
 
--Oct 7 <http://angellgallery.com/exhibition/greg-haberny> <http://angellgallery.com/exhibition/passage-no-170424>  
--Oct 7 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Corwyn Lund  
+<u>-Oct 7</u> <http://angellgallery.com/exhibition/greg-haberny> <http://angellgallery.com/exhibition/passage-no-170424>  
+<u>-Oct 7</u> <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Corwyn Lund  
 -Oct 14 <http://www.galeriedivision.com/toronto/exhibition/-desires-and-relationships>  
 -Oct 14 <http://gallery.alisonmilne.com/exhibitions/horacio-sapere/>  
 -Oct 21 <https://coopercolegallery.com/exhibition/2017-how-deep-is-your-love/>  
