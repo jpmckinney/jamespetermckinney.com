@@ -9,12 +9,12 @@ published: true
 {% capture one %}
 ## Talks
 
-{% comment %}
 ### 2017
 
+{% comment %}
 * [IACCM Americas Conference](http://www2.iaccm.com/americas/), Toronto
-* WTO/EBRD Regional Workshop on Government Procurement, Tbilisi
 {% endcomment %}
+* WTO/EBRD Regional Workshop on Government Procurement, Tbilisi
 
 ### 2016
 
@@ -44,10 +44,6 @@ published: true
 * [Open Data for Development Challenge](https://opendatadevelopmentchalleng2014.sched.com/), Montreal
 
 {% comment %}
-## Interviews
-
-* (Restore interviews from backups)
-
 ## Texts
 
 ### Articles
@@ -63,9 +59,9 @@ published: true
 * [Medium](https://medium.com/@jpmckinney/latest) (2016-) <i class="fa fa-medium" aria-hidden="true"></i>
 * [Ontario Digital blog](https://medium.com/@jpmckinney.ontario/latest) (2016)
 * [OpenCorporates blog](https://blog.opencorporates.com/author/jpmckinney/) (2015)
+* [Open North blog](https://duckduckgo.com/?q=site%3Aopennorth.ca+%22by+james+mckinney%22) (2011-2015)
 * [Open Contracting Partnership blog](https://www.open-contracting.org/author/james/) (2014)
 * [openDemocracy blog](https://www.opendemocracy.net/author/james-mckinney) (2014)
-* [Open North blog](https://duckduckgo.com/?q=site%3Aopennorth.ca+%22by+james+mckinney%22) (2011-2015)
 
 ### Reports
 

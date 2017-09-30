@@ -18,11 +18,18 @@ published: true
 
 <u>-Oct 6</u> <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://artmuseum.utoronto.ca/exhibition/in-dialogue/>  
   -Oct 29 <http://artmuseum.utoronto.ca/exhibition/far-near-distances-us/>  
+**-Dec 3 <http://theagyuisoutthere.org/everywhere/?p=5118>**  
 -Dec 10 <http://www.ryerson.ca/ric/exhibitions/eupcoming/>  
 **-Jan 1 <https://www.agakhanmuseum.org/here>**  
-**-Jan 14 <https://www.aimiaagophotographyprize.com/exhibition>**  
+**-Jan 7 <https://www.ago.net/guillermo-del-toro-at-home-with-monsters>**  
+  **-Jan 14 <https://www.aimiaagophotographyprize.com/exhibition>**  
 -Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text>  
+**-Jan 28 <https://www.rom.on.ca/en/evidence>**  
 -Feb 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/tied,-dyed-and-woven-ikat-textiles-from-latin-amer>  
+
+_Oct 19-Jan 14 <https://www.ago.net/sandra-meigs-room-for-mystics-with-christopher-butterfield>_  
+  _Oct 21-Jan 28 <https://www.ago.net/florine-stettheimer-painting-poetry>_  
+_**Mar 3-May 27 <https://www.ago.net/yayoi-kusama-infinity-mirrors>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -36,9 +43,10 @@ published: true
   -Oct 14 <http://tangledarts.org/gallery/space-shapes-place/progress-is-a-spiral-upward/>  
   -Oct 21 <https://gallery44.org/exhibitions/i-dont-get-it>  
   -Oct 21 <https://gallery44.org/exhibitions/familiar-familiar>  
+  -Oct 28 <https://abbozzogallery.com/jennifer-walton-fire-water-ice-snow/>  
+  **-Dec 2 <http://www.yyzartistsoutlet.org/2017/09/opening-reception-8/>**  
 -Oct 21 <http://www.corkingallery.com/exhibitions/winged-victory>  
--Oct 28 <https://abbozzogallery.com/jennifer-walton-fire-water-ice-snow/>  
-**-Dec 2 <http://www.yyzartistsoutlet.org/2017/09/opening-reception-8/>**  
+**-Dec 10 <https://www2.ocadu.ca/event/raise-a-flag-works-from-the-indigenous-art-collection-2000-2015>**  
 **-Dec 24 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-fall-2017/>**  
 **-Dec 31 <http://www.thepowerplant.org/Exhibitions/2017/Fall-2017/Amalia-Pica.aspx> <http://www.thepowerplant.org/Urban-Now--City-Life-in-Congo.aspx> <http://www.thepowerplant.org/Exhibitions/2017/Fall-2017/Michael-Landy.aspx>**  
 
@@ -59,10 +67,13 @@ _**Jan 27-May 13 <http://www.thepowerplant.org/Exhibitions/2018/Winter-2018/Kade
 <u>-Oct 7</u> <http://interaccess.org/exhibition/eta>  
 <u>-Oct 7</u> <http://www.paulpetro.com/exhibitions/486-Dəˈvīn-Kämədē>  
 <u>-Oct 7</u> <http://generalhardware.ca> Scott Everingham  
+<u>-Oct 8</u> <http://www.bunker2.ca/long-pause>  
 -Oct 14 <http://birchcontemporary.com/exhibition/howard-podeswa-still-life-with-paper> <http://birchcontemporary.com/exhibition/balint-zsako-blood-orange>  
-  -Oct 14 <http://georgiascherman.com/Exhibitions.html> Divya Mehra  
+  **-Oct 14 <http://georgiascherman.com/Exhibitions.html> Divya Mehra**  
   -Oct 14 <http://www.susanhobbs.com/current> Rhonda Weppler, Trevor Mahovsky  
+-Oct 27 <https://www.parinadimigallery.com/latmosfera>  
 **-Nov 26 <http://kofflerarts.org/exhibitions/2017/06/07/staring-back-at-the-sun-video-art-from-israel1970-2012/>**  
+  -Nov 26 <https://criticaldistance.ca/program/fermenting-feminism/>  
 **-Jan 7 <http://www.gladstonehotel.com/spaces/hardtwist12-yarn/>**  
 
 _Oct 7-Oct 29 <http://www.loopgallery.ca/shows/> John Abrams, Mindy Yan Miller_  
@@ -76,7 +87,7 @@ _Dec 1-Jan <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken_
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> InterAccess W8, Only One 7
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Koffler, Critical Distance, Gladstone Hotel, Craft, Graven Feather / 1313, BAND, David Kaye, Katharine Mulherin, Loop Hole, Northern, Nuvango, Propeller
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Koffler, Critical Distance, Gladstone Hotel, Craft, Graven Feather / 1313, BAND, Bunker 2, David Kaye, Katharine Mulherin, Loop Hole, Northern, Nuvango, Propeller
 
 ### Dundas St
 

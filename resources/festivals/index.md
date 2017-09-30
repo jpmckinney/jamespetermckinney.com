@@ -19,10 +19,11 @@ published: true
 * Jan-Jun <http://torontorollerderby.com/season-schedule/> Feb 11, Mar 4, Mar 25, Apr 8, Apr 22, May 13, Jun 3
 * Jun-Aug <http://www.openrooffestival.com/> film/music
 * May-Sep <http://electricisland.to/> music
-* **Jun-Sep <https://www.canadianstage.com/> Shakespeare in High Park theatre**
+* Jun-Sep <https://www.canadianstage.com/> Shakespeare in High Park theatre
 * Jun-Sep <http://torontobakersmarket.com/> food
 * Jun-Sep <http://torontounion.ca/news/union-summer> food
 * Jun-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
+* Sep-Nov <http://naisa.ca/festivals/soundplayseries/> art/music
 * Dec-Mar <http://www.torontolongwinter.com/> art/performance/music
 * **<http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
 * <http://www.super8porter.ca/Festivals.htm> film

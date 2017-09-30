@@ -24,7 +24,7 @@ The lists I subscribe to:
 * [Forest Gregg](http://tinyletter.com/slow-news/archive)
 * [Gavin Starks](http://dgen.net)
 * [Tom Steinberg](http://eepurl.com/bvqAT5)
-* Every art space in Toronto and Montreal
+* Every art space in Toronto
 * A few industry, local and miscellaneous newsletters
 {% endcomment %}
 {% endcapture %}

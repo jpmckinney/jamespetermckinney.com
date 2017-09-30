@@ -14,8 +14,9 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Downtown
 
-**-Oct 9 <https://www.mbam.qc.ca/expositions/a-laffiche/love-is-love/> <https://www.mbam.qc.ca/expositions/a-laffiche/revolution/>**  
-**-Oct 30 <http://www.quartierdesspectacles.com/en/media/km3>**  
+**-Oct 9 <https://www.mbam.qc.ca/expositions/a-laffiche/revolution/>**  
+  **-Oct 22 <https://www.mbam.qc.ca/expositions/a-laffiche/love-is-love/>**  
+**-Oct 15 <http://www.quartierdesspectacles.com/en/media/km3>**  
 -Nov 19 <http://macm.org/expositions/taryn-simon/> <http://macm.org/en/exhibitions/state-of-the-world-2/>  
 **-Dec 3 <https://www.mbam.qc.ca/expositions/a-venir/meryl-mcmaster/>**  
 
@@ -49,7 +50,7 @@ _**Oct 5-Mar 11 <https://dhc-art.org/> L'offre**_
   -Oct 15 <http://www.centreclark.com/fr/projects/zanele-muholi-portraits-choisis> <http://www.centreclark.com/fr/projects/bmwyw> <http://www.centreclark.com/fr/projects/nouvelles-deesses-accessoires-de-connexion>  
   -Oct 21 <http://www.optica.ca/programmation/index.php#927>  
   -Oct 21 <http://www.ateliercirculaire.org/new-events/2017/9/7/adesmarteaux>  
-  -Oct 28 <http://occurrence.ca/momenta-biennale-de-limage-anne-marie-proulx-david-hartt/> <http://occurrence.ca/les-ineluctables-adam-simms/>  
+  -Oct 28 <http://occurrence.ca/momenta-biennale-de-limage-anne-marie-proulx-david-hartt/> <http://occurrence.ca/les-ineluctables-adam-simms/>  
 
 _Oct 19-Dec 16 <http://en.dazibao.art/exhibition/> Lisl Ponger, Hubert Caron-Guay, Hillside Projects_  
 _Nov 3-Nov 18 <http://www.ateliercirculaire.org/new-events/2017/11/3/pret-a-emporter>_  
