@@ -19,7 +19,6 @@ published: true
 <u>-Oct 6</u> <http://artmuseum.utoronto.ca/exhibition/making-models/> <http://artmuseum.utoronto.ca/exhibition/in-dialogue/>  
   -Oct 29 <http://artmuseum.utoronto.ca/exhibition/far-near-distances-us/>  
 **-Dec 3 <http://theagyuisoutthere.org/everywhere/?p=5118>**  
--Dec 10 <http://www.ryerson.ca/ric/exhibitions/eupcoming/>  
 **-Jan 1 <https://www.agakhanmuseum.org/here>**  
 **-Jan 7 <https://www.ago.net/guillermo-del-toro-at-home-with-monsters>**  
   **-Jan 14 <https://www.aimiaagophotographyprize.com/exhibition>**  
@@ -39,13 +38,9 @@ _**Mar 3-May 27 <https://www.ago.net/yayoi-kusama-infinity-mirrors>**_
 
 ### Downtown South
 
-<u>-Sep 30</u> <http://www.circuitgallery.com/exhibitions/michel-huneault-intersection/>  
-  -Oct 14 <http://tangledarts.org/gallery/space-shapes-place/progress-is-a-spiral-upward/>  
-  -Oct 21 <https://gallery44.org/exhibitions/i-dont-get-it>  
-  -Oct 21 <https://gallery44.org/exhibitions/familiar-familiar>  
-  -Oct 28 <https://abbozzogallery.com/jennifer-walton-fire-water-ice-snow/>  
+<u>-Oct 21</u> <https://gallery44.org/exhibitions/i-dont-get-it>  
   **-Dec 2 <http://www.yyzartistsoutlet.org/2017/09/opening-reception-8/>**  
--Oct 21 <http://www.corkingallery.com/exhibitions/winged-victory>  
+<u>-Oct 21</u> <http://www.corkingallery.com/exhibitions/winged-victory>  
 **-Dec 10 <https://www2.ocadu.ca/event/raise-a-flag-works-from-the-indigenous-art-collection-2000-2015>**  
 **-Dec 24 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-fall-2017/>**  
 **-Dec 31 <http://www.thepowerplant.org/Exhibitions/2017/Fall-2017/Amalia-Pica.aspx> <http://www.thepowerplant.org/Urban-Now--City-Life-in-Congo.aspx> <http://www.thepowerplant.org/Exhibitions/2017/Fall-2017/Michael-Landy.aspx>**  
@@ -68,9 +63,9 @@ _**Jan 27-May 13 <http://www.thepowerplant.org/Exhibitions/2018/Winter-2018/Kade
 <u>-Oct 7</u> <http://www.paulpetro.com/exhibitions/486-Dəˈvīn-Kämədē>  
 <u>-Oct 7</u> <http://generalhardware.ca> Scott Everingham  
 <u>-Oct 8</u> <http://www.bunker2.ca/long-pause>  
--Oct 14 <http://birchcontemporary.com/exhibition/howard-podeswa-still-life-with-paper> <http://birchcontemporary.com/exhibition/balint-zsako-blood-orange>  
-  **-Oct 14 <http://georgiascherman.com/Exhibitions.html> Divya Mehra**  
-  -Oct 14 <http://www.susanhobbs.com/current> Rhonda Weppler, Trevor Mahovsky  
+<u>-Oct 14</u> <http://birchcontemporary.com/exhibition/howard-podeswa-still-life-with-paper> <http://birchcontemporary.com/exhibition/balint-zsako-blood-orange>  
+  **<u>-Oct 14</u> <http://georgiascherman.com/Exhibitions.html> Divya Mehra**  
+  <u>-Oct 14</u> <http://www.susanhobbs.com/current> Rhonda Weppler, Trevor Mahovsky  
 -Oct 27 <https://www.parinadimigallery.com/latmosfera>  
 **-Nov 26 <http://kofflerarts.org/exhibitions/2017/06/07/staring-back-at-the-sun-video-art-from-israel1970-2012/>**  
   -Nov 26 <https://criticaldistance.ca/program/fermenting-feminism/>  
@@ -97,13 +92,8 @@ _Dec 1-Jan <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken_
 
 ### Bloordale & Junction Triangle
 
-<u>-Sep 30</u> <http://www.olgakorpergallery.com/exhibitions/current>  
-<u>-Sep 30</u> <http://www.franzkaka.com/alex-turgeon-good-housekeeping.html>  
--Oct 12 <http://galleryhouse.ca/about-the-gallery/exhibitions/current-exhibition/>  
--Oct 14 <https://www.christiecontemporary.com/merritt-images>  
--Oct 14 <http://cuttsgallery.com/exhibitions/collage/#/images>  
--Nov 4 <http://www.mercerunion.org/exhibitions/deanna-bowen-on-trial-the-long-doorway/>  
-**-Nov 11 <http://gallerytpw.ca/exhibitions/havre-smith-turner/> (Oct 7/Nov 4/Oct 14)**  
+<u>-Oct 12</u> <http://galleryhouse.ca/about-the-gallery/exhibitions/current-exhibition/>  
+<u>-Oct 14</u> <http://cuttsgallery.com/exhibitions/collage/#/images>  
 
 _Oct 4-Nov 11 <http://www.olgakorpergallery.com/exhibitions/view?id=98>_  
 _Oct 21-Nov 18 <http://cuttsgallery.com/exhibitions/dana-holst/#/images>_  
@@ -114,13 +104,7 @@ _Nov 18-Dec 21 <http://www.olgakorpergallery.com/exhibitions/view?id=99>_
 
 ### Dupont St & The Junction
 
-<u>-Oct 7</u> <http://angellgallery.com/exhibition/greg-haberny> <http://angellgallery.com/exhibition/passage-no-170424>  
-<u>-Oct 7</u> <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Corwyn Lund  
--Oct 14 <http://www.galeriedivision.com/toronto/exhibition/-desires-and-relationships>  
--Oct 14 <http://gallery.alisonmilne.com/exhibitions/horacio-sapere/>  
--Oct 21 <https://coopercolegallery.com/exhibition/2017-how-deep-is-your-love/>  
-**-Oct 28 <http://www.katzmancontemporary.com/current-exhibition> Standing Under Mis**  
--Nov 5 <http://www.mattergallery.com/exhibitions> Nest Collective  
+<u>-Oct 14</u> <http://gallery.alisonmilne.com/exhibitions/horacio-sapere/>  
 
 _Oct 13-Nov 11 <http://angellgallery.com/exhibition/the-anxious-body>_  
 _Oct 14-Nov 11 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Lee Henderson_  
