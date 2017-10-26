@@ -2,47 +2,29 @@
 <opml version="1.0">
 <head>
 	<title>iTunes Subscribed Feeds</title>
-	<dateCreated>Fri, 04 Aug 2017 15:41:22 GMT</dateCreated>
-	<dateModified>Fri, 04 Aug 2017 15:41:22 GMT</dateModified>
+	<dateCreated>Thu, 26 Oct 2017 02:26:22 GMT</dateCreated>
+	<dateModified>Thu, 26 Oct 2017 02:26:22 GMT</dateModified>
 </head>
 <body>
-	<outline text="#GYALCAST" type="rss" xmlUrl="http://pinecast.com/feed/gyalcast" htmlUrl="http://www.gyalcast.com" />
-	<outline text="Banff Centre Talks" type="rss" xmlUrl="http://feeds.banffcentreradio.ca/banffcentretalks" htmlUrl="http://banffcentre.ca" />
 	<outline text="Broken Boxes Podcast" type="rss" xmlUrl="http://www.brokenboxespodcast.com/podcast?format=rss" htmlUrl="http://www.brokenboxespodcast.com/" />
 	<outline text="CANADALAND" type="rss" xmlUrl="http://canadaland.libsyn.com/rss" htmlUrl="http://www.canadalandshow.com" />
-	<outline text="Cavern of Secrets" type="rss" xmlUrl="http://hazlitt.net/podcast/cavern-secrets/feed.xml" htmlUrl="http://hazlitt.net/" />
-	<outline text="Colour Code" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:246402178/sounds.rss" htmlUrl="http://tgam.ca/colourcode" />
 	<outline text="COMMONS" type="rss" xmlUrl="http://canadalandcommons.libsyn.com/rss" htmlUrl="http://canadalandshow.com/commons" />
-	<outline text="Invisible City" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:154104768/sounds.rss" htmlUrl="http://www.invisiblecitypodcast.com" />
-	<outline text="Koffler.Digital Audio Programs" type="rss" xmlUrl="http://kofflerarts.libsyn.com/rss" htmlUrl="http://www.koffler.digital/" />
-	<outline text="Love Me" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/loveme.xml" htmlUrl="http://www.cbc.ca/podcasting" />
+	<outline text="Ear Hustle" type="rss" xmlUrl="http://feeds.earhustlesq.com/earhustlesq" htmlUrl="https://www.earhustlesq.com/" />
 	<outline text="MEDIA INDIGENA : Weekly Indigenous current affairs program" type="rss" xmlUrl="http://mediaindigena.libsyn.com/rss" htmlUrl="http://www.mediaindigena.com" />
-	<outline text="Metropolis: A Livable Cities Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:260862713/sounds.rss" htmlUrl="http://soundcloud.com/metropoliscast" />
-	<outline text="MinutePhysics" type="rss" xmlUrl="http://minutephysics.libsyn.com/rss" htmlUrl="http://minutephysics.com" />
-	<outline text="Missing &#38; Murdered: Who Killed Alberta Williams?" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/missing.xml" htmlUrl="http://www.cbc.ca/podcasting" />
 	<outline text="Métis In Space" type="rss" xmlUrl="http://metisinspace.libsyn.com/rss" htmlUrl="http://métisinspace.libsyn.com/webpage" />
-	<outline text="Native Currents" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:175540719/sounds.rss" htmlUrl="http://nativecurrents.blogspot.ca/" />
-	<outline text="Nth Wave" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:222465704/sounds.rss" htmlUrl="http://www.metronews.ca/" />
 	<outline text="On The WetCoast Podcast" type="rss" xmlUrl="http://podcasts.onthewetcoast.com/rss" htmlUrl="http://onthewetcoast.libsyn.com/podcast" />
-	<outline text="One From the Vaults" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:195654199/sounds.rss" htmlUrl="http://odofemi.com" />
-	<outline text="Polaris Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:114211541/sounds.rss" htmlUrl="http://polarismusicprize.ca/" />
-	<outline text="Policy Options Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:106122041/sounds.rss" htmlUrl="http://irpp.org/" />
-	<outline text="Shameless Talks" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:147668009/sounds.rss" htmlUrl="http://soundcloud.com/shamelessmagazine" />
-	<outline text="Still Here" type="rss" xmlUrl="http://stillhere.blubrry.com/feed/podcast/" htmlUrl="http://www.stillherepodcast.com/" />
+	<outline text="Polaris Podcast" type="rss" xmlUrl="http://polarispodcast.libsyn.com/rss" htmlUrl="https://polarismusicprize.ca/" />
+	<outline text="Show Your Work" type="rss" xmlUrl="http://laineygossipentertainment.libsyn.com/rss" htmlUrl="http://laineygossipentertainment.libsyn.com/podcast" />
+	<outline text="Southern Souls Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:40205322/sounds.rss" htmlUrl="http://www.southernsouls.ca" />
+	<outline text="Steal the Stars" type="rss" xmlUrl="https://rss.art19.com/steal-the-stars" htmlUrl="http://tor-labs.com/" />
 	<outline text="Stories From The Land" type="rss" xmlUrl="http://storiesfromtheland.libsyn.com/rss" htmlUrl="http://storiesfromtheland.libsyn.com/webpage" />
-	<outline text="Tell Me Something Good" type="rss" xmlUrl="https://www.lifeontheswingset.com/category/podcast/tmsg/feed/" htmlUrl="https://www.lifeontheswingset.com/category/podcast/tmsg/" />
-	<outline text="The Crimson Wave" type="rss" xmlUrl="http://thecrimsonwave.libsyn.com/rss" htmlUrl="http://thecrimsonwave.libsyn.com" />
-	<outline text="The Cuts With Sterlin Harjo" type="rss" xmlUrl="http://thecutspodcast.libsyn.com/rss" htmlUrl="http://www.thecutspodcast.com" />
 	<outline text="The Heart" type="rss" xmlUrl="http://feeds.theheartradio.org/TheHeartRadio" htmlUrl="http://theheartradio.org" />
 	<outline text="The Henceforward" type="rss" xmlUrl="http://thehenceforward.libsyn.com/rss" htmlUrl="http://thehenceforward.libsyn.com/podcast" />
 	<outline text="The House from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/thehouse.xml" htmlUrl="http://www.cbc.ca/podcasting" />
 	<outline text="The Imposter" type="rss" xmlUrl="http://imposter.libsyn.com/rss" htmlUrl="http://imposter.libsyn.com/podcast" />
 	<outline text="The Lonely Palette" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:214976441/sounds.rss" htmlUrl="http://www.thelonelypalette.com" />
-	<outline text="The Strategists" type="rss" xmlUrl="http://thestrategists.libsyn.com/rss" htmlUrl="http://thestrategists.libsyn.com/podcast" />
-	<outline text="TIFF Long Take" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:290670092/sounds.rss" htmlUrl="http://soundcloud.com/tifflongtake" />
-	<outline text="Trampoline Hall" type="rss" xmlUrl="http://rss.acast.com/trampolinehall" htmlUrl="http://www.trampolinehall.net/podcastpage" />
-	<outline text="Underground Sounds" type="rss" xmlUrl="http://ckut.ca/en/program/1835/rss.xml" />
-	<outline text="UpTalk from Chatelaine" type="rss" xmlUrl="http://feeds.feedburner.com/UptalkFromChatelaine" htmlUrl="http://www.chatelaine.com" />
-	<outline text="Walkcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:48348877/sounds.rss" htmlUrl="https://timquerengesser.com" />
+	<outline text="The Truth" type="rss" xmlUrl="http://feeds.thetruthpodcast.com/thetruthapm" htmlUrl="http://thetruthpodcast.com" />
+	<outline text="Treyf Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:159628556/sounds.rss" htmlUrl="http://www.treyfpodcast.com" />
+	<outline text="Underground Sounds" type="rss" xmlUrl="http://ckut.ca/en/program/1835/rss.xml" htmlUrl="http://ckut.ca" />
 </body>
 </opml>
