@@ -20,6 +20,7 @@ published: true
 * <http://www.tocentre.com/whats-on/calendar>
 * <http://www.coc.ca/PerformancesAndTickets.aspx>
 * <http://www.nightwoodtheatre.net/>
+* <http://buddiesinbadtimes.com/events/>
 
 ### Others
 

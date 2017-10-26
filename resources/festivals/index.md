@@ -31,27 +31,6 @@ published: true
 * <http://www.torontoartcrawl.com> art
 * <https://www.badgirlscollective.ca> books
 
-### Sep
-
-* **<http://www.tiff.net/festivals/festival16> film 8-18**
-* **<http://www.nbto.com/> art 30**
-* **<http://queenwestartcrawl.com/> art 23-24**
-* <http://www.munkdebates.com/> talk
-* <http://torontourbanrootsfest.com/> music 16-18
-* <s><http://www.infuture.ca/> art 15-25</s>
-* <s><http://www.endlesscity.org/forms/events> art 28-30</s>
-
-### Oct
-
-* <http://7a-11d.ca/> performance biennial (even)
-* **<http://www.worldpressphotobrookfieldplace.com/> photography 4-25**
-* <https://www.arttoronto.ca/> art 28-31
-* <http://www.reelworld.ca/> film 11-15
-* <http://planetinfocus.org/> film 19-22
-* <http://www.imaginenative.org/> film 18-22
-* <http://ifoa.org/> books 19-29
-* <https://musicgallery.org/all-events/> music 13-16
-
 ### Nov
 
 * <http://regentparkfilmfestival.com/> film 23-26
@@ -163,3 +142,24 @@ published: true
 * <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6
 * <http://theex.com/> fair 19-Sep 5
 * <http://mainsquared.com/about-main-squared/> art 26-Sep 3
+
+### Sep
+
+* **<http://www.tiff.net/festivals/festival16> film 8-18**
+* **<http://www.nbto.com/> art 30**
+* **<http://queenwestartcrawl.com/> art 23-24**
+* <http://www.munkdebates.com/> talk
+* <http://torontourbanrootsfest.com/> music 16-18
+* <s><http://www.infuture.ca/> art 15-25</s>
+* <s><http://www.endlesscity.org/forms/events> art 28-30</s>
+
+### Oct
+
+* <http://7a-11d.ca/> performance biennial (even)
+* **<http://www.worldpressphotobrookfieldplace.com/> photography 4-25**
+* <https://www.arttoronto.ca/> art 28-31
+* <http://www.reelworld.ca/> film 11-15
+* <http://planetinfocus.org/> film 19-22
+* <http://www.imaginenative.org/> film 18-22
+* <http://ifoa.org/> books 19-29
+* <https://musicgallery.org/all-events/> music 13-16
