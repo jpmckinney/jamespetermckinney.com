@@ -12,8 +12,8 @@ layout: default
 * [Festivals in Toronto and Montreal](resources/festivals/)
 * [Other events in Toronto and Montreal](resources/events/)
 * [Maps of art galleries in cities worldwide](resources/maps/)
-* [<span class="glyphicon glyphicon-download"></span> The feeds I subscribe to (OPML)](feeds.xml) (<span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> 2017-08-04)
-* [<span class="glyphicon glyphicon-download"></span> The podcasts I listen to (OPML)](podcasts.xml) (<span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> 2017-08-04)
+* [<span class="glyphicon glyphicon-download"></span> The feeds I subscribe to (OPML)](feeds.xml) (<span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> 2017-10-26)
+* [<span class="glyphicon glyphicon-download"></span> The podcasts I listen to (OPML)](podcasts.xml) (<span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> 2017-10-26)
 
 {% comment %}
 The lists I subscribe to:
