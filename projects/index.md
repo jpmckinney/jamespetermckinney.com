@@ -11,37 +11,34 @@ published: true
 
 ### 2017
 
-{% comment %}
-* [IACCM Americas Conference](http://www2.iaccm.com/americas/), Toronto
-{% endcomment %}
-* WTO/EBRD Regional Workshop on Government Procurement, Tbilisi
+* WTO/EBRD Regional Workshop on Government Procurement, Tbilisi (speaker)
 
 ### 2016
 
-* [Open Government Partnership Global Summit](https://en.ogpsummit.org/), Paris
-* [International Open Data Conference](https://internationalopendataconfer2016.sched.com/), Madrid
-* [g0v Summit](http://summit.g0v.tw/2016/), Taipei
-* Canadian Open Data Summit, Saint John
-* [Civic Data Workshop](https://www.youtube.com/watch?v=-OrOqTKZ7mQ), Washington, DC
-* [MISA/ASIM Canada](http://www.misa-asim.ca/) Open Data Special Interest Group, Toronto
-* [Civic Tech Toronto](http://civictech.ca/2016/01/20/hacknight-25-jan-19/), Toronto
+* [Open Government Partnership Global Summit](https://en.ogpsummit.org/), Paris (panelist)
+* [International Open Data Conference](https://internationalopendataconfer2016.sched.com/), Madrid ([panelist](https://internationalopendataconfer2016.sched.com/event/7czJ/my-best-open-data-fail))
+* [g0v Summit](http://summit.g0v.tw/2016/), Taipei ([speaker](http://summit.g0v.tw/2016/schedules#day1-all-24))
+* Canadian Open Data Summit, Saint John (moderator){% comment %}Open by Default: Addressing the Challenges{% endcomment %}
+* Civic Data Workshop, Washington, DC ([speaker](https://www.youtube.com/watch?v=-OrOqTKZ7mQ))
+* [MISA/ASIM Canada](http://www.misa-asim.ca/) Open Data Special Interest Group, Toronto ([speaker](https://docs.google.com/document/d/1lN_e2FL4ut5xTlpM3Z7zdPTqpXf8bvnD6b27zhpbAbQ/edit#heading=h.2eu8mvy0o3m6))
+* [Civic Tech Toronto](http://civictech.ca/), Toronto ([speaker](http://civictech.ca/2016/01/20/hacknight-25-jan-19/))
 
 ### 2015
 
-* Seoul Open Forum, Seoul
-* [Open Government Partnership Global Summit](https://ogpsummit2015.sched.com/), Mexico
-* [Technology for Investigative Journalism](http://www.influencemapping.org/workshop/), London
-* [International Open Data Conference](https://internationalopendataconfer2015.sched.com/), Ottawa
-* Canadian Open Data Summit, Ottawa
-* [Spaghetti Open Data](http://www.spaghettiopendata.org/page/benvenut-sod15), Bologna
+* Seoul Open Forum, Seoul (speaker){% comment %}Supporting democracy with technology{% endcomment %}
+* [Open Government Partnership Global Summit](https://ogpsummit2015.sched.com/), Mexico ([panelist](https://ogpsummit2015.sched.com/event/4WfL/open-data-working-group-priorities-and-future-planning))
+* [Technology for Investigative Journalism](http://www.influencemapping.org/workshop/), London ([speaker](http://www.influencemapping.org/workshop/data_standards.html))
+* [International Open Data Conference](https://internationalopendataconfer2015.sched.com/), Ottawa ([panelist](https://internationalopendataconfer2015.sched.com/event/36sP/data-parliaments-donnees-parlements), [facilitator](https://internationalopendataconfer2015.sched.com/event/36t7/open-data-standards-good-practices-normes-sur-les-donnees-ouvertes-les-bonnes-pratiques), [rapporteur](https://internationalopendataconfer2015.sched.com/event/36sH/looking-back-and-looking-forward-regard-sur-le-passe-et-lavenir))
+* Canadian Open Data Summit, Ottawa (facilitator){% comment %}Promoting inter-jurisdictional cooperation and collaboration through standards{% endcomment %}
+* [Spaghetti Open Data](http://www.spaghettiopendata.org/page/benvenut-sod15), Bologna ([keynote](http://www.spaghettiopendata.org/blog/andrea-nelson-mauro/ecco-il-programma-di-sod15))
 
 ### 2014
 
-* [Open Government Partnership Americas Regional Meeting](https://www.opengovpartnership.org/about/news-and-events/2014-americas-regional-meeting-reuni-n-regional-de-las-am-ricas), San Jose
-* [Open Knowledge Festival](http://2014.okfestival.org/), Berlin
-* [LegComm](http://www.sliq.com/legcomm2014.html), Montreal
-* Canadian Open Data Summit, Vancouver
-* [Open Data for Development Challenge](https://opendatadevelopmentchalleng2014.sched.com/), Montreal
+* [Open Government Partnership Americas Regional Meeting](https://www.opengovpartnership.org/about/news-and-events/2014-americas-regional-meeting-reuni-n-regional-de-las-am-ricas), San Jose (panelist)
+* [Open Knowledge Festival](http://2014.okfestival.org/), Berlin (facilitator){% comment %}Open Decisions APIs: Global Standardization{% endcomment %}
+* [LegComm](http://www.sliq.com/legcomm2014.html), Montreal (speaker){% comment %}Examining transparency and Open data initiatives{% endcomment %}
+* Canadian Open Data Summit, Vancouver (panelist){% comment %}Represent Civic Information API{% endcomment %}
+* [Open Data for Development Challenge](https://opendatadevelopmentchalleng2014.sched.com/), Montreal ([panelist](https://opendatadevelopmentchalleng2014.sched.com/event/1e58IEE/panel-innovation-showcase-atelier-vitrine-de-linnovation))
 
 {% comment %}
 ## Texts
