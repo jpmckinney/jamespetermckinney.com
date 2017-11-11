@@ -14,11 +14,9 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Downtown
 
--Nov 19 <http://macm.org/expositions/taryn-simon/> <http://macm.org/en/exhibitions/state-of-the-world-2/>  
 **-Dec 3 <https://www.mbam.qc.ca/expositions/a-venir/meryl-mcmaster/>**  
-
-_Nov 8-Mar 31 <https://www.mbam.qc.ca/expositions/a-venir/nadia-myre/>_  
-_**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_  
+-Mar 31 <https://www.mbam.qc.ca/expositions/a-venir/nadia-myre/>  
+**-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> MACM WUF9, MBAM W9, McCord W9, Centre for Architecture W9
 
@@ -43,9 +41,8 @@ _**Nov 9-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**_
 ### Mile End
 
 -Dec 16 <http://en.dazibao.art/exhibition/> Lisl Ponger, Hubert Caron-Guay, Hillside Projects  
+-Dec 16 <http://www.optica.ca/programmation/index.php#922>  
 
-_Nov 3-Nov 18 <http://www.ateliercirculaire.org/new-events/2017/11/3/pret-a-emporter>_  
-_Nov 11-Dec 16 <http://www.optica.ca/programmation/index.php#922>_  
 _Dec 1-Dec 21 <http://www.ateliercirculaire.org/new-events/2017/12/1/variations-maitres-japonais>_  
 _Jan 11-Feb 10 <http://www.ateliercirculaire.org/new-events/2018/1/11/daniel-sylvestre>_  
 _Jan 11-Mar 10 <http://en.dazibao.art/exhibition/> Myriam Yates_  
@@ -61,6 +58,8 @@ _May 24-Jun 29 <http://www.ateliercirculaire.org/new-events/2018/5/24/salon-des-
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> d'Este
 
 ### Little Burgundy
+
+**-Dec 22 <http://arsenalmontreal.com/details/anthologie-oeuvres-monumentales-de-la-collection/>**_  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Arsenal T8
 

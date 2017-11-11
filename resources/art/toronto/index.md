@@ -37,8 +37,7 @@ _**Mar 3-May 27 <https://www.ago.net/yayoi-kusama-infinity-mirrors>**_
 ### Downtown South
 
 **<u>-Nov 11</u> <http://feheleyfinearts.com/exhibitions/padloo-samayualie-north-south/>**  
-<u>-Nov 11</u> <http://queengallery.ca/2017/09/solo-exhibition-by-mojgan-rahiminejad-mojy/>  
--Nov 18 <http://scotiabankcontactphoto.com/2017/contact-gallery/an-unassailable-and-monumental-dignity>  
+<u>-Nov 18</u> <http://scotiabankcontactphoto.com/2017/contact-gallery/an-unassailable-and-monumental-dignity>  
 -Nov 25 <http://tangledarts.org/gallery/space-shapes-place/salt-of-the-earth/>  
 -Dec 2 <https://gallery44.org/exhibitions/pursuit-perfect-pose>  
 **-Dec 10 <https://www2.ocadu.ca/event/raise-a-flag-works-from-the-indigenous-art-collection-2000-2015>**  
@@ -56,11 +55,8 @@ _**Jan 27-May 13 <http://www.thepowerplant.org/Exhibitions/2018/Winter-2018/Kade
 
 ### Queen St
 
-<u>-Nov 11</u> <http://generalhardware.ca> Joe Fleming  
-<u>-Nov 11</u> <http://paulpetro.com/exhibitions/493-Courts-And-Corrals> <http://paulpetro.com/exhibitions/487-Stories,-Seasons>  
-<u>-Nov 12</u> <http://ryersonartspace.com> As I Please  
--Nov 18 <http://interaccess.org/exhibition/transcendence>  
--Nov 18 <https://www.walnutcontemporary.com>  
+<u>-Nov 18</u> <http://interaccess.org/exhibition/transcendence>  
+<u>-Nov 18</u> <https://www.walnutcontemporary.com>  
 -Nov 25 <http://birchcontemporary.com/exhibition/here-not-here>  
 -Nov 25 <http://georgiascherman.com/ForthcomingExhibitions.html> Ulysses Castellanos  
 -Nov 25 <http://www.susanhobbs.com/exhibits/1416-the-glass-ticker>  
@@ -85,24 +81,29 @@ _Dec 1-Jan <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken_
 
 ### Bloordale & Junction Triangle
 
-<u>-Nov 11</u> <http://www.olgakorpergallery.com/exhibitions/view?id=98>  
--Nov 18 <http://cuttsgallery.com/exhibitions/dana-holst/#/images>  
--Nov 25 <http://www.franzkaka.com/rachelle-sawatsky.html>  
+<u>-Nov 18</u> <http://cuttsgallery.com/exhibitions/dana-holst/#/images>  
+-Nov 25 <http://www.franzkaka.com/rachelle-sawatsky-noura-wedell-sweat.html>  
 -Jan 3 <http://www.galeriedivision.com/toronto/exhibition/-asterisms>  
 -Mar 10 <http://www.scrapmetalgallery.com> All the Names  
 
 _Nov 18-Dec 21 <http://www.olgakorpergallery.com/exhibitions/view?id=99>_  
 _Dec 1-Dec 9 <http://gallerytpw.ca/photorama/>_  
+_Jan 6-Feb 3 <http://www.olgakorpergallery.com/exhibitions/view?id=100>_  
+_Jan 11-Feb 3 <http://www.franzkaka.com/marin-and-pausova.html>_  
+_Feb 10-Mar 18 <http://www.olgakorpergallery.com/exhibitions/view?id=101>_  
+_Mar 8-Mar 31 <http://www.franzkaka.com/rogers.html>_  
+_Mar 24-Apr 21 <http://www.olgakorpergallery.com/exhibitions/view?id=102>_  
+_Apr 28-May 2 <http://www.olgakorpergallery.com/exhibitions/view?id=103>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
-<u>-Nov 11</u> <http://erinstumpprojects.com/current-exhibitions/tamara-henderson-under-the-poplar> <http://erinstumpprojects.com/current-exhibitions/jessica-groome-soft-glove>  
-<u>-Nov 11</u> <http://angellgallery.com/exhibition/the-anxious-body>  
-<u>-Nov 11</u> <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Lee Henderson  
--Nov 18 <https://www.christiecontemporary.com/boigon-images-1>  
+<u>-Nov 18</u> <https://www.christiecontemporary.com/boigon-images-1>  
+-Nov 25 <http://gallery.alisonmilne.com/exhibitions/nacha-canvas-tecta/>  
 -Nov 25 <http://www.becontemporary.com> Medrie MacPhee  
 -Dec 2 <https://coopercolegallery.com/exhibition/2017-symbolisms/>  
+**-Jan 7 <http://www.mattergallery.com/exhibitions/2017/9/7/siwa-mgoboza>**  
 
 _Nov 17-Dec 22 <http://angellgallery.com/exhibition/steve-driscoll-1>_  
+_Nov 18-Jan 6 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>_  
