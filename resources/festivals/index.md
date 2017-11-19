@@ -157,6 +157,7 @@ published: true
 
 * <http://7a-11d.ca/> performance biennial (even)
 * **<http://www.worldpressphotobrookfieldplace.com/> photography 4-25**
+* <http://www.brokenpencil.com/canzine-toronto> books 21
 * <https://www.arttoronto.ca/> art 28-31
 * <http://www.reelworld.ca/> film 11-15
 * <http://planetinfocus.org/> film 19-22
