@@ -16,7 +16,7 @@ published: true
 
 ### Downtown North
 
-<u>**-Dec 3</u> <http://theagyuisoutthere.org/everywhere/?p=5118>**  
+**<u>-Dec 3</u> <http://theagyuisoutthere.org/everywhere/?p=5118>**  
 -Dec 10 <http://www.whippersnapper.ca/exhibitions/will-you-listen-latinx-voices-in-tkaronto/>  
 **-Jan 1 <https://www.agakhanmuseum.org/here>**  
 -Jan 14 <https://www.ago.net/sandra-meigs-room-for-mystics-with-christopher-butterfield>  
@@ -26,6 +26,7 @@ published: true
 **-Jan 21 <https://www.gardinermuseum.on.ca/event/steven-heinemann-culture-nature/>**  
 **-Jan 28 <https://www.rom.on.ca/en/evidence>**  
 **-Aug 14 <http://artmuseum.utoronto.ca/exhibition/morning-star/>**  
+  <http://canadianart.ca/reviews/morning-star-jackman-humanities-institute/>  
 
 _**Mar 3-May 27 <https://www.ago.net/yayoi-kusama-infinity-mirrors>**_  
 
