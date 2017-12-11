@@ -11,6 +11,7 @@ published: true
 
 ### 2017
 
+* [Open Contracting 2017](http://opencontracting2017.org/), Amsterdam (facilitator)
 * WTO/EBRD Regional Workshop on Government Procurement, Tbilisi (speaker)
 
 ### 2016
@@ -43,27 +44,31 @@ published: true
 {% comment %}
 ## Texts
 
-### Articles
+* [Medium posts](https://medium.com/@jpmckinney/latest) (2016-) <i class="fa fa-medium" aria-hidden="true"></i>
+* [Open North posts](https://duckduckgo.com/?q=site%3Aopennorth.ca+%22by+james+mckinney%22) (2011-2015), in particular:
+  * [The “civic power” sector](http://www.opennorth.ca/2013/11/21/the-civic-power-sector.html) (2013)
+  * [Replicating the Open Data Institute](http://www.opennorth.ca/2013/11/25/replicating-the-open-data-institute.html) (2013)
+  * [Announcing a leadership transition at Open North](http://www.opennorth.ca/2015/09/22/announcing-a-leadership-transition-at-open-north.html) (2015)
 
-* [Boostrapping Culture in Government](http://www.cpsrenewal.ca/2017/06/bootstrapping-culture-in-government.html) (2017)
-* [What’s needed to deliver on the federal government’s “open by default” promise?](http://policyoptions.irpp.org/magazines/march-2016/whats-needed-to-deliver-on-the-federal-governments-open-by-default-promise/) (2016)
-* [Rudny & McKinney: Making government information more accessible](http://nationalpost.com/opinion/rudny-mckinney-making-government-information-more-accessible/wcm/35ea360f-a5a9-4609-b984-bd17d2864844) (2016)
-* [Killer open-data apps from around the world](http://montrealouvert.net/2011/02/09/killer-open-data-apps-from-around-the-world/) (2011)
-* [Apache Solr Mastery: Adding custom search paths with hook_menu](https://evolvingweb.ca/blog/apache-solr-mastery-adding-custom-search-paths-hook-menu) (2010)
+### Policy
 
-### Blog posts
+* [Boostrapping Culture in Government](http://www.cpsrenewal.ca/2017/06/bootstrapping-culture-in-government.html) (CPS Renewal, 2017)
+* [What’s needed to deliver on the federal government’s “open by default” promise?](http://policyoptions.irpp.org/magazines/march-2016/whats-needed-to-deliver-on-the-federal-governments-open-by-default-promise/) (Policy Options, 2016)
+* [Making government information more accessible](http://nationalpost.com/opinion/rudny-mckinney-making-government-information-more-accessible/wcm/35ea360f-a5a9-4609-b984-bd17d2864844) (National Post, 2016)
+* [Killer open-data apps from around the world](http://montrealouvert.net/2011/02/09/killer-open-data-apps-from-around-the-world/) (Montréal Ouvert, 2011)
 
-* [Medium](https://medium.com/@jpmckinney/latest) (2016-) <i class="fa fa-medium" aria-hidden="true"></i>
-* [Ontario Digital blog](https://medium.com/@jpmckinney.ontario/latest) (2016)
-* [OpenCorporates blog](https://blog.opencorporates.com/author/jpmckinney/) (2015)
-* [Open North blog](https://duckduckgo.com/?q=site%3Aopennorth.ca+%22by+james+mckinney%22) (2011-2015)
-* [Open Contracting Partnership blog](https://www.open-contracting.org/author/james/) (2014)
-* [openDemocracy blog](https://www.opendemocracy.net/author/james-mckinney) (2014)
-
-### Reports
+### Standards
 
 * [Identifying recommended standards and best practices for open data](http://bit.ly/odwgstandards2) (2015)
 * [Gaps and opportunities for standardization in OGP members’ open data catalogs](http://bit.ly/odwgstandards1) (2015)
+* [How we model data: Making gazette notices standard and comparable](https://blog.opencorporates.com/2015/12/30/how-we-model-data-making-gazette-notices-standard-and-comparable/) (OpenCorporates, 2015) {% comment %}https://blog.opencorporates.com/author/jpmckinney/{% endcomment %}
+* [Request for Comments: Extending OCDS for Extractives Industries and Land](https://www.open-contracting.org/2014/12/18/request-for-comments-extending-ocds-for-extractives-industries-and-land/) (Open Contracting Partnership, 2014) {% comment %}https://www.open-contracting.org/author/james/{% endcomment %}
+* [Toward a standard open decisions API](https://www.opendemocracy.net/can-europe-make-it/jogi-poikola-markus-laine-james-mckinney-scott-hubli-jared-ford-greg-brown/toward) (openDemocracy, 2014) {% comment %}https://www.opendemocracy.net/author/james-mckinney{% endcomment %}
+
+### Technology
+
+* [This bot tells you who people are](https://medium.com/ontariodigital/this-bot-tells-you-who-people-are-d2a97b515b27) (Ontario Digital Service, 2016) {% comment %}https://medium.com/@jpmckinney.ontario/latest{% endcomment %}
+* [Apache Solr Mastery: Adding custom search paths with hook_menu](https://evolvingweb.ca/blog/apache-solr-mastery-adding-custom-search-paths-hook-menu) (Evolving Web, 2010)
 {% endcomment %}
 
 {% comment %}

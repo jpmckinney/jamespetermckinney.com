@@ -16,7 +16,6 @@ published: true
 
 ### Downtown North
 
-**<u>-Dec 3</u> <http://theagyuisoutthere.org/everywhere/?p=5118>**  
 -Dec 10 <http://www.whippersnapper.ca/exhibitions/will-you-listen-latinx-voices-in-tkaronto/>  
 **-Jan 1 <https://www.agakhanmuseum.org/here>**  
 -Jan 14 <https://www.ago.net/sandra-meigs-room-for-mystics-with-christopher-butterfield>  
@@ -38,8 +37,6 @@ _**Mar 3-May 27 <https://www.ago.net/yayoi-kusama-infinity-mirrors>**_
 
 ### Downtown South
 
-<u>-Nov 25</u> <http://tangledarts.org/gallery/space-shapes-place/salt-of-the-earth/>  
-<u>-Dec 2</u> <https://gallery44.org/exhibitions/pursuit-perfect-pose>  
 **-Dec 10 <https://www2.ocadu.ca/event/raise-a-flag-works-from-the-indigenous-art-collection-2000-2015>**  
 -Dec 16 <https://feheleyfinearts.com/exhibitions/kinngait-memories-john-hartman-cape-dorset/>  
 **-Dec 24 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-fall-2017/>**  
@@ -56,12 +53,9 @@ _**Jan 27-May 13 <http://www.thepowerplant.org/Exhibitions/2018/Winter-2018/Kade
 
 ### Queen St
 
-**<u>-Nov 26</u> <http://kofflerarts.org/exhibitions/2017/06/07/staring-back-at-the-sun-video-art-from-israel1970-2012/>**  
-  <u>-Nov 26</u> <https://criticaldistance.ca/program/fermenting-feminism/>  
 **-Jan 7 <http://www.gladstonehotel.com/spaces/hardtwist12-yarn/>**  
-
-_Nov 30-Jan 11 <http://birchcontemporary.com/exhibition/3rd-act> <http://birchcontemporary.com/exhibition/the-in-vain-coloured-oriole-and-other-paintings>_  
-_Dec 1-Jan <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken_  
+-Jan 11 <http://birchcontemporary.com/exhibition/3rd-act> <http://birchcontemporary.com/exhibition/the-in-vain-coloured-oriole-and-other-paintings>  
+-Jan 27 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -77,13 +71,13 @@ _Dec 1-Jan <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken_
 
 ### Bloordale & Junction Triangle
 
+-Dec 9 <http://gallerytpw.ca/photorama/>  
 -Dec 21 <http://www.olgakorpergallery.com/exhibitions/view?id=99>  
+-Dec 23 <http://cuttsgallery.com/exhibitions/a-bright-room-scanned-darkly/>  
 -Jan 3 <http://www.galeriedivision.com/toronto/exhibition/-asterisms>  
+**-Feb 3 <http://www.mercerunion.org/exhibitions/separation-penetrates/>**  
 -Mar 10 <http://www.scrapmetalgallery.com> All the Names  
 
-_Nov 24-Dec 23 <http://cuttsgallery.com/exhibitions/a-bright-room-scanned-darkly/>_  
-_Dec 1-Dec 9 <http://gallerytpw.ca/photorama/>_  
-_**Dec 1-Feb 3 <http://www.mercerunion.org/exhibitions/separation-penetrates/>**_  
 _Jan 6-Feb 3 <http://www.olgakorpergallery.com/exhibitions/view?id=100>_  
 _Jan 11-Feb 3 <http://www.franzkaka.com/marin-and-pausova.html>_  
 _Feb 10-Mar 18 <http://www.olgakorpergallery.com/exhibitions/view?id=101>_  
@@ -97,6 +91,5 @@ _Apr 28-May 2 <http://www.olgakorpergallery.com/exhibitions/view?id=103>_
 
 -Dec 22 <http://angellgallery.com/exhibition/steve-driscoll-1>  
 -Jan 6 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>  
+-Jan 6 <https://www.christiecontemporary.com/exhibitions/> Marla Hlady  
 **-Jan 7 <http://www.mattergallery.com/exhibitions/2017/9/7/siwa-mgoboza>**  
-
-_Nov 24-Jan 6 <https://www.christiecontemporary.com/exhibitions/> Marla Hlady_  

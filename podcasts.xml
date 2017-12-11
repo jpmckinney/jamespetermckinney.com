@@ -2,21 +2,22 @@
 <opml version="1.0">
 <head>
 	<title>iTunes Subscribed Feeds</title>
-	<dateCreated>Thu, 26 Oct 2017 02:26:22 GMT</dateCreated>
-	<dateModified>Thu, 26 Oct 2017 02:26:22 GMT</dateModified>
+	<dateCreated>Mon, 27 Nov 2017 10:05:46 GMT</dateCreated>
+	<dateModified>Mon, 27 Nov 2017 10:05:46 GMT</dateModified>
 </head>
 <body>
+	<outline text="bitchface" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:203308699/sounds.rss" htmlUrl="http://soundcloud.com/bitchfacepodcast" />
 	<outline text="Broken Boxes Podcast" type="rss" xmlUrl="http://www.brokenboxespodcast.com/podcast?format=rss" htmlUrl="http://www.brokenboxespodcast.com/" />
 	<outline text="CANADALAND" type="rss" xmlUrl="http://canadaland.libsyn.com/rss" htmlUrl="http://www.canadalandshow.com" />
 	<outline text="COMMONS" type="rss" xmlUrl="http://canadalandcommons.libsyn.com/rss" htmlUrl="http://canadalandshow.com/commons" />
 	<outline text="Ear Hustle" type="rss" xmlUrl="http://feeds.earhustlesq.com/earhustlesq" htmlUrl="https://www.earhustlesq.com/" />
+	<outline text="Food 4 Thot" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:284345136/sounds.rss" htmlUrl="https://food4thotpodcast.com/" />
+	<outline text="Jokes That Killed in Group Therapy" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:334140982/sounds.rss" htmlUrl="http://soundcloud.com/user-168533861" />
 	<outline text="MEDIA INDIGENA : Weekly Indigenous current affairs program" type="rss" xmlUrl="http://mediaindigena.libsyn.com/rss" htmlUrl="http://www.mediaindigena.com" />
 	<outline text="Métis In Space" type="rss" xmlUrl="http://metisinspace.libsyn.com/rss" htmlUrl="http://métisinspace.libsyn.com/webpage" />
 	<outline text="On The WetCoast Podcast" type="rss" xmlUrl="http://podcasts.onthewetcoast.com/rss" htmlUrl="http://onthewetcoast.libsyn.com/podcast" />
 	<outline text="Polaris Podcast" type="rss" xmlUrl="http://polarispodcast.libsyn.com/rss" htmlUrl="https://polarismusicprize.ca/" />
-	<outline text="Show Your Work" type="rss" xmlUrl="http://laineygossipentertainment.libsyn.com/rss" htmlUrl="http://laineygossipentertainment.libsyn.com/podcast" />
-	<outline text="Southern Souls Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:40205322/sounds.rss" htmlUrl="http://www.southernsouls.ca" />
-	<outline text="Steal the Stars" type="rss" xmlUrl="https://rss.art19.com/steal-the-stars" htmlUrl="http://tor-labs.com/" />
+	<outline text="Secret Feminist Agenda" type="rss" xmlUrl="http://feeds.feedburner.com/SecretFeministAgenda" htmlUrl="https://secretfeministagenda.com" />
 	<outline text="Stories From The Land" type="rss" xmlUrl="http://storiesfromtheland.libsyn.com/rss" htmlUrl="http://storiesfromtheland.libsyn.com/webpage" />
 	<outline text="The Heart" type="rss" xmlUrl="http://feeds.theheartradio.org/TheHeartRadio" htmlUrl="http://theheartradio.org" />
 	<outline text="The Henceforward" type="rss" xmlUrl="http://thehenceforward.libsyn.com/rss" htmlUrl="http://thehenceforward.libsyn.com/podcast" />
@@ -24,7 +25,6 @@
 	<outline text="The Imposter" type="rss" xmlUrl="http://imposter.libsyn.com/rss" htmlUrl="http://imposter.libsyn.com/podcast" />
 	<outline text="The Lonely Palette" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:214976441/sounds.rss" htmlUrl="http://www.thelonelypalette.com" />
 	<outline text="The Truth" type="rss" xmlUrl="http://feeds.thetruthpodcast.com/thetruthapm" htmlUrl="http://thetruthpodcast.com" />
-	<outline text="Treyf Podcast" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:159628556/sounds.rss" htmlUrl="http://www.treyfpodcast.com" />
 	<outline text="Underground Sounds" type="rss" xmlUrl="http://ckut.ca/en/program/1835/rss.xml" htmlUrl="http://ckut.ca" />
 </body>
 </opml>

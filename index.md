@@ -20,11 +20,12 @@ The lists I subscribe to:
 
 * [Artery](https://artery.is)
 * [Canadian Art](http://canadianart.ca)
-* [Lex Gill](https://tinyletter.com/alittlecloser)
+* [Visual Business Intelligence](http://www.perceptualedge.com)
 * [Forest Gregg](http://tinyletter.com/slow-news/archive)
 * [Gavin Starks](http://dgen.net)
+* [Lex Gill](https://tinyletter.com/alittlecloser)
 * [Tom Steinberg](http://eepurl.com/bvqAT5)
-* Every art space in Toronto
+* Art spaces in Toronto and Montreal
 * A few industry, local and miscellaneous newsletters
 {% endcomment %}
 {% endcapture %}
