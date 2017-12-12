@@ -14,7 +14,6 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Downtown
 
-**-Dec 3 <https://www.mbam.qc.ca/expositions/a-venir/meryl-mcmaster/>**  
 -Mar 31 <https://www.mbam.qc.ca/expositions/a-venir/nadia-myre/>  
 **-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**  
 
@@ -24,8 +23,6 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Old Port
 
-**-Dec 16 <https://phi-centre.com/en/event/lucid-realities-en/>**  
-  -Dec 1 <https://phi-centre.com/en/event/barbara-nessim-en/>  
 **-Mar 11 <https://dhc-art.org/loffre-exhibition/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Centre Phi FSa8, Fonderie Darling U10
@@ -40,10 +37,8 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Mile End
 
--Dec 16 <http://en.dazibao.art/exhibition/> Lisl Ponger, Hubert Caron-Guay, Hillside Projects  
--Dec 16 <http://www.optica.ca/programmation/index.php#922>  
+-Dec 21 <http://www.ateliercirculaire.org/new-events/2017/12/1/variations-maitres-japonais>  
 
-_Dec 1-Dec 21 <http://www.ateliercirculaire.org/new-events/2017/12/1/variations-maitres-japonais>_  
 _Jan 11-Feb 10 <http://www.ateliercirculaire.org/new-events/2018/1/11/daniel-sylvestre>_  
 _Jan 11-Mar 10 <http://en.dazibao.art/exhibition/> Myriam Yates_  
 _Feb 22-Mar 24 <http://www.ateliercirculaire.org/new-events/2018/2/22/natasha-petisch>_  
