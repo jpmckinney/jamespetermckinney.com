@@ -31,12 +31,6 @@ published: true
 * <http://www.torontoartcrawl.com> art
 * <https://www.badgirlscollective.ca> books
 
-### Nov
-
-* <http://regentparkfilmfestival.com/> film 23-26
-* <http://eutorontofilmfest.ca/> film 10-24
-* <http://www.munkdebates.com/> talk
-
 ### Jan
 
 * <http://www.tiff.net/canadas-top-ten/> film 13-26
@@ -164,3 +158,10 @@ published: true
 * <http://www.imaginenative.org/> film 18-22
 * <http://ifoa.org/> books 19-29
 * <https://musicgallery.org/all-events/> music 13-16
+
+### Nov
+
+* <http://regentparkfilmfestival.com/> film 23-26
+* <http://www.rendezvouswithmadness.ca> film 3-11
+* <http://eutorontofilmfest.ca/> film 10-24
+* <http://www.munkdebates.com/> talk
