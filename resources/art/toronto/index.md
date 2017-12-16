@@ -14,20 +14,18 @@ published: true
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Museums: Bata Shoe U8, DX, Gardiner F9, ROM F8
 
-_**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_  
-
 ### Downtown North
 
--Dec 16 <https://www.bmo.com/bmo/files/images/7/1/BMOfirstArt.html>
+-Dec 16 <https://www.bmo.com/bmo/files/images/7/1/BMOfirstArt.html>  
 -Jan 14 <https://www.ago.net/sandra-meigs-room-for-mystics-with-christopher-butterfield>  
   -Jan 28 <https://www.ago.net/florine-stettheimer-painting-poetry>  
 -Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text>  
   -Feb 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/tied,-dyed-and-woven-ikat-textiles-from-latin-amer>  
 **-Jan 28 <https://www.rom.on.ca/en/evidence>**  
-**-Aug 14 <http://artmuseum.utoronto.ca/exhibition/morning-star/>**  
-  <http://canadianart.ca/reviews/morning-star-jackman-humanities-institute/>  
+**-Aug 14 <http://artmuseum.utoronto.ca/exhibition/morning-star/> <http://canadianart.ca/reviews/morning-star-jackman-humanities-institute/>**  
 
 _**Mar 3-May 27 <https://www.ago.net/yayoi-kusama-infinity-mirrors>**_  
+_**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -36,9 +34,6 @@ _**Mar 3-May 27 <https://www.ago.net/yayoi-kusama-infinity-mirrors>**_
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> AGO, Aga Khan, Ryerson, Textile, Hashtag, Bau-Xi / Daniels Spectrum, Mississauga, OFFSITE, Parts, Project, Spence
 
 ### Downtown South
-
--Dec 16 <https://feheleyfinearts.com/exhibitions/kinngait-memories-john-hartman-cape-dorset/>  
-**-Dec 24 <http://www.harbourfrontcentre.com/visualarts/2017/visual-arts-exhibitions-fall-2017/>**  
 
 _Jan 5-Feb 10 <https://gallery44.org/exhibitions/rage-wave>_  
   _Jan 5-Feb 10 <https://gallery44.org/exhibitions/arrangements>_  
@@ -52,7 +47,7 @@ _**Jan 27-May 13 <http://www.thepowerplant.org/Exhibitions/2018/Winter-2018/Kade
 
 ### Queen St
 
-**-Jan 7 <http://www.gladstonehotel.com/spaces/hardtwist12-yarn/>**  
+**<u>-Jan 7</u> <http://www.gladstonehotel.com/spaces/hardtwist12-yarn/>**  
 -Jan 13 <http://generalhardware.ca> group exhibition  
 -Jan 20 <http://birchcontemporary.com/exhibition/3rd-act> <http://birchcontemporary.com/exhibition/the-in-vain-coloured-oriole-and-other-paintings>  
 -Jan 27 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken  
@@ -74,9 +69,6 @@ _**Jan 18-Mar 18 <http://kofflerarts.org/exhibitions/2017/09/07/nicole-collins-f
 
 ### Bloordale & Junction Triangle
 
--Dec 21 <http://www.olgakorpergallery.com/exhibitions/view?id=99>  
--Dec 23 <http://cuttsgallery.com/exhibitions/a-bright-room-scanned-darkly/>  
--Jan 3 <http://www.galeriedivision.com/toronto/exhibition/-asterisms>  
 **-Feb 3 <http://www.mercerunion.org/exhibitions/separation-penetrates/>**  
 -Mar 10 <http://www.scrapmetalgallery.com> All the Names  
 
@@ -91,9 +83,6 @@ _Apr 28-May 2 <http://www.olgakorpergallery.com/exhibitions/view?id=103>_
 
 ### Dupont St & The Junction
 
--Dec 22 <http://angellgallery.com/exhibition/steve-driscoll-1>  
--Jan 6 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>  
--Jan 6 <https://www.christiecontemporary.com/exhibitions/> Marla Hlady  
-**-Jan 7 <http://www.mattergallery.com/exhibitions/2017/9/7/siwa-mgoboza>**  
+**<u>-Jan 7</u> <http://www.mattergallery.com/exhibitions/2017/9/7/siwa-mgoboza>**  
 -Jan 13 <https://coopercolegallery.com/exhibition/jay-isaac-high-gloss-ceilings/> <https://coopercolegallery.com/exhibition/2017-natures-way/>  
 -Jan 27 <http://becontemporary.com/toronto.php> Robert Youds  

@@ -54,7 +54,7 @@ _May 24-Jun 29 <http://www.ateliercirculaire.org/new-events/2018/5/24/salon-des-
 
 ### Little Burgundy
 
-**-Dec 22 <http://arsenalmontreal.com/details/anthologie-oeuvres-monumentales-de-la-collection/>**_  
+**-Dec 22 <http://arsenalmontreal.com/details/anthologie-oeuvres-monumentales-de-la-collection/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Arsenal T8
 
