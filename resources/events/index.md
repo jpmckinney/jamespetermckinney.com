@@ -16,11 +16,25 @@ published: true
 
 ### Theatres
 
+* <https://www.mirvish.com/shows>
 * <http://www1.soulpepper.ca/performances>
-* <http://www.tocentre.com/whats-on/calendar>
 * <http://www.coc.ca/PerformancesAndTickets.aspx>
+* <http://www.tocentre.com/whats-on/calendar>
 * <http://www.nightwoodtheatre.net/>
 * <http://buddiesinbadtimes.com/events/>
+* <https://www.crowstheatre.com/whats-on>
+* <https://www.canadianstage.com>
+* <http://www.heritagetrust.on.ca/en/index.php/ewg/ewg-home/events-calendar>
+* <http://www.coalminetheatre.com>
+* <http://passemuraille.ca>
+* <https://www.factorytheatre.ca>
+* <https://tickets.theatrecentre.org>
+* <http://www.tarragontheatre.com/calendar/>
+* <https://theassemblytheatre.com>
+* <http://thestorefronttheatre.com>
+* <http://www.alunatheatre.ca>
+* <http://redsandcastletheatre.com>
+* <http://theatredirect.ca>
 
 ### Others
 
