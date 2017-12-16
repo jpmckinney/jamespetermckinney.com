@@ -14,10 +14,11 @@ published: true
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Museums: Bata Shoe U8, DX, Gardiner F9, ROM F8
 
-_**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_
+_**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_  
 
 ### Downtown North
 
+-Dec 16 <https://www.bmo.com/bmo/files/images/7/1/BMOfirstArt.html>
 -Jan 14 <https://www.ago.net/sandra-meigs-room-for-mystics-with-christopher-butterfield>  
   -Jan 28 <https://www.ago.net/florine-stettheimer-painting-poetry>  
 -Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text>  
@@ -52,9 +53,12 @@ _**Jan 27-May 13 <http://www.thepowerplant.org/Exhibitions/2018/Winter-2018/Kade
 ### Queen St
 
 **-Jan 7 <http://www.gladstonehotel.com/spaces/hardtwist12-yarn/>**  
+-Jan 13 <http://generalhardware.ca> group exhibition  
 -Jan 20 <http://birchcontemporary.com/exhibition/3rd-act> <http://birchcontemporary.com/exhibition/the-in-vain-coloured-oriole-and-other-paintings>  
 -Jan 27 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken  
 -Feb 3 <http://www.susanhobbs.com/exhibits/1422-object-lessonstumbling-block>
+
+_**Jan 18-Mar 18 <http://kofflerarts.org/exhibitions/2017/09/07/nicole-collins-furthest-boundless/>**_
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -91,4 +95,5 @@ _Apr 28-May 2 <http://www.olgakorpergallery.com/exhibitions/view?id=103>_
 -Jan 6 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>  
 -Jan 6 <https://www.christiecontemporary.com/exhibitions/> Marla Hlady  
 **-Jan 7 <http://www.mattergallery.com/exhibitions/2017/9/7/siwa-mgoboza>**  
--Jan 27 <http://becontemporary.com/toronto.php> Robert Youds
+-Jan 13 <https://coopercolegallery.com/exhibition/jay-isaac-high-gloss-ceilings/> <https://coopercolegallery.com/exhibition/2017-natures-way/>  
+-Jan 27 <http://becontemporary.com/toronto.php> Robert Youds  
