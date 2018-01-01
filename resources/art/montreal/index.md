@@ -15,15 +15,12 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 ### Downtown
 
 -Mar 31 <https://www.mbam.qc.ca/expositions/a-venir/nadia-myre/>  
-**-Apr 1 <http://www.macm.org/en/expositions/leonard-cohen/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> MACM WUF9, MBAM W9, McCord W9, Centre for Architecture W9
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MACM, MBAM, McCord, Centre for Architecture
 
 ### Old Port
-
-**-Mar 11 <https://dhc-art.org/loffre-exhibition/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Centre Phi FSa8, Fonderie Darling U10
 
@@ -37,10 +34,9 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Mile End
 
--Dec 21 <http://www.ateliercirculaire.org/new-events/2017/12/1/variations-maitres-japonais>  
+-Feb 10 <http://www.ateliercirculaire.org/new-events/2018/1/11/daniel-sylvestre>  
+-Mar 10 <http://en.dazibao.art/exhibition/> Myriam Yates  
 
-_Jan 11-Feb 10 <http://www.ateliercirculaire.org/new-events/2018/1/11/daniel-sylvestre>_  
-_Jan 11-Mar 10 <http://en.dazibao.art/exhibition/> Myriam Yates_  
 _Feb 22-Mar 24 <http://www.ateliercirculaire.org/new-events/2018/2/22/natasha-petisch>_  
 _Mar 29-Jun 2 <http://en.dazibao.art/exhibition/> Entends-tu ce que je vois?_  
 _Apr 5-May 12 <http://www.ateliercirculaire.org/new-events/2018/4/5/duo-pellerin-mairhofer>_  
@@ -53,8 +49,6 @@ _May 24-Jun 29 <http://www.ateliercirculaire.org/new-events/2018/5/24/salon-des-
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> d'Este
 
 ### Little Burgundy
-
-**-Dec 22 <http://arsenalmontreal.com/details/anthologie-oeuvres-monumentales-de-la-collection/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Arsenal T8
 

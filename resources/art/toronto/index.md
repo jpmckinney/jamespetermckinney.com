@@ -16,12 +16,10 @@ published: true
 
 ### Downtown North
 
--Dec 16 <https://www.bmo.com/bmo/files/images/7/1/BMOfirstArt.html>  
 -Jan 14 <https://www.ago.net/sandra-meigs-room-for-mystics-with-christopher-butterfield>  
   -Jan 28 <https://www.ago.net/florine-stettheimer-painting-poetry>  
 -Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text>  
   -Feb 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/tied,-dyed-and-woven-ikat-textiles-from-latin-amer>  
-**-Jan 28 <https://www.rom.on.ca/en/evidence>**  
 **-Aug 14 <http://artmuseum.utoronto.ca/exhibition/morning-star/> <http://canadianart.ca/reviews/morning-star-jackman-humanities-institute/>**  
 
 _**Mar 3-May 27 <https://www.ago.net/yayoi-kusama-infinity-mirrors>**_  
@@ -35,8 +33,9 @@ _**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_
 
 ### Downtown South
 
-_Jan 5-Feb 10 <https://gallery44.org/exhibitions/rage-wave>_  
-  _Jan 5-Feb 10 <https://gallery44.org/exhibitions/arrangements>_  
+-Feb 10 <https://gallery44.org/exhibitions/rage-wave>  
+  -Feb 10 <https://gallery44.org/exhibitions/arrangements>  
+
 _**Jan 27-May 13 <http://www.thepowerplant.org/Exhibitions/2018/Winter-2018/Kader-Attia.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Winter-2018/The-Song-of-the-Germans.aspx>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
@@ -70,9 +69,9 @@ _**Jan 18-Mar 18 <http://kofflerarts.org/exhibitions/2017/09/07/nicole-collins-f
 ### Bloordale & Junction Triangle
 
 **-Feb 3 <http://www.mercerunion.org/exhibitions/separation-penetrates/>**  
+-Feb 3 <http://www.olgakorpergallery.com/exhibitions/view?id=100>  
 -Mar 10 <http://www.scrapmetalgallery.com> All the Names  
 
-_Jan 6-Feb 3 <http://www.olgakorpergallery.com/exhibitions/view?id=100>_  
 _Jan 11-Feb 3 <http://www.franzkaka.com/marin-and-pausova.html>_  
 _Feb 10-Mar 18 <http://www.olgakorpergallery.com/exhibitions/view?id=101>_  
 _Mar 8-Mar 31 <http://www.franzkaka.com/rogers.html>_  
@@ -83,6 +82,7 @@ _Apr 28-May 2 <http://www.olgakorpergallery.com/exhibitions/view?id=103>_
 
 ### Dupont St & The Junction
 
+**-Jan 27 <http://angellgallery.com/exhibition/luminous-and-grey> <http://angellgallery.com/exhibition/snakes-and-ladders>**  
 **<u>-Jan 7</u> <http://www.mattergallery.com/exhibitions/2017/9/7/siwa-mgoboza>**  
 -Jan 13 <https://coopercolegallery.com/exhibition/jay-isaac-high-gloss-ceilings/> <https://coopercolegallery.com/exhibition/2017-natures-way/>  
 -Jan 27 <http://becontemporary.com/toronto.php> Robert Youds  
