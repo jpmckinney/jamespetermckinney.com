@@ -14,32 +14,36 @@ published: true
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-go. <em>Italic</em> is student art.
 
-### Seasonal
+* <http://www.super8porter.ca/Festivals.htm> film
+* <https://www.badgirlscollective.ca> books
 
-* Jan-Jun <http://torontorollerderby.com/season-schedule/> Feb 11, Mar 4, Mar 25, Apr 8, Apr 22, May 13, Jun 3
-* Jun-Aug <http://www.openrooffestival.com/> film/music
+### Spring/Summer
+
+* Apr-Oct **<http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
+* Apr-Oct <http://www.torontoartcrawl.com> art
 * May-Sep <http://electricisland.to/> music
+* Jun-Aug <http://www.openrooffestival.com/> film/music
 * Jun-Sep <https://www.canadianstage.com/> Shakespeare in High Park theatre
 * Jun-Sep <http://torontobakersmarket.com/> food
 * Jun-Sep <http://torontounion.ca/news/union-summer> food
 * Jun-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
+
+### Fall/Winter
+
 * Sep-Nov <http://naisa.ca/festivals/soundplayseries/> art/music
 * Dec-Mar <http://www.torontolongwinter.com/> art/performance/music
-* **<http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
-* <http://www.super8porter.ca/Festivals.htm> film
-* <http://sailincinema.com/movies.aspx> film
-* <http://www.torontoartcrawl.com> art
-* <https://www.badgirlscollective.ca> books
+* Jan-Mar <https://www.torontolightfest.com/>
+* Jan-Jun **<http://torontorollerderby.com/season-schedule/> Jan 20, Feb 10, Mar 10, Mar 24…**
 
 ### Jan
 
-* <http://www.tiff.net/canadas-top-ten/> film 13-26
+* <http://www.tiff.net/canadas-top-ten/> film 12-21
 * <https://factoronto.org/> art 10-24
-* **<https://www.facebook.com/events/343377276022251> Come Up To My Room design 19-22**
-* <http://todesignoffsite.com/> design 16-22
-* <http://www.durationanddialogue.com/> performance 27-29
+* **<https://www.facebook.com/events/2030394877237005/> Come Up To My Room design 18-21**
+* **<http://www.waterfrontbia.com/event/ice-breakers/> 19-Feb 25**
+* <http://todesignoffsite.com/> design 15-21
 * <http://naisa.ca/festivals/deep-wireless/> radio
-* <http://teafestivaltoronto.com/> tea 28-29
+* <s><http://www.durationanddialogue.com/> performance 27-29</s>
 * <s><http://www.endlesscity.org/cu> art/music 20-Feb 28</s>
 
 ### Feb
@@ -47,8 +51,10 @@ published: true
 * <http://www.theartistproject.com/> art fair 23-26
 * <http://buddiesinbadtimes.com/show/the-37th-rhubarb-festival/> performance 17-28
 * <http://www.eroticartsandcrafts.com/> 11
+* <http://www.bloor-yorkville.com/icefest/> 24-25
 * <http://2017.cinefranco.com/en/2016-festival> film 21-Mar 7
 * <http://playgroundconf.com> conference 23-25
+* <http://teafestivaltoronto.com/> tea 3-4
 
 ### Mar
 
@@ -131,6 +137,7 @@ published: true
 * **<http://summerworks.ca/> performance 3-13**
 * **<http://zinedream.com/> comics 19**
 * <http://toronto.figmentproject.org/> art 19
+* <http://sailincinema.com/movies.aspx> film 18-20
 * <http://veldmusicfestival.com/> music 5-6
 * <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 19-21
 * <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6
@@ -165,3 +172,7 @@ published: true
 * <http://www.rendezvouswithmadness.ca> film 3-11
 * <http://eutorontofilmfest.ca/> film 10-24
 * <http://www.munkdebates.com/> talk
+
+### Dec
+
+* <http://torontochristmasmarket.com/>

@@ -70,7 +70,7 @@ _**Jan 18-Mar 18 <http://kofflerarts.org/exhibitions/2017/09/07/nicole-collins-f
 
 **-Feb 3 <http://www.mercerunion.org/exhibitions/separation-penetrates/>**  
 -Feb 3 <http://www.olgakorpergallery.com/exhibitions/view?id=100>  
--Mar 10 <http://www.scrapmetalgallery.com> All the Names  
+**-Mar 10 <http://www.scrapmetalgallery.com> All the Names**  
 
 _Jan 11-Feb 3 <http://www.franzkaka.com/marin-and-pausova.html>_  
 _Feb 10-Mar 18 <http://www.olgakorpergallery.com/exhibitions/view?id=101>_  
@@ -82,7 +82,7 @@ _Apr 28-May 2 <http://www.olgakorpergallery.com/exhibitions/view?id=103>_
 
 ### Dupont St & The Junction
 
-**-Jan 27 <http://angellgallery.com/exhibition/luminous-and-grey> <http://angellgallery.com/exhibition/snakes-and-ladders>**  
 **<u>-Jan 7</u> <http://www.mattergallery.com/exhibitions/2017/9/7/siwa-mgoboza>**  
--Jan 13 <https://coopercolegallery.com/exhibition/jay-isaac-high-gloss-ceilings/> <https://coopercolegallery.com/exhibition/2017-natures-way/>  
+-Jan 13 <https://coopercolegallery.com/exhibition/2017-natures-way/>  
+**-Jan 27 <http://angellgallery.com/exhibition/luminous-and-grey> <http://angellgallery.com/exhibition/snakes-and-ladders>**  
 -Jan 27 <http://becontemporary.com/toronto.php> Robert Youds  
