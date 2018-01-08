@@ -32,16 +32,18 @@ published: true
 
 * Sep-Nov <http://naisa.ca/festivals/soundplayseries/> art/music
 * Dec-Mar <http://www.torontolongwinter.com/> art/performance/music
+* Dec-Mar <http://ontarioplace.com/en/event/winter-ontario-place/>
 * Jan-Mar <https://www.torontolightfest.com/>
+* Jan-Mar <http://www.thebentway.ca>
 * Jan-Jun **<http://torontorollerderby.com/season-schedule/> Jan 20, Feb 10, Mar 10, Mar 24…**
 
 ### Jan
 
 * <http://www.tiff.net/canadas-top-ten/> film 12-21
-* <https://factoronto.org/> art 10-24
 * **<https://www.facebook.com/events/2030394877237005/> Come Up To My Room design 18-21**
 * **<http://www.waterfrontbia.com/event/ice-breakers/> 19-Feb 25**
 * <http://todesignoffsite.com/> design 15-21
+* <https://factoronto.org/> art 10-24
 * <http://naisa.ca/festivals/deep-wireless/> radio
 * <s><http://www.durationanddialogue.com/> performance 27-29</s>
 * <s><http://www.endlesscity.org/cu> art/music 20-Feb 28</s>
