@@ -16,7 +16,7 @@ published: true
 
 ### Downtown North
 
-<u>-Jan 14 <https://www.ago.net/sandra-meigs-room-for-mystics-with-christopher-butterfield></u>  
+<u>-Jan 14</u> <https://www.ago.net/sandra-meigs-room-for-mystics-with-christopher-butterfield>  
   -Jan 28 <https://www.ago.net/florine-stettheimer-painting-poetry>  
 -Jan 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/diligence-and-elegance-the-nature-of-japanese-text>  
   -Feb 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/tied,-dyed-and-woven-ikat-textiles-from-latin-amer>  
@@ -57,7 +57,7 @@ _**Mar 8-Mar 17 <https://gallery44.org/Salon2018>**_
 
 ### Queen St
 
-<u>-Jan 13 <http://generalhardware.ca> group exhibition</u>  
+<u>-Jan 13</u> <http://generalhardware.ca> group exhibition  
 -Jan 20 <http://birchcontemporary.com/exhibition/3rd-act> <http://birchcontemporary.com/exhibition/the-in-vain-coloured-oriole-and-other-paintings>  
 -Jan 27 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken  
 -Feb 3 <http://www.susanhobbs.com/exhibits/1422-object-lessonstumbling-block>
@@ -96,6 +96,6 @@ _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_
 
 ### Dupont St & The Junction
 
-<u>-Jan 13 <https://coopercolegallery.com/exhibition/2017-natures-way/></u>  
+<u>-Jan 13</u> <https://coopercolegallery.com/exhibition/2017-natures-way/>  
 -Jan 27 <http://becontemporary.com/toronto.php> Robert Youds  
 -Feb 10 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Tegan Moore  
