@@ -28,6 +28,8 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Mile Ex
 
+-Apr 7 <https://www.neverapart.com/exhibitions/love-sick/> <https://www.neverapart.com/exhibitions/traces-of-life-a-journey-between-canada-and-south-asia-जीवन-के-निशान-कनाड/> <https://www.neverapart.com/exhibitions/when-put-into-a-specific-category-the-subject-might-will-lose-its-colours-and-specificity/> <https://www.neverapart.com/exhibitions/infinite-essence/> <https://www.neverapart.com/exhibitions/sinon-quebecoise-余承佳/> <https://www.neverapart.com/exhibitions/lost-love/>  
+
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Art Mûr UF8
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Eastern Bloc
@@ -49,6 +51,8 @@ _May 24-Jun 29 <http://www.ateliercirculaire.org/new-events/2018/5/24/salon-des-
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> d'Este
 
 ### Little Burgundy
+
+**-Mar 28 <http://arsenalmontreal.com/en/details/enanthologie-oeuvres-monumentales-de-la-collection/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Arsenal T8
 
