@@ -56,7 +56,7 @@ _**Mar 8-Mar 17 <https://gallery44.org/Salon2018>**_
 
 ### Queen St
 
-<u>**-Jan 27</u> <http://georgiascherman.com/Exhibitions.html> Jen Aitken**  
+**<u>-Jan 27</u> <http://georgiascherman.com/Exhibitions.html> Jen Aitken**  
 -Feb 3 <http://www.susanhobbs.com/exhibits/1422-object-lessonstumbling-block>  
 -Feb 24 <http://generalhardware.ca> Nicole Collins  
 **-Mar 18 <http://kofflerarts.org/exhibitions/2017/09/07/nicole-collins-furthest-boundless/>**  
