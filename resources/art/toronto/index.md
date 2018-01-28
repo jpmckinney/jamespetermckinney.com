@@ -18,11 +18,8 @@ published: true
 
 <u>-Jan 28</u> <https://www.ago.net/florine-stettheimer-painting-poetry>  
 -Feb 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/tied,-dyed-and-woven-ikat-textiles-from-latin-amer>  
-**-Mar 3 <http://artmuseum.utoronto.ca/exhibition/figures-of-sleep/>**  
 **-Aug 14 <http://artmuseum.utoronto.ca/exhibition/morning-star/> <http://canadianart.ca/reviews/morning-star-jackman-humanities-institute/>**  
 
-_**Jan 24-Apr 8 <http://ryersonimagecentre.ca/exhibition/collaboration-a-potential-history-of-photography/> <http://ryersonimagecentre.ca/exhibition/jim-goldberg-rich-and-poor/> <http://ryersonimagecentre.ca/exhibition/ivan-sigal-karachi-circular-railway/> <http://ryersonimagecentre.ca/exhibition/soon-we-were-en-route-again/>**_  
-  _Jan 24-Feb 25 <http://ryersonimagecentre.ca/exhibition/jorge-ayala-a-su-propio-ritmo-at-its-own-rhythm/>_
 _Feb 7-May 13 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/artistry-in-silk-the-kimono-of-itchiku-kubota>_  
 _**Mar 3-May 27 <https://www.ago.net/yayoi-kusama-infinity-mirrors>**_  
 _**Mar 14-Jun 10 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/jane-kidd-curious>**_  
@@ -42,7 +39,6 @@ _**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_
 -Feb 10 <https://gallery44.org/exhibitions/rage-wave>  
   -Feb 10 <https://gallery44.org/exhibitions/arrangements>  
   -Mar 3 <http://www.yyzartistsoutlet.org/2017/12/upcoming-exhibitions-3/>  
--Mar 10 <http://scotiabankcontactphoto.com/2018/contact-gallery/moemoea>  
 
 _**Jan 27-May 13 <http://www.thepowerplant.org/Exhibitions/2018/Winter-2018/Kader-Attia.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Winter-2018/The-Song-of-the-Germans.aspx>**_  
 _Feb 15-Feb 24 <https://gallery44.org/exhibitions/cameralinks-2018>_  
@@ -76,8 +72,8 @@ _**Mar 8-Mar 17 <https://gallery44.org/Salon2018>**_
 ### Bloordale & Junction Triangle
 
 **-Feb 3 <http://www.mercerunion.org/exhibitions/separation-penetrates/>**  
--Feb 3 <http://www.olgakorpergallery.com/exhibitions/view?id=100>  
 -Feb 3 <http://www.franzkaka.com/marin-and-pausova.html>  
+-Feb 3 <http://www.olgakorpergallery.com/exhibitions/view?id=100>  
 -Feb 10 <http://www.cuttsgallery.com/exhibitions/kazuo-nakamura/#/images>  
 **-Feb 24 <http://gallerytpw.ca/exhibitions/bambitchell/>**  
 **-Mar 10 <http://www.scrapmetalgallery.com> All the Names**  
