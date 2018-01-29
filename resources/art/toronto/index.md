@@ -16,7 +16,6 @@ published: true
 
 ### Downtown North
 
-<u>-Jan 28</u> <https://www.ago.net/florine-stettheimer-painting-poetry>  
 -Feb 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/tied,-dyed-and-woven-ikat-textiles-from-latin-amer>  
 **-Aug 14 <http://artmuseum.utoronto.ca/exhibition/morning-star/> <http://canadianart.ca/reviews/morning-star-jackman-humanities-institute/>**  
 
@@ -33,14 +32,12 @@ _**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_
 
 ### Downtown South
 
-<u>-Jan 28</u> <http://www.harbourfrontcentre.com/visualarts/2017/in-place/>  
-  -Apr 22 <http://www.harbourfrontcentre.com/visualarts/2017/face-a-face-an-exhibition-of-canadian-contemporary-jewellery/>  
-  -Jun 17 <http://www.harbourfrontcentre.com/visualarts/2017/or-something-in-between/> <http://www.harbourfrontcentre.com/visualarts/2017/blind-spot/>  
--Feb 10 <https://gallery44.org/exhibitions/rage-wave>  
-  -Feb 10 <https://gallery44.org/exhibitions/arrangements>  
+<u>-Feb 10</u> <https://gallery44.org/exhibitions/rage-wave>  
+  <u>-Feb 10</u> <https://gallery44.org/exhibitions/arrangements>  
   -Mar 3 <http://www.yyzartistsoutlet.org/2017/12/upcoming-exhibitions-3/>  
+-Apr 22 <http://www.harbourfrontcentre.com/visualarts/2017/face-a-face-an-exhibition-of-canadian-contemporary-jewellery/>  
+  -Jun 17 <http://www.harbourfrontcentre.com/visualarts/2017/or-something-in-between/> <http://www.harbourfrontcentre.com/visualarts/2017/blind-spot/>  
 
-_**Jan 27-May 13 <http://www.thepowerplant.org/Exhibitions/2018/Winter-2018/Kader-Attia.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Winter-2018/The-Song-of-the-Germans.aspx>**_  
 _Feb 15-Feb 24 <https://gallery44.org/exhibitions/cameralinks-2018>_  
 _**Mar 8-Mar 17 <https://gallery44.org/Salon2018>**_  
 
@@ -52,8 +49,7 @@ _**Mar 8-Mar 17 <https://gallery44.org/Salon2018>**_
 
 ### Queen St
 
-**<u>-Jan 27</u> <http://georgiascherman.com/Exhibitions.html> Jen Aitken**  
--Feb 3 <http://www.susanhobbs.com/exhibits/1422-object-lessonstumbling-block>  
+<u>-Feb 3</u> <http://www.susanhobbs.com/exhibits/1422-object-lessonstumbling-block>  
 -Feb 24 <http://generalhardware.ca> Nicole Collins  
 **-Mar 18 <http://kofflerarts.org/exhibitions/2017/09/07/nicole-collins-furthest-boundless/>**  
 
@@ -71,10 +67,10 @@ _**Mar 8-Mar 17 <https://gallery44.org/Salon2018>**_
 
 ### Bloordale & Junction Triangle
 
-**-Feb 3 <http://www.mercerunion.org/exhibitions/separation-penetrates/>**  
--Feb 3 <http://www.franzkaka.com/marin-and-pausova.html>  
--Feb 3 <http://www.olgakorpergallery.com/exhibitions/view?id=100>  
--Feb 10 <http://www.cuttsgallery.com/exhibitions/kazuo-nakamura/#/images>  
+**<u>-Feb 3</u> <http://www.mercerunion.org/exhibitions/separation-penetrates/>**  
+<u>-Feb 3</u> <http://www.franzkaka.com/marin-and-pausova.html>  
+<u>-Feb 3</u> <http://www.olgakorpergallery.com/exhibitions/view?id=100>  
+<u>-Feb 10</u> <http://www.cuttsgallery.com/exhibitions/kazuo-nakamura/#/images>  
 **-Feb 24 <http://gallerytpw.ca/exhibitions/bambitchell/>**  
 **-Mar 10 <http://www.scrapmetalgallery.com> All the Names**  
 
@@ -89,9 +85,8 @@ _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_
 
 ### Dupont St & The Junction
 
-<u>-Jan 27</u> <http://becontemporary.com/toronto.php> Robert Youds  
--Feb 10 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Tegan Moore  
+<u>-Feb 10</u> <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Tegan Moore  
 -Feb 24 <http://erinstumpprojects.com/current-exhibitions/lauren-hall-the-beats-and-the-shouting>  
+-Feb 24 <https://coopercolegallery.com/exhibition/brie-ruais-2/>  
 
-_Jan 26-Feb 24 <https://coopercolegallery.com/exhibition/brie-ruais-2/>_  
 _Feb 2-Feb 24 <http://angellgallery.com/exhibition/tin-vision> <http://angellgallery.com/exhibition/backwoods-song> <http://angellgallery.com/exhibition/fruits>_  
