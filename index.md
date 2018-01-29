@@ -19,8 +19,6 @@ layout: default
 The lists I subscribe to:
 
 * [Artery](https://artery.is)
-* [Canadian Art](http://canadianart.ca)
-* [Visual Business Intelligence](http://www.perceptualedge.com)
 * [Forest Gregg](http://tinyletter.com/slow-news/archive)
 * [Gavin Starks](http://dgen.net)
 * [Lex Gill](https://tinyletter.com/alittlecloser)
