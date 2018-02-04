@@ -34,30 +34,18 @@ published: true
 
 * Sep-Nov <http://naisa.ca/festivals/soundplayseries/> art/music
 * Dec-Mar <http://www.torontolongwinter.com/> art/performance/music
-* Dec-Mar <http://ontarioplace.com/en/event/winter-ontario-place/>
 * Jan-Mar <https://www.torontolightfest.com/>
+* Dec-Mar <http://ontarioplace.com/en/event/winter-ontario-place/>
 * Jan-Mar <http://www.thebentway.ca/>
 * Jan-Jun **<http://torontorollerderby.com/season-schedule/> Mar 10, Mar 24…**
 
-### Jan
-
-* <http://www.tiff.net/canadas-top-ten/> film 12-21
-* **<https://www.facebook.com/events/2030394877237005/> Come Up To My Room design 18-21**
-* **<http://www.waterfrontbia.com/event/ice-breakers/> 19-Feb 25**
-* <http://todesignoffsite.com/> design 15-21
-* <https://factoronto.org/> art 10-24
-* <http://naisa.ca/festivals/deep-wireless/> radio
-* <s><http://www.durationanddialogue.com/> performance 27-29</s>
-* <s><http://www.endlesscity.org/cu> art/music 20-Feb 28</s>
-
 ### Feb
 
+* <http://buddiesinbadtimes.com/> Rhubarb Festival 17-28
 * <http://www.theartistproject.com/> art fair 23-26
-* <http://buddiesinbadtimes.com/show/the-37th-rhubarb-festival/> performance 17-28
 * <http://www.eroticartsandcrafts.com/> 11
 * <http://www.bloor-yorkville.com/icefest/> 24-25
-* <http://2017.cinefranco.com/en/2016-festival> film 21-Mar 7
-* <http://playgroundconf.com> conference 23-25
+* <http://cinefranco.com/> film 21-Mar 7
 * <http://teafestivaltoronto.com/> tea 3-4
 
 ### Mar
@@ -180,3 +168,14 @@ published: true
 ### Dec
 
 * <http://torontochristmasmarket.com/>
+
+### Jan
+
+* **<http://www.tiff.net/canadas-top-ten/> film 12-21**
+* **<https://www.facebook.com/events/2030394877237005/> Come Up To My Room design 18-21**
+* **<http://www.waterfrontbia.com/event/ice-breakers/> 19-Feb 25**
+* <http://todesignoffsite.com/> design 15-21
+* <https://factoronto.org/> art 10-24
+* <http://naisa.ca/festivals/deep-wireless/> radio
+* <s><http://www.durationanddialogue.com/> performance 27-29</s>
+* <s><http://www.endlesscity.org/cu> art/music 20-Feb 28</s>

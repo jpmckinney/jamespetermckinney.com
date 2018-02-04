@@ -17,9 +17,9 @@ published: true
 ### Downtown North
 
 -Feb 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/tied,-dyed-and-woven-ikat-textiles-from-latin-amer>  
+  -May 13 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/artistry-in-silk-the-kimono-of-itchiku-kubota>  
 **-Aug 14 <http://artmuseum.utoronto.ca/exhibition/morning-star/> <http://canadianart.ca/reviews/morning-star-jackman-humanities-institute/>**  
 
-_Feb 7-May 13 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/artistry-in-silk-the-kimono-of-itchiku-kubota>_  
 _**Mar 3-May 27 <https://www.ago.net/yayoi-kusama-infinity-mirrors>**_  
 _**Mar 14-Jun 10 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/jane-kidd-curious>**_  
 _**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_  
@@ -40,6 +40,7 @@ _**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_
 
 _Feb 15-Feb 24 <https://gallery44.org/exhibitions/cameralinks-2018>_  
 _**Mar 8-Mar 17 <https://gallery44.org/Salon2018>**_  
+_Mar 23-Apr 28 <https://gallery44.org/exhibitions/communicating-vessels-0> <https://gallery44.org/exhibitions/enchanted-forest-presence-0>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -49,11 +50,11 @@ _**Mar 8-Mar 17 <https://gallery44.org/Salon2018>**_
 
 ### Queen St
 
-<u>-Feb 3</u> <http://www.susanhobbs.com/exhibits/1422-object-lessonstumbling-block>  
 -Feb 24 <http://generalhardware.ca> Nicole Collins  
 **-Mar 18 <http://kofflerarts.org/exhibitions/2017/09/07/nicole-collins-furthest-boundless/>**  
   -Mar 18 <https://criticaldistance.ca/we-look-at-animals-because/>  
 -Mar 18 <http://band-rand.com/site/current-exhibitions/>  
+-Mar 24 <http://susanhobbs.com/exhibits/1424-althea-lorraine>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -69,9 +70,6 @@ _**Mar 8-Mar 17 <https://gallery44.org/Salon2018>**_
 
 ### Bloordale & Junction Triangle
 
-**<u>-Feb 3</u> <http://www.mercerunion.org/exhibitions/separation-penetrates/>**  
-<u>-Feb 3</u> <http://www.franzkaka.com/carl-marin---veronika-pausova-age-me-a-heavy-twig.html>  
-<u>-Feb 3</u> <http://www.olgakorpergallery.com/exhibitions/view?id=100>  
 <u>-Feb 10</u> <http://www.cuttsgallery.com/exhibitions/kazuo-nakamura/#/images>  
 **-Feb 24 <http://gallerytpw.ca/exhibitions/bambitchell/>**  
 **-Mar 10 <http://www.scrapmetalgallery.com> All the Names**  
@@ -90,5 +88,4 @@ _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_
 <u>-Feb 10</u> <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Tegan Moore  
 -Feb 24 <http://erinstumpprojects.com/current-exhibitions/lauren-hall-the-beats-and-the-shouting>  
 -Feb 24 <https://coopercolegallery.com/exhibition/brie-ruais-2/>  
-
-_Feb 2-Feb 24 <http://angellgallery.com/exhibition/tin-vision> <http://angellgallery.com/exhibition/backwoods-song> <http://angellgallery.com/exhibition/fruits>_  
+-Feb 24 <http://angellgallery.com/exhibition/tin-vision> <http://angellgallery.com/exhibition/backwoods-song> <http://angellgallery.com/exhibition/fruits>  
