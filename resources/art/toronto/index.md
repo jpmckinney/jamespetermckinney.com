@@ -32,13 +32,10 @@ _**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_
 
 ### Downtown South
 
-<u>-Feb 10</u> <https://gallery44.org/exhibitions/rage-wave>  
-  <u>-Feb 10</u> <https://gallery44.org/exhibitions/arrangements>  
+**-Feb 24 <https://gallery44.org/exhibitions/cameralinks-2018>**  
   -Mar 3 <http://www.yyzartistsoutlet.org/2017/12/upcoming-exhibitions-3/>  
--Apr 22 <http://www.harbourfrontcentre.com/visualarts/2017/face-a-face-an-exhibition-of-canadian-contemporary-jewellery/>  
-  -Jun 17 <http://www.harbourfrontcentre.com/visualarts/2017/or-something-in-between/> <http://www.harbourfrontcentre.com/visualarts/2017/blind-spot/>  
+**-Apr 22 <http://www.harbourfrontcentre.com/visualarts/2018/the-kingston-prize/>**  
 
-_Feb 15-Feb 24 <https://gallery44.org/exhibitions/cameralinks-2018>_  
 _**Mar 8-Mar 17 <https://gallery44.org/Salon2018>**_  
 _Mar 23-Apr 28 <https://gallery44.org/exhibitions/communicating-vessels-0> <https://gallery44.org/exhibitions/enchanted-forest-presence-0>_  
 
@@ -51,6 +48,7 @@ _Mar 23-Apr 28 <https://gallery44.org/exhibitions/communicating-vessels-0> <http
 ### Queen St
 
 -Feb 24 <http://generalhardware.ca> Nicole Collins  
+**-Mar 3 <http://www.georgiascherman.com/Exhibitions.html> Aryen Hoekstra**  
 **-Mar 18 <http://kofflerarts.org/exhibitions/2017/09/07/nicole-collins-furthest-boundless/>**  
   -Mar 18 <https://criticaldistance.ca/we-look-at-animals-because/>  
 -Mar 18 <http://band-rand.com/site/current-exhibitions/>  
@@ -70,11 +68,12 @@ _Mar 23-Apr 28 <https://gallery44.org/exhibitions/communicating-vessels-0> <http
 
 ### Bloordale & Junction Triangle
 
-<u>-Feb 10</u> <http://www.cuttsgallery.com/exhibitions/kazuo-nakamura/#/images>  
 **-Feb 24 <http://gallerytpw.ca/exhibitions/bambitchell/>**  
 **-Mar 10 <http://www.scrapmetalgallery.com> All the Names**  
+-Mar 17 <http://cuttsgallery.com/save-the-date/save-the-date-ed-zelenak/#/>
+-Mar 18 <http://www.olgakorpergallery.com/exhibitions/view?id=101>  
+**-Mar 24 <http://www.mercerunion.org/exhibitions/common-cause-before-and-beyond-the-global/>**  
 
-_Feb 10-Mar 18 <http://www.olgakorpergallery.com/exhibitions/view?id=101>_  
 _Mar 8-Mar 31 <http://www.franzkaka.com/rogers.html>_  
 _Mar 24-Apr 21 <http://www.olgakorpergallery.com/exhibitions/view?id=102>_  
 _Apr 28-May 2 <http://www.olgakorpergallery.com/exhibitions/view?id=103>_  
@@ -85,7 +84,8 @@ _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_
 
 ### Dupont St & The Junction
 
-<u>-Feb 10</u> <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Tegan Moore  
 -Feb 24 <http://erinstumpprojects.com/current-exhibitions/lauren-hall-the-beats-and-the-shouting>  
 -Feb 24 <https://coopercolegallery.com/exhibition/brie-ruais-2/>  
 -Feb 24 <http://angellgallery.com/exhibition/tin-vision> <http://angellgallery.com/exhibition/backwoods-song> <http://angellgallery.com/exhibition/fruits>  
+-Mar 17 <http://becontemporary.com/upcoming.php>  
+-Mar 17 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>  
