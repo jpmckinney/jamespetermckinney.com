@@ -39,17 +39,9 @@ published: true
 * Jan-Mar <http://www.thebentway.ca/>
 * Jan-Jun **<http://torontorollerderby.com/season-schedule/> Mar 10, Mar 24…**
 
-### Feb
-
-* <http://buddiesinbadtimes.com/> Rhubarb Festival 17-28
-* <http://www.theartistproject.com/> art fair 23-26
-* <http://www.eroticartsandcrafts.com/> 11
-* <http://www.bloor-yorkville.com/icefest/> 24-25
-* <http://cinefranco.com/> film 21-Mar 7
-* <http://teafestivaltoronto.com/> tea 3-4
-
 ### Mar
 
+* **<https://winterstations.com> art Feb 19-Apr 1**
 * <https://www.tso.ca/new-creations-festival> music 4-11
 * <http://www.torontostorytellingfestival.ca/> talk 24-Apr 2
 * <https://ff.hrw.org/toronto> film 29-Apr 6
@@ -98,6 +90,7 @@ published: true
 * <http://torontojazz.com/> music 24-Jul 3
 * <http://fieldtriplife.com/> music 4-5
 * <http://nxne.com/> music 13-19
+* <http://buttertartfestival.ca/> food 9
 * <http://tasteoftoronto.com/> food 23-26
 * <http://www.taste-of-asia.ca/> food 25-26
 * <s><http://loveletterprojects.com/> art 20-25</s>
@@ -179,3 +172,12 @@ published: true
 * <http://naisa.ca/festivals/deep-wireless/> radio
 * <s><http://www.durationanddialogue.com/> performance 27-29</s>
 * <s><http://www.endlesscity.org/cu> art/music 20-Feb 28</s>
+
+### Feb
+
+* <http://buddiesinbadtimes.com/> Rhubarb Festival 17-28
+* <http://www.theartistproject.com/> art fair 23-26
+* <http://www.eroticartsandcrafts.com/> 11
+* <http://www.bloor-yorkville.com/icefest/> 24-25
+* <http://cinefranco.com/> film 21-Mar 7
+* <http://teafestivaltoronto.com/> tea 3-4
