@@ -36,7 +36,6 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Mile End
 
--Feb 10 <http://www.ateliercirculaire.org/new-events/2018/1/11/daniel-sylvestre>  
 -Mar 10 <http://en.dazibao.art/exhibition/> Myriam Yates  
 
 _Feb 22-Mar 24 <http://www.ateliercirculaire.org/new-events/2018/2/22/natasha-petisch>_  
@@ -53,6 +52,7 @@ _May 24-Jun 29 <http://www.ateliercirculaire.org/new-events/2018/5/24/salon-des-
 ### Little Burgundy
 
 **-Mar 28 <http://arsenalmontreal.com/en/details/enanthologie-oeuvres-monumentales-de-la-collection/>**  
+  **-Apr 7 <http://arsenalmontreal.com/en/details/labor-improbus-festival-art-souterrain/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Arsenal T8
 
