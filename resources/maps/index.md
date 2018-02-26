@@ -16,6 +16,7 @@ published: true
 
 * [New York](https://www.google.com/maps/d/edit?mid=1_9jfCvpTvB_04xf81gjBYPHYyBQ)
 * [Washington, DC](https://www.google.com/maps/d/edit?mid=1JeMlllS8WHi1ZFq4uhQTAUeWwPo)
+* [Miami](https://www.google.com/maps/d/edit?mid=1CD9yS3leb33XTroZR69p2avb22dfnzht)
 
 ### Mexico
 
