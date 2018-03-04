@@ -176,6 +176,7 @@ published: true
 
 ### Feb
 
+* <https://www.tiff.net/nextwave/> film 16-18
 * <http://buddiesinbadtimes.com/> Rhubarb Festival 17-28
 * <http://www.theartistproject.com/> art fair 23-26
 * <http://www.eroticartsandcrafts.com/> 11
