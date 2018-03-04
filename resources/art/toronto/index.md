@@ -69,7 +69,7 @@ _Apr 5-Jun 3 <http://kofflerarts.org/exhibitions/2017/11/14/esther-shalev-gerz/>
 ### Bloordale & Junction Triangle
 
 **-Mar 10 <http://www.scrapmetalgallery.com> All the Names**  
--Mar 17 <http://cuttsgallery.com/save-the-date/save-the-date-ed-zelenak/#/>
+-Mar 17 <http://cuttsgallery.com/save-the-date/save-the-date-ed-zelenak/#/>  
 -Mar 18 <http://www.olgakorpergallery.com/exhibitions/view?id=101>  
 **-Mar 24 <http://www.mercerunion.org/exhibitions/common-cause-before-and-beyond-the-global/>**  
 -Mar 31 <http://www.franzkaka.com/rogers.html>  
