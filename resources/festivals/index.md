@@ -15,6 +15,7 @@ published: true
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-go. <em>Italic</em> is student art.
 
 * <https://www.parkbus.ca/>
+* <https://tsoundcheck.tso.ca> music
 * <http://ieee.uwaterloo.ca/~tcd/> contra
 * <http://www.super8porter.ca/Festivals.htm> film
 * <https://www.badgirlscollective.ca> books

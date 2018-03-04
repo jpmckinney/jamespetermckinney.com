@@ -53,6 +53,7 @@ _May 24-Jun 29 <http://www.ateliercirculaire.org/new-events/2018/5/24/salon-des-
 
 **-Mar 28 <http://arsenalmontreal.com/en/details/enanthologie-oeuvres-monumentales-de-la-collection/>**  
   **-Apr 7 <http://arsenalmontreal.com/en/details/labor-improbus-festival-art-souterrain/>**  
+  **-Apr 13 <http://arsenalmontreal.com/en/details/gilles-carle-shared-heritage/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Arsenal T8
 
