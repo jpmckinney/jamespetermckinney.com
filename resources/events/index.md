@@ -36,6 +36,15 @@ published: true
 * <http://redsandcastletheatre.com>
 * <http://theatredirect.ca>
 
+### Escape rooms
+
+* <http://www.lookingglassadventures.com>
+* <https://www.mysteriousminds.ca>
+* <http://www.roundaboutcanada.com >
+* <https://trapped.ca (recommended)>
+* <http://www.secretcityadventures.com/casaloma/ (recommended)>
+* <http://www.urbancapers.com/public/murder-at-the-royal-ontario-museum/>
+
 ### Others
 
 * <http://national.ballet.ca/> ballet
