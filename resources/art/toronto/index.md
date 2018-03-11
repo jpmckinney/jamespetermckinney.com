@@ -23,6 +23,9 @@ published: true
 _**Mar 14-Jun 10 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/jane-kidd-curious>**_  
 _**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_  
 
+_Mar 23-Apr 14 <http://artmuseum.utoronto.ca/exhibition/and-i-am-the-curator-of-this-show1/> <http://artmuseum.utoronto.ca/exhibition/2018-university-toronto-mvs-studio-program-graduating-exhibition/> <http://artmuseum.utoronto.ca/exhibition/2018-university-toronto-shelley-peterson-student-art-exhibition/>_  
+_**May 16-Jul 21 <http://artmuseum.utoronto.ca/exhibition/robert-fones-signs-forms-narratives/>**_  
+
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> AGO W9F9, Aga Khan W8, Ryerson W8, Art Museum W8, Textile W8, Hashtag 10 / Daniels Spectrum 9, Mississauga U8, Spence 8
@@ -31,7 +34,7 @@ _**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_
 
 ### Downtown South
 
-**-Mar 17 <https://gallery44.org/Salon2018>**  
+**<u>-Mar 17</u> <https://gallery44.org/Salon2018>**  
   -Mar 24 <http://tangledarts.org/gallery/space-shapes-place/the-maze-project-distant-memory-2/>  
 **-Apr 22 <http://www.harbourfrontcentre.com/visualarts/2018/the-kingston-prize/>**  
 
@@ -45,14 +48,14 @@ _Mar 23-Apr 28 <https://gallery44.org/exhibitions/communicating-vessels-0> <http
 
 ### Queen St
 
-**-Mar 18 <http://kofflerarts.org/exhibitions/2017/09/07/nicole-collins-furthest-boundless/>**  
-  -Mar 18 <https://criticaldistance.ca/we-look-at-animals-because/>  
--Mar 18 <http://band-rand.com/site/current-exhibitions/>  
+**<u>-Mar 18</u> <http://kofflerarts.org/exhibitions/2017/09/07/nicole-collins-furthest-boundless/>**  
+  <u>-Mar 18</u> <https://criticaldistance.ca/we-look-at-animals-because/>  
+<u>-Mar 18</u> <http://band-rand.com/site/current-exhibitions/>  
 -Mar 24 <http://susanhobbs.com/exhibits/1424-althea-lorraine>  
 -Mar 25 <https://workmanarts.com/being-scene-2018/>  
--Apr 14 <http://generalhardware.ca> Caroline Larsen  
 
 _Apr 5-Jun 3 <http://kofflerarts.org/exhibitions/2017/11/14/esther-shalev-gerz/>_  
+_Mar 14-Apr 6 <http://cargocollective.com/ryersonartspace/Upcoming-1/Like-A-Sister>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -68,10 +71,8 @@ _Apr 5-Jun 3 <http://kofflerarts.org/exhibitions/2017/11/14/esther-shalev-gerz/>
 
 ### Bloordale & Junction Triangle
 
-**-Mar 10 <http://www.scrapmetalgallery.com> All the Names**  
--Mar 17 <http://cuttsgallery.com/save-the-date/save-the-date-ed-zelenak/#/>  
--Mar 18 <http://www.olgakorpergallery.com/exhibitions/view?id=101>  
-**-Mar 24 <http://www.mercerunion.org/exhibitions/common-cause-before-and-beyond-the-global/>**  
+<u>-Mar 17</u> <http://cuttsgallery.com/save-the-date/save-the-date-ed-zelenak/#/>  
+<u>-Mar 18</u> <http://www.olgakorpergallery.com/exhibitions/view?id=101>  
 -Mar 31 <http://www.franzkaka.com/rogers.html>  
 
 _**Mar 15-Apr 21 <http://gallerytpw.ca/exhibitions/trisha-baga/>**_  
@@ -84,13 +85,13 @@ _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_
 
 ### Dupont St & The Junction
 
--Mar 17 <http://becontemporary.com/upcoming.php> Tony Scherman  
--Mar 17 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>  
+<u>-Mar 17</u> <http://becontemporary.com/upcoming.php> Tony Scherman  
+<u>-Mar 17</u> <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>  
 -Mar 23 <https://www.christiecontemporary.com/exhibitions/> Jessica Hein  
 -Mar 31 <http://angellgallery.com/exhibition/the-spoils> <http://angellgallery.com/exhibition/the-mirror-of-the-machine>  
+-Mar 31 <http://www.franzkaka.com/rogers.html>  
 -Apr 1 <https://coopercolegallery.com/exhibition/between-dreaming-and-living/>  
 -Apr 7 <https://alisonmilne.com/gallery/exhibitions/the-museum-of-droopy-history>  
 
-_Mar 8-Mar 31 <http://www.franzkaka.com/rogers.html>_  
 _May 3-May 26 <http://www.franzkaka.com/bauer.html>_  
 _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_  
