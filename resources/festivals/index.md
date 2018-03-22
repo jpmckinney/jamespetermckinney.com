@@ -44,6 +44,7 @@ published: true
 
 * **<https://winterstations.com> art Feb 19-Apr 1**
 * **<https://www.tso.ca/new-creations-festival> music 4-11**
+* <http://www.torontosketchfest.com> 1-11
 * <http://www.torontostorytellingfestival.ca/> talk 24-Apr 2
 * <https://ff.hrw.org/toronto> film 29-Apr 6
 
