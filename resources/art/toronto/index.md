@@ -16,6 +16,7 @@ published: true
 
 ### Downtown North
 
+-Apr 14 <http://artmuseum.utoronto.ca/exhibition/and-i-am-the-curator-of-this-show1/> <http://artmuseum.utoronto.ca/exhibition/2018-university-toronto-mvs-studio-program-graduating-exhibition/> <http://artmuseum.utoronto.ca/exhibition/2018-university-toronto-shelley-peterson-student-art-exhibition/>  
 -May 13 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/artistry-in-silk-the-kimono-of-itchiku-kubota>  
 **-May 27 <https://www.ago.net/yayoi-kusama-infinity-mirrors>**  
 **-Jun 10 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/jane-kidd-curious>**  
@@ -23,7 +24,6 @@ published: true
 
 _**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_  
 
-_Mar 23-Apr 14 <http://artmuseum.utoronto.ca/exhibition/and-i-am-the-curator-of-this-show1/> <http://artmuseum.utoronto.ca/exhibition/2018-university-toronto-mvs-studio-program-graduating-exhibition/> <http://artmuseum.utoronto.ca/exhibition/2018-university-toronto-shelley-peterson-student-art-exhibition/>_  
 _**May 16-Jul 21 <http://artmuseum.utoronto.ca/exhibition/robert-fones-signs-forms-narratives/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
@@ -36,7 +36,7 @@ _**May 16-Jul 21 <http://artmuseum.utoronto.ca/exhibition/robert-fones-signs-for
 
 **-Apr 22 <http://www.harbourfrontcentre.com/visualarts/2018/the-kingston-prize/>**  
 
-_Mar 23-Apr 28 <https://gallery44.org/exhibitions/communicating-vessels-0> <https://gallery44.org/exhibitions/enchanted-forest-presence-0>_  
+-Apr 28 <https://gallery44.org/exhibitions/communicating-vessels-0> <https://gallery44.org/exhibitions/enchanted-forest-presence-0>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -70,9 +70,9 @@ _Apr 5-Jun 3 <http://kofflerarts.org/exhibitions/2017/11/14/esther-shalev-gerz/>
 
 -Mar 31 <http://www.franzkaka.com/rogers.html>  
 **-Apr 21 <http://gallerytpw.ca/exhibitions/trisha-baga/>**  
+-Apr 21 <http://cuttsgallery.com/exhibitions/conclusions-and-transfers-conclusions-and-transpositions/#/images>  
+-Apr 21 <http://www.olgakorpergallery.com/exhibitions/view?id=102>  
 
-_Mar 24-Apr 21 <http://cuttsgallery.com/exhibitions/conclusions-and-transfers-conclusions-and-transpositions/#/images>  
-_Mar 24-Apr 21 <http://www.olgakorpergallery.com/exhibitions/view?id=102>_  
 _Apr 28-May 2 <http://www.olgakorpergallery.com/exhibitions/view?id=103>_  
 _Apr 28-May 26 <http://cuttsgallery.com/exhibitions/sonnet-paintings/#/images>_  
 _May 3-May 26 <http://www.franzkaka.com/bauer.html>_  
@@ -87,8 +87,9 @@ _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_
 -Mar 31 <http://www.franzkaka.com/rogers.html>  
 -Apr 1 <https://coopercolegallery.com/exhibition/between-dreaming-and-living/>  
 -Apr 7 <https://alisonmilne.com/gallery/exhibitions/the-museum-of-droopy-history>  
+-Apr 21 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Jacob Robert Whibley  
 
-_Mar 24-Apr 21 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Jacob Robert Whibley_  
+_Mar 31-Apr 28 <https://www.christiecontemporary.com/exhibitions/> Nick Ostoff_  
 _**Apr 4-May 26 <http://interaccess.org/exhibition/future> <http://interaccess.org/exhibition/welcome-yesterday-future>**_  
   _**Apr 6-Jun 8 <http://interaccess.org/exhibition/telidon>**_  
 _Apr 6-May 5 <http://angellgallery.com/exhibition/basement-suite-the-thinner-the-air> <http://angellgallery.com/exhibition/lattices>_  
