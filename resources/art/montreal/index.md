@@ -40,10 +40,8 @@ _**Apr 20-Sep 9 <https://dhc-art.org/exhibitions/>**_
 
 ### Mile End
 
--Mar 10 <http://en.dazibao.art/exhibition/> Myriam Yates  
+-Jun 2 <http://en.dazibao.art/exhibition/> Entends-tu ce que je vois?  
 
-_Feb 22-Mar 24 <http://www.ateliercirculaire.org/new-events/2018/2/22/natasha-petisch>_  
-_Mar 29-Jun 2 <http://en.dazibao.art/exhibition/> Entends-tu ce que je vois?_  
 _Apr 5-May 12 <http://www.ateliercirculaire.org/new-events/2018/4/5/duo-pellerin-mairhofer>_  
 _May 24-Jun 29 <http://www.ateliercirculaire.org/new-events/2018/5/24/salon-des-membres>_  
 
@@ -55,9 +53,8 @@ _May 24-Jun 29 <http://www.ateliercirculaire.org/new-events/2018/5/24/salon-des-
 
 ### Little Burgundy
 
-**-Mar 28 <http://arsenalmontreal.com/en/details/enanthologie-oeuvres-monumentales-de-la-collection/>**  
+**Mar 31-Apr 13 <http://arsenalmontreal.com/en/details/gilles-carle-shared-heritage/>**  
   **-Apr 7 <http://arsenalmontreal.com/en/details/labor-improbus-festival-art-souterrain/>**  
-  **-Apr 13 <http://arsenalmontreal.com/en/details/gilles-carle-shared-heritage/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Arsenal T8
 
