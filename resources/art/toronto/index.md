@@ -23,7 +23,7 @@ published: true
 
 _**Apr 13-May 6 <https://www.mirvish.com/shows/fun-home>**_  
 _Apr 18-Aug 5 <https://ryersonimagecentre.ca/exhibition/newlandia-debaabaminaagwad/>_  
-  _Apr 28-Jun 10 <https://ryersonimagecentre.ca/exhibition/ryan-walker-voices-in-the-wilderness/>_
+  _Apr 28-Jun 10 <https://ryersonimagecentre.ca/exhibition/ryan-walker-voices-in-the-wilderness/>_  
   _**Apr 28-Aug 5 <https://ryersonimagecentre.ca/exhibition/scotiabank-photography-award-shelley-niro/> <https://ryersonimagecentre.ca/exhibition/nadia-myre-acts-that-fade-away/>**_  
 _Apr 28-Jun 17 <https://scotiabankcontactphoto.com/2018/primary-exhibition/harbourfront-centre-when-war-is-over>_  
 _May 8-Jun 8 <https://scotiabankcontactphoto.com/2018/primary-exhibition/john-b-aird-gallery-waking-dream>_  
@@ -44,7 +44,7 @@ _**May 30-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/c
   -Apr 28 <http://www.trinitysquarevideo.com/exhibition-corrections/>  
 
 _Apr 12-May 11 <http://www.vtape.org/current-and-upcoming> Steve Reinke_  
-_Apr 19-May 19 <http://tangledarts.org/gallery/space-shapes-place/my-head-lay-on-a-trusty-word/>_  
+  _Apr 19-May 19 <http://tangledarts.org/gallery/space-shapes-place/my-head-lay-on-a-trusty-word/>_  
 _Apr 28-Jun 16 <https://scotiabankcontactphoto.com/2018/primary-exhibition/contact-gallery-arcades>_  
 _May 4-Jun 2 <https://gallery44.org/exhibitions/step-shadow-warmth-sun> <https://gallery44.org/exhibitions/proving-ground-nevada-toronto>_  
   _May 4-Jun 30 <https://scotiabankcontactphoto.com/2018/primary-exhibition/a-space-gallery-incidental-narratives> <https://scotiabankcontactphoto.com/2018/open-exhibition/a-space-gallery-scrap-pieces>_  
@@ -64,7 +64,7 @@ _Jun 8-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org
 
 -Apr 21 <http://birchcontemporary.com/exhibition/new-works-4> <http://birchcontemporary.com/exhibition/new-works-5>  
   -May 5 <http://susanhobbs.com/exhibits/1426-cave-paintings-now>  
--Jun 3 <http://kofflerarts.org/exhibitions/2017/11/14/esther-shalev-gerz/>  
+**-Jun 3 <http://kofflerarts.org/exhibitions/2017/11/14/esther-shalev-gerz/>**  
 
 _Apr 26-Jun 7 <https://scotiabankcontactphoto.com/2018/primary-exhibition/band-gallery-cutting-a-figure-black-style-through-the-lens-of-charles-teenie-harris>_  
 
