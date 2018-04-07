@@ -14,8 +14,6 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Downtown
 
--Mar 31 <https://www.mbam.qc.ca/expositions/a-venir/nadia-myre/>  
-
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> MACM WUF9, MBAM W9, McCord W9, Centre for Architecture W9
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MACM, MBAM, McCord, Centre for Architecture
@@ -31,8 +29,6 @@ _**Apr 20-Sep 9 <https://dhc-art.org/exhibitions/>**_
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> DHC/ART, Centre Phi, Fonderie Darling / Beauchamp, Got, LeRoyer, MX, Matthew Namour
 
 ### Mile Ex
-
--Apr 7 <https://www.neverapart.com/exhibitions/love-sick/> <https://www.neverapart.com/exhibitions/traces-of-life-a-journey-between-canada-and-south-asia-जीवन-के-निशान-कनाड/> <https://www.neverapart.com/exhibitions/when-put-into-a-specific-category-the-subject-might-will-lose-its-colours-and-specificity/> <https://www.neverapart.com/exhibitions/infinite-essence/> <https://www.neverapart.com/exhibitions/sinon-quebecoise-余承佳/> <https://www.neverapart.com/exhibitions/lost-love/>  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Art Mûr UF8
 
@@ -52,9 +48,6 @@ _May 24-Jun 29 <http://www.ateliercirculaire.org/new-events/2018/5/24/salon-des-
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> d'Este
 
 ### Little Burgundy
-
-**Mar 31-Apr 13 <http://arsenalmontreal.com/en/details/gilles-carle-shared-heritage/>**  
-  **-Apr 7 <http://arsenalmontreal.com/en/details/labor-improbus-festival-art-souterrain/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Arsenal T8
 
