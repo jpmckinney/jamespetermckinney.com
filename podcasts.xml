@@ -2,12 +2,11 @@
 <opml version="1.0">
 <head>
 	<title>iTunes Subscribed Feeds</title>
-	<dateCreated>Mon, 05 Mar 2018 19:18:06 GMT</dateCreated>
-	<dateModified>Mon, 05 Mar 2018 19:18:06 GMT</dateModified>
+	<dateCreated>Mon, 16 Apr 2018 04:38:38 GMT</dateCreated>
+	<dateModified>Mon, 16 Apr 2018 04:38:38 GMT</dateModified>
 </head>
 <body>
 	<outline text="Alone: A Love Story" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/alone.xml" htmlUrl="http://www.cbc.ca/radio/alone" />
-	<outline text="ARTSCAPE" type="rss" xmlUrl="http://feeds.feedburner.com/ArtscapeCFUV" htmlUrl="http://www.cfuvpodcasts.com/artscape/" />
 	<outline text="bitchface" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:203308699/sounds.rss" htmlUrl="http://soundcloud.com/bitchfacepodcast" />
 	<outline text="CANADALAND" type="rss" xmlUrl="http://canadaland.libsyn.com/rss" htmlUrl="http://www.canadalandshow.com" />
 	<outline text="COMMONS" type="rss" xmlUrl="http://canadalandcommons.libsyn.com/rss" htmlUrl="http://canadalandshow.com/commons" />
@@ -17,9 +16,7 @@
 	<outline text="Koffler.Digital Audio Programs" type="rss" xmlUrl="http://kofflerarts.libsyn.com/rss" htmlUrl="http://www.koffler.digital/" />
 	<outline text="Meat" type="rss" xmlUrl="http://www.spreaker.com/show/2675008/episodes/feed" htmlUrl="http://www.meatpodcast.com" />
 	<outline text="MEDIA INDIGENA : Weekly Indigenous current affairs program" type="rss" xmlUrl="http://mediaindigena.libsyn.com/rss" htmlUrl="http://www.mediaindigena.com" />
-	<outline text="MIMS Radio Presented by Phi Centre" type="rss" xmlUrl="http://mimsradio.com/feed/podcast/mims-radio-presented-by-phi-centre" htmlUrl="http://mimsradio.com/" />
 	<outline text="Missing &#38; Murdered: Finding Cleo" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/missing.xml" htmlUrl="http://www.cbc.ca/radio/podcasts/missing-murdered-who-killed-alberta-williams/" />
-	<outline text="Music Is My Sanctuary Podcasts" type="rss" xmlUrl="http://mimsradio.com/feed/podcast/music-is-my-sanctuary" htmlUrl="http://mimsradio.com/" />
 	<outline text="OPPO" type="rss" xmlUrl="http://oppopod.libsyn.com/rss" htmlUrl="http://oppopod.libsyn.com/website" />
 	<outline text="Polaris Podcast" type="rss" xmlUrl="http://polarispodcast.libsyn.com/rss" htmlUrl="https://polarismusicprize.ca/" />
 	<outline text="Secret Feminist Agenda" type="rss" xmlUrl="http://feeds.feedburner.com/SecretFeministAgenda" htmlUrl="https://secretfeministagenda.com" />
@@ -28,7 +25,7 @@
 	<outline text="The House from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/thehouse.xml" htmlUrl="http://www.cbc.ca/radio/podcasts/current-affairs-information/the-house/" />
 	<outline text="The Imposter" type="rss" xmlUrl="http://imposter.libsyn.com/rss" htmlUrl="http://imposter.libsyn.com/podcast" />
 	<outline text="Underground Sounds" type="rss" xmlUrl="http://ckut.ca/en/program/1835/rss.xml" htmlUrl="http://ckut.ca" />
-	<outline text="Within the Wires" type="rss" xmlUrl="http://withinthewires.libsyn.com/rss" htmlUrl="http://withinthewires.libsyn.com/podcast" />
+	<outline text="Within the Wires" type="rss" xmlUrl="http://feeds.nightvalepresents.com/withinthewires" htmlUrl="http://withinthewires.libsyn.com/podcast" />
 	<outline text="XXFILES" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:150581961/sounds.rss" htmlUrl="http://soundcloud.com/xxfilesradio" />
 </body>
 </opml>
