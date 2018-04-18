@@ -66,6 +66,7 @@ published: true
 * <http://censured.info/> film 27-28 biennial (odd)
 * <http://www.insideout.ca/initiatives/toronto> film 24-Jun 3
 * <http://subtletechnologies.com/festival/> art, tech, science 10-Jun 25?
+* <http://www.nativeearth.ca/> theatre 14-20
 * <http://www.nextmusicfromtokyo.com/> music 18-23
 * <https://www.rcmusic.com/performance/21c-music-festival> music 23-27
 * <https://cmw.net/music/> music 7-13

@@ -14,6 +14,10 @@ published: true
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Museums: Bata Shoe U8, DX, Gardiner F9, ROM F8
 
+### Shows
+
+_Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=grand-finale>_  
+
 ### Downtown North
 
 -May 13 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/artistry-in-silk-the-kimono-of-itchiku-kubota>  

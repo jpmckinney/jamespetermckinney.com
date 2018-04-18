@@ -22,7 +22,7 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 **-Aug 12 <https://phi-centre.com/en/event/particles-of-existence/>**  
 
-_**Apr 20-Sep 9 <https://dhc-art.org/exhibitions/>**_  
+_**Apr 20-Sep 9 <https://dhc-art.org/bharti-kher-exhibition/>**_  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Centre Phi FSa8, Fonderie Darling U10
 

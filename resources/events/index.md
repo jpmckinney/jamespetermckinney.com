@@ -18,23 +18,40 @@ published: true
 
 * <https://www.mirvish.com/shows>
 * <http://www1.soulpepper.ca/performances>
-* <http://www.coc.ca/PerformancesAndTickets.aspx>
-* <http://www.tocentre.com/whats-on/calendar>
-* <http://www.nightwoodtheatre.net/>
 * <http://buddiesinbadtimes.com/events/>
 * <https://www.crowstheatre.com/whats-on>
+* <http://www.tarragontheatre.com/calendar/>
+* <https://www.factorytheatre.ca>
+* <http://passemuraille.ca>
+* <https://tickets.theatrecentre.org>
+* <http://www.coc.ca/PerformancesAndTickets.aspx>
+* <http://www.tocentre.com/whats-on/calendar>
 * <https://www.canadianstage.com>
 * <http://www.heritagetrust.on.ca/en/index.php/ewg/ewg-home/events-calendar>
 * <http://www.coalminetheatre.com>
-* <http://passemuraille.ca>
-* <https://www.factorytheatre.ca>
-* <https://tickets.theatrecentre.org>
-* <http://www.tarragontheatre.com/calendar/>
 * <https://theassemblytheatre.com>
 * <http://thestorefronttheatre.com>
 * <http://www.alunatheatre.ca>
 * <http://redsandcastletheatre.com>
-* <http://theatredirect.ca>
+* <http://theatredirect.ca> young
+
+### Companies
+
+* <http://outsidethemarch.ca>
+* <http://www.nightwoodtheatre.net>
+* <http://www.theatrewhynot.org>
+* <http://moderntimesstage.com>
+* <https://keepgoodtheatrecompany.com>
+* <http://fu-gen.org>
+* <https://www.necessaryangel.com>
+* <https://www.obsidiantheatre.com>
+* <http://www.theatrefront.com>
+* <http://www.corpus.ca>
+* <https://www.shakespearebashd.com>
+* <http://www.bcurrent.ca>
+* <http://www.nativeearth.ca>
+* <http://www.cahoots.ca>
+* <http://roseneath.ca> young
 
 ### Escape rooms
 
