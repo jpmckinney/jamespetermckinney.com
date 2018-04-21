@@ -31,6 +31,8 @@ _Apr 18-Aug 5 <https://ryersonimagecentre.ca/exhibition/newlandia-debaabaminaagw
 _Apr 28-Jun 17 <https://scotiabankcontactphoto.com/2018/primary-exhibition/harbourfront-centre-when-war-is-over>_  
 _May 1-May 31 <https://scotiabankcontactphoto.com/2018/featured-exhibition/gardiner-museum-ingenuity>_  
 _May 1-May 31 <https://scotiabankcontactphoto.com/2018/featured-exhibition/bau-xi-gallery-the-empire-the-city>_  
+_**May 2-May 26 <http://artmuseum.utoronto.ca/exhibition/weight-of-light/>_  
+  _**May 16-Jul 21 <http://artmuseum.utoronto.ca/exhibition/robert-fones-signs-forms-narratives/>_  
 _May 3-Jun 16 <https://scotiabankcontactphoto.com/2018/featured-exhibition/daniels-spectrum-dear-ayeeyo>_  
 _May 8-Jun 8 <https://scotiabankcontactphoto.com/2018/primary-exhibition/john-b-aird-gallery-waking-dream>_  
 _**May 16-Jul 21 <http://artmuseum.utoronto.ca/exhibition/robert-fones-signs-forms-narratives/>**_  
@@ -44,17 +46,16 @@ _**May 30-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/c
 
 ### Downtown South
 
--Apr 21 <http://www.corkingallery.com/exhibitions/desire> <http://www.corkingallery.com/exhibitions/edge-of-chaos>  
-**-Apr 22 <http://www.harbourfrontcentre.com/visualarts/2018/the-kingston-prize/>**  
--Apr 21 <http://www.circuitgallery.com/exhibitions/alejandro-cartagena-accumulations/>  
+**<u>-Apr 22</u> <http://www.harbourfrontcentre.com/visualarts/2018/the-kingston-prize/>**  
+<u>-Apr 21</u> <http://www.circuitgallery.com/exhibitions/alejandro-cartagena-accumulations/>  
   -Apr 28 <http://www.trinitysquarevideo.com/exhibition-corrections/>  
   -May 11 <http://www.vtape.org/event/steve-reinke-rib-gets-in-the-way>  
+  -May 19 <http://tangledarts.org/gallery/space-shapes-place/my-head-lay-on-a-trusty-word/>  
 
 _Apr 17-May 31 <https://scotiabankcontactphoto.com/2018/open-exhibition/first-canadian-place-gallery-barbara-cole>_  
   _May 7-May 19 <https://scotiabankcontactphoto.com/2018/open-exhibition/first-canadian-place-main-lobby-npac-national-pictures-of-the-year-awards>_  
-_Apr 19-May 19 <http://tangledarts.org/gallery/space-shapes-place/my-head-lay-on-a-trusty-word/>_  
 _Apr 28-Jun 16 <https://scotiabankcontactphoto.com/2018/primary-exhibition/contact-gallery-arcades>_  
-_Apr 28-Jun 17 <https://scotiabankcontactphoto.com/2018/featured-exhibition/harbourfront-centre-photo-passage-like-water-a-window>_  
+_Apr 28-Jun 17 <http://www.harbourfrontcentre.com/visualarts/2018/like-water-a-window/> <http://www.harbourfrontcentre.com/visualarts/2018/luke-painter-the-teasers-and-the-tormentors/> <http://www.harbourfrontcentre.com/visualarts/2018/daniel-alexander-when-war-is-over/>_  
 _May 2-Jun 30 <https://scotiabankcontactphoto.com/2018/featured-exhibition/corkin-gallery-from-dada-to-vogue>_  
 _May 3-May 31 <https://scotiabankcontactphoto.com/2018/open-exhibition/urban-gallery-women-at-work>_  
 _May 4-Jun 2 <https://gallery44.org/exhibitions/step-shadow-warmth-sun> <https://gallery44.org/exhibitions/proving-ground-nevada-toronto>_  
@@ -77,13 +78,13 @@ _Jun 8-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org
 
 ### Queen St
 
--Apr 21 <http://birchcontemporary.com/exhibition/new-works-4> <http://birchcontemporary.com/exhibition/new-works-5>  
-  -May 5 <http://susanhobbs.com/exhibits/1426-cave-paintings-now>  
+-May 5 <http://susanhobbs.com/exhibits/1426-cave-paintings-now>  
+-May 12 <https://scotiabankcontactphoto.com/2018/featured-exhibition/general-hardware-contemporary-until-now>  
+-May 26 <https://scotiabankcontactphoto.com/2018/featured-exhibition/stephen-bulger-gallery-queering-family-photography> <https://scotiabankcontactphoto.com/2018/featured-exhibition/stephen-bulger-gallery-friends-and-loverscoming-out-in-montreal-in-the-70s>  
 **-Jun 3 <http://kofflerarts.org/exhibitions/2017/11/14/esther-shalev-gerz/>**  
+  -Jun 3 <https://scotiabankcontactphoto.com/2018/featured-exhibition/critical-distance-centre-for-curators-forward-facing>  
 
-_Apr 19-May 12 <https://scotiabankcontactphoto.com/2018/featured-exhibition/general-hardware-contemporary-until-now>_  
-_Apr 21-May 26 <https://scotiabankcontactphoto.com/2018/featured-exhibition/stephen-bulger-gallery-queering-family-photography> <https://scotiabankcontactphoto.com/2018/featured-exhibition/stephen-bulger-gallery-friends-and-loverscoming-out-in-montreal-in-the-70s>_  
-_Apr 21-Jun 3 <https://scotiabankcontactphoto.com/2018/featured-exhibition/critical-distance-centre-for-curators-forward-facing>_  
+_Apr 26-Jun 2 <http://birchcontemporary.com/exhibition/new-works-6> <http://birchcontemporary.com/exhibition/mother-s-foundry>_  
 _Apr 26-Jun 7 <https://scotiabankcontactphoto.com/2018/primary-exhibition/band-gallery-cutting-a-figure-black-style-through-the-lens-of-charles-teenie-harris>_  
 _May 1-May 20 <https://scotiabankcontactphoto.com/2018/featured-exhibition/gallery-50-do-as-you-wish>_  
 _May 1-May 31 <https://scotiabankcontactphoto.com/2018/featured-exhibition/only-one-gallery-the-uncanny-valley-portraits>_  
@@ -112,9 +113,9 @@ _May 10-Jun 30 <https://scotiabankcontactphoto.com/2018/featured-exhibition/pari
 
 ### Bloordale & Junction Triangle
 
-**-Apr 21 <http://gallerytpw.ca/exhibitions/trisha-baga/>**  
--Apr 21 <http://cuttsgallery.com/exhibitions/conclusions-and-transfers-conclusions-and-transpositions/#/images>  
-  -Apr 21 <http://www.olgakorpergallery.com/exhibitions/view?id=102>  
+**<u>-Apr 21</u> <http://gallerytpw.ca/exhibitions/trisha-baga/>**  
+<u>-Apr 21</u> <http://cuttsgallery.com/exhibitions/conclusions-and-transfers-conclusions-and-transpositions/#/images>  
+  <u>-Apr 21</u> <http://www.olgakorpergallery.com/exhibitions/view?id=102>  
 **-Jun 2 <http://www.mercerunion.org/exhibitions/sophia-al-maria-black-friday/>**  
 
 _Apr 26-Jun 9 <https://scotiabankcontactphoto.com/2018/primary-exhibition/arsenal-contemporary-toronto-the-castle>_  
@@ -132,10 +133,11 @@ _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_
 
 ### Dupont St & The Junction
 
--Apr 21 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html> Jacob Robert Whibley  
 -Apr 28 <https://www.christiecontemporary.com/ostoff-images-2018>  
 -May 5 <http://angellgallery.com/exhibition/basement-suite-the-thinner-the-air> <http://angellgallery.com/exhibition/lattices>  
 -May 12 <https://coopercolegallery.com/exhibition/2018-terribly-vulnerable-and-terribly-hard-ashton-cooper/>  
+-May 12 <http://erinstumpprojects.com/current-exhibitions/walter-scott-bad-paleontology>  
+
 
 _Apr 26-Jun 9 <https://scotiabankcontactphoto.com/2018/featured-exhibition/alison-milne-gallery-confluence-ii>_  
 _Apr 28-Jun 2 <https://scotiabankcontactphoto.com/2018/featured-exhibition/zalucky-contemporary-day-for-night>_  
@@ -144,3 +146,4 @@ _May 3-May 27 <https://scotiabankcontactphoto.com/2018/open-exhibition/articulat
 _May 4-Jun 2 <https://scotiabankcontactphoto.com/2018/featured-exhibition/christie-contemporary-ellipsis>_  
 _May 4-Jun 16 <http://becontemporary.com/upcoming.php> Tim Zuck_  
 _May 11-Jun 16 <https://scotiabankcontactphoto.com/2018/featured-exhibition/angell-gallery-let-there-be-light>_  
+_May 25-Jun 16 <http://erinstumpprojects.com/upcoming-exhibitions/-katie-lyle>_  

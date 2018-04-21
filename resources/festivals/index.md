@@ -42,12 +42,12 @@ published: true
 ### Apr
 
 * **<https://twitter.com/WonkProm> meetup 20**
-* **<http://scotiabankcontactphoto.com/> photography 27-**
 * **<http://imagesfestival.com/> art 12-20**
-* **<https://www.hotdocs.ca/> film Apr 26-6**
+* **<http://scotiabankcontactphoto.com/> photography 27-**
+* **<https://www.hotdocs.ca/> film 26-May 6**
+* <http://riserproject.org> theatre 17-May 12
 * <http://fashionarttoronto.ca/> art/fashion 17-21
 * <http://www.gladstonehotel.com/art/growop2018/> art 18-22
-* <http://www.harbourfrontcentre.com/worldstage/performances/> performance 4-22?
 * <http://taafi.com/> animation 29?
 * <https://torontocoffeeandtea.com/> coffee/eat 14-15
 * _<http://meta2018.ca> art (grad) 5-7_
@@ -56,6 +56,7 @@ published: true
 * _<http://www.maxex.ca/> photography (grad) 27-May 6_
 * _<http://ysdn2018.com/> design (grad) 11-13_
 * _<http://www.massexodus.ca/> fashion (grad) 6_
+* <s><http://www.harbourfrontcentre.com/worldstage/performances/> performance 4-22</s> (2017)
 
 ### May
 
@@ -70,6 +71,7 @@ published: true
 * <http://www.nextmusicfromtokyo.com/> music 18-23
 * <https://www.rcmusic.com/performance/21c-music-festival> music 23-27
 * <https://cmw.net/music/> music 7-13
+* <http://www.harbourfrontcentre.com/junior/> youth 19-25
 * _<http://www.ocadu.ca/gradex.htm> art (grad) 3-6_
 
 ### Jun
@@ -78,6 +80,7 @@ published: true
 * <https://www.torontoartbookfair.com/art-book-week> books 12-18?
 * <http://dancemakers.org/events/> dance 13-24?
 * <http://www.nuitrose.ca/> art/performance 16
+* <http://loveletterprojects.com/> art 20-25
 * <http://www.thejunctionsummersolstice.com/> 24?
 * <http://www.pridetoronto.com/> <https://yohomo.ca/> 22-24
 * <https://www.femaleeyefilmfestival.com> film 26-Jul 1
@@ -88,9 +91,7 @@ published: true
 * <http://buttertartfestival.ca/> food 9
 * <http://tasteoftoronto.com/> food 23-24?
 * <https://www.facebook.com/tasteofasiastreetfestival/> food 25-26
-* <s><http://loveletterprojects.com/> art 20-25</s>
-* <s><http://www.unsound.pl/> music 19-21</s>
-* <s><http://www.bestival.ca/> music 11-12</s>
+* <s><http://www.bestival.ca/> music 11-12</s> (2016)
 
 ### Jul
 
@@ -108,8 +109,8 @@ published: true
 * <http://beachesjazz.com/> music 6-29
 * <http://www.torontosummermusic.com/> music 12-Aug 4
 * <http://unitycharity.com/unityfest/> music 13-15?
-* <s><http://torontoartblast.com/> art 9, 16-17, 23-24, 30-31</s>
-* <s><https://torontoanarchistbookfair.wordpress.com> talk 23-24</s>
+* <s><http://torontoartblast.com/> art 9, 16-17, 23-24, 30-31</s> (2017)
+* <s><https://torontoanarchistbookfair.wordpress.com> talk 23-24</s> (2016)
 
 ### Aug
 
@@ -129,9 +130,9 @@ published: true
 * **<http://www.nbto.com/> art 29**
 * **<http://queenwestartcrawl.com/> art 22-23**
 * <http://torontoqueerfilmfest.com> film ?
-* <s><http://www.infuture.ca/> art 15-25</s>
-* <s><http://www.endlesscity.org/forms/events> art 28-30</s>
-* <s><http://torontourbanrootsfest.com/> music 16-18</s>
+* <s><http://www.infuture.ca/> art 15-25</s> (2016)
+* <s><http://www.endlesscity.org/forms/events> art 28-30</s> (2016)
+* <s><http://torontourbanrootsfest.com/> music 16-18</s> (2016)
 
 ### Oct
 
@@ -153,7 +154,8 @@ published: true
 * <http://regentparkfilmfestival.com/> film 13-17
 * <http://eutorontofilmfest.ca/> film 9-23?
 * <https://syff.ca/> film 10-12?
-* <s><http://www.rendezvouswithmadness.ca/> film 3-11</s>
+* <http://www.unsound.pl/> music 3
+* <s><http://www.rendezvouswithmadness.ca/> film 3-11</s> (2017)
 
 ### Dec
 
@@ -168,8 +170,8 @@ published: true
 * <http://todesignoffsite.com/> design 15-21
 * <http://naisa.ca/festivals/deep-wireless/> radio
 * <https://factoronto.org/> art 2019/2020
-* <s><http://www.durationanddialogue.com/> performance 27-29</s>
-* <s><http://www.endlesscity.org/cu> art/music 20-Feb 28</s>
+* <s><http://www.durationanddialogue.com/> performance 27-29</s> (2017)
+* <s><http://www.endlesscity.org/cu> art/music 20-Feb 28</s> (2016)
 
 ### Feb
 
