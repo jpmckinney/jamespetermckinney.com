@@ -46,9 +46,7 @@ _**May 30-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/c
 
 ### Downtown South
 
-**<u>-Apr 22</u> <http://www.harbourfrontcentre.com/visualarts/2018/the-kingston-prize/>**  
-<u>-Apr 21</u> <http://www.circuitgallery.com/exhibitions/alejandro-cartagena-accumulations/>  
-  -Apr 28 <http://www.trinitysquarevideo.com/exhibition-corrections/>  
+-Apr 28 <http://www.trinitysquarevideo.com/exhibition-corrections/>  
   -May 11 <http://www.vtape.org/event/steve-reinke-rib-gets-in-the-way>  
   -May 19 <http://tangledarts.org/gallery/space-shapes-place/my-head-lay-on-a-trusty-word/>  
 
@@ -112,11 +110,6 @@ _May 10-Jun 30 <https://scotiabankcontactphoto.com/2018/featured-exhibition/pari
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Loop / Unlovable
 
 ### Bloordale & Junction Triangle
-
-**<u>-Apr 21</u> <http://gallerytpw.ca/exhibitions/trisha-baga/>**  
-<u>-Apr 21</u> <http://cuttsgallery.com/exhibitions/conclusions-and-transfers-conclusions-and-transpositions/#/images>  
-  <u>-Apr 21</u> <http://www.olgakorpergallery.com/exhibitions/view?id=102>  
-**-Jun 2 <http://www.mercerunion.org/exhibitions/sophia-al-maria-black-friday/>**  
 
 _Apr 26-Jun 9 <https://scotiabankcontactphoto.com/2018/primary-exhibition/arsenal-contemporary-toronto-the-castle>_  
 _Apr 28-May 26 <http://cuttsgallery.com/exhibitions/sonnet-paintings/#/images>_  

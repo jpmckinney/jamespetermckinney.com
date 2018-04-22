@@ -31,6 +31,8 @@ _**Apr 20-Sep 9 <https://dhc-art.org/bharti-kher-exhibition/>**_
 
 ### Mile Ex
 
+-Jun 30 <https://www.neverapart.com/exhibitions/cut-outs/> <https://www.neverapart.com/exhibitions/the-ramboys-a-bookless-novel/> <https://www.neverapart.com/exhibitions/desequilibres/> <https://www.neverapart.com/exhibitions/female/>  
+
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Art Mûr UF8
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Eastern Bloc
