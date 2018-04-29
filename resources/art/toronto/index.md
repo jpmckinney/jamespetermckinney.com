@@ -22,6 +22,7 @@ _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent:
 
 -May 13 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/artistry-in-silk-the-kimono-of-itchiku-kubota>  
 **-May 27 <https://www.ago.net/yayoi-kusama-infinity-mirrors>**  
+-Jun 3 <https://www.gardinermuseum.on.ca/event/yoko-ono-riverbed/>  
 **-Jun 10 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/jane-kidd-curious>**  
 -Jun 10 <https://ryersonimagecentre.ca/exhibition/ryan-walker-voices-in-the-wilderness/>  
   **-Aug 5 <https://ryersonimagecentre.ca/exhibition/scotiabank-photography-award-shelley-niro/> <https://ryersonimagecentre.ca/exhibition/nadia-myre-acts-that-fade-away/>**  
