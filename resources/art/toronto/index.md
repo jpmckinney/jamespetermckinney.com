@@ -30,8 +30,8 @@ _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent:
 
 _May 1-May 31 <https://scotiabankcontactphoto.com/2018/featured-exhibition/gardiner-museum-ingenuity>_  
 _May 1-May 31 <https://scotiabankcontactphoto.com/2018/featured-exhibition/bau-xi-gallery-the-empire-the-city>_  
-_**May 2-May 26 <http://artmuseum.utoronto.ca/exhibition/weight-of-light/>_  
-  _**May 16-Jul 21 <http://artmuseum.utoronto.ca/exhibition/robert-fones-signs-forms-narratives/>_  
+_**May 2-May 26 <http://artmuseum.utoronto.ca/exhibition/weight-of-light/>**_  
+  _**May 16-Jul 21 <http://artmuseum.utoronto.ca/exhibition/robert-fones-signs-forms-narratives/>**_  
 _May 3-Jun 16 <https://scotiabankcontactphoto.com/2018/featured-exhibition/daniels-spectrum-dear-ayeeyo>_  
 _May 8-Jun 8 <https://scotiabankcontactphoto.com/2018/primary-exhibition/john-b-aird-gallery-waking-dream>_  
 _**May 16-Jul 21 <http://artmuseum.utoronto.ca/exhibition/robert-fones-signs-forms-narratives/>**_  
@@ -45,11 +45,7 @@ _**May 30-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/c
 
 ### Downtown South
 
-<u>-Apr 28</u> <http://www.trinitysquarevideo.com/exhibition-corrections/>  
-  -May 11 <http://www.vtape.org/event/steve-reinke-rib-gets-in-the-way>  
-  -May 19 <http://tangledarts.org/gallery/space-shapes-place/my-head-lay-on-a-trusty-word/>  
--Jun 16 <https://scotiabankcontactphoto.com/2018/primary-exhibition/contact-gallery-arcades>  
--Jun 17 <http://www.harbourfrontcentre.com/visualarts/2018/like-water-a-window/> <http://www.harbourfrontcentre.com/visualarts/2018/luke-painter-the-teasers-and-the-tormentors/> <http://www.harbourfrontcentre.com/visualarts/2018/daniel-alexander-when-war-is-over/>  
+-May 11 <http://www.vtape.org/event/steve-reinke-rib-gets-in-the-way>  
 
 _Apr 17-May 31 <https://scotiabankcontactphoto.com/2018/open-exhibition/first-canadian-place-gallery-barbara-cole>_  
   _May 7-May 19 <https://scotiabankcontactphoto.com/2018/open-exhibition/first-canadian-place-main-lobby-npac-national-pictures-of-the-year-awards>_  
@@ -126,7 +122,6 @@ _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_
 
 ### Dupont St & The Junction
 
-<u>-Apr 28</u> <https://www.christiecontemporary.com/ostoff-images-2018>  
 -May 5 <http://angellgallery.com/exhibition/basement-suite-the-thinner-the-air> <http://angellgallery.com/exhibition/lattices>  
 -May 12 <https://coopercolegallery.com/exhibition/2018-terribly-vulnerable-and-terribly-hard-ashton-cooper/>  
 -May 12 <http://erinstumpprojects.com/current-exhibitions/walter-scott-bad-paleontology>  
