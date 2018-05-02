@@ -23,7 +23,7 @@ published: true
 ### Spring/Summer
 
 * Apr-Oct **<http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
-* Apr-Dec <http://www.torontoartcrawl.com/> art Apr 8, May 12, Jun 9, Jul 6, Oct 5, Dec 9
+* Apr-Dec <http://www.torontoartcrawl.com/> art Apr 8, Jun 9, Jul 6, Oct 5, Dec 9
 * May-Sep <http://electricisland.to/> music
 * May-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
 * Jun-Aug <http://www.openrooffestival.com/> film/music
@@ -41,19 +41,20 @@ published: true
 
 ### May
 
+* **<http://scotiabankcontactphoto.com/> photography Apr 27-**
 * **<https://www.facebook.com/doorsopenTO> architecture 26-27**
 * **<http://www.torontocomics.com/> comics 12-13**
-* <http://www.munkdebates.com/> talk 18
-* <https://tjff.com/> film 3-13
 * <http://censured.info/> film 27-28 biennial (odd)
 * <http://www.insideout.ca/initiatives/toronto> film 24-Jun 3
-* <http://subtletechnologies.com/festival/> art, tech, science 10-Jun 25?
+* <https://tjff.com/> film 3-13
 * <http://www.nativeearth.ca/> theatre 14-20
 * <http://www.nextmusicfromtokyo.com/> music 18-23
 * <https://www.rcmusic.com/performance/21c-music-festival> music 23-27
 * <https://cmw.net/music/> music 7-13
+* <http://www.munkdebates.com/> talk 18
 * <http://www.harbourfrontcentre.com/junior/> youth 19-25
 * _<http://www.ocadu.ca/gradex.htm> art (grad) 3-6_
+* ✖ <http://subtletechnologies.com/festival/> art 10-Jun 25 (2017)
 
 ### Jun
 
@@ -72,7 +73,7 @@ published: true
 * <http://buttertartfestival.ca/> food 9
 * <http://tasteoftoronto.com/> food 23-24?
 * <https://www.facebook.com/tasteofasiastreetfestival/> food 25-26
-* <http://www.bestival.ca/> <s>music 11-12</s> (2016)
+* ✖ <http://www.bestival.ca/> music 11-12 (2016)
 
 ### Jul
 
@@ -90,8 +91,8 @@ published: true
 * <http://beachesjazz.com/> music 6-29
 * <http://www.torontosummermusic.com/> music 12-Aug 4
 * <http://unitycharity.com/unityfest/> music 13-15?
-* <http://torontoartblast.com/> <s>art 9, 16-17, 23-24, 30-31</s> (2017)
-* <https://torontoanarchistbookfair.wordpress.com> <s>talk 23-24</s> (2016)
+* ✖ <http://torontoartblast.com/> art 9, 16-17, 23-24, 30-31 (2017)
+* ✖ <https://torontoanarchistbookfair.wordpress.com> talk 23-24 (2016)
 
 ### Aug
 
@@ -111,9 +112,9 @@ published: true
 * **<http://www.nbto.com/> art 29**
 * **<http://queenwestartcrawl.com/> art 22-23**
 * <http://torontoqueerfilmfest.com> film ?
-* <http://www.infuture.ca/> <s>art 15-25</s> (2016)
-* <http://www.endlesscity.org/forms/events> <s>art 28-30</s> (2016)
-* <http://torontourbanrootsfest.com/> <s>music 16-18</s> (2016)
+* ✖ <http://www.infuture.ca/> art 15-25 (2016)
+* ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)
+* ✖ <http://torontourbanrootsfest.com/> music 16-18 (2016)
 
 ### Oct
 
@@ -136,7 +137,7 @@ published: true
 * <http://eutorontofilmfest.ca/> film 9-23?
 * <https://syff.ca/> film 10-12?
 * <http://www.unsound.pl/> music 3
-* <http://www.rendezvouswithmadness.ca/> <s>film 3-11</s> (2017)
+* ✖ <http://www.rendezvouswithmadness.ca/> film 3-11 (2017)
 
 ### Dec
 
@@ -151,8 +152,8 @@ published: true
 * <http://todesignoffsite.com/> design 15-21
 * <http://naisa.ca/festivals/deep-wireless/> radio
 * <https://factoronto.org/> art 2019/2020
-* <http://www.durationanddialogue.com/> <s>performance 27-29</s> (2017)
-* <http://www.endlesscity.org/cu> <s>art/music 20-Feb 28</s> (2016)
+* ✖ <http://www.durationanddialogue.com/> performance 27-29 (2017)
+* ✖ <http://www.endlesscity.org/cu> art/music 20-Feb 28 (2016)
 
 ### Feb
 
@@ -177,17 +178,16 @@ published: true
 
 * **<https://twitter.com/WonkProm> meetup 20**
 * **<http://imagesfestival.com/> art 12-20**
-* **<http://scotiabankcontactphoto.com/> photography 27-**
 * **<https://www.hotdocs.ca/> film 26-May 6**
 * <http://riserproject.org> theatre 17-May 12
 * <http://fashionarttoronto.ca/> art/fashion 17-21
 * <http://www.gladstonehotel.com/art/growop2018/> art 18-22
-* <http://taafi.com/> animation 29?
 * <https://torontocoffeeandtea.com/> coffee/eat 14-15
 * _<http://meta2018.ca> art (grad) 5-7_
 * _<http://www.sheridanillustration.com/> art (grad) 26-27_
-* _<http://www.senecacollege.ca/create/news/articles/artsfestival-2017> art (grad)_
+* _<http://www.senecacollege.ca/create/news/articles/artsfestival-2018> art (grad)_
 * _<http://www.maxex.ca/> photography (grad) 27-May 6_
 * _<http://ysdn2018.com/> design (grad) 11-13_
 * _<http://www.massexodus.ca/> fashion (grad) 6_
-* <http://www.harbourfrontcentre.com/worldstage/performances/> <s>performance 4-22</s> (2017)
+* ✖ <http://www.harbourfrontcentre.com/worldstage/performances/> performance 4-22 (2017)
+* ✖ <http://taafi.com/> animation 22-25 (2016)
