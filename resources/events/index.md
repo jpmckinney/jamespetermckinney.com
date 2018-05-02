@@ -58,17 +58,18 @@ published: true
 * <http://www.lookingglassadventures.com>
 * <https://www.mysteriousminds.ca>
 * <http://www.roundaboutcanada.com >
-* <https://trapped.ca (recommended)>
-* <http://www.secretcityadventures.com/casaloma/ (recommended)>
+* <https://trapped.ca> (recommended)
+* <http://www.secretcityadventures.com/casaloma/> (recommended)
 * <http://www.urbancapers.com/public/murder-at-the-royal-ontario-museum/>
 
 ### Others
 
 * <http://national.ballet.ca/> ballet
 * <http://www.ago.net/art-and-cinema> film
-* <https://www.tso.ca/> music
+* <https://www.tso.ca> music
 * <http://www.soundscapesmusic.com/tickets/> music
 * <https://www.sofarsounds.com/toronto> music
+* <https://www.groupmuse.com/calendar?q=Toronto> music
 * <https://artery.is/exploreShowcases>
 * <https://www.eventbrite.ca/o/craft-beer-curling-series-7797810235>
 * <http://artbattle.com/calendar/list/> art
@@ -80,6 +81,6 @@ published: true
 
 * <http://www.onthegrid.city/toronto/>
 * <https://yohomo.ca>
-* <https://nowtoronto.com/>
+* <https://nowtoronto.com>
 * <http://www.blogto.com/events/>
 * <http://www.blogto.com/radar/>
