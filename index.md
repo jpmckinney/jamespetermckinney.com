@@ -15,6 +15,8 @@ layout: default
 * [<span class="glyphicon glyphicon-download"></span> The feeds I subscribe to (OPML)](feeds.xml) (<span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> 2018-04-18)
 * [<span class="glyphicon glyphicon-download"></span> The podcasts I listen to (OPML)](podcasts.xml) (<span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> 2018-04-16)
 
+[Other things I've done](projects/)
+
 {% comment %}
 The lists I subscribe to:
 
@@ -42,11 +44,3 @@ Most recent post: [8 more Canadian podcasts to subscribe to](https://medium.com/
 {% endcapture %}
 
 {% include two-column.html one=one two=two %}
-
-## Active projects
-
-* [Canadian Open Government Civil Society Network](http://www.opengovdialogue.ca/) for ongoing dialogue between the Government of Canada and civil society
-* [Popolo](http://www.popoloproject.com/) to establish international standard data formats for legislative information
-* [TechPo](http://www.techpo.org/) to promote links between technology, policy and society in Montreal
-
-[Other things I've done](projects/)

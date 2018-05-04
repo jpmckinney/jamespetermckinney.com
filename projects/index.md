@@ -88,6 +88,11 @@ published: true
 {% endcapture %}
 
 {% capture two %}
+## Organizing
+
+* [Canadian Open Government Civil Society Network](http://www.opengovdialogue.ca/)
+* [TechPo Montreal](http://www.techpo.org/)
+
 ## Databases
 
 * [Canadian open government data catalogs](https://github.com/jpmckinney/open_data_canada)
