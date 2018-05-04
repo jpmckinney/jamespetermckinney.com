@@ -88,6 +88,7 @@ _May 3-Jun 2 <https://scotiabankcontactphoto.com/2018/featured-exhibition/gladst
 _May 6-May 26 <https://scotiabankcontactphoto.com/2018/open-exhibition/twist-gallery-the-sublime-unbounded-and-limitless>_  
 _May 4-Jun 2 <https://scotiabankcontactphoto.com/2018/featured-exhibition/paul-petro-contemporary-art-a-brief-history-of-me> <https://scotiabankcontactphoto.com/2018/featured-exhibition/paul-petro-contemporary-art-seminarslectures>_  
 _May 10-Jun 3 <https://scotiabankcontactphoto.com/2018/featured-exhibition/bunker-2-contemporary-art-container-facades>_  
+_May 10-Jun 16 <http://susanhobbs.com/exhibits/1428-french-exit>_  
 _May 10-Jun 30 <https://scotiabankcontactphoto.com/2018/featured-exhibition/pari-nadimi-gallery-moly-and-kassandra>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
