@@ -26,6 +26,7 @@ published: true
 * Apr-Dec <http://www.torontoartcrawl.com/> art Apr 8, Jun 9, Jul 6, Oct 5, Dec 9
 * May-Sep <http://electricisland.to/> music
 * May-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
+* Jun-Aug <https://www.christiepitsff.com/> film
 * Jun-Aug <http://www.openrooffestival.com/> film/music
 * Jun-Sep <https://www.canadianstage.com/> Shakespeare in High Park theatre
 * Jun-Sep <http://torontobakersmarket.com/> food
@@ -179,6 +180,7 @@ published: true
 * **<https://twitter.com/WonkProm> meetup 20**
 * **<http://imagesfestival.com/> art 12-20**
 * **<https://www.hotdocs.ca/> film 26-May 6**
+* <http://www.mayworks.ca> art 25-May 5
 * <http://riserproject.org> theatre 17-May 12
 * <http://fashionarttoronto.ca/> art/fashion 17-21
 * <http://www.gladstonehotel.com/art/growop2018/> art 18-22
