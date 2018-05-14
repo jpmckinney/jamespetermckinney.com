@@ -1,3 +1,4 @@
+
 ---
 title: James McKinney - Festivals
 layout: default
@@ -52,28 +53,28 @@ published: true
 * <https://www.rcmusic.com/performance/21c-music-festival> music 23-27
 * <https://cmw.net/music/> music 7-13
 * <http://www.munkdebates.com/> talk 18
+* <https://www.thetastemakertour.com/> food 18-19
 * <http://www.nativeearth.ca/paprika-festival-2018/> young 14-20
 * <http://www.harbourfrontcentre.com/junior/> youth 19-25
 * _<http://www.ocadu.ca/gradex.htm> art (grad) 3-6_
+* <http://www.torontomarathon.com/> sport 6
 * ✖ <http://subtletechnologies.com/festival/> art 10-Jun 25 (2017)
 
 ### Jun
 
 * **<https://luminatofestival.com/> art/performance/music 6-24**
-* <https://www.torontoartbookfair.com/art-book-week> books 12-18?
-* <http://dancemakers.org/events/> dance 13-24?
 * <http://www.nuitrose.ca/> art/performance 16
-* <http://loveletterprojects.com/> art 20-25?
-* <http://www.thejunctionsummersolstice.com/> 24?
 * <http://www.pridetoronto.com/> <https://yohomo.ca/> 22-24
 * <https://www.femaleeyefilmfestival.com> film 26-Jul 1
 * <http://torontojazz.com/> music 22-Jul 1
 * <http://fieldtriplife.com/> music 2-3
 * <http://nxne.com/> music 8-17
 * <http://digitaldreamsfestival.ca/> music 23-24
-* <http://tasteoftoronto.com/> food 23-24?
 * <http://buttertartfestival.ca/> Midland food 9
 * <https://www.facebook.com/tasteofasiastreetfestival/> Markham food 25-26
+* ✖ <http://dancemakers.org/events/> dance 13-24 (2017)
+* ✖ <http://loveletterprojects.com/> art 20-25 (2017)
+* ✖ <http://www.thejunctionsummersolstice.com/> 24 (2017)
 * ✖ <http://www.bestival.ca/> music 11-12 (2016)
 
 ### Jul
@@ -83,36 +84,37 @@ published: true
 * **<https://www.facebook.com/pg/sftcanada/events/> Momo Crawl food 30?**
 * <https://mowatcentre.ca/category/policy-in-a-pub/> Patio meetup 13?
 * <https://fringetoronto.com/festivals/fringe> performance 4-15
+* <https://www.facebook.com/toabf> books 5-8
 * <http://bigonbloorfestival.com/> art/culture 21-28
-* <http://bubblerun.com/locations/> race 8?
 * <https://www.toronto.ca/summerlicious> food 7-23
 * <http://makerfestival.ca> 7-8
+* <https://www.facebook.com/ossingtonfestival/> sport 28
 * <http://nightitup.com/> Markham food 13-15
 * <http://www.alldayidream.com/> music 14
 * <http://beachesjazz.com/> music 6-29
 * <http://www.torontosummermusic.com/> music 12-Aug 4
 * <http://unitycharity.com/unityfest/> music 13-15?
 * ✖ <http://torontoartblast.com/> art 9, 16-17, 23-24, 30-31 (2017)
+* ✖ <http://bubblerun.com/locations/> sport 8 (2017)
 * ✖ <https://torontoanarchistbookfair.wordpress.com> talk 23-24 (2016)
 
 ### Aug
 
 * **<http://summerworks.ca/> performance 9-19**
 * **<http://zinedream.com/> comics 20?**
-* <http://toronto.figmentproject.org/> art 19?
+* <http://toronto.figmentproject.org/> art 18-19
 * <http://sailincinema.com/movies.aspx> film 18-20?
 * <http://veldmusicfestival.com/> music 4-5
 * <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 18-19
 * <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6?
 * <http://theex.com/> fair 17-Sep 3
-* <http://mainsquared.com/about-main-squared/> art 26-Sep 3?
+* ✖ <http://mainsquared.com/about-main-squared/> art 26-Sep 3 (2017)
 
 ### Sep
 
 * **<https://www.tiff.net/tiff/> film 6-16**
 * **<http://www.nbto.com/> art 29**
 * **<http://queenwestartcrawl.com/> art 22-23**
-* <http://torontoqueerfilmfest.com> film ?
 * ✖ <http://www.infuture.ca/> art 15-25 (2016)
 * ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)
 * ✖ <http://torontourbanrootsfest.com/> music 16-18 (2016)
@@ -131,10 +133,13 @@ published: true
 * <http://www.brafftv.com/> film ?
 * <http://ifoa.org/> books 18-28
 * <https://musicgallery.org/all-events/> X Avant music 13-16?
+* <http://www.cxto.ca/technical-guide/> sport 28
+* <http://www.torontowaterfrontmarathon.com/> sport 21
 
 ### Nov
 
 * <http://regentparkfilmfestival.com/> film 13-17
+* <http://torontoqueerfilmfest.com> film 1-4
 * <http://eutorontofilmfest.ca/> film 9-23?
 * <https://syff.ca/> film 10-12?
 * <http://www.unsound.pl/> music 3
