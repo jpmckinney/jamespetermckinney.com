@@ -17,6 +17,8 @@ published: true
 ### Theatres
 
 * <https://www.mirvish.com/shows>
+* <http://lowerossingtontheatre.com>
+* <https://www.canadianstage.com>
 * <http://www1.soulpepper.ca/performances>
 * <http://buddiesinbadtimes.com/events/>
 * <https://www.crowstheatre.com/whats-on>
@@ -26,32 +28,56 @@ published: true
 * <https://tickets.theatrecentre.org>
 * <http://www.coc.ca/PerformancesAndTickets.aspx>
 * <http://www.tocentre.com/whats-on/calendar>
-* <https://www.canadianstage.com>
+* <http://www.stlc.com>
+* <http://www.alunatheatre.ca>
+* <https://theassemblytheatre.com>
+* <https://www.alumnaetheatre.com>
 * <http://www.heritagetrust.on.ca/en/index.php/ewg/ewg-home/events-calendar>
 * <http://www.coalminetheatre.com>
-* <https://theassemblytheatre.com>
 * <http://thestorefronttheatre.com>
-* <http://www.alunatheatre.ca>
 * <http://redsandcastletheatre.com>
+* <https://www.youngpeoplestheatre.ca> young
 * <http://theatredirect.ca> young
 
 ### Companies
 
 * <http://outsidethemarch.ca>
+* <https://companytheatre.ca>
 * <http://www.nightwoodtheatre.net>
 * <http://www.theatrewhynot.org>
+* <http://studio180theatre.com>
+* <http://musicalstagecompany.com>
 * <http://moderntimesstage.com>
+* <https://howlandcompanytheatre.com>
 * <https://keepgoodtheatrecompany.com>
 * <http://fu-gen.org>
 * <https://www.necessaryangel.com>
 * <https://www.obsidiantheatre.com>
 * <http://www.theatrefront.com>
 * <http://www.corpus.ca>
-* <https://www.shakespearebashd.com>
 * <http://www.bcurrent.ca>
 * <http://www.nativeearth.ca>
 * <http://www.cahoots.ca>
+* <http://www.volcano.ca>
+* <http://theatregargantua.ca>
+* <http://theatresmithgilmour.com>
+* <https://www.leroystreettheatre.com>
+* <http://www.badhatstheatre.com>
+* <https://www.thetheatrecircuit.com>
+* <http://arcstage.com>
+* <http://www.commonbootstheatre.ca>
+* <http://animacytheatrecollective.com>
+* <https://www.triplebypassproductions.com>
+* <http://www.bygonetheatre.com>
+* <http://www.theatreinamorata.com>
+* <https://www.emergencetheatreandfilm.com>
+* <http://www.sevensiblingstheatre.ca>
+* <https://www.shakespearebashd.com>
+* <http://shakespeareintheruff.com>
+* <http://www.dauntlesscitytheatre.com>
+* <https://solarstage.on.ca> young
 * <http://roseneath.ca> young
+* <https://www.marqueetp.com> young
 
 ### Escape rooms
 

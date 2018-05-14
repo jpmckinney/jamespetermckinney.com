@@ -72,6 +72,7 @@ published: true
 * <http://digitaldreamsfestival.ca/> music 23-24
 * <http://buttertartfestival.ca/> Midland food 9
 * <https://www.facebook.com/tasteofasiastreetfestival/> Markham food 25-26
+* ✖ <https://www.safeword.ca/safewords> theatre 9-10 (2017)
 * ✖ <http://dancemakers.org/events/> dance 13-24 (2017)
 * ✖ <http://loveletterprojects.com/> art 20-25 (2017)
 * ✖ <http://www.thejunctionsummersolstice.com/> 24 (2017)
@@ -142,6 +143,7 @@ published: true
 * <http://torontoqueerfilmfest.com> film 1-4
 * <http://eutorontofilmfest.ca/> film 9-23?
 * <https://syff.ca/> film 10-12?
+* <https://www.alumnaetheatre.com/fireworks/> theatre 8-26?
 * <http://www.unsound.pl/> music 3
 * ✖ <http://www.rendezvouswithmadness.ca/> film 3-11 (2017)
 
@@ -179,6 +181,7 @@ published: true
 * <http://www.torontosketchfest.com/> 7-19
 * <http://www.torontostorytellingfestival.ca/> talk 2-4, 19-25
 * <https://ff.hrw.org/toronto> film 18-25
+* <https://www.alumnaetheatre.com/new-ideas-festival> theatre 7-25
 
 ### Apr
 
