@@ -21,6 +21,8 @@ _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent:
 
 ### Downtown North
 
+**-May 26 <http://artmuseum.utoronto.ca/exhibition/weight-of-light/>**  
+  **-Jul 21 <http://artmuseum.utoronto.ca/exhibition/robert-fones-signs-forms-narratives/>**  
 -May 31 <https://scotiabankcontactphoto.com/2018/featured-exhibition/gardiner-museum-ingenuity>  
   -Jun 3 <https://www.gardinermuseum.on.ca/event/yoko-ono-riverbed/>  
 -May 31 <https://scotiabankcontactphoto.com/2018/featured-exhibition/bau-xi-gallery-the-empire-the-city>  
@@ -32,9 +34,6 @@ _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent:
 -Jun 16 <https://scotiabankcontactphoto.com/2018/featured-exhibition/daniels-spectrum-dear-ayeeyo>  
 **-Aug 14 <http://artmuseum.utoronto.ca/exhibition/morning-star/> <http://canadianart.ca/reviews/morning-star-jackman-humanities-institute/>**  
 
-_**May 2-May 26 <http://artmuseum.utoronto.ca/exhibition/weight-of-light/>**_  
-  _**May 16-Jul 21 <http://artmuseum.utoronto.ca/exhibition/robert-fones-signs-forms-narratives/>**_  
-_**May 16-Jul 21 <http://artmuseum.utoronto.ca/exhibition/robert-fones-signs-forms-narratives/>**_  
 _**May 30-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/color-improvisations-2-an-international-exhibition>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
@@ -108,8 +107,8 @@ _Jun 8-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org
   -Jun 16 <https://scotiabankcontactphoto.com/2018/primary-exhibition/scrap-metal-mom>  
   -Jun 16 <https://scotiabankcontactphoto.com/2018/featured-exhibition/daniel-faria-gallery-ageless-ambiguity>  
 -Jun 9 <http://arsenaltoronto.com/details/richard_mosse/>  
+-Jun 10 <https://scotiabankcontactphoto.com/2018/featured-exhibition/black-cat-artspace-collecting-moments-the-photographs-of-dr-john-e-ackerman>  
 
-_May 17-Jun 10 <https://scotiabankcontactphoto.com/2018/featured-exhibition/black-cat-artspace-collecting-moments-the-photographs-of-dr-john-e-ackerman>_  
 _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
