@@ -82,7 +82,7 @@ published: true
 
 * **<http://vectorfestival.org> art 12-16**
 * **<http://torontooutdoorart.org/> art 6-8**
-* **<https://www.facebook.com/pg/sftcanada/events/> Momo Crawl food 30?**
+* **<https://www.facebook.com/pg/sftcanada/events/> Momo Crawl food 29**
 * <https://mowatcentre.ca/category/policy-in-a-pub/> Patio meetup 13?
 * <https://fringetoronto.com/festivals/fringe> performance 4-15
 * <https://www.facebook.com/toabf> books 5-8

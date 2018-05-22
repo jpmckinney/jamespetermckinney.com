@@ -16,12 +16,13 @@ published: true
 
 ### Shows
 
-_Sep 13-Oct 7 <http://www.drsilverto.ca>_  
+_**Sep 13-Oct 7 <http://www.drsilverto.ca>**_  
+_**Oct 16-Nov 4 <http://www.nightwoodtheatre.net/index.php/whats_on/now_you_see_her>**_  
 _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=grand-finale> Hofesh Shechter_  
 
 ### Downtown North
 
-**-May 26 <http://artmuseum.utoronto.ca/exhibition/weight-of-light/>**  
+**<u>-May 26</u> <http://artmuseum.utoronto.ca/exhibition/weight-of-light/>**  
   **-Jul 21 <http://artmuseum.utoronto.ca/exhibition/robert-fones-signs-forms-narratives/>**  
 -May 31 <https://scotiabankcontactphoto.com/2018/featured-exhibition/gardiner-museum-ingenuity>  
   -Jun 3 <https://www.gardinermuseum.on.ca/event/yoko-ono-riverbed/>  
@@ -44,8 +45,7 @@ _**May 30-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/c
 
 ### Downtown South
 
-<u>-May 19</u> <https://scotiabankcontactphoto.com/2018/open-exhibition/first-canadian-place-main-lobby-npac-national-pictures-of-the-year-awards>  
-  **-May 31 <https://scotiabankcontactphoto.com/2018/open-exhibition/first-canadian-place-gallery-barbara-cole>**  
+**-May 31 <https://scotiabankcontactphoto.com/2018/open-exhibition/first-canadian-place-gallery-barbara-cole>**  
 -May 31 <https://scotiabankcontactphoto.com/2018/open-exhibition/urban-gallery-women-at-work>  
 **-Jun 2 <https://gallery44.org/exhibitions/step-shadow-warmth-sun> <https://gallery44.org/exhibitions/proving-ground-nevada-toronto>**  
   -Jun 2 <https://scotiabankcontactphoto.com/2018/open-exhibition/abbozzo-gallery-refusereuse> <https://scotiabankcontactphoto.com/2018/open-exhibition/abbozzo-gallery-outside-of-time>  
@@ -70,11 +70,10 @@ _Jun 8-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org
 
 ### Queen St
 
-<u>-May 20</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/gallery-50-do-as-you-wish>  
--May 26 <https://scotiabankcontactphoto.com/2018/featured-exhibition/stephen-bulger-gallery-queering-family-photography> <https://scotiabankcontactphoto.com/2018/featured-exhibition/stephen-bulger-gallery-friends-and-loverscoming-out-in-montreal-in-the-70s>  
--May 26 <https://scotiabankcontactphoto.com/2018/open-exhibition/twist-gallery-the-sublime-unbounded-and-limitless>  
--May 27 <https://scotiabankcontactphoto.com/2018/open-exhibition/david-kaye-gallery-urban-angels-3> <https://scotiabankcontactphoto.com/2018/open-exhibition/david-kaye-gallery-desire-for-arcadia-field-notes-from-an-art-practice>  
--May 27 <https://scotiabankcontactphoto.com/2018/featured-exhibition/ryerson-artspace-full-of-holes>  
+<u>-May 26</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/stephen-bulger-gallery-queering-family-photography> <https://scotiabankcontactphoto.com/2018/featured-exhibition/stephen-bulger-gallery-friends-and-loverscoming-out-in-montreal-in-the-70s>  
+<u>-May 26</u> <https://scotiabankcontactphoto.com/2018/open-exhibition/twist-gallery-the-sublime-unbounded-and-limitless>  
+<u>-May 27</u> <https://scotiabankcontactphoto.com/2018/open-exhibition/david-kaye-gallery-urban-angels-3> <https://scotiabankcontactphoto.com/2018/open-exhibition/david-kaye-gallery-desire-for-arcadia-field-notes-from-an-art-practice>  
+<u>-May 27</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/ryerson-artspace-full-of-holes>  
   -Jun 2 <https://scotiabankcontactphoto.com/2018/featured-exhibition/gladstone-hotel-2nd-floor-limited-edition>  
   -Jun 9 <https://scotiabankcontactphoto.com/2018/featured-exhibition/gladstone-hotel-3rd-floor-into-the-fire>  
 -May 31 <https://scotiabankcontactphoto.com/2018/featured-exhibition/only-one-gallery-the-uncanny-valley-portraits>  
@@ -84,6 +83,8 @@ _Jun 8-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org
 -Jun 7 <https://scotiabankcontactphoto.com/2018/primary-exhibition/band-gallery-cutting-a-figure-black-style-through-the-lens-of-charles-teenie-harris>  
 -Jun 16 <http://susanhobbs.com/exhibits/1428-french-exit>  
 -Jun 30 <https://www.parinadimigallery.com/molyandkassandra>  
+
+_Jun 8-Jun 10 <http://www.gladstonehotel.com/spaces/plusartfestival2018>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -99,14 +100,9 @@ _Jun 8-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org
 
 ### Bloordale & Junction Triangle
 
--May 26 <http://www.franzkaka.com/lorna-bauer-the-hand-of-mee.html>  
--May 26 <http://cuttsgallery.com/exhibitions/sonnet-paintings/#/images>  
+<u>-May 26</u> <http://cuttsgallery.com/exhibitions/sonnet-paintings/#/images>  
   -Jun 2 <http://www.olgakorpergallery.com/exhibitions/view?id=103>  
--May 27 <https://scotiabankcontactphoto.com/2018/open-exhibition/analogue-gallery-shed-sound-image-2018>  
-  **-Jun 9 <https://scotiabankcontactphoto.com/2018/primary-exhibition/gallery-tpw-a-body-knots>**  
-  -Jun 16 <https://scotiabankcontactphoto.com/2018/primary-exhibition/scrap-metal-mom>  
-  -Jun 16 <https://scotiabankcontactphoto.com/2018/featured-exhibition/daniel-faria-gallery-ageless-ambiguity>  
--Jun 9 <http://arsenaltoronto.com/details/richard_mosse/>  
+<u>-May 27</u> <https://scotiabankcontactphoto.com/2018/open-exhibition/analogue-gallery-shed-sound-image-2018>  
 -Jun 10 <https://scotiabankcontactphoto.com/2018/featured-exhibition/black-cat-artspace-collecting-moments-the-photographs-of-dr-john-e-ackerman>  
 
 _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_  
@@ -115,13 +111,10 @@ _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_
 
 ### Dupont St & The Junction
 
-**<u>-May 19</u> <http://erinstumpprojects.com/current-exhibitions/walter-scott-bad-paleontology>**  
--May 27 <https://scotiabankcontactphoto.com/2018/open-exhibition/articulations-earl-selkirk-gallery-the-trees-amongst-us>  
+<u>-May 27</u> <https://scotiabankcontactphoto.com/2018/open-exhibition/articulations-earl-selkirk-gallery-the-trees-amongst-us>  
 -Jun 2 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
 -Jun 2 <https://www.christiecontemporary.com/swica-images>  
 -Jun 9 <https://alisonmilne.com/gallery/exhibitions/tina-berning-michelangelo-di-battista>  
--Jun 16 <http://angellgallery.com/exhibition/let-there-be-light> <http://angellgallery.com/exhibition/special-project-eden-archive>  
 -Jun 16 <http://becontemporary.com/toronto.php> Tim Zuck  
+-Jun 16 <http://erinstumpprojects.com/upcoming-exhibitions/-katie-lyle>  
 **-Jun 24 <https://scotiabankcontactphoto.com/2018/featured-exhibition/matter-gallery-flatland>**  
-
-_May 25-Jun 16 <http://erinstumpprojects.com/upcoming-exhibitions/-katie-lyle>_  
