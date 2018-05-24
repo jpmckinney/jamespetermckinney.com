@@ -46,8 +46,9 @@ published: true
 * **<http://scotiabankcontactphoto.com/> photography Apr 27-**
 * **<https://www.facebook.com/doorsopenTO> architecture 26-27**
 * **<http://www.torontocomics.com/> comics 12-13**
+* <http://www.ocadu.ca/gradex.htm> art (grad) 3-6
 * <http://censured.info/> film 27-28 biennial (odd)
-* <http://www.insideout.ca/initiatives/toronto> film 24-Jun 3
+* <https://www.insideout.ca/torontofestival/> film 24-Jun 3
 * <https://tjff.com/> film 3-13
 * <http://www.nextmusicfromtokyo.com/> music 18-23
 * <https://www.rcmusic.com/performance/21c-music-festival> music 23-27
@@ -56,23 +57,23 @@ published: true
 * <https://www.thetastemakertour.com/> food 18-19
 * <http://www.nativeearth.ca/paprika-festival-2018/> young 14-20
 * <http://www.harbourfrontcentre.com/junior/> youth 19-25
-* _<http://www.ocadu.ca/gradex.htm> art (grad) 3-6_
 * <http://www.torontomarathon.com/> sport 6
 * ✖ <http://subtletechnologies.com/festival/> art 10-Jun 25 (2017)
 
 ### Jun
 
 * **<https://luminatofestival.com/> art/performance/music 6-24**
+* <https://www.safeword.ca/safewords> theatre 1-2
 * <http://www.nuitrose.ca/> art/performance 16
 * <http://www.pridetoronto.com/> <https://yohomo.ca/> 22-24
 * <https://www.femaleeyefilmfestival.com> film 26-Jul 1
+* <http://gorillatickets.ca/event/bubble-tea-festival/> food 23
+* <http://buttertartfestival.ca/> Midland food 9
+* <https://www.facebook.com/tasteofasiastreetfestival/> Markham food 25-26
 * <http://torontojazz.com/> music 22-Jul 1
 * <http://fieldtriplife.com/> music 2-3
 * <http://nxne.com/> music 8-17
 * <http://digitaldreamsfestival.ca/> music 23-24
-* <http://buttertartfestival.ca/> Midland food 9
-* <https://www.facebook.com/tasteofasiastreetfestival/> Markham food 25-26
-* ✖ <https://www.safeword.ca/safewords> theatre 9-10 (2017)
 * ✖ <http://dancemakers.org/events/> dance 13-24 (2017)
 * ✖ <http://loveletterprojects.com/> art 20-25 (2017)
 * ✖ <http://www.thejunctionsummersolstice.com/> 24 (2017)

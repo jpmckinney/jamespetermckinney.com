@@ -22,11 +22,9 @@ _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent:
 
 ### Downtown North
 
-**<u>-May 26</u> <http://artmuseum.utoronto.ca/exhibition/weight-of-light/>**  
-  **-Jul 21 <http://artmuseum.utoronto.ca/exhibition/robert-fones-signs-forms-narratives/>**  
--May 31 <https://scotiabankcontactphoto.com/2018/featured-exhibition/gardiner-museum-ingenuity>  
+<u>-May 31</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/gardiner-museum-ingenuity>  
   -Jun 3 <https://www.gardinermuseum.on.ca/event/yoko-ono-riverbed/>  
--May 31 <https://scotiabankcontactphoto.com/2018/featured-exhibition/bau-xi-gallery-the-empire-the-city>  
+<u>-May 31</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/bau-xi-gallery-the-empire-the-city>  
 -Jun 8 <https://scotiabankcontactphoto.com/2018/primary-exhibition/john-b-aird-gallery-waking-dream>  
 **-Jun 10 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/jane-kidd-curious>**  
 -Jun 10 <https://ryersonimagecentre.ca/exhibition/ryan-walker-voices-in-the-wilderness/>  
@@ -45,15 +43,14 @@ _**May 30-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/c
 
 ### Downtown South
 
-**-May 31 <https://scotiabankcontactphoto.com/2018/open-exhibition/first-canadian-place-gallery-barbara-cole>**  
--May 31 <https://scotiabankcontactphoto.com/2018/open-exhibition/urban-gallery-women-at-work>  
+**<u>-May 31</u> <https://scotiabankcontactphoto.com/2018/open-exhibition/first-canadian-place-gallery-barbara-cole>**  
+<u>-May 31</u> <https://scotiabankcontactphoto.com/2018/open-exhibition/urban-gallery-women-at-work>  
 **-Jun 2 <https://gallery44.org/exhibitions/step-shadow-warmth-sun> <https://gallery44.org/exhibitions/proving-ground-nevada-toronto>**  
   -Jun 2 <https://scotiabankcontactphoto.com/2018/open-exhibition/abbozzo-gallery-refusereuse> <https://scotiabankcontactphoto.com/2018/open-exhibition/abbozzo-gallery-outside-of-time>  
   -Jun 9 <http://www.trinitysquarevideo.com/exhibition-bad-stars/>  
   -Jun 9 <https://scotiabankcontactphoto.com/2018/featured-exhibition/open-studio-the-shape-of-the-middle>  
   -Jun 16 <https://scotiabankcontactphoto.com/2018/primary-exhibition/prefix-institute-of-contemporary-art-surveillance-states>  
   -Jun 30 <https://scotiabankcontactphoto.com/2018/primary-exhibition/a-space-gallery-incidental-narratives> <https://scotiabankcontactphoto.com/2018/open-exhibition/a-space-gallery-scrap-pieces>  
-**-Jun 3 <https://scotiabankcontactphoto.com/map/east-harbour-unilever-soap-factory>**  
 -Jun 2 <https://scotiabankcontactphoto.com/2018/featured-exhibition/nicholas-metivier-gallery-i-am-you>  
 -Jun 3 <https://scotiabankcontactphoto.com/2018/featured-exhibition/pierre-francois-ouellette-art-contemporain-centre-space-plant-cosmos>  
 -Jun 3 <https://scotiabankcontactphoto.com/2018/open-exhibition/proof-studio-gallery-cameras-looking-forwards-and-backwards>  
@@ -76,7 +73,7 @@ _Jun 8-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org
 <u>-May 27</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/ryerson-artspace-full-of-holes>  
   -Jun 2 <https://scotiabankcontactphoto.com/2018/featured-exhibition/gladstone-hotel-2nd-floor-limited-edition>  
   -Jun 9 <https://scotiabankcontactphoto.com/2018/featured-exhibition/gladstone-hotel-3rd-floor-into-the-fire>  
--May 31 <https://scotiabankcontactphoto.com/2018/featured-exhibition/only-one-gallery-the-uncanny-valley-portraits>  
+<u>-May 31</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/only-one-gallery-the-uncanny-valley-portraits>  
 -Jun 2 <http://birchcontemporary.com/exhibition/new-works-6> <http://birchcontemporary.com/exhibition/mother-s-foundry>  
 -Jun 2 <https://scotiabankcontactphoto.com/2018/featured-exhibition/paul-petro-contemporary-art-a-brief-history-of-me> <https://scotiabankcontactphoto.com/2018/featured-exhibition/paul-petro-contemporary-art-seminarslectures>  
 -Jun 3 <https://scotiabankcontactphoto.com/2018/featured-exhibition/bunker-2-contemporary-art-container-facades>  
@@ -100,18 +97,12 @@ _Jun 8-Jun 10 <http://www.gladstonehotel.com/spaces/plusartfestival2018>_
 
 ### Bloordale & Junction Triangle
 
-<u>-May 26</u> <http://cuttsgallery.com/exhibitions/sonnet-paintings/#/images>  
-  -Jun 2 <http://www.olgakorpergallery.com/exhibitions/view?id=103>  
-<u>-May 27</u> <https://scotiabankcontactphoto.com/2018/open-exhibition/analogue-gallery-shed-sound-image-2018>  
--Jun 10 <https://scotiabankcontactphoto.com/2018/featured-exhibition/black-cat-artspace-collecting-moments-the-photographs-of-dr-john-e-ackerman>  
-
 _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
-<u>-May 27</u> <https://scotiabankcontactphoto.com/2018/open-exhibition/articulations-earl-selkirk-gallery-the-trees-amongst-us>  
 -Jun 2 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
 -Jun 2 <https://www.christiecontemporary.com/swica-images>  
 -Jun 9 <https://alisonmilne.com/gallery/exhibitions/tina-berning-michelangelo-di-battista>  
