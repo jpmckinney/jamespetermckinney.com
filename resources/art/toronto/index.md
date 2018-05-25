@@ -82,6 +82,8 @@ _Jun 8-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org
 -Jun 30 <https://www.parinadimigallery.com/molyandkassandra>  
 
 _Jun 8-Jun 10 <http://www.gladstonehotel.com/spaces/plusartfestival2018>_  
+_Jun 6-Jul 14 <http://birchcontemporary.com/exhibition/burnt-orange-night-process-colour-landscapes>_  
+_Jul 19-Aug 25 <http://birchcontemporary.com/exhibition/group-show-world-riddles>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
