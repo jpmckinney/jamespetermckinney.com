@@ -12,7 +12,7 @@ published: true
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon. Exhibitions are removed once visited. <span class="glyphicon glyphicon-time" aria-hidden="true"></span> is open late. <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> is open Sunday.
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Museums: Bata Shoe U8, DX, Gardiner F9, ROM F8
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Museums: Bata Shoe U8, DX, ROM F8
 
 ### Shows
 
@@ -31,15 +31,16 @@ _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent:
   **-Aug 5 <https://ryersonimagecentre.ca/exhibition/scotiabank-photography-award-shelley-niro/> <https://ryersonimagecentre.ca/exhibition/nadia-myre-acts-that-fade-away/>**  
   -Aug 5 <https://ryersonimagecentre.ca/exhibition/newlandia-debaabaminaagwad/>  
 -Jun 16 <https://scotiabankcontactphoto.com/2018/featured-exhibition/daniels-spectrum-dear-ayeeyo>  
+**-Jun 29 <https://scotiabankcontactphoto.com/2018/public-installation/aga-khan-park-reflections-of-hope>**  
 **-Aug 14 <http://artmuseum.utoronto.ca/exhibition/morning-star/> <http://canadianart.ca/reviews/morning-star-jackman-humanities-institute/>**  
 
 _**May 30-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/color-improvisations-2-an-international-exhibition>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> AGO W9F9, Aga Khan W8, Ryerson W8, Art Museum W8, Textile W8, Hashtag 10 / Daniels Spectrum 9, Mississauga U8, Spence 8
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> AGO W9F9, Aga Khan W8, Ryerson W8, Art Museum W8, Gardiner F9, Textile W8, Hashtag 10 / Daniels Spectrum 9, Mississauga U8, Spence 8
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> AGO, Aga Khan, Ryerson, Textile, Hashtag, Bau-Xi / Daniels Spectrum, Mississauga, OFFSITE, Parts, Project, Spence
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> AGO, Aga Khan, Ryerson, Gardiner, Textile, Hashtag, Bau-Xi / Daniels Spectrum, Mississauga, OFFSITE, Parts, Project, Spence
 
 ### Downtown South
 
@@ -67,17 +68,8 @@ _Jun 8-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org
 
 ### Queen St
 
-<u>-May 26</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/stephen-bulger-gallery-queering-family-photography> <https://scotiabankcontactphoto.com/2018/featured-exhibition/stephen-bulger-gallery-friends-and-loverscoming-out-in-montreal-in-the-70s>  
-<u>-May 26</u> <https://scotiabankcontactphoto.com/2018/open-exhibition/twist-gallery-the-sublime-unbounded-and-limitless>  
-<u>-May 27</u> <https://scotiabankcontactphoto.com/2018/open-exhibition/david-kaye-gallery-urban-angels-3> <https://scotiabankcontactphoto.com/2018/open-exhibition/david-kaye-gallery-desire-for-arcadia-field-notes-from-an-art-practice>  
-<u>-May 27</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/ryerson-artspace-full-of-holes>  
-  -Jun 2 <https://scotiabankcontactphoto.com/2018/featured-exhibition/gladstone-hotel-2nd-floor-limited-edition>  
-  -Jun 9 <https://scotiabankcontactphoto.com/2018/featured-exhibition/gladstone-hotel-3rd-floor-into-the-fire>  
 <u>-May 31</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/only-one-gallery-the-uncanny-valley-portraits>  
 -Jun 2 <http://birchcontemporary.com/exhibition/new-works-6> <http://birchcontemporary.com/exhibition/mother-s-foundry>  
--Jun 2 <https://scotiabankcontactphoto.com/2018/featured-exhibition/paul-petro-contemporary-art-a-brief-history-of-me> <https://scotiabankcontactphoto.com/2018/featured-exhibition/paul-petro-contemporary-art-seminarslectures>  
--Jun 3 <https://scotiabankcontactphoto.com/2018/featured-exhibition/bunker-2-contemporary-art-container-facades>  
--Jun 7 <https://scotiabankcontactphoto.com/2018/primary-exhibition/band-gallery-cutting-a-figure-black-style-through-the-lens-of-charles-teenie-harris>  
 -Jun 16 <http://susanhobbs.com/exhibits/1428-french-exit>  
 -Jun 30 <https://www.parinadimigallery.com/molyandkassandra>  
 
@@ -107,6 +99,7 @@ _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_
 
 -Jun 2 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
 -Jun 2 <https://www.christiecontemporary.com/swica-images>  
+-Jun 3 <https://scotiabankcontactphoto.com/2018/featured-exhibition/bunker-2-contemporary-art-container-facades>  
 -Jun 9 <https://alisonmilne.com/gallery/exhibitions/tina-berning-michelangelo-di-battista>  
 -Jun 16 <http://becontemporary.com/toronto.php> Tim Zuck  
 -Jun 16 <http://erinstumpprojects.com/upcoming-exhibitions/-katie-lyle>  

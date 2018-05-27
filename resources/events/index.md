@@ -102,6 +102,7 @@ published: true
 * <http://www.blogto.com/bars/candyland-toronto> cabaret
 * <http://www.blogto.com/arts/2016/02/the_top_10_live_storytelling_events_in_toronto> talk
 * <http://www.cinemapolitica.org/toronto> film
+* <https://fayandfluffy.com> talk
 
 ### Listings
 
