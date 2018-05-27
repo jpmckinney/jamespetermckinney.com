@@ -1,4 +1,3 @@
-
 ---
 title: James McKinney - Festivals
 layout: default
@@ -74,6 +73,7 @@ published: true
 * <http://fieldtriplife.com/> music 2-3
 * <http://nxne.com/> music 8-17
 * <http://digitaldreamsfestival.ca/> music 23-24
+* <http://towaterfrontfest.com> fest 22-24
 * ✖ <http://dancemakers.org/events/> dance 13-24 (2017)
 * ✖ <http://loveletterprojects.com/> art 20-25 (2017)
 * ✖ <http://www.thejunctionsummersolstice.com/> 24 (2017)
