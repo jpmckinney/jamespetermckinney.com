@@ -14,6 +14,8 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Downtown
 
+**-Sep 9 <https://macm.org/en/exhibitions/rafael-lozano-hemmer-unstable-presence/>**  
+
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> MACM WUF9, MBAM W9, McCord W9, Centre for Architecture W9
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MACM, MBAM, McCord, Centre for Architecture
@@ -21,9 +23,7 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 ### Old Port
 
 **-Aug 12 <https://phi-centre.com/en/event/particles-of-existence/>**  
-  -May 13 <https://phi-centre.com/en/event/sink-or-swim-en/>  
-
-_**Apr 20-Sep 9 <https://dhc-art.org/bharti-kher-exhibition/>**_  
+**-Sep 9 <https://dhc-art.org/bharti-kher-exhibition/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Centre Phi FSa8, Fonderie Darling U10
 
@@ -39,10 +39,7 @@ _**Apr 20-Sep 9 <https://dhc-art.org/bharti-kher-exhibition/>**_
 
 ### Mile End
 
--Jun 2 <http://en.dazibao.art/exhibition/> Entends-tu ce que je vois?  
-
-_Apr 5-May 12 <http://www.ateliercirculaire.org/new-events/2018/4/5/duo-pellerin-mairhofer>_  
-_May 24-Jun 29 <http://www.ateliercirculaire.org/new-events/2018/5/24/salon-des-membres>_  
+-Jun 29 <http://www.ateliercirculaire.org/new-events/2018/5/24/salon-des-membres>  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Articule
 

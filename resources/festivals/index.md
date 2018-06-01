@@ -46,14 +46,15 @@ published: true
 * **<https://www.facebook.com/doorsopenTO> architecture 26-27**
 * **<http://www.torontocomics.com/> comics 12-13**
 * <http://www.ocadu.ca/gradex.htm> art (grad) 3-6
-* <http://censured.info/> film 27-28 biennial (odd)
-* <https://www.insideout.ca/torontofestival/> film 24-Jun 3
-* <https://tjff.com/> film 3-13
+* <http://ifwtoronto.com/> fashion 31-Jun 3
 * <http://www.nextmusicfromtokyo.com/> music 18-23
 * <https://www.rcmusic.com/performance/21c-music-festival> music 23-27
 * <https://cmw.net/music/> music 7-13
-* <http://www.munkdebates.com/> talk 18
+* <http://censured.info/> film 27-28 biennial (odd)
+* <https://www.insideout.ca/torontofestival/> film 24-Jun 3
+* <https://tjff.com/> film 3-13
 * <https://www.thetastemakertour.com/> food 18-19
+* <http://www.munkdebates.com/> talk 18
 * <http://www.nativeearth.ca/paprika-festival-2018/> young 14-20
 * <http://www.harbourfrontcentre.com/junior/> youth 19-25
 * <http://www.torontomarathon.com/> sport 6
