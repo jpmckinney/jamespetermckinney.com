@@ -43,7 +43,9 @@ _Jun 13-Jul 7 <http://artmuseum.utoronto.ca/exhibition/learning-from-the-lake/>_
 
 **-Jun 17 <https://scotiabankcontactphoto.com/2018/primary-exhibition/onsite-gallery-new-generation-photography-award>**  
 -Jun 30 <https://scotiabankcontactphoto.com/2018/featured-exhibition/corkin-gallery-from-dada-to-vogue>  
--**Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org/exhibitions/verant-richards-award-recipient-2017>**  
+**-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org/exhibitions/verant-richards-award-recipient-2017>**  
+**-Aug 31 <https://scotiabankcontactphoto.com/2018/public-installation/the-bentway-a-forest-of-canoes>**  
+**-Dec 31 <https://scotiabankcontactphoto.com/2018/public-installation/the-power-plant-contemporary-art-gallery-south-facade-wer-hat-angst-vor-schwarz-casino-baden-baden-series>**  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
