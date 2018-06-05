@@ -22,10 +22,8 @@ _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent:
 
 ### Downtown North
 
-<u>-Jun 3</u> <https://www.gardinermuseum.on.ca/event/yoko-ono-riverbed/>  
-<u>-Jun 8</u> <https://scotiabankcontactphoto.com/2018/primary-exhibition/john-b-aird-gallery-waking-dream>  
-**-Jun 10 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/jane-kidd-curious>**  
--Jun 10 <https://ryersonimagecentre.ca/exhibition/ryan-walker-voices-in-the-wilderness/>  
+**<u>-Jun 10</u> <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/jane-kidd-curious>**  
+<u>-Jun 10</u> <https://ryersonimagecentre.ca/exhibition/ryan-walker-voices-in-the-wilderness/>  
   **-Aug 5 <https://ryersonimagecentre.ca/exhibition/scotiabank-photography-award-shelley-niro/> <https://ryersonimagecentre.ca/exhibition/nadia-myre-acts-that-fade-away/>**  
   -Aug 5 <https://ryersonimagecentre.ca/exhibition/newlandia-debaabaminaagwad/>  
 -Jun 16 <https://scotiabankcontactphoto.com/2018/featured-exhibition/daniels-spectrum-dear-ayeeyo>  
@@ -43,20 +41,9 @@ _Jun 13-Jul 7 <http://artmuseum.utoronto.ca/exhibition/learning-from-the-lake/>_
 
 ### Downtown South
 
-**<u>-Jun 2</u> <https://gallery44.org/exhibitions/step-shadow-warmth-sun> <https://gallery44.org/exhibitions/proving-ground-nevada-toronto>**  
-  <u>-Jun 2</u> <https://scotiabankcontactphoto.com/2018/open-exhibition/abbozzo-gallery-refusereuse> <https://scotiabankcontactphoto.com/2018/open-exhibition/abbozzo-gallery-outside-of-time>  
-  <u>-Jun 9</u> <http://www.trinitysquarevideo.com/exhibition-bad-stars/>  
-  <u>-Jun 9</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/open-studio-the-shape-of-the-middle>  
-  -Jun 16 <https://scotiabankcontactphoto.com/2018/primary-exhibition/prefix-institute-of-contemporary-art-surveillance-states>  
-  -Jun 30 <https://scotiabankcontactphoto.com/2018/primary-exhibition/a-space-gallery-incidental-narratives> <https://scotiabankcontactphoto.com/2018/open-exhibition/a-space-gallery-scrap-pieces>  
-  -Jul 21 <http://www.yyzartistsoutlet.org/2018/05/upcoming-exhibitions-5/>  
-<u>-Jun 2</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/nicholas-metivier-gallery-i-am-you>  
-<u>-Jun 3</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/pierre-francois-ouellette-art-contemporain-centre-space-plant-cosmos>  
-<u>-Jun 3</u> <https://scotiabankcontactphoto.com/2018/open-exhibition/proof-studio-gallery-cameras-looking-forwards-and-backwards>  
 **-Jun 17 <https://scotiabankcontactphoto.com/2018/primary-exhibition/onsite-gallery-new-generation-photography-award>**  
 -Jun 30 <https://scotiabankcontactphoto.com/2018/featured-exhibition/corkin-gallery-from-dada-to-vogue>  
-
-_Jun 8-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org/exhibitions/verant-richards-award-recipient-2017>_  
+-**Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org/exhibitions/verant-richards-award-recipient-2017>**  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -66,14 +53,13 @@ _Jun 8-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org
 
 ### Queen St
 
-<u>-Jun 2</u> <http://birchcontemporary.com/exhibition/new-works-6> <http://birchcontemporary.com/exhibition/mother-s-foundry>  
+<u>-Jun 10 <http://www.gladstonehotel.com/spaces/plusartfestival2018></u>  
 -Jun 16 <http://susanhobbs.com/exhibits/1428-french-exit>  
 -Jun 30 <https://www.parinadimigallery.com/molyandkassandra>  
+-Jul 14 <http://birchcontemporary.com/exhibition/burnt-orange-night-process-colour-landscapes>  
 
-_Jun 8-Jun 10 <http://www.gladstonehotel.com/spaces/plusartfestival2018>_  
-_Jun 6-Jul 14 <http://birchcontemporary.com/exhibition/burnt-orange-night-process-colour-landscapes>_  
-_**Jun 21-Aug 26 <http://kofflerarts.org/exhibitions/2018/03/26/jose-luis-torres-question-dadaptation/>**_  
 _Jul 19-Aug 25 <http://birchcontemporary.com/exhibition/group-show-world-riddles>_  
+_**Jun 21-Aug 26 <http://kofflerarts.org/exhibitions/2018/03/26/jose-luis-torres-question-dadaptation/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -95,14 +81,10 @@ _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_
 
 ### Dupont St & The Junction
 
-<u>-Jun 2</u> <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
-<u>-Jun 2</u> <https://www.christiecontemporary.com/swica-images>  
-<u>-Jun 3</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/bunker-2-contemporary-art-container-facades>  
--Jun 9 <https://alisonmilne.com/gallery/exhibitions/tina-berning-michelangelo-di-battista>  
+<u>-Jun 9</u> <https://alisonmilne.com/gallery/exhibitions/tina-berning-michelangelo-di-battista>  
 -Jun 16 <http://becontemporary.com/toronto.php> Tim Zuck  
 -Jun 16 <http://erinstumpprojects.com/upcoming-exhibitions/-katie-lyle>  
 -Jun 23 <https://coopercolegallery.com/exhibition/the-thin-gate-clanged/>  
--Jun 30 <http://cuttsgallery.com/exhibitions/2601/#/images>  
 **-Jun 24 <https://scotiabankcontactphoto.com/2018/featured-exhibition/matter-gallery-flatland>**  
-
-_Jun 9-Jul 24 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>_  
+-Jun 30 <http://cuttsgallery.com/exhibitions/2601/#/images>  
+-Jul 24 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
