@@ -15,6 +15,7 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 ### Downtown
 
 **-Sep 9 <https://macm.org/en/exhibitions/rafael-lozano-hemmer-unstable-presence/>**  
+  -Aug 26 <https://macm.org/en/exhibitions/alone-together/> <https://macm.org/en/exhibitions/the-prophets/>  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> MACM WUF9, MBAM W9, McCord W9, Centre for Architecture W9
 
@@ -22,7 +23,7 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Old Port
 
-**-Aug 12 <https://phi-centre.com/en/event/particles-of-existence/>**  
+**-Aug 12 <https://phi-centre.com/en/event/particles-of-existence/> <https://phi-centre.com/en/event/a-decade-of-next-floor/>**  
 **-Sep 9 <https://dhc-art.org/bharti-kher-exhibition/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Centre Phi FSa8, Fonderie Darling U10
@@ -48,6 +49,8 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> d'Este
 
 ### Little Burgundy
+
+_**Jun 29-Aug 5 <https://www.elektramontreal.ca/bian>**_  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Arsenal T8
 

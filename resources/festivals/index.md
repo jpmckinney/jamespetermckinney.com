@@ -67,6 +67,7 @@ published: true
 * <http://www.nuitrose.ca/> art/performance 16
 * <http://www.pridetoronto.com/> <https://yohomo.ca/> 22-24
 * <https://www.femaleeyefilmfestival.com> film 26-Jul 1
+* <http://docnow.ca> film
 * <http://gorillatickets.ca/event/bubble-tea-festival/> food 23
 * <http://buttertartfestival.ca/> Midland food 9
 * <https://www.facebook.com/tasteofasiastreetfestival/> Markham food 25-26
@@ -107,7 +108,7 @@ published: true
 * **<http://zinedream.com/> comics 20?**
 * <http://toronto.figmentproject.org/> art 18-19
 * <http://sailincinema.com/movies.aspx> film 18-20?
-* <http://veldmusicfestival.com/> music 4-5
+* <https://veldmusicfestival.com/> music 4-5
 * <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 18-19
 * <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6?
 * <http://theex.com/> fair 17-Sep 3

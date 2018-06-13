@@ -22,16 +22,16 @@ _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent:
 
 ### Downtown North
 
-**<u>-Jun 10</u> <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/jane-kidd-curious>**  
-<u>-Jun 10</u> <https://ryersonimagecentre.ca/exhibition/ryan-walker-voices-in-the-wilderness/>  
-  **-Aug 5 <https://ryersonimagecentre.ca/exhibition/scotiabank-photography-award-shelley-niro/> <https://ryersonimagecentre.ca/exhibition/nadia-myre-acts-that-fade-away/>**  
+**<u>-Jun 29</u> <https://scotiabankcontactphoto.com/2018/public-installation/aga-khan-park-reflections-of-hope>**  
+-Jul 7 <http://artmuseum.utoronto.ca/exhibition/learning-from-the-lake/>  
+**-Aug 5 <https://ryersonimagecentre.ca/exhibition/scotiabank-photography-award-shelley-niro/> <https://ryersonimagecentre.ca/exhibition/nadia-myre-acts-that-fade-away/>**  
   -Aug 5 <https://ryersonimagecentre.ca/exhibition/newlandia-debaabaminaagwad/>  
--Jun 16 <https://scotiabankcontactphoto.com/2018/featured-exhibition/daniels-spectrum-dear-ayeeyo>  
-**-Jun 29 <https://scotiabankcontactphoto.com/2018/public-installation/aga-khan-park-reflections-of-hope>**  
 **-Aug 14 <http://artmuseum.utoronto.ca/exhibition/morning-star/> <http://canadianart.ca/reviews/morning-star-jackman-humanities-institute/>**  
 **-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/color-improvisations-2-an-international-exhibition>**  
 
-_Jun 13-Jul 7 <http://artmuseum.utoronto.ca/exhibition/learning-from-the-lake/>_  
+_Jun 20-Aug 5 <https://ryersonimagecentre.ca/exhibition/cynthia-johnston-ceydie/>_  
+_Jun 27-Mar 31 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/crosscurrents-canada-in-the-making>_  
+_Sep 12-Dec 9 <https://ryersonimagecentre.ca/exhibition/gordon-parks-the-flavio-story/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -41,11 +41,16 @@ _Jun 13-Jul 7 <http://artmuseum.utoronto.ca/exhibition/learning-from-the-lake/>_
 
 ### Downtown South
 
-**-Jun 17 <https://scotiabankcontactphoto.com/2018/primary-exhibition/onsite-gallery-new-generation-photography-award>**  
--Jun 30 <https://scotiabankcontactphoto.com/2018/featured-exhibition/corkin-gallery-from-dada-to-vogue>  
+<u>-Jun 30</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/corkin-gallery-from-dada-to-vogue>  
 **-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org/exhibitions/verant-richards-award-recipient-2017>**  
 **-Aug 31 <https://scotiabankcontactphoto.com/2018/public-installation/the-bentway-a-forest-of-canoes>**  
 **-Dec 31 <https://scotiabankcontactphoto.com/2018/public-installation/the-power-plant-contemporary-art-gallery-south-facade-wer-hat-angst-vor-schwarz-casino-baden-baden-series>**  
+
+_**Jun 23-Sep 3 <http://www.thepowerplant.org/Exhibitions/2018/Summer-2018/Nu-Nile.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Summer-2018/Secrets-to-Tell.aspx>**_
+  _Jun 23-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Summer-2018/Untitled.aspx>_
+_Sep 15-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Length,-Breadth,-Thickness-and—Duration.aspx>_
+_**Oct 20-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled-(1).aspx>**_
+_**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(2).aspx>**_
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -55,13 +60,14 @@ _Jun 13-Jul 7 <http://artmuseum.utoronto.ca/exhibition/learning-from-the-lake/>_
 
 ### Queen St
 
-<u>-Jun 10 <http://www.gladstonehotel.com/spaces/plusartfestival2018></u>  
--Jun 16 <http://susanhobbs.com/exhibits/1428-french-exit>  
--Jun 30 <https://www.parinadimigallery.com/molyandkassandra>  
+**<u>-Jun 16</u> <http://susanhobbs.com/exhibits/1428-french-exit>**  
+<u>-Jun 30</u> <https://www.parinadimigallery.com/molyandkassandra>  
 -Jul 14 <http://birchcontemporary.com/exhibition/burnt-orange-night-process-colour-landscapes>  
+-Jul 14 <http://generalhardware.ca> Sarah Sands Phillips  
 
-_Jul 19-Aug 25 <http://birchcontemporary.com/exhibition/group-show-world-riddles>_  
+_Jun 21-Aug 10 <http://susanhobbs.com/exhibits/1430-a-viewing-room-v3>_  
 _**Jun 21-Aug 26 <http://kofflerarts.org/exhibitions/2018/03/26/jose-luis-torres-question-dadaptation/>**_  
+_Jul 19-Aug 25 <http://birchcontemporary.com/exhibition/group-show-world-riddles>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -77,16 +83,21 @@ _**Jun 21-Aug 26 <http://kofflerarts.org/exhibitions/2018/03/26/jose-luis-torres
 
 ### Bloordale & Junction Triangle
 
+<u>-Jun 30</u> <http://cuttsgallery.com/exhibitions/2601/#/press-release>  
+<u>-Jun 30</u> <http://www.olgakorpergallery.com/exhibitions/view?id=104>  
+
+_**Jun 22-Aug 11 <http://www.mercerunion.org/exhibitions/ragga-nyc/>**_  
 _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
-<u>-Jun 9</u> <https://alisonmilne.com/gallery/exhibitions/tina-berning-michelangelo-di-battista>  
--Jun 16 <http://becontemporary.com/toronto.php> Tim Zuck  
--Jun 16 <http://erinstumpprojects.com/upcoming-exhibitions/-katie-lyle>  
--Jun 23 <https://coopercolegallery.com/exhibition/the-thin-gate-clanged/>  
-**-Jun 24 <https://scotiabankcontactphoto.com/2018/featured-exhibition/matter-gallery-flatland>**  
--Jun 30 <http://cuttsgallery.com/exhibitions/2601/#/images>  
+<u>-Jun 23</u> <https://coopercolegallery.com/exhibition/2018-paul-p-and-b-wurtz-the-thin-gate-clanged/>  
+**<u>-Jun 24</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/matter-gallery-flatland>**  
+<u>-Jun 29</u> <https://alisonmilne.com/gallery/exhibitions/tina-berning-michelangelo-di-battista>  
+<u>-Jun 30</u> <http://cuttsgallery.com/exhibitions/2601/#/images>  
 -Jul 24 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
+
+_Jun 22-Jul 21 <http://www.angellgallery.com/exhibition/letting-go-is-hard>_  
+_Jul 27-Aug 25 <http://www.angellgallery.com/exhibition/today-s-paper>_  
