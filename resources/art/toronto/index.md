@@ -60,7 +60,6 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 
 ### Queen St
 
-**<u>-Jun 16</u> <http://susanhobbs.com/exhibits/1428-french-exit>**  
 <u>-Jun 30</u> <https://www.parinadimigallery.com/molyandkassandra>  
 -Jul 14 <http://birchcontemporary.com/exhibition/burnt-orange-night-process-colour-landscapes>  
 -Jul 14 <http://generalhardware.ca> Sarah Sands Phillips  
@@ -99,5 +98,6 @@ _Jun 28-Jul 21 <http://www.franzkaka.com/cruz.html>_
 <u>-Jun 30</u> <http://cuttsgallery.com/exhibitions/2601/#/images>  
 -Jul 24 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
 
+_Jun 21-Aug 4 <https://www.christiecontemporary.com/exhibitions/>_  
 _Jun 22-Jul 21 <http://www.angellgallery.com/exhibition/letting-go-is-hard>_  
 _Jul 27-Aug 25 <http://www.angellgallery.com/exhibition/today-s-paper>_  
