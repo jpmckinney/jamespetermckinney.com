@@ -23,13 +23,20 @@ published: true
 ### Spring/Summer
 
 * Apr-Oct **<http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
-* Apr-Dec <http://www.torontoartcrawl.com/> art Apr 8, Jun 9, Jul 6, Oct 5, Dec 9
+* Apr-Dec <http://www.torontoartcrawl.com/> art Apr 8, Jun 9, Jul 6
 * May-Sep <http://electricisland.to/> music
 * May-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
-* Jun-Aug <https://www.christiepitsff.com/> film
-* Jun-Aug <http://www.openrooffestival.com/> film/music
 * Jun-Sep <https://www.canadianstage.com/> Shakespeare in High Park theatre
 * Jun-Sep <http://torontobakersmarket.com/> food
+
+Outdoor movies:
+
+* Jun-Aug <https://www.topictureshow.com/events/> Christie Pits, Corktown Common, Parkway Forest, Fort York
+* Jun-Aug <http://www.openrooffestival.com/> Sterling Road $
+* Jun-Sep <https://soraurenpark.wordpress.com/festivals-movies/outdoor-movies/>
+* Jul-Aug <https://thebeachvillage.com/2017/06/movie-nights-in-the-park-2/>
+* Jul-Sep <https://en.downsviewpark.ca/event/friday-night-lights-2018>
+* Jun-Sep <https://www.blogto.com/film/2018/06/free-outdoor-movies-toronto-summer-2018/>
 
 ### Fall/Winter
 
@@ -40,32 +47,12 @@ published: true
 * Jan-Mar <http://www.thebentway.ca/>
 * Jan-Jun **<http://torontorollerderby.com/season-schedule/>**
 
-### May
-
-* **<http://scotiabankcontactphoto.com/> photography Apr 27-**
-* **<https://www.facebook.com/doorsopenTO> architecture 26-27**
-* **<http://www.torontocomics.com/> comics 12-13**
-* <http://www.ocadu.ca/gradex.htm> art (grad) 3-6
-* <http://ifwtoronto.com/> fashion 31-Jun 3
-* <http://www.nextmusicfromtokyo.com/> music 18-23
-* <https://www.rcmusic.com/performance/21c-music-festival> music 23-27
-* <https://cmw.net/music/> music 7-13
-* <http://censured.info/> film 27-28 biennial (odd)
-* <https://www.insideout.ca/torontofestival/> film 24-Jun 3
-* <https://tjff.com/> film 3-13
-* <https://www.thetastemakertour.com/> food 18-19
-* <http://www.munkdebates.com/> talk 18
-* <http://www.nativeearth.ca/paprika-festival-2018/> young 14-20
-* <http://www.harbourfrontcentre.com/junior/> youth 19-25
-* <http://www.torontomarathon.com/> sport 6
-* ✖ <http://subtletechnologies.com/festival/> art 10-Jun 25 (2017)
-
 ### Jun
 
 * **<https://luminatofestival.com/> art/performance/music 6-24**
 * <https://www.safeword.ca/safewords> theatre 1-2
-* <http://www.nuitrose.ca/> art/performance 16
 * <http://www.pridetoronto.com/> <https://yohomo.ca/> 22-24
+* <http://www.nuitrose.ca/> art/performance 16
 * <https://www.femaleeyefilmfestival.com> film 26-Jul 1
 * <http://docnow.ca> film
 * <http://gorillatickets.ca/event/bubble-tea-festival/> food 23
@@ -75,10 +62,10 @@ published: true
 * <http://fieldtriplife.com/> music 2-3
 * <http://nxne.com/> music 8-17
 * <http://digitaldreamsfestival.ca/> music 23-24
+* <http://thejunctionbia.ca/event/the-junction-summer-solstice-festival/> fest 23
 * <http://towaterfrontfest.com> fest 22-24
 * ✖ <http://dancemakers.org/events/> dance 13-24 (2017)
 * ✖ <http://loveletterprojects.com/> art 20-25 (2017)
-* ✖ <http://www.thejunctionsummersolstice.com/> 24 (2017)
 * ✖ <http://www.bestival.ca/> music 11-12 (2016)
 
 ### Jul
@@ -92,6 +79,7 @@ published: true
 * <http://bigonbloorfestival.com/> art/culture 21-28
 * <https://www.toronto.ca/summerlicious> food 7-23
 * <http://makerfestival.ca> 7-8
+* <http://www.culturafestival.ca> culture 6-27
 * <https://www.facebook.com/ossingtonfestival/> sport 28
 * <http://nightitup.com/> Markham food 13-15
 * <http://www.alldayidream.com/> music 14
@@ -107,7 +95,7 @@ published: true
 * **<http://summerworks.ca/> performance 9-19**
 * **<http://zinedream.com/> comics 20?**
 * <http://toronto.figmentproject.org/> art 18-19
-* <http://sailincinema.com/movies.aspx> film 18-20?
+* <http://www.sailincinema.com> film 10-11
 * <https://veldmusicfestival.com/> music 4-5
 * <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 18-19
 * <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6?
@@ -204,3 +192,23 @@ published: true
 * _<http://www.massexodus.ca/> fashion (grad) 6_
 * ✖ <http://www.harbourfrontcentre.com/worldstage/performances/> performance 4-22 (2017)
 * ✖ <http://taafi.com/> animation 22-25 (2016)
+
+### May
+
+* **<http://scotiabankcontactphoto.com/> photography Apr 27-**
+* **<https://www.facebook.com/doorsopenTO> architecture 26-27**
+* **<http://www.torontocomics.com/> comics 12-13**
+* <http://www.ocadu.ca/gradex.htm> art (grad) 3-6
+* <http://ifwtoronto.com/> fashion 31-Jun 3
+* <http://www.nextmusicfromtokyo.com/> music 18-23
+* <https://www.rcmusic.com/performance/21c-music-festival> music 23-27
+* <https://cmw.net/music/> music 7-13
+* <http://censured.info/> film 27-28 biennial (odd)
+* <https://www.insideout.ca/torontofestival/> film 24-Jun 3
+* <https://tjff.com/> film 3-13
+* <https://www.thetastemakertour.com/> food 18-19
+* <http://www.munkdebates.com/> talk 18
+* <http://www.nativeearth.ca/paprika-festival-2018/> young 14-20
+* <http://www.harbourfrontcentre.com/junior/> youth 19-25
+* <http://www.torontomarathon.com/> sport 6
+* ✖ <http://subtletechnologies.com/festival/> art 10-Jun 25 (2017)
