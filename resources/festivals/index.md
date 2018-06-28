@@ -47,34 +47,12 @@ Outdoor movies:
 * Jan-Mar <http://www.thebentway.ca>
 * Jan-Jun **<http://torontorollerderby.com/season-schedule/>**
 
-### Jun
-
-* **<https://luminatofestival.com> art/performance/music 6-24**
-* <https://www.safeword.ca/safewords> theatre 1-2
-* <http://www.pridetoronto.com> <https://yohomo.ca> 22-24
-* <http://www.nuitrose.ca> art/performance 16
-* <https://www.femaleeyefilmfestival.com> film 26-Jul 1
-* <http://docnow.ca> film
-* <http://gorillatickets.ca/event/bubble-tea-festival/> food 23
-* <http://www.wineandspiritfestival.ca> food 22-23
-* <http://buttertartfestival.ca> Midland food 9
-* <https://www.facebook.com/tasteofasiastreetfestival/> Markham food 25-26
-* <http://torontojazz.com> music 22-Jul 1
-* <http://fieldtriplife.com> music 2-3
-* <http://nxne.com> music 8-17
-* <http://digitaldreamsfestival.ca> music 23-24
-* <http://thejunctionbia.ca/event/the-junction-summer-solstice-festival/> fest 23
-* <http://towaterfrontfest.com> fest 22-24
-* ✖ <http://dancemakers.org/events/> dance 13-24 (2017)
-* ✖ <http://loveletterprojects.com> art 20-25 (2017)
-* ✖ <http://www.bestival.ca> music 11-12 (2016)
-
 ### Jul
 
 * **<http://vectorfestival.org> art 12-16**
 * **<http://torontooutdoorart.org> art 6-8**
 * **<https://www.facebook.com/pg/sftcanada/events/> Momo Crawl food 29**
-* <https://mowatcentre.ca/category/policy-in-a-pub/> Patio meetup 13?
+* <https://mowatcentre.ca/category/policy-in-a-pub/> Patio meetup 18
 * <https://fringetoronto.com/festivals/fringe> performance 4-15
 * <https://www.facebook.com/toabf> books 5-8
 * <http://bigonbloorfestival.com> art/culture 21-28
@@ -94,7 +72,7 @@ Outdoor movies:
 ### Aug
 
 * **<http://summerworks.ca> performance 9-19**
-* **<http://zinedream.com> comics 20?**
+* **<http://zinedream.com> comics 12**
 * <http://toronto.figmentproject.org> art 18-19
 * <http://www.sailincinema.com> film 10-11
 * <https://veldmusicfestival.com> music 4-5
@@ -213,3 +191,25 @@ Outdoor movies:
 * <http://www.harbourfrontcentre.com/junior/> youth 19-25
 * <http://www.torontomarathon.com> sport 6
 * ✖ <http://subtletechnologies.com/festival/> art 10-Jun 25 (2017)
+
+### Jun
+
+* **<https://luminatofestival.com> art/performance/music 6-24**
+* <https://www.safeword.ca/safewords> theatre 1-2
+* <http://www.pridetoronto.com> <https://yohomo.ca> 22-24
+* <http://www.nuitrose.ca> art/performance 16
+* <https://www.femaleeyefilmfestival.com> film 26-Jul 1
+* <http://docnow.ca> film
+* <http://gorillatickets.ca/event/bubble-tea-festival/> food 23
+* <http://www.wineandspiritfestival.ca> food 22-23
+* <http://buttertartfestival.ca> Midland food 9
+* <https://www.facebook.com/tasteofasiastreetfestival/> Markham food 25-26
+* <http://torontojazz.com> music 22-Jul 1
+* <http://fieldtriplife.com> music 2-3
+* <http://nxne.com> music 8-17
+* <http://digitaldreamsfestival.ca> music 23-24
+* <http://thejunctionbia.ca/event/the-junction-summer-solstice-festival/> fest 23
+* <http://towaterfrontfest.com> fest 22-24
+* ✖ <http://dancemakers.org/events/> dance 13-24 (2017)
+* ✖ <http://loveletterprojects.com> art 20-25 (2017)
+* ✖ <http://www.bestival.ca> music 11-12 (2016)
