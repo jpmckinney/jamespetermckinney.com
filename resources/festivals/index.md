@@ -26,7 +26,7 @@ published: true
 * Apr-Dec <http://www.torontoartcrawl.com> art Apr 8, Jun 9, Jul 6
 * May-Sep <http://electricisland.to> music
 * May-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
-* Jun-Sep <https://www.canadianstage.com> Shakespeare in High Park theatre
+* **Jun-Sep <https://www.canadianstage.com> Shakespeare in High Park theatre**
 * Jun-Sep <http://torontobakersmarket.com> food
 
 Outdoor movies:
@@ -50,23 +50,23 @@ Outdoor movies:
 ### Jul
 
 * **<http://vectorfestival.org> art 12-16**
+* **<https://fringetoronto.com/festivals/fringe> performance 4-15**
 * **<http://torontooutdoorart.org> art 6-8**
 * **<https://www.facebook.com/pg/sftcanada/events/> Momo Crawl food 29**
 * <https://mowatcentre.ca/category/policy-in-a-pub/> Patio meetup 18
-* <https://fringetoronto.com/festivals/fringe> performance 4-15
+* <http://makerfestival.ca> 7-8
 * <https://www.facebook.com/toabf> books 5-8
+* <http://www.culturafestival.ca> culture 6-27
 * <http://bigonbloorfestival.com> art/culture 21-28
 * <https://www.toronto.ca/summerlicious> food 7-23
-* <http://makerfestival.ca> 7-8
-* <http://www.culturafestival.ca> culture 6-27
-* <https://www.facebook.com/ossingtonfestival/> sport 28
 * <http://nightitup.com> Markham food 13-15
+* <https://www.facebook.com/ossingtonfestival/> sport 28
 * <http://www.alldayidream.com> music 14
 * <http://beachesjazz.com> music 6-29
 * <http://www.torontosummermusic.com> music 12-Aug 4
-* <http://unitycharity.com/unityfest/> music 13-15?
 * ✖ <http://torontoartblast.com> art 9, 16-17, 23-24, 30-31 (2017)
 * ✖ <http://bubblerun.com/locations/> sport 8 (2017)
+* ✖ <http://unitycharity.com/unityfest/> music 13-15 (2016)
 * ✖ <https://torontoanarchistbookfair.wordpress.com> talk 23-24 (2016)
 
 ### Aug
@@ -195,6 +195,7 @@ Outdoor movies:
 ### Jun
 
 * **<https://luminatofestival.com> art/performance/music 6-24**
+* <http://riverdaleartwalk.ca> art 2-3
 * <https://www.safeword.ca/safewords> theatre 1-2
 * <http://www.pridetoronto.com> <https://yohomo.ca> 22-24
 * <http://www.nuitrose.ca> art/performance 16

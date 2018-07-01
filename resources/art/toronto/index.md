@@ -22,12 +22,13 @@ _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent:
 
 ### Downtown North
 
-**<u>-Jun 29</u> <https://scotiabankcontactphoto.com/2018/public-installation/aga-khan-park-reflections-of-hope>**  
--Jul 7 <http://artmuseum.utoronto.ca/exhibition/learning-from-the-lake/>  
+<u>-Jul 7</u> <http://artmuseum.utoronto.ca/exhibition/learning-from-the-lake/>  
+  -Aug 18 <https://artmuseum.utoronto.ca/exhibition/islands/>  
 **-Aug 5 <https://ryersonimagecentre.ca/exhibition/scotiabank-photography-award-shelley-niro/> <https://ryersonimagecentre.ca/exhibition/nadia-myre-acts-that-fade-away/>**  
   -Aug 5 <https://ryersonimagecentre.ca/exhibition/newlandia-debaabaminaagwad/>  
   -Aug 5 <https://ryersonimagecentre.ca/exhibition/cynthia-johnston-ceydie/>  
 **-Aug 14 <http://artmuseum.utoronto.ca/exhibition/morning-star/> <http://canadianart.ca/reviews/morning-star-jackman-humanities-institute/>**  
+**-Sep 3 <https://scotiabankcontactphoto.com/2018/public-installation/aga-khan-park-reflections-of-hope>**  
 **-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/color-improvisations-2-an-international-exhibition>**  
 -Mar 31 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/crosscurrents-canada-in-the-making>  
 
@@ -41,8 +42,7 @@ _Sep 12-Dec 9 <https://ryersonimagecentre.ca/exhibition/gordon-parks-the-flavio-
 
 ### Downtown South
 
-<u>-Jun 30</u> <https://scotiabankcontactphoto.com/2018/featured-exhibition/corkin-gallery-from-dada-to-vogue>  
-**-Jul 7 <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org/exhibitions/verant-richards-award-recipient-2017>**  
+**<u>-Jul 7</u> <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org/exhibitions/verant-richards-award-recipient-2017>**  
 **-Aug 31 <https://scotiabankcontactphoto.com/2018/public-installation/the-bentway-a-forest-of-canoes>**  
 **-Sep 3 <http://www.thepowerplant.org/Exhibitions/2018/Summer-2018/Nu-Nile.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Summer-2018/Secrets-to-Tell.aspx>**  
   -Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Summer-2018/Untitled.aspx>  
@@ -61,9 +61,10 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 
 ### Queen St
 
-<u>-Jun 30</u> <https://www.parinadimigallery.com/molyandkassandra>  
 -Jul 14 <http://birchcontemporary.com/exhibition/burnt-orange-night-process-colour-landscapes>  
--Jul 14 <http://generalhardware.ca> Sarah Sands Phillips  
+-Jul 15 <http://generalhardware.ca> Sarah Sands Phillips  
+-Jul 28 <http://ryersonartspace.com> Mina Markovic  
+-Aug 5 <https://criticaldistance.ca/program/move-or-be-moved/>  
 -Aug 10 <http://susanhobbs.com/exhibits/1430-a-viewing-room-v3>  
 **-Aug 26 <http://kofflerarts.org/exhibitions/2018/03/26/jose-luis-torres-question-dadaptation/>**  
 
@@ -83,10 +84,10 @@ _Jul 19-Aug 25 <http://birchcontemporary.com/exhibition/group-show-world-riddles
 
 ### Bloordale & Junction Triangle
 
-<u>-Jun 30</u> <http://cuttsgallery.com/exhibitions/2601/#/press-release>  
-<u>-Jun 30</u> <http://www.olgakorpergallery.com/exhibitions/view?id=104>  
--Jul 21 <http://www.franzkaka.com/cruz.html>  
+<u>-Jul 7</u> <http://cuttsgallery.com/exhibitions/2601/#/images>  
+-Jul 21 <http://www.franzkaka.com/patrick-cruz-by-what-signs-will-i-come-to-understand.html>  
 **-Jul 28 <http://clintroenisch.com/exhibitions/1453/>**  
+**-Aug 4 <http://gallerytpw.ca/exhibitions/eileen-quinlan/>**  
 **-Aug 11 <http://www.mercerunion.org/exhibitions/ragga-nyc/>**  
 **-Oct 6 <http://arsenaltoronto.com/details/maskull-lasserre/>**  
 
@@ -94,9 +95,11 @@ _Jul 19-Aug 25 <http://birchcontemporary.com/exhibition/group-show-world-riddles
 
 ### Dupont St & The Junction
 
-<u>-Jun 29</u> <https://alisonmilne.com/gallery/exhibitions/tina-berning-michelangelo-di-battista>  
-<u>-Jun 30</u> <http://cuttsgallery.com/exhibitions/2601/#/images>  
 -Jul 21 <http://www.angellgallery.com/exhibition/letting-go-is-hard>  
 -Jul 24 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
+-Aug 4 <https://coopercolegallery.com/exhibition/2018-holly_coulis-island/> <https://coopercolegallery.com/exhibition/the-sow-is-mine/>  
 -Aug 4 <https://www.christiecontemporary.com/exhibitions/>  
 -Aug 25 <http://www.angellgallery.com/exhibition/today-s-paper>  
+**-Aug 26 <http://www.mattergallery.com/exhibitions/2018/6/26/layered-verses>**  
+
+_Jul 11-Sep 8 <https://alisonmilne.com/gallery/exhibitions/alexander-jowett-reflections>_  
