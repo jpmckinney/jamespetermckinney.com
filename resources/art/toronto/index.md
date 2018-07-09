@@ -17,13 +17,14 @@ published: true
 ### Shows
 
 _**Sep 13-Oct 7 <http://www.drsilverto.ca>**_  
+_Oct 9-Oct 27 <https://www.crowstheatre.com/whats-on/view-all/the-wolves>_  
 _**Oct 16-Nov 4 <http://www.nightwoodtheatre.net/index.php/whats_on/now_you_see_her>**_  
+_Oct 25-Nov 3 <https://www.crowstheatre.com/whats-on/view-all/the-assembly> Alex Ivanovici_  
 _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=grand-finale> Hofesh Shechter_  
 
 ### Downtown North
 
-<u>-Jul 7</u> <http://artmuseum.utoronto.ca/exhibition/learning-from-the-lake/>  
-  -Aug 18 <https://artmuseum.utoronto.ca/exhibition/islands/>  
+-Aug 18 <https://artmuseum.utoronto.ca/exhibition/islands/>  
 **-Aug 5 <https://ryersonimagecentre.ca/exhibition/scotiabank-photography-award-shelley-niro/> <https://ryersonimagecentre.ca/exhibition/nadia-myre-acts-that-fade-away/>**  
   -Aug 5 <https://ryersonimagecentre.ca/exhibition/newlandia-debaabaminaagwad/>  
   -Aug 5 <https://ryersonimagecentre.ca/exhibition/cynthia-johnston-ceydie/>  
@@ -42,16 +43,20 @@ _Sep 12-Dec 9 <https://ryersonimagecentre.ca/exhibition/gordon-parks-the-flavio-
 
 ### Downtown South
 
-**<u>-Jul 7</u> <https://gallery44.org/exhibitions/proof-25> <https://gallery44.org/exhibitions/verant-richards-award-recipient-2017>**  
 **-Aug 31 <https://scotiabankcontactphoto.com/2018/public-installation/the-bentway-a-forest-of-canoes>**  
 **-Sep 3 <http://www.thepowerplant.org/Exhibitions/2018/Summer-2018/Nu-Nile.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Summer-2018/Secrets-to-Tell.aspx>**  
   -Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Summer-2018/Untitled.aspx>  
 **-Sep 15 <https://www.toronto.ca/explore-enjoy/history-art-culture/public-art/city-owned-public-art/comp-sculpture-garden/>**  
 **-Dec 31 <https://scotiabankcontactphoto.com/2018/public-installation/the-power-plant-contemporary-art-gallery-south-facade-wer-hat-angst-vor-schwarz-casino-baden-baden-series>**  
 
-_Sep 15-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Length,-Breadth,-Thickness-and—Duration.aspx>_
-_**Oct 20-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled-(1).aspx>**_
-_**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(2).aspx>**_
+_Jul 13-Jul 28 <https://gallery44.org/exhibitions/365-1> <https://gallery44.org/exhibitions/outreach-2018-im-balance>_  
+  _Jul 13-Sep 1 <https://gallery44.org/exhibitions/riyadii-farxiyo>_  
+_Sep 7-Oct 13 <https://gallery44.org/exhibitions/welcome-weight-my-body> <https://gallery44.org/exhibitions/same-breath>_  
+_Oct 19-Dec 1 <https://gallery44.org/exhibitions/passages>_  
+_Dec 7-Feb 2 <https://gallery44.org/exhibitions/track-3>_  
+_Sep 15-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Length,-Breadth,-Thickness-and—Duration.aspx>_  
+_**Oct 20-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled-(1).aspx>**_  
+_**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(2).aspx>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -61,8 +66,8 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 
 ### Queen St
 
--Jul 14 <http://birchcontemporary.com/exhibition/burnt-orange-night-process-colour-landscapes>  
--Jul 15 <http://generalhardware.ca> Sarah Sands Phillips  
+<u>-Jul 14</u> <http://birchcontemporary.com/exhibition/burnt-orange-night-process-colour-landscapes>  
+<u>-Jul 15</u> <http://generalhardware.ca> Sarah Sands Phillips  
 -Jul 28 <http://ryersonartspace.com> Mina Markovic  
 -Aug 5 <https://criticaldistance.ca/program/move-or-be-moved/>  
 -Aug 10 <http://susanhobbs.com/exhibits/1430-a-viewing-room-v3>  
@@ -84,12 +89,14 @@ _Jul 19-Aug 25 <http://birchcontemporary.com/exhibition/group-show-world-riddles
 
 ### Bloordale & Junction Triangle
 
-<u>-Jul 7</u> <http://cuttsgallery.com/exhibitions/2601/#/images>  
 -Jul 21 <http://www.franzkaka.com/patrick-cruz-by-what-signs-will-i-come-to-understand.html>  
+-Jul 28 <http://www.olgakorpergallery.com/exhibitions/view?id=105>_  
 **-Jul 28 <http://clintroenisch.com/exhibitions/1453/>**  
 **-Aug 4 <http://gallerytpw.ca/exhibitions/eileen-quinlan/>**  
 **-Aug 11 <http://www.mercerunion.org/exhibitions/ragga-nyc/>**  
 **-Oct 6 <http://arsenaltoronto.com/details/maskull-lasserre/>**  
+
+_Jul 12-Jul 31 <http://cuttsgallery.com/exhibitions/summer-group-show-2/#/images>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
@@ -99,7 +106,11 @@ _Jul 19-Aug 25 <http://birchcontemporary.com/exhibition/group-show-world-riddles
 -Jul 24 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
 -Aug 4 <https://coopercolegallery.com/exhibition/2018-holly_coulis-island/> <https://coopercolegallery.com/exhibition/the-sow-is-mine/>  
 -Aug 4 <https://www.christiecontemporary.com/exhibitions/>  
--Aug 25 <http://www.angellgallery.com/exhibition/today-s-paper>  
 **-Aug 26 <http://www.mattergallery.com/exhibitions/2018/6/26/layered-verses>**  
 
 _Jul 11-Sep 8 <https://alisonmilne.com/gallery/exhibitions/alexander-jowett-reflections>_  
+_Jul 27-Aug 25 <http://www.angellgallery.com/exhibition/today-s-paper>_  
+_Sep 7-Sep 29 <http://www.angellgallery.com/exhibitions/upcoming>_  
+_Oct 4-Oct 27 <http://www.angellgallery.com/exhibitions/upcoming>_  
+_Nov 2-Dec 1 <http://www.angellgallery.com/exhibitions/upcoming>_  
+_Dec 7-Jan 5 <http://www.angellgallery.com/exhibitions/upcoming>_  

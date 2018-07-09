@@ -45,7 +45,7 @@ Outdoor movies:
 * Dec-Mar <http://ontarioplace.com/en/event/winter-ontario-place/>
 * Jan-Mar <https://www.torontolightfest.com>
 * Jan-Mar <http://www.thebentway.ca>
-* Jan-Jun **<http://torontorollerderby.com/season-schedule/>**
+* Jan-Jul **<http://torontorollerderby.com/season-schedule/>**
 
 ### Jul
 
