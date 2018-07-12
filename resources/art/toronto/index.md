@@ -39,7 +39,7 @@ _Sep 12-Dec 9 <https://ryersonimagecentre.ca/exhibition/gordon-parks-the-flavio-
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> AGO W9F9, Aga Khan W8, Ryerson W8, Art Museum W8, Gardiner F9, Textile W8, Hashtag 10 / Daniels Spectrum 9, Mississauga U8, Spence 8
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> AGO, Aga Khan, Ryerson, Gardiner, Textile, Hashtag, Bau-Xi / Daniels Spectrum, Mississauga, OFFSITE, Parts, Project, Spence
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> AGO, Aga Khan, Ryerson, Gardiner, Textile, OFFSITE, Hashtag, Bau-Xi / Daniels Spectrum, Mississauga, Parts, Project, Spence
 
 ### Downtown South
 
@@ -79,7 +79,7 @@ _Jul 19-Aug 25 <http://birchcontemporary.com/exhibition/group-show-world-riddles
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> InterAccess W8, Only One 7
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Koffler, Critical Distance, Gladstone Hotel, BAND, Craft, Graven Feather / 1313, Bunker 2, David Kaye, Katharine Mulherin, Loop Hole, Northern, Nuvango, Propeller
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Koffler, Critical Distance, Gladstone Hotel, BAND, David Kaye, Craft / 1313, Bunker 2, Loop Hole, Northern, Nuvango, Propeller
 
 ### Dundas St
 
