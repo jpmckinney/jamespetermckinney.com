@@ -28,6 +28,7 @@ published: true
 * May-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
 * **Jun-Sep <https://www.canadianstage.com> Shakespeare in High Park theatre**
 * Jun-Sep <http://torontobakersmarket.com> food
+* Jul-Sep <http://www.torontobicyclemusicfestival.com> music
 
 Outdoor movies:
 
@@ -64,6 +65,7 @@ Outdoor movies:
 * <http://www.salsaintoronto.com/lineup/salsa-on-st-clair/> culture 7-8
 * <http://www.harbourfrontcentre.com/barbadosonthewater/> culture 7-8
 * <https://afrofest.ca> culture 7-8
+* <https://www.festivalofindia.ca> culture 14-15
 * <http://www.alldayidream.com> music 14
 * <http://beachesjazz.com> music 6-29
 * <http://www.torontosummermusic.com> music 12-Aug 4
@@ -78,6 +80,7 @@ Outdoor movies:
 * **<http://zinedream.com> comics 12**
 * <http://toronto.figmentproject.org> art 18-19
 * <http://www.sailincinema.com> film 10-11
+* <http://tasteofthedanforth.com> food 10-12
 * <https://veldmusicfestival.com> music 4-5
 * <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 18-19
 * <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6?
