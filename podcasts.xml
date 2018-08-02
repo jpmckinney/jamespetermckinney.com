@@ -2,30 +2,37 @@
 <opml version="1.0">
 <head>
 	<title>iTunes Subscribed Feeds</title>
-	<dateCreated>Mon, 16 Apr 2018 04:38:38 GMT</dateCreated>
-	<dateModified>Mon, 16 Apr 2018 04:38:38 GMT</dateModified>
+	<dateCreated>Thu, 02 Aug 2018 16:04:18 GMT</dateCreated>
+	<dateModified>Thu, 02 Aug 2018 16:04:18 GMT</dateModified>
 </head>
 <body>
 	<outline text="Alone: A Love Story" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/alone.xml" htmlUrl="http://www.cbc.ca/radio/alone" />
+	<outline text="ars PARADOXICA" type="rss" xmlUrl="http://arsparadoxica.libsyn.com/rss" htmlUrl="https://arsparadoxica.com" />
 	<outline text="bitchface" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:203308699/sounds.rss" htmlUrl="http://soundcloud.com/bitchfacepodcast" />
-	<outline text="CANADALAND" type="rss" xmlUrl="http://canadaland.libsyn.com/rss" htmlUrl="http://www.canadalandshow.com" />
+	<outline text="Bodies" type="rss" xmlUrl="https://www.kcrw.com/podcast/show/bd" htmlUrl="http://www.kcrw.com/news-culture/shows/bodies" />
+	<outline text="CANADALAND" type="rss" xmlUrl="http://canadaland.libsyn.com/rss" htmlUrl="http://canadaland.libsyn.com/" />
 	<outline text="COMMONS" type="rss" xmlUrl="http://canadalandcommons.libsyn.com/rss" htmlUrl="http://canadalandshow.com/commons" />
-	<outline text="Food 4 Thot" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:284345136/sounds.rss" htmlUrl="https://food4thotpodcast.com/" />
+	<outline text="Detangled" type="rss" xmlUrl="http://detangled.libsyn.com/rss" htmlUrl="https://twitter.com/detangledciut" />
+	<outline text="Ear Hustle" type="rss" xmlUrl="http://feeds.earhustlesq.com/earhustlesq" htmlUrl="https://www.earhustlesq.com/" />
 	<outline text="Govern Yourself Accordingly - Politics | Activism | Leadership" type="rss" xmlUrl="https://feed.pippa.io/public/shows/govern-yourself-accordingly-politics-democracy-activism" htmlUrl="http://springtide.ngo/govern-yourself-accordingly" />
 	<outline text="Jokes That Killed in Group Therapy" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:334140982/sounds.rss" htmlUrl="http://soundcloud.com/user-168533861" />
+	<outline text="Just Work It" type="rss" xmlUrl="https://atkinsonfoundation.ca/feed/just-work-it" htmlUrl="https://atkinsonfoundation.ca/" />
 	<outline text="Koffler.Digital Audio Programs" type="rss" xmlUrl="http://kofflerarts.libsyn.com/rss" htmlUrl="http://www.koffler.digital/" />
 	<outline text="Meat" type="rss" xmlUrl="http://www.spreaker.com/show/2675008/episodes/feed" htmlUrl="http://www.meatpodcast.com" />
 	<outline text="MEDIA INDIGENA : Weekly Indigenous current affairs program" type="rss" xmlUrl="http://mediaindigena.libsyn.com/rss" htmlUrl="http://www.mediaindigena.com" />
 	<outline text="Missing &#38; Murdered: Finding Cleo" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/missing.xml" htmlUrl="http://www.cbc.ca/radio/podcasts/missing-murdered-who-killed-alberta-williams/" />
-	<outline text="OPPO" type="rss" xmlUrl="http://oppopod.libsyn.com/rss" htmlUrl="http://oppopod.libsyn.com/website" />
 	<outline text="Polaris Podcast" type="rss" xmlUrl="http://polarispodcast.libsyn.com/rss" htmlUrl="https://polarismusicprize.ca/" />
-	<outline text="Secret Feminist Agenda" type="rss" xmlUrl="http://feeds.feedburner.com/SecretFeministAgenda" htmlUrl="https://secretfeministagenda.com" />
-	<outline text="The Dominionated Podcast" type="rss" xmlUrl="http://dominionated.podbean.com/feed/" htmlUrl="http://dominionated.ca/" />
+	<outline text="Spacing Radio" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:233628346/sounds.rss" htmlUrl="http://spacing.ca" />
+	<outline text="The Dominionated Podcast" type="rss" xmlUrl="https://dominionated.podbean.com/feed.xml" htmlUrl="http://dominionated.ca/" />
+	<outline text="The Far Meridian" type="rss" xmlUrl="http://thefarmeridian.libsyn.com/rss" htmlUrl="https://www.thefarmeridian.com/feed/" />
 	<outline text="The Heart" type="rss" xmlUrl="http://feeds.theheartradio.org/TheHeartRadio" htmlUrl="http://theheartradio.org" />
 	<outline text="The House from CBC Radio" type="rss" xmlUrl="http://www.cbc.ca/podcasting/includes/thehouse.xml" htmlUrl="http://www.cbc.ca/radio/podcasts/current-affairs-information/the-house/" />
 	<outline text="The Imposter" type="rss" xmlUrl="http://imposter.libsyn.com/rss" htmlUrl="http://imposter.libsyn.com/podcast" />
+	<outline text="The Secret Life of Canada" type="rss" xmlUrl="http://thesecretlifeofcanada.libsyn.com/rss" htmlUrl="http://secretlifeofcanada.com" />
+	<outline text="This Sounds Serious" type="rss" xmlUrl="http://rss.cast.plus/5b0ed1429f4094060b4de1ba/rss" htmlUrl="https://www.thissoundsserious.com/" />
+	<outline text="Trampoline Hall" type="rss" xmlUrl="http://rss.acast.com/trampolinehall" htmlUrl="http://www.trampolinehall.net/podcastpage" />
 	<outline text="Underground Sounds" type="rss" xmlUrl="http://ckut.ca/en/program/1835/rss.xml" htmlUrl="http://ckut.ca" />
+	<outline text="Wag The Doug" type="rss" xmlUrl="http://wagthedoug.libsyn.com/rss" htmlUrl="http://wagthedoug.libsyn.com/website" />
 	<outline text="Within the Wires" type="rss" xmlUrl="http://feeds.nightvalepresents.com/withinthewires" htmlUrl="http://withinthewires.libsyn.com/podcast" />
-	<outline text="XXFILES" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:150581961/sounds.rss" htmlUrl="http://soundcloud.com/xxfilesradio" />
 </body>
 </opml>
