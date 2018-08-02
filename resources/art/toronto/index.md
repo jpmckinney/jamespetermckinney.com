@@ -30,7 +30,7 @@ _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent:
 **-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/color-improvisations-2-an-international-exhibition>**  
 -Mar 31 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/crosscurrents-canada-in-the-making>  
 
-_Sep 12-Dec 9 <https://ryersonimagecentre.ca/exhibition/gordon-parks-the-flavio-story/>_  
+_Sep 12-Dec 9 <https://ryersonimagecentre.ca/exhibition/gordon-parks-the-flavio-story/> <https://ryersonimagecentre.ca/exhibition/terremoto-mexico-city-1985/> <https://ryersonimagecentre.ca/exhibition/claudia-joskowicz-every-building-on-avenida-alfonso-ugarte-after-ruscha/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -62,6 +62,8 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 -Aug 10 <http://susanhobbs.com/exhibits/1430-a-viewing-room-v3>  
 -Aug 25 <http://birchcontemporary.com/exhibition/refiguring-worlds-sarah-davidson-brendan-george-ko-ginette-legare-maryse-lariviere-ed-pien>  
 **-Aug 26 <http://kofflerarts.org/exhibitions/2018/03/26/jose-luis-torres-question-dadaptation/>**  
+
+_**Sep 13-Nov 25 <http://kofflerarts.org/exhibitions/2018/06/08/through-lines/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
