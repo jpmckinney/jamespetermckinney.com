@@ -20,12 +20,14 @@
             <outline title="National Gallery of Canada" xmlUrl="http://www.gallery.ca/en/learn/851.xml" type="rss" text="National Gallery of Canada"/>
             <outline title="Sex City" xmlUrl="http://sexcityradio.blogspot.com/feeds/posts/default" type="rss" text="Sex City"/>
             <outline title="Silent Shout" xmlUrl="http://silentshout.ca/feed/" type="rss" text="Silent Shout"/>
+            <outline title="Vocal Fry Studios" xmlUrl="https://www.patreon.com/rss/vocalfrystudios?auth=VWKR9L5Xm-x80sf97xUOnb_EmGG3Ew6E" type="rss" text="Vocal Fry Studios"/>
             <outline title="Washing Dishes" xmlUrl="http://www.washingdishes.ca/fr/feed/" type="rss" text="Washing Dishes"/>
             <outline title="Within the Wires Patreon Feed" xmlUrl="https://www.patreon.com/rss/withinthewires?auth=_VpGBO0Ig1iCuFWeV3h5JH78cqPpRAY3" type="rss" text="Within the Wires Patreon Feed"/>
             <outline title="Womanhood" xmlUrl="http://ayemag.com/category/womanhood/feed/" type="rss" text="Womanhood"/>
         </outline>
         <outline title="Medium">
             <outline title="Alex Howard on Medium" xmlUrl="https://medium.com/feed/@digiphile" type="rss" text="Alex Howard on Medium"/>
+            <outline title="Alix Dunn" xmlUrl="https://medium.com/feed/@alixtrot/latest" type="rss" text="Alix Dunn"/>
             <outline title="Ana Brandusescu on Medium" xmlUrl="https://medium.com/feed/@anabmap" type="rss" text="Ana Brandusescu on Medium"/>
             <outline title="Anca Matioc on Medium" xmlUrl="https://medium.com/feed/@AncaMatioc/" type="rss" text="Anca Matioc on Medium"/>
             <outline title="Andrew Do on Medium" xmlUrl="https://medium.com/feed/@ADoAboutThings" type="rss" text="Andrew Do on Medium"/>
@@ -41,6 +43,8 @@
             <outline title="Edafe Onerhime on Medium" xmlUrl="https://medium.com/feed/@ekoner" type="rss" text="Edafe Onerhime on Medium"/>
             <outline title="Emily Shaw on Medium" xmlUrl="https://medium.com/feed/@emilydshaw" type="rss" text="Emily Shaw on Medium"/>
             <outline title="Emma Lindsay on Medium" xmlUrl="https://medium.com/feed/@emmalindsay" type="rss" text="Emma Lindsay on Medium"/>
+            <outline title="Irina Bolychevsky" xmlUrl="https://medium.com/feed/@shevski" type="rss" text="Irina Bolychevsky"/>
+            <outline title="James Turk" xmlUrl="https://medium.com/feed/@jamesturk" type="rss" text="James Turk"/>
             <outline title="Janet Haven on Medium" xmlUrl="https://medium.com/feed/@galaxygirl" type="rss" text="Janet Haven on Medium"/>
             <outline title="Jenny Odell" xmlUrl="https://medium.com/feed/@the_jennitaur" type="rss" text="Jenny Odell"/>
             <outline title="John Wonderlich on Medium" xmlUrl="https://medium.com/feed/@JohnWonderlich" type="rss" text="John Wonderlich on Medium"/>
@@ -55,16 +59,17 @@
             <outline title="Mor Rubinstein on Medium" xmlUrl="https://medium.com/feed/@Morchickit" type="rss" text="Mor Rubinstein on Medium"/>
             <outline title="Nick Scott on Medium" xmlUrl="https://medium.com/feed/@thefaketree" type="rss" text="Nick Scott on Medium"/>
             <outline title="Nisa Malli on Medium" xmlUrl="https://medium.com/feed/@nisa.malli" type="rss" text="Nisa Malli on Medium"/>
-            <outline title="Noe Jacomet on Medium" xmlUrl="https://medium.com/feed/@noejacomet" type="rss" text="Noe Jacomet on Medium"/>
             <outline title="Richard D. Bartlett on Medium" xmlUrl="https://medium.com/feed/@richdecibels" type="rss" text="Richard D. Bartlett on Medium"/>
             <outline title="Sean McDonald on Medium" xmlUrl="https://medium.com/feed/@McDapper/" type="rss" text="Sean McDonald on Medium"/>
             <outline title="Stacy Donohue on Medium" xmlUrl="https://medium.com/feed/@StacyDon" type="rss" text="Stacy Donohue on Medium"/>
+            <outline title="Stéphane Guidoin" xmlUrl="https://medium.com/feed/@stephane.guidoin" type="rss" text="Stéphane Guidoin"/>
             <outline title="Tin Geber on Medium" xmlUrl="https://medium.com/feed/@tingeber" type="rss" text="Tin Geber on Medium"/>
             <outline title="Tom Steinberg on Medium" xmlUrl="https://medium.com/feed/@TomSteinberg/" type="rss" text="Tom Steinberg on Medium"/>
             <outline title="Yuan Stevens on Medium" xmlUrl="https://medium.com/feed/@ystvns" type="rss" text="Yuan Stevens on Medium"/>
         </outline>
         <outline title="Organizations">
             <outline title="data.gc.ca" xmlUrl="http://open.canada.ca/en/blog/rss-feed.xml" type="rss" text="data.gc.ca"/>
+            <outline title="Digital Justice Lab" xmlUrl="https://medium.com/feed/@digitaljusticelab" type="rss" text="Digital Justice Lab"/>
             <outline title="Geothink" xmlUrl="http://geothink.ca/feed/" type="rss" text="Geothink"/>
             <outline title="mediaINDIGENA" xmlUrl="http://www.mediaindigena.com/feed" type="rss" text="mediaINDIGENA"/>
             <outline title="Open Contracting Partnership" xmlUrl="http://www.open-contracting.org/feed/" type="rss" text="Open Contracting Partnership"/>
@@ -108,7 +113,7 @@
             <outline title="Stéphane Guidoin" xmlUrl="http://mon-ile.net/carnet/feed.xml" type="rss" text="Stéphane Guidoin"/>
             <outline title="Suzanne Legault" xmlUrl="https://suzannelegault.ca/feed/" type="rss" text="Suzanne Legault"/>
             <outline title="Teresa Scassa" xmlUrl="http://feeds.feedburner.com/teresascassa/BlogFeed" type="rss" text="Teresa Scassa"/>
-            <outline title="The Solo Response Project » Feed" xmlUrl="https://soloresponseproject.com/feed/" type="rss" text="The Solo Response Project » Feed"/>
+            <outline title="The Solo Response Project" xmlUrl="https://soloresponseproject.com/feed/" type="rss" text="The Solo Response Project"/>
             <outline title="Thom Kearney" xmlUrl="https://nusum.wordpress.com/feed/" type="rss" text="Thom Kearney"/>
             <outline title="Tiago Peixoto" xmlUrl="http://democracyspot.net/feed/" type="rss" text="Tiago Peixoto"/>
             <outline title="Tim Davies" xmlUrl="http://feeds.feedburner.com/TimDaviesOrgUkMainFeed" type="rss" text="Tim Davies"/>
