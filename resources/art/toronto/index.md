@@ -58,10 +58,8 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 
 ### Queen St
 
-<u>-Aug 5</u> <https://criticaldistance.ca/program/move-or-be-moved/>  
 -Aug 10 <http://susanhobbs.com/exhibits/1430-a-viewing-room-v3>  
 -Aug 25 <http://birchcontemporary.com/exhibition/refiguring-worlds-sarah-davidson-brendan-george-ko-ginette-legare-maryse-lariviere-ed-pien>  
-**-Aug 26 <http://kofflerarts.org/exhibitions/2018/03/26/jose-luis-torres-question-dadaptation/>**  
 
 _**Sep 13-Nov 25 <http://kofflerarts.org/exhibitions/2018/06/08/through-lines/>**_  
 
@@ -83,8 +81,6 @@ _**Sep 13-Nov 25 <http://kofflerarts.org/exhibitions/2018/06/08/through-lines/>*
 
 ### Dupont St & The Junction
 
-<u>-Aug 4</u> <https://coopercolegallery.com/exhibition/2018-holly_coulis-island/> <https://coopercolegallery.com/exhibition/the-sow-is-mine/>  
-<u>-Aug 4</u> <https://www.christiecontemporary.com/exhibitions/>  
 -Aug 18 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
 -Aug 25 <http://www.angellgallery.com/exhibition/today-s-paper>  
 **-Aug 26 <http://www.mattergallery.com/exhibitions/2018/6/26/layered-verses>**  

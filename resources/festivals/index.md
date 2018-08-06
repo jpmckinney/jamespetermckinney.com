@@ -57,8 +57,8 @@ Outdoor movies:
 * <http://tasteofthedanforth.com> food 10-12
 * <https://veldmusicfestival.com> music 4-5
 * <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 18-19
-* <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6?
 * <http://theex.com> fair 17-Sep 3
+* ✖ <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6 (2016)
 * ✖ <http://mainsquared.com/about-main-squared/> art 26-Sep 3 (2017)
 
 ### Sep
@@ -209,6 +209,7 @@ Outdoor movies:
 * <https://www.facebook.com/toabf> books 5-8
 * <https://www.facebook.com/ossingtonfestival/> sport 28
 * <http://bigonbloorfestival.com> art/culture 21-28
+* <https://torontocarnival.ca/> culture 8-Aug 12
 * <http://www.culturafestival.ca> culture 6-27
 * <http://www.salsaintoronto.com/lineup/salsa-on-st-clair/> culture 7-8
 * <http://www.harbourfrontcentre.com/barbadosonthewater/> culture 7-8
