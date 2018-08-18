@@ -24,8 +24,6 @@ _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent:
 
 ### Downtown North
 
--Aug 18 <https://artmuseum.utoronto.ca/exhibition/islands/>  
-**-Aug 14 <http://artmuseum.utoronto.ca/exhibition/morning-star/> <http://canadianart.ca/reviews/morning-star-jackman-humanities-institute/>**  
 **-Sep 3 <https://scotiabankcontactphoto.com/2018/public-installation/aga-khan-park-reflections-of-hope>**  
 **-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/color-improvisations-2-an-international-exhibition>**  
 -Mar 31 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/crosscurrents-canada-in-the-making>  
@@ -41,8 +39,8 @@ _Sep 12-Dec 9 <https://ryersonimagecentre.ca/exhibition/gordon-parks-the-flavio-
 ### Downtown South
 
 -Sep 1 <https://gallery44.org/exhibitions/riyadii-farxiyo>  
-**-Aug 31 <https://scotiabankcontactphoto.com/2018/public-installation/the-bentway-a-forest-of-canoes>**  
 
+_Sep 3-Sep 27 <http://www.akinprojects.org/events/2018/9/4/desire-lines-exhibition-opening-reception>_  
 _Sep 7-Oct 13 <https://gallery44.org/exhibitions/welcome-weight-my-body> <https://gallery44.org/exhibitions/same-breath>_  
 _Oct 19-Dec 1 <https://gallery44.org/exhibitions/passages>_  
 _Dec 7-Feb 2 <https://gallery44.org/exhibitions/track-3>_  
@@ -58,7 +56,6 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 
 ### Queen St
 
--Aug 10 <http://susanhobbs.com/exhibits/1430-a-viewing-room-v3>  
 -Aug 25 <http://birchcontemporary.com/exhibition/refiguring-worlds-sarah-davidson-brendan-george-ko-ginette-legare-maryse-lariviere-ed-pien>  
 
 _**Sep 13-Nov 25 <http://kofflerarts.org/exhibitions/2018/06/08/through-lines/>**_  
@@ -77,16 +74,22 @@ _**Sep 13-Nov 25 <http://kofflerarts.org/exhibitions/2018/06/08/through-lines/>*
 
 ### Bloordale & Junction Triangle
 
+_Sep 13-Nov 3 <http://gallerytpw.ca/exhibitions/coney-island-baby/>_  
+
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
--Aug 18 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-current.html>  
 -Aug 25 <http://www.angellgallery.com/exhibition/today-s-paper>  
 **-Aug 26 <http://www.mattergallery.com/exhibitions/2018/6/26/layered-verses>**  
+-Sep 1 <https://erinstumpprojects.com/current-exhibitions/haeahn-kwon-get-around-to-how>  
+-Sep 8 <https://coopercolegallery.com/exhibition/coastal/> <https://coopercolegallery.com/exhibition/adrianne-rubenstein-2018-the-forest-floor/>  
 -Sep 8 <https://alisonmilne.com/gallery/exhibitions/alexander-jowett-reflections>  
 
-_Sep 7-Sep 29 <http://www.angellgallery.com/exhibitions/upcoming>_  
-_Oct 4-Oct 27 <http://www.angellgallery.com/exhibitions/upcoming>_  
+_Sep 7-Sep 29 <http://angellgallery.com/exhibition/jean-francois-lauda> <http://angellgallery.com/exhibition/not-my-story>_  
+_Sep 8-Oct 6 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>_  
+_Sep 14-Oct 27 <https://interaccess.org/exhibitions>_  
+_Oct 4-Oct 27 <http://angellgallery.com/exhibition/blue-rainbow>_  
+_Oct 13-Nov 10 <http://www.zaluckycontemporary.com/exhibitions/exhibitions-upcoming.html>_  
 _Nov 2-Dec 1 <http://www.angellgallery.com/exhibitions/upcoming>_  
 _Dec 7-Jan 5 <http://www.angellgallery.com/exhibitions/upcoming>_  
