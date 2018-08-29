@@ -24,7 +24,7 @@ _Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent:
 
 ### Downtown North
 
-**-Sep 3 <https://scotiabankcontactphoto.com/2018/public-installation/aga-khan-park-reflections-of-hope>**  
+**<u>-Sep 3</u> <https://scotiabankcontactphoto.com/2018/public-installation/aga-khan-park-reflections-of-hope>**  
 **-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/color-improvisations-2-an-international-exhibition>**  
 -Mar 31 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/crosscurrents-canada-in-the-making>  
 
@@ -38,7 +38,7 @@ _Sep 12-Dec 9 <https://ryersonimagecentre.ca/exhibition/gordon-parks-the-flavio-
 
 ### Downtown South
 
--Sep 1 <https://gallery44.org/exhibitions/riyadii-farxiyo>  
+<u>-Sep 1</u> <https://gallery44.org/exhibitions/riyadii-farxiyo>  
 
 _Sep 3-Sep 27 <http://www.akinprojects.org/events/2018/9/4/desire-lines-exhibition-opening-reception>_  
 _Sep 7-Oct 13 <https://gallery44.org/exhibitions/welcome-weight-my-body> <https://gallery44.org/exhibitions/same-breath>_  
@@ -55,8 +55,6 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Power Plant, Harbourfront / Arta, Corkin, Proof Studio, Struck, Thompson Landry
 
 ### Queen St
-
--Aug 25 <http://birchcontemporary.com/exhibition/refiguring-worlds-sarah-davidson-brendan-george-ko-ginette-legare-maryse-lariviere-ed-pien>  
 
 _**Sep 13-Nov 25 <http://kofflerarts.org/exhibitions/2018/06/08/through-lines/>**_  
 
@@ -80,9 +78,6 @@ _Sep 13-Nov 3 <http://gallerytpw.ca/exhibitions/coney-island-baby/>_
 
 ### Dupont St & The Junction
 
--Aug 25 <http://www.angellgallery.com/exhibition/today-s-paper>  
-**-Aug 26 <http://www.mattergallery.com/exhibitions/2018/6/26/layered-verses>**  
--Sep 1 <https://erinstumpprojects.com/current-exhibitions/haeahn-kwon-get-around-to-how>  
 -Sep 8 <https://coopercolegallery.com/exhibition/coastal/> <https://coopercolegallery.com/exhibition/adrianne-rubenstein-2018-the-forest-floor/>  
 -Sep 8 <https://alisonmilne.com/gallery/exhibitions/alexander-jowett-reflections>  
 
