@@ -23,12 +23,12 @@ published: true
 ### Spring/Summer
 
 * Apr-Oct **<http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
+* **Jun-Sep <https://www.canadianstage.com> Shakespeare in High Park theatre**
 * Apr-Dec <http://www.torontoartcrawl.com> art Apr 8, Jun 9, Jul 6
 * May-Sep <http://electricisland.to> music
+* Jul-Sep <http://torontobicyclemusicfestival.com> music
 * May-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
-* **Jun-Sep <https://www.canadianstage.com> Shakespeare in High Park theatre**
 * Jun-Sep <http://torontobakersmarket.com> food
-* Jul-Sep <http://www.torontobicyclemusicfestival.com> music
 
 Outdoor movies:
 
@@ -47,19 +47,6 @@ Outdoor movies:
 * Jan-Mar <https://www.torontolightfest.com>
 * Jan-Mar <http://www.thebentway.ca>
 * Jan-Jul **<http://torontorollerderby.com/season-schedule/>**
-
-### Aug
-
-* **<http://summerworks.ca> performance 9-19**
-* **<http://zinedream.com> comics 12**
-* <http://toronto.figmentproject.org> art 18-19
-* <http://www.sailincinema.com> film 10-11
-* <http://tasteofthedanforth.com> food 10-12
-* <https://veldmusicfestival.com> music 4-5
-* <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 18-19
-* <http://theex.com> fair 17-Sep 3
-* ✖ <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6 (2016)
-* ✖ <http://mainsquared.com/about-main-squared/> art 26-Sep 3 (2017)
 
 ### Sep
 
@@ -222,3 +209,16 @@ Outdoor movies:
 * ✖ <http://bubblerun.com/locations/> sport 8 (2017)
 * ✖ <http://unitycharity.com/unityfest/> music 13-15 (2016)
 * ✖ <https://torontoanarchistbookfair.wordpress.com> talk 23-24 (2016)
+
+### Aug
+
+* **<http://summerworks.ca> performance 9-19**
+* **<http://zinedream.com> comics 12**
+* <http://toronto.figmentproject.org> art 18-19
+* <http://www.sailincinema.com> film 10-11
+* <http://tasteofthedanforth.com> food 10-12
+* <https://veldmusicfestival.com> music 4-5
+* <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 18-19
+* <http://theex.com> fair 17-Sep 3
+* ✖ <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6 (2016)
+* ✖ <http://mainsquared.com/about-main-squared/> art 26-Sep 3 (2017)

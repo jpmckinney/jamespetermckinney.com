@@ -22,6 +22,8 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Old Port
 
+_**Sep 25-Jan 20 <https://phi-centre.com/en/event/echo-en/>**_  
+
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Centre Phi FSa8, Fonderie Darling U10
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> DHC/ART, Centre Phi, Fonderie Darling / Beauchamp, Got, LeRoyer, MX, Matthew Namour
