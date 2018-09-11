@@ -53,6 +53,7 @@ Outdoor movies:
 * **<https://www.tiff.net/tiff/> film 6-16**
 * **<http://www.nbto.com> art 29**
 * **<http://queenwestartcrawl.com> art 22-23**
+* <http://www.nightwoodtheatre.net/whats_on/groundswell_festival_2018> theatre 24-30
 * ✖ <http://www.infuture.ca> art 15-25 (2016)
 * ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)
 * ✖ <http://torontourbanrootsfest.com> music 16-18 (2016)
@@ -76,6 +77,7 @@ Outdoor movies:
 
 ### Nov
 
+* <http://handeyesociety.com/wordplay/> games 10
 * <http://regentparkfilmfestival.com> film 13-17
 * <http://torontoqueerfilmfest.com> film 1-4
 * <http://eutorontofilmfest.ca> film 9-23?

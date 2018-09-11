@@ -22,12 +22,16 @@ _**Sep 13-Oct 7 <http://www.drsilverto.ca>**_
 _Oct 9-Oct 27 <https://www.crowstheatre.com/whats-on/view-all/the-wolves>_  
 _**Oct 16-Nov 4 <http://www.nightwoodtheatre.net/index.php/whats_on/now_you_see_her>**_  
 _Oct 25-Nov 3 <https://www.crowstheatre.com/whats-on/view-all/the-assembly> Alex Ivanovici_  
-_Nov 14-18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=grand-finale> Hofesh Shechter_  
+_Nov 14-Nov 18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=grand-finale> Hofesh Shechter_  
+_Oct 24-Oct 28 <https://www.soulpepper.ca/performances/japanese-problem/6159>_  
+_Oct 28-Nov 25 <https://www.soulpepper.ca/performances/escaped-alone/6160>_  
+_Apr 6-Apr 28 <https://www.soulpepper.ca/performances/copenhagen/6177>_  
+_May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>_  
 
 ### Downtown North
 
-**-Sep 23 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/color-improvisations-2-an-international-exhibition>**  
--Sep 29 <http://www.littlesistergallery.com/>  
+**<u>-Sep 23</u> <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/color-improvisations-2-an-international-exhibition>**  
+<u>-Sep 29</u> <http://www.littlesistergallery.com/>  
 -Oct 27 <https://artmuseum.utoronto.ca/exhibition/hart-house-commission/>  
   -Dec 8 <https://artmuseum.utoronto.ca/exhibition/i-continue-to-shape/>  
   -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
@@ -43,7 +47,7 @@ _Sep 12-Dec 9 <https://ryersonimagecentre.ca/exhibition/gordon-parks-the-flavio-
 
 ### Downtown South
 
--Sep 27 <http://www.akinprojects.org/events/2018/9/4/desire-lines-exhibition-opening-reception>  
+<u>-Sep 27</u> <http://www.akinprojects.org/events/2018/9/4/desire-lines-exhibition-opening-reception>  
 **-Oct 13 <https://gallery44.org/exhibitions/welcome-weight-my-body> <https://gallery44.org/exhibitions/same-breath>**  
 -Oct 19 <http://tangledarts.org/exhibits/somehow-we-stay-attuned-2/>  
 -Dec 12 <http://www.yyzartistsoutlet.org/2018/08/upcoming-exhibitions-6/>  
@@ -84,7 +88,7 @@ _Oct 18-Nov 24 <https://birchcontemporary.com/exhibition/will-gorlitz-solo-exhib
 ### Bloordale & Junction Triangle
 
 http://connorcrawford.com/scrap%20metal/Scrap%20Metal%20Website%20Archive/Cut/cut.html  
--Sep 29 <http://www.franzkaka.com/franz-kaka---home.html>  
+<u>-Sep 29</u> <http://www.franzkaka.com/franz-kaka---home.html>  
 -Oct 6 <http://www.olgakorpergallery.com/exhibitions/view?id=108>  
 -Oct 13 <http://cuttsgallery.com/exhibitions/rae-johnson/#/images>  
 
@@ -95,7 +99,7 @@ _**Sep 15-Nov 3 <http://www.mercerunion.org/exhibitions/the-fine-thread-of-devia
 
 ### Dupont St & The Junction
 
--Sep 29 <http://angellgallery.com/exhibition/jean-francois-lauda> <http://angellgallery.com/exhibition/not-my-story>  
+<u>-Sep 29</u> <http://angellgallery.com/exhibition/jean-francois-lauda> <http://angellgallery.com/exhibition/not-my-story>  
 
 _**Sep 14-Oct 27 <https://interaccess.org/exhibition/loner-culture>**_  
 _Sep 14-Oct 20 <https://coopercolegallery.com/exhibition/g-b-jones/> <https://coopercolegallery.com/exhibition/2018-genesis-breyer-p-orridge/>_  
