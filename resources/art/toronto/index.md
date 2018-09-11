@@ -21,10 +21,11 @@ published: true
 _**Sep 13-Oct 7 <http://www.drsilverto.ca>**_  
 _Oct 9-Oct 27 <https://www.crowstheatre.com/whats-on/view-all/the-wolves>_  
 _**Oct 16-Nov 4 <http://www.nightwoodtheatre.net/index.php/whats_on/now_you_see_her>**_  
-_Oct 25-Nov 3 <https://www.crowstheatre.com/whats-on/view-all/the-assembly> Alex Ivanovici_  
-_Nov 14-Nov 18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=grand-finale> Hofesh Shechter_  
 _Oct 24-Oct 28 <https://www.soulpepper.ca/performances/japanese-problem/6159>_  
+_Oct 25-Nov 3 <https://www.crowstheatre.com/whats-on/view-all/the-assembly> Alex Ivanovici_  
 _Oct 28-Nov 25 <https://www.soulpepper.ca/performances/escaped-alone/6160>_  
+_Nov 14-Nov 18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=grand-finale> Hofesh Shechter_  
+_Nov 21-Nov 25 <https://national.ballet.ca/Productions/2018-19-Season/The-Dream>_  
 _Apr 6-Apr 28 <https://www.soulpepper.ca/performances/copenhagen/6177>_  
 _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>_  
 
