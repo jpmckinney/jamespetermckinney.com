@@ -22,11 +22,11 @@ published: true
 
 ### Spring/Summer
 
-* Apr-Oct **<http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
+* **Apr-Oct <http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
 * **Jun-Sep <https://www.canadianstage.com> Shakespeare in High Park theatre**
 * Apr-Dec <http://www.torontoartcrawl.com> art Apr 8, Jun 9, Jul 6
-* May-Sep <http://electricisland.to> music
 * Jul-Sep <http://torontobicyclemusicfestival.com> music
+* May-Sep <http://electricisland.to> music
 * May-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
 * Jun-Sep <http://torontobakersmarket.com> food
 
@@ -47,16 +47,6 @@ Outdoor movies:
 * Jan-Mar <https://www.torontolightfest.com>
 * Jan-Mar <http://www.thebentway.ca>
 * Jan-Jul **<http://torontorollerderby.com/season-schedule/>**
-
-### Sep
-
-* **<https://www.tiff.net/tiff/> film 6-16**
-* **<http://www.nbto.com> art 29**
-* **<http://queenwestartcrawl.com> art 22-23**
-* <http://www.nightwoodtheatre.net/whats_on/groundswell_festival_2018> theatre 24-30
-* ✖ <http://www.infuture.ca> art 15-25 (2016)
-* ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)
-* ✖ <http://torontourbanrootsfest.com> music 16-18 (2016)
 
 ### Oct
 
@@ -224,3 +214,12 @@ Outdoor movies:
 * <http://theex.com> fair 17-Sep 3
 * ✖ <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6 (2016)
 * ✖ <http://mainsquared.com/about-main-squared/> art 26-Sep 3 (2017)
+
+### Sep
+
+* **<https://www.tiff.net/tiff/> film 6-16**
+* **<http://www.nbto.com> art 29**
+* **<http://queenwestartcrawl.com> art 22-23**
+* <http://www.nightwoodtheatre.net/whats_on/groundswell_festival_2018> theatre 24-30
+* ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)
+* ✖ <http://torontourbanrootsfest.com> music 16-18 (2016)
