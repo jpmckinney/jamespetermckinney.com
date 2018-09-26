@@ -24,6 +24,7 @@ published: true
 
 * **Apr-Oct <http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
 * **Jun-Sep <https://www.canadianstage.com> Shakespeare in High Park theatre**
+* May-Oct <https://www.canadaswonderland.com> theme park
 * Apr-Dec <http://www.torontoartcrawl.com> art Apr 8, Jun 9, Jul 6
 * Jul-Sep <http://torontobicyclemusicfestival.com> music
 * May-Sep <http://electricisland.to> music
@@ -67,6 +68,7 @@ Outdoor movies:
 
 ### Nov
 
+* <https://hotdocscinema.ca/c/podcast> podcasts 1-5
 * <http://handeyesociety.com/wordplay/> games 10
 * <http://regentparkfilmfestival.com> film 13-17
 * <http://torontoqueerfilmfest.com> film 1-4

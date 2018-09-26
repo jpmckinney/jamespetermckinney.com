@@ -22,7 +22,8 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Old Port
 
-_**Sep 25-Jan 20 <https://phi-centre.com/en/event/echo-en/>**_  
+**-Jan 20 <https://phi-centre.com/en/event/echo-en/>**  
+_**Oct 25-Mar 3 <https://dhc-art.org/?page_id=10426>**_  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Centre Phi FSa8, Fonderie Darling U10
 

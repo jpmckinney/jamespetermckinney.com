@@ -32,8 +32,8 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Downtown North
 
-**<u>-Sep 23</u> <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/color-improvisations-2-an-international-exhibition>**  
 <u>-Sep 29</u> <http://www.littlesistergallery.com/>  
+**-Oct 20 <https://scotiabankcontactphoto.com/2018/contact-gallery/communities-of-love>**  
 -Oct 27 <https://artmuseum.utoronto.ca/exhibition/hart-house-commission/>  
   -Dec 8 <https://artmuseum.utoronto.ca/exhibition/i-continue-to-shape/>  
   -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
@@ -48,10 +48,11 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Downtown South
 
-<u>-Sep 27</u> <http://www.akinprojects.org/events/2018/9/4/desire-lines-exhibition-opening-reception>  
 **-Oct 13 <https://gallery44.org/exhibitions/welcome-weight-my-body> <https://gallery44.org/exhibitions/same-breath>**  
 -Oct 19 <http://tangledarts.org/exhibits/somehow-we-stay-attuned-2/>  
 -Dec 12 <http://www.yyzartistsoutlet.org/2018/08/upcoming-exhibitions-6/>  
+**-Dec 23 <http://www.harbourfrontcentre.com/visualarts/2018/hand-is-the-mind/> <http://www.harbourfrontcentre.com/visualarts/2018/portraits-at-home/> <http://www.harbourfrontcentre.com/visualarts/2018/diagramdetritusdeconstruct/> <http://www.harbourfrontcentre.com/visualarts/2018/on-any-given-day/> <http://www.harbourfrontcentre.com/visualarts/2018/joint-efforts/>**  
+  -Jun 2 <http://www.harbourfrontcentre.com/visualarts/2018/nordic-glass/>  
 
 _Oct 19-Dec 1 <https://gallery44.org/exhibitions/passages>_  
 _Dec 7-Feb 2 <https://gallery44.org/exhibitions/track-3>_  
@@ -70,6 +71,7 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 -Oct 13 <http://georgiascherman.com/Exhibitions.html>  
 -Oct 13 <http://www.susanhobbs.com/current>  
 
+_Oct 11-Nov 11 <http://band-rand.com/site/redefiningblackidentity/>_  
 _Oct 18-Nov 24 <https://birchcontemporary.com/exhibition/will-gorlitz-solo-exhibition> <https://birchcontemporary.com/exhibition/solo-exhibition-2>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
@@ -97,8 +99,8 @@ _Nov 3-Nov 24 <http://www.franzkaka.com/world-according-to-garp.html>_
 
 **-Oct 27 <https://interaccess.org/exhibition/loner-culture>**  
 -Oct 20 <https://coopercolegallery.com/exhibition/g-b-jones/> <https://coopercolegallery.com/exhibition/2018-genesis-breyer-p-orridge/>  
+-Nov 3 <https://alisonmilne.com/gallery/exhibitions/michelle-mackinnon>  
+**-Nov 18 <http://www.mattergallery.com/exhibitions>**  
 
-_**Sep 20-Nov 18 <http://www.mattergallery.com/exhibitions>**_  
-_Sep 20-Nov 3 <https://alisonmilne.com/gallery/exhibitions/michelle-mackinnon>_  
 _Oct 4-Oct 27 <http://angellgallery.com/exhibition/blue-rainbow> <http://angellgallery.com/exhibition/living-for-the-fame>_  
 _Nov 15-Dec 22 <https://alisonmilne.com/gallery/exhibitions/kirsten-sims>_  
