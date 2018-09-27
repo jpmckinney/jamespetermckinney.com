@@ -11,6 +11,7 @@ published: true
 
 * [Montreal](https://www.google.com/maps/d/edit?mid=1pKDvWCvnInNN2igV2ruxxL_srzE)
 * [Toronto](https://www.google.com/maps/d/edit?mid=1sMiga7vQsqWdqEVQCqHsxjX2jeU)
+* [Vancouver](https://www.google.com/maps/d/edit?mid=1KKEWLpcqlM2XqMMZ4heko7WZV2s)
 
 ### United States
 
@@ -18,9 +19,10 @@ published: true
 * [Washington, DC](https://www.google.com/maps/d/edit?mid=1JeMlllS8WHi1ZFq4uhQTAUeWwPo)
 * [Miami](https://www.google.com/maps/d/edit?mid=1CD9yS3leb33XTroZR69p2avb22dfnzht)
 
-### Mexico
+### Latin America
 
 * [Mexico](https://www.google.com/maps/d/edit?mid=1zZV3xZPdo24g4orYuPRAdeELCAo)
+* [Buenos Aires](https://www.google.com/maps/d/edit?mid=1Ft52CAWbF1ZtPcwpxn8Nr9F00B11Ckfg)
 {% endcapture %}
 
 {% capture two %}
