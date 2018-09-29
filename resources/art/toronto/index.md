@@ -24,7 +24,7 @@ _Oct 24-Oct 28 <https://www.soulpepper.ca/performances/japanese-problem/6159>_
 _Oct 25-Nov 3 <https://www.crowstheatre.com/whats-on/view-all/the-assembly> Alex Ivanovici_  
 _Oct 28-Nov 25 <https://www.soulpepper.ca/performances/escaped-alone/6160> (LB)_  
 _Nov 14-Nov 18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=grand-finale> Hofesh Shechter_  
-_Nov 21-Nov 25 <https://national.ballet.ca/Productions/2018-19-Season/The-Dream>_  
+_Nov 21-Nov 25 <https://national.ballet.ca/Productions/2018-19-Season/The-Dream> <https://national.ballet.ca/Tickets/Box-Office/Rush-Tickets>_  
 _Apr 6-Apr 28 <https://www.soulpepper.ca/performances/copenhagen/6177>_  
 _May 4-May 26 <https://www.soulpepper.ca/performances/the-brothers-size/6178> (LB)_  
 _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>_  

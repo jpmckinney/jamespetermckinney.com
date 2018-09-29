@@ -91,7 +91,7 @@ published: true
 
 ### Others
 
-* <http://national.ballet.ca/> <https://national.ballet.ca/Tickets/Box-Office/Rush-Tickets>
+* <http://national.ballet.ca/> <https://national.ballet.ca/Tickets/Box-Office/Rush-Tickets> standing tickets
 * <http://www.ago.net/art-and-cinema> film
 * <https://www.tso.ca> music
 * <http://www.soundscapesmusic.com/tickets/> music
