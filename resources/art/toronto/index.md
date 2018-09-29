@@ -16,7 +16,6 @@ published: true
 
 ### Shows
 
-**-Oct 14 <http://www.drsilverto.ca> (RH)**  
 **-Oct 25 <https://stratfordfestivalreviews.com/blog/shows/the-tempest-2018/>**  
 
 _Oct 9-Oct 27 <https://www.crowstheatre.com/whats-on/view-all/the-wolves>_  
@@ -32,7 +31,6 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Downtown North
 
-<u>-Sep 29</u> <http://www.littlesistergallery.com/>  
 **-Oct 20 <https://scotiabankcontactphoto.com/2018/contact-gallery/communities-of-love>**  
 -Oct 27 <https://artmuseum.utoronto.ca/exhibition/hart-house-commission/>  
   -Dec 8 <https://artmuseum.utoronto.ca/exhibition/i-continue-to-shape/>  
@@ -48,9 +46,9 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Downtown South
 
-**-Oct 13 <https://gallery44.org/exhibitions/welcome-weight-my-body> <https://gallery44.org/exhibitions/same-breath>**  
--Oct 19 <http://tangledarts.org/exhibits/somehow-we-stay-attuned-2/>  
--Dec 12 <http://www.yyzartistsoutlet.org/2018/08/upcoming-exhibitions-6/>  
+**<u>-Oct 13</u> <https://gallery44.org/exhibitions/welcome-weight-my-body> <https://gallery44.org/exhibitions/same-breath>**  
+  -Oct 19 <http://tangledarts.org/exhibits/somehow-we-stay-attuned-2/>  
+  -Dec 12 <http://www.yyzartistsoutlet.org/2018/08/upcoming-exhibitions-6/>  
 **-Dec 23 <http://www.harbourfrontcentre.com/visualarts/2018/hand-is-the-mind/> <http://www.harbourfrontcentre.com/visualarts/2018/portraits-at-home/> <http://www.harbourfrontcentre.com/visualarts/2018/diagramdetritusdeconstruct/> <http://www.harbourfrontcentre.com/visualarts/2018/on-any-given-day/> <http://www.harbourfrontcentre.com/visualarts/2018/joint-efforts/>**  
   -Jun 2 <http://www.harbourfrontcentre.com/visualarts/2018/nordic-glass/>  
 
@@ -67,9 +65,10 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 
 ### Queen St
 
--Oct 13 <https://birchcontemporary.com/exhibition/solo-exhibition-1> <https://birchcontemporary.com/exhibition/solo-exhibition>  
--Oct 13 <http://georgiascherman.com/Exhibitions.html>  
--Oct 13 <http://www.susanhobbs.com/current>  
+<u>-Oct 13</u> <https://birchcontemporary.com/exhibition/solo-exhibition-1> <https://birchcontemporary.com/exhibition/solo-exhibition>  
+<u>-Oct 13</u> <http://georgiascherman.com/Exhibitions.html>  
+<u>-Oct 13</u> <http://www.susanhobbs.com/current>  
+**-Nov 30 <http://www.thebentway.ca/art/>**  
 
 _Oct 11-Nov 11 <http://band-rand.com/site/redefiningblackidentity/>_  
 _Oct 18-Nov 24 <https://birchcontemporary.com/exhibition/will-gorlitz-solo-exhibition> <https://birchcontemporary.com/exhibition/solo-exhibition-2>_  
@@ -88,8 +87,9 @@ _Oct 18-Nov 24 <https://birchcontemporary.com/exhibition/will-gorlitz-solo-exhib
 
 ### Bloordale & Junction Triangle
 
--Oct 6 <http://www.olgakorpergallery.com/exhibitions/view?id=108>  
--Oct 13 <http://cuttsgallery.com/exhibitions/rae-johnson/#/images>  
+<u>-Oct 6</u> <http://www.olgakorpergallery.com/exhibitions/view?id=108>  
+<u>-Oct 13</u> <http://cuttsgallery.com/exhibitions/rae-johnson/#/images>  
+**<u>-Oct 13</u> <https://www.christiecontemporary.com/vincent-images>**  
 
 _Nov 3-Nov 24 <http://www.franzkaka.com/world-according-to-garp.html>_  
 

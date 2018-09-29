@@ -52,17 +52,15 @@ Outdoor movies:
 ### Oct
 
 * **<https://www.worldpressphoto.org/exhibitions/2018-exhibition/toronto> photography 2-22**
-* <http://www.brokenpencil.com/canzine-toronto> books 21?
-* <http://7a-11d.ca> performance 1-Dec 16?
-* <https://www.arttoronto.ca> art 26-29
-* <http://www.munkdebates.com> talk 12
-* <http://www.reelworld.ca> film 10-14
-* <http://planetinfocus.org> film 25-28
+* <http://7a-11d.ca> performance 2-7
+* <https://www.arttoronto.ca> art fair 26-29
+* <https://www.alunatheatre.ca/festival/rutas-2018/> performance 3-14
 * <http://www.imaginenative.org> film 17-21
+* <http://www.reelworld.ca> film 9-14
+* <http://planetinfocus.org> film 25-28
 * <http://www.tsaff.ca> film 13-14
-* <http://www.brafftv.com> film ?
 * <http://ifoa.org> books 18-28
-* <https://musicgallery.org/all-events/> X Avant music 13-16?
+* <https://musicgallery.org/xavant> music 11-14
 * <http://www.cxto.ca/technical-guide/> sport 28
 * <http://www.torontowaterfrontmarathon.com> sport 21
 
@@ -72,9 +70,11 @@ Outdoor movies:
 * <http://handeyesociety.com/wordplay/> games 10
 * <http://regentparkfilmfestival.com> film 13-17
 * <http://torontoqueerfilmfest.com> film 1-4
-* <http://eutorontofilmfest.ca> film 9-23?
-* <https://syff.ca> film 10-12?
-* <https://www.alumnaetheatre.com/fireworks/> theatre 8-26?
+* <http://eutorontofilmfest.ca> film 8-22
+* <https://syff.ca> film 9-11
+* <http://brazilfilmfest.net/> film 1-4
+* <https://www.alumnaetheatre.com/fireworks-festival-2018.html> theatre 7-25
+* <http://www.munkdebates.com> talk 2
 * <http://www.unsound.pl> music 3
 * ✖ <http://www.rendezvouswithmadness.ca> film 3-11 (2017)
 
@@ -184,7 +184,7 @@ Outdoor movies:
 * <https://www.toronto.ca/summerlicious> food 7-23
 * <http://nightitup.com> Markham food 13-15
 * <http://www.harbourfrontcentre.com/brave/> art 12-29
-* <http://torontooutdoorart.org> art 6-8
+* <http://torontooutdoorart.org> art fair 6-8
 * <https://mowatcentre.ca/category/policy-in-a-pub/> meetup 18
 * <http://makerfestival.ca> 7-8
 * <https://www.facebook.com/toabf> books 5-8
@@ -223,5 +223,6 @@ Outdoor movies:
 * **<http://www.nbto.com> art 29**
 * **<http://queenwestartcrawl.com> art 22-23**
 * <http://www.nightwoodtheatre.net/whats_on/groundswell_festival_2018> theatre 24-30
+* <https://brokenpencil.com/canzine/canzineto/canzine-toronto-events/> books 22
 * ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)
 * ✖ <http://torontourbanrootsfest.com> music 16-18 (2016)
