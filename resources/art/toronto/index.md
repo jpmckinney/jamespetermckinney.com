@@ -16,9 +16,10 @@ published: true
 
 ### Shows
 
-**-Oct 25 <https://stratfordfestivalreviews.com/blog/shows/the-tempest-2018/>**  
+**<u>-Oct 25</u> <https://stratfordfestivalreviews.com/blog/shows/the-tempest-2018/>**  
+<u>-Oct 27</u> <https://www.crowstheatre.com/whats-on/view-all/the-wolves>  
+<u>-Oct 28</u> <http://www.tarragontheatre.com/show/harlem-duet/>  
 
-_Oct 9-Oct 27 <https://www.crowstheatre.com/whats-on/view-all/the-wolves>_  
 _**Oct 16-Nov 4 <http://buddiesinbadtimes.com/show/now-you-see-her/>**_  
 _Oct 24-Oct 28 <https://www.soulpepper.ca/performances/japanese-problem/6159>_  
 _Oct 25-Nov 3 <https://www.crowstheatre.com/whats-on/view-all/the-assembly> Alex Ivanovici_  
@@ -31,15 +32,17 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Downtown North
 
-**-Oct 20 <https://scotiabankcontactphoto.com/2018/contact-gallery/communities-of-love>**  
-**-Oct 27 <https://artmuseum.utoronto.ca/exhibition/hart-house-commission/>**  
+**<u>-Oct 21</u> <https://ago.ca/exhibitions/rebecca-belmore-facing-monumental>**  
+  **-Jan 6 <https://ago.ca/exhibitions/anthropocene>**  
+**<u>-Oct 23</u> <https://www.worldpressphoto.org/exhibitions/2018-exhibition/toronto>**  
+**<u>-Oct 27</u> <https://artmuseum.utoronto.ca/exhibition/hart-house-commission/>**  
   -Dec 8 <https://artmuseum.utoronto.ca/exhibition/i-continue-to-shape/>  
   -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
-**-Oct 23 <https://www.worldpressphoto.org/exhibitions/2018-exhibition/toronto>**  
 **-Dec 9 <https://ryersonimagecentre.ca/exhibition/gordon-parks-the-flavio-story/> <https://ryersonimagecentre.ca/exhibition/terremoto-mexico-city-1985/> <https://ryersonimagecentre.ca/exhibition/claudia-joskowicz-every-building-on-avenida-alfonso-ugarte-after-ruscha/>**  
 -Mar 31 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/crosscurrents-canada-in-the-making>  
 
 _Oct 10-May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>_  
+_**Nov 29-Mar 24 <https://ago.ca/exhibitions/mickalene-thomas-femmes-noires>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -49,15 +52,12 @@ _Oct 10-May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/bea
 
 ### Downtown South
 
-**<u>-Oct 13</u> <https://gallery44.org/exhibitions/welcome-weight-my-body> <https://gallery44.org/exhibitions/same-breath>**  
-  -Oct 19 <http://tangledarts.org/exhibits/somehow-we-stay-attuned-2/>  
-  -Nov 25 <http://www.prefix.ca/exhibitions/on-being-illiberal/>  
-  -Dec 12 <http://www.yyzartistsoutlet.org/2018/08/upcoming-exhibitions-6/>  
 **-Dec 23 <http://www.harbourfrontcentre.com/visualarts/2018/hand-is-the-mind/> <http://www.harbourfrontcentre.com/visualarts/2018/portraits-at-home/> <http://www.harbourfrontcentre.com/visualarts/2018/diagramdetritusdeconstruct/> <http://www.harbourfrontcentre.com/visualarts/2018/on-any-given-day/> <http://www.harbourfrontcentre.com/visualarts/2018/joint-efforts/>**  
   -Jun 2 <http://www.harbourfrontcentre.com/visualarts/2018/nordic-glass/>  
 
 _Oct 19-Dec 1 <https://gallery44.org/exhibitions/passages> <https://gallery44.org/exhibitions/toolkit-revolution>_  
 _**Oct 20-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Length,-Breadth,-Thickness-and—Duration.aspx>**_  
+_Nov 23-Dec 8 <https://www.photorama.ca>_  
 _Dec 7-Feb 2 <https://gallery44.org/exhibitions/track-3>_  
 _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(2).aspx>**_  
 
@@ -69,13 +69,12 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 
 ### Queen St
 
-<u>-Oct 13</u> <https://birchcontemporary.com/exhibition/solo-exhibition-1> <https://birchcontemporary.com/exhibition/solo-exhibition>  
-  <u>-Oct 13</u> <http://georgiascherman.com/Exhibitions.html>  
-  <u>-Oct 13</u> <http://www.susanhobbs.com/current>  
-**-Nov 30 <http://www.thebentway.ca/art/>**  
+-Nov 10 <http://www.olgakorpergallery.com/exhibitions/view?id=109>  
+-Nov 11 <http://band-rand.com/site/redefiningblackidentity/>  
 
-_Oct 11-Nov 11 <http://band-rand.com/site/redefiningblackidentity/>_  
 _Oct 18-Nov 24 <https://birchcontemporary.com/exhibition/will-gorlitz-solo-exhibition> <https://birchcontemporary.com/exhibition/solo-exhibition-2>_  
+_Oct 18-Nov 24 <http://susanhobbs.com/current>_  
+_Oct 20-Nov 17 <http://georgiascherman.com/ForthcomingExhibitions.html>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -91,20 +90,23 @@ _Oct 18-Nov 24 <https://birchcontemporary.com/exhibition/will-gorlitz-solo-exhib
 
 ### Bloordale & Junction Triangle
 
-<u>-Oct 13</u> <http://cuttsgallery.com/exhibitions/rae-johnson/#/images>  
-**<u>-Oct 13</u> <https://www.christiecontemporary.com/vincent-images>**  
+**-Nov 11 <https://moca.ca/rehearsing-disagreement-programs-2018/>**  
+  -Nov 18 <https://moca.ca/laws-of-motion-in-a-cartoon-landscape-program-2018/>  
+  -Jan 6 <https://moca.ca/believe-programs-2018/>  
 
+_Oct 20-Nov 17 <http://www.cuttsgallery.com/exhibitions/>_  
+_Nov 24-Dec 22 <http://www.cuttsgallery.com/exhibitions/>_  
 _Nov 3-Nov 24 <http://www.franzkaka.com/world-according-to-garp.html>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
--Oct 20 <https://coopercolegallery.com/exhibition/g-b-jones/> <https://coopercolegallery.com/exhibition/2018-genesis-breyer-p-orridge/>  
-**-Oct 27 <https://interaccess.org/exhibition/loner-culture>**  
--Oct 27 <http://angellgallery.com/exhibition/blue-rainbow> <http://angellgallery.com/exhibition/living-for-the-fame>  
+<u>-Oct 20</u> <https://coopercolegallery.com/exhibition/g-b-jones/> <https://coopercolegallery.com/exhibition/2018-genesis-breyer-p-orridge/>  
+**<u>-Oct 27</u> <https://interaccess.org/exhibition/loner-culture>**  
+<u>-Oct 27</u> <http://angellgallery.com/exhibition/blue-rainbow> <http://angellgallery.com/exhibition/living-for-the-fame>  
 -Nov 3 <https://alisonmilne.com/gallery/exhibitions/michelle-mackinnon>  
 **-Nov 18 <http://www.mattergallery.com/exhibitions>**  
+-Dec 1 <http://becontemporary.com/toronto.php> Sorel Etrog  
 
-_Oct 12-Dec 1 <http://becontemporary.com/toronto.php> Sorel Etrog_  
 _Nov 15-Dec 22 <https://alisonmilne.com/gallery/exhibitions/kirsten-sims>_  
