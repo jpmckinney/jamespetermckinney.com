@@ -19,8 +19,8 @@ published: true
 **<u>-Oct 25</u> <https://stratfordfestivalreviews.com/blog/shows/the-tempest-2018/>**  
 <u>-Oct 27</u> <https://www.crowstheatre.com/whats-on/view-all/the-wolves>  
 <u>-Oct 28</u> <http://www.tarragontheatre.com/show/harlem-duet/>  
+**-Nov 4 <http://buddiesinbadtimes.com/show/now-you-see-her/>**  
 
-_**Oct 16-Nov 4 <http://buddiesinbadtimes.com/show/now-you-see-her/>**_  
 _Oct 24-Oct 28 <https://www.soulpepper.ca/performances/japanese-problem/6159>_  
 _Oct 25-Nov 3 <https://www.crowstheatre.com/whats-on/view-all/the-assembly> Alex Ivanovici_  
 _Oct 28-Nov 25 <https://www.soulpepper.ca/performances/escaped-alone/6160> (LB)_  
@@ -40,8 +40,8 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
   -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
 **-Dec 9 <https://ryersonimagecentre.ca/exhibition/gordon-parks-the-flavio-story/> <https://ryersonimagecentre.ca/exhibition/terremoto-mexico-city-1985/> <https://ryersonimagecentre.ca/exhibition/claudia-joskowicz-every-building-on-avenida-alfonso-ugarte-after-ruscha/>**  
 -Mar 31 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/crosscurrents-canada-in-the-making>  
+-May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
 
-_Oct 10-May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>_  
 _**Nov 29-Mar 24 <https://ago.ca/exhibitions/mickalene-thomas-femmes-noires>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
@@ -52,11 +52,11 @@ _**Nov 29-Mar 24 <https://ago.ca/exhibitions/mickalene-thomas-femmes-noires>**_
 
 ### Downtown South
 
+-Dec 1 <https://gallery44.org/exhibitions/passages> <https://gallery44.org/exhibitions/toolkit-revolution>  
 **-Dec 23 <http://www.harbourfrontcentre.com/visualarts/2018/hand-is-the-mind/> <http://www.harbourfrontcentre.com/visualarts/2018/portraits-at-home/> <http://www.harbourfrontcentre.com/visualarts/2018/diagramdetritusdeconstruct/> <http://www.harbourfrontcentre.com/visualarts/2018/on-any-given-day/> <http://www.harbourfrontcentre.com/visualarts/2018/joint-efforts/>**  
   -Jun 2 <http://www.harbourfrontcentre.com/visualarts/2018/nordic-glass/>  
+**-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Length,-Breadth,-Thickness-and—Duration.aspx>**  
 
-_Oct 19-Dec 1 <https://gallery44.org/exhibitions/passages> <https://gallery44.org/exhibitions/toolkit-revolution>_  
-_**Oct 20-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Length,-Breadth,-Thickness-and—Duration.aspx>**_  
 _Nov 23-Dec 8 <https://www.photorama.ca>_  
 _Dec 7-Feb 2 <https://gallery44.org/exhibitions/track-3>_  
 _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(2).aspx>**_  
@@ -71,10 +71,9 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 
 -Nov 10 <http://www.olgakorpergallery.com/exhibitions/view?id=109>  
 -Nov 11 <http://band-rand.com/site/redefiningblackidentity/>  
-
-_Oct 18-Nov 24 <https://birchcontemporary.com/exhibition/will-gorlitz-solo-exhibition> <https://birchcontemporary.com/exhibition/solo-exhibition-2>_  
-_Oct 18-Nov 24 <http://susanhobbs.com/current>_  
-_Oct 20-Nov 17 <http://georgiascherman.com/ForthcomingExhibitions.html>_  
+-Nov 17 <http://georgiascherman.com/ForthcomingExhibitions.html>  
+-Nov 24 <https://birchcontemporary.com/exhibition/will-gorlitz-solo-exhibition> <https://birchcontemporary.com/exhibition/solo-exhibition-2>  
+-Nov 24 <http://susanhobbs.com/current>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -93,8 +92,8 @@ _Oct 20-Nov 17 <http://georgiascherman.com/ForthcomingExhibitions.html>_
 **-Nov 11 <https://moca.ca/rehearsing-disagreement-programs-2018/>**  
   -Nov 18 <https://moca.ca/laws-of-motion-in-a-cartoon-landscape-program-2018/>  
   -Jan 6 <https://moca.ca/believe-programs-2018/>  
+-Nov 17 <http://www.cuttsgallery.com/exhibitions/>  
 
-_Oct 20-Nov 17 <http://www.cuttsgallery.com/exhibitions/>_  
 _Nov 24-Dec 22 <http://www.cuttsgallery.com/exhibitions/>_  
 _Nov 3-Nov 24 <http://www.franzkaka.com/world-according-to-garp.html>_  
 
