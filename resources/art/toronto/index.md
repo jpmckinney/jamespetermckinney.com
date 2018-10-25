@@ -16,13 +16,11 @@ published: true
 
 ### Shows
 
-**<u>-Oct 25</u> <https://stratfordfestivalreviews.com/blog/shows/the-tempest-2018/>**  
 <u>-Oct 27</u> <https://www.crowstheatre.com/whats-on/view-all/the-wolves>  
 <u>-Oct 28</u> <http://www.tarragontheatre.com/show/harlem-duet/>  
-**-Nov 4 <http://buddiesinbadtimes.com/show/now-you-see-her/>**  
+<u>-Oct 28</u> <https://www.soulpepper.ca/performances/japanese-problem/6159>  
+<u>-Nov 3</u> <https://www.crowstheatre.com/whats-on/view-all/the-assembly> Alex Ivanovici
 
-_Oct 24-Oct 28 <https://www.soulpepper.ca/performances/japanese-problem/6159>_  
-_Oct 25-Nov 3 <https://www.crowstheatre.com/whats-on/view-all/the-assembly> Alex Ivanovici_  
 _Oct 28-Nov 25 <https://www.soulpepper.ca/performances/escaped-alone/6160> (LB)_  
 _Nov 14-Nov 18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=grand-finale> Hofesh Shechter_  
 _Nov 21-Nov 25 <https://national.ballet.ca/Productions/2018-19-Season/The-Dream> <https://national.ballet.ca/Tickets/Box-Office/Rush-Tickets>_  
@@ -32,9 +30,6 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Downtown North
 
-**<u>-Oct 21</u> <https://ago.ca/exhibitions/rebecca-belmore-facing-monumental>**  
-  **-Jan 6 <https://ago.ca/exhibitions/anthropocene>**  
-**<u>-Oct 23</u> <https://www.worldpressphoto.org/exhibitions/2018-exhibition/toronto>**  
 **<u>-Oct 27</u> <https://artmuseum.utoronto.ca/exhibition/hart-house-commission/>**  
   -Dec 8 <https://artmuseum.utoronto.ca/exhibition/i-continue-to-shape/>  
   -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
@@ -101,10 +96,9 @@ _Nov 3-Nov 24 <http://www.franzkaka.com/world-according-to-garp.html>_
 
 ### Dupont St & The Junction
 
-<u>-Oct 20</u> <https://coopercolegallery.com/exhibition/g-b-jones/> <https://coopercolegallery.com/exhibition/2018-genesis-breyer-p-orridge/>  
 **<u>-Oct 27</u> <https://interaccess.org/exhibition/loner-culture>**  
 <u>-Oct 27</u> <http://angellgallery.com/exhibition/blue-rainbow> <http://angellgallery.com/exhibition/living-for-the-fame>  
--Nov 3 <https://alisonmilne.com/gallery/exhibitions/michelle-mackinnon>  
+<u>-Nov 3</u> <https://alisonmilne.com/gallery/exhibitions/michelle-mackinnon>  
 **-Nov 18 <http://www.mattergallery.com/exhibitions>**  
 -Dec 1 <http://becontemporary.com/toronto.php> Sorel Etrog  
 
