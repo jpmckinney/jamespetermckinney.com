@@ -91,21 +91,13 @@ published: true
 ## Organizing
 
 * [Canadian Open Government Civil Society Network](http://www.opengovdialogue.ca/)
-* [TechPo Montreal](http://www.techpo.org/)
-
-## Databases
-
-* [Canadian open government data catalogs](https://github.com/jpmckinney/open_data_canada)
-* [Canadian government open source software](https://github.com/jpmckinney/open_source_canada)
-* [Ontario government agency data inventories](https://github.com/jpmckinney/ontario_agency_data_inventories)
-* [Canadian information request summaries and responses](https://github.com/jpmckinney/information_request_summaries_and_responses)
 
 ## Standards
 
 * [Popolo](http://www.popoloproject.com/), author
 * [Data Catalog Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat/), invited expert
 * [Organization Ontology (ORG)](https://www.w3.org/TR/vocab-org/), invited expert
-* [Open Contracting Data Standard](http://standard.open-contracting.org/), core team (1.0)
+* [Open Contracting Data Standard](http://standard.open-contracting.org/), core team (1.0), editor (present)
 * [US Project Open Data Metadata Schema](https://project-open-data.cio.gov/v1.1/schema/), contributor (1.0)
 * [Who's Got Dirt API](http://www.influencemapping.org/work/whosgotdirt/), author
 * [W3C vCard Ontology](https://www.w3.org/TR/vcard-rdf/), co-author
@@ -117,9 +109,15 @@ published: true
 * [Represent Boundaries](http://represent.poplus.org/)
 * [Citizen Budget](http://www.citizenbudget.com/)
 * [Ready Reckoner](http://www.readyreckoner.ca/)
-* [OpenHouseNS](http://www.openhousens.ca/)
 * [My RubyGems](https://rubygems.org/profiles/jpmckinney) ([status](http://jpmckinney.github.io/))
-* [My pull requests](https://github.com/pulls?q=is%3Apr+author%3Ajpmckinney+is%3Aclosed)
+* [My pull requests](https://github.com/pulls?q=is%3Apr+author%3Ajpmckinney+is%3Aclosed+-org%3Aopen-contracting+-org%3Aopen-contracting-archive+-org%3Aopen-contracting-extensions+-org%3Aopen-contracting-partnership+-org%3Aopenc+-org%3Aopennorth)
+
+## Databases
+
+* [Canadian open government data catalogs](https://github.com/jpmckinney/open_data_canada)
+* [Canadian government open source software](https://github.com/jpmckinney/open_source_canada)
+* [Ontario government agency data inventories](https://github.com/jpmckinney/ontario_agency_data_inventories)
+* [Canadian information request summaries and responses](https://github.com/jpmckinney/information_request_summaries_and_responses)
 {% endcapture %}
 
 {% include two-column.html one=one two=two %}
