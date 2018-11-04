@@ -49,21 +49,6 @@ Outdoor movies:
 * Jan-Mar <http://www.thebentway.ca>
 * Jan-Jul **<http://torontorollerderby.com/season-schedule/>**
 
-### Oct
-
-* **<https://www.worldpressphoto.org/exhibitions/2018-exhibition/toronto> photography 2-22**
-* <http://7a-11d.ca> performance 2-7
-* <https://www.arttoronto.ca> art fair 26-29
-* <https://www.alunatheatre.ca/festival/rutas-2018/> performance 3-14
-* <http://www.imaginenative.org> film 17-21
-* <http://www.reelworld.ca> film 9-14
-* <http://planetinfocus.org> film 25-28
-* <http://www.tsaff.ca> film 13-14
-* <http://ifoa.org> books 18-28
-* <https://musicgallery.org/xavant> music 11-14
-* <http://www.cxto.ca/technical-guide/> sport 28
-* <http://www.torontowaterfrontmarathon.com> sport 21
-
 ### Nov
 
 * <https://hotdocscinema.ca/c/podcast> podcasts 1-5
@@ -73,10 +58,9 @@ Outdoor movies:
 * <http://eutorontofilmfest.ca> film 8-22
 * <https://syff.ca> film 9-11
 * <http://brazilfilmfest.net/> film 1-4
+* <http://www.rendezvouswithmadness.ca> film 10-21
 * <https://www.alumnaetheatre.com/fireworks-festival-2018.html> theatre 7-25
-* <http://www.munkdebates.com> talk 2
 * <http://www.unsound.pl> music 3
-* ✖ <http://www.rendezvouswithmadness.ca> film 3-11 (2017)
 
 ### Dec
 
@@ -147,10 +131,8 @@ Outdoor movies:
 * <https://www.insideout.ca/torontofestival/> film 24-Jun 3
 * <https://tjff.com> film 3-13
 * <https://www.thetastemakertour.com> food 18-19
-* <http://www.munkdebates.com> talk 18
 * <http://www.nativeearth.ca/paprika-festival-2018/> young 14-20
 * <http://www.harbourfrontcentre.com/junior/> youth 19-25
-* <http://www.torontomarathon.com> sport 6
 * ✖ <http://subtletechnologies.com/festival/> art 10-Jun 25 (2017)
 
 ### Jun
@@ -227,3 +209,17 @@ Outdoor movies:
 * <https://brokenpencil.com/canzine/canzineto/canzine-toronto-events/> books 22
 * ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)
 * ✖ <http://torontourbanrootsfest.com> music 16-18 (2016)
+
+### Oct
+
+* **<https://www.worldpressphoto.org/exhibitions/2018-exhibition/toronto> photography 2-22**
+* <http://7a-11d.ca> performance 2-7
+* <https://www.arttoronto.ca> art fair 26-29
+* <https://www.alunatheatre.ca/festival/rutas-2018/> performance 3-14
+* <http://www.imaginenative.org> film 17-21
+* <http://www.reelworld.ca> film 9-14
+* <http://planetinfocus.org> film 25-28
+* <http://www.tsaff.ca> film 13-14
+* <http://ifoa.org> books 18-28
+* <https://musicgallery.org/xavant> music 11-14
+* <http://www.cxto.ca> sport 28

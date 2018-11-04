@@ -16,12 +16,6 @@ published: true
 
 ### Shows
 
-<u>-Oct 27</u> <https://www.crowstheatre.com/whats-on/view-all/the-wolves>  
-<u>-Oct 28</u> <http://www.tarragontheatre.com/show/harlem-duet/>  
-<u>-Oct 28</u> <https://www.soulpepper.ca/performances/japanese-problem/6159>  
-<u>-Nov 3</u> <https://www.crowstheatre.com/whats-on/view-all/the-assembly> Alex Ivanovici
-
-_Oct 28-Nov 25 <https://www.soulpepper.ca/performances/escaped-alone/6160> (LB)_  
 _Nov 14-Nov 18 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=grand-finale> Hofesh Shechter_  
 _Nov 21-Nov 25 <https://national.ballet.ca/Productions/2018-19-Season/The-Dream> <https://national.ballet.ca/Tickets/Box-Office/Rush-Tickets>_  
 _Apr 6-Apr 28 <https://www.soulpepper.ca/performances/copenhagen/6177>_  
@@ -30,12 +24,10 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Downtown North
 
-**<u>-Oct 27</u> <https://artmuseum.utoronto.ca/exhibition/hart-house-commission/>**  
-  -Dec 8 <https://artmuseum.utoronto.ca/exhibition/i-continue-to-shape/>  
-  -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
 **-Dec 9 <https://ryersonimagecentre.ca/exhibition/gordon-parks-the-flavio-story/> <https://ryersonimagecentre.ca/exhibition/terremoto-mexico-city-1985/> <https://ryersonimagecentre.ca/exhibition/claudia-joskowicz-every-building-on-avenida-alfonso-ugarte-after-ruscha/>**  
 -Mar 31 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/crosscurrents-canada-in-the-making>  
 -May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
+-Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
 
 _**Nov 29-Mar 24 <https://ago.ca/exhibitions/mickalene-thomas-femmes-noires>**_  
 
@@ -47,7 +39,9 @@ _**Nov 29-Mar 24 <https://ago.ca/exhibitions/mickalene-thomas-femmes-noires>**_
 
 ### Downtown South
 
--Dec 1 <https://gallery44.org/exhibitions/passages> <https://gallery44.org/exhibitions/toolkit-revolution>  
+**-Dec 1 <https://gallery44.org/exhibitions/passages> <https://gallery44.org/exhibitions/toolkit-revolution>**  
+  -Dec 19 <http://tangledarts.org/exhibits/somewhere-we-stay-authentic/>  
+-Dec 15 <https://scotiabankcontactphoto.com/2018/contact-gallery/digital-animalities>  
 **-Dec 23 <http://www.harbourfrontcentre.com/visualarts/2018/hand-is-the-mind/> <http://www.harbourfrontcentre.com/visualarts/2018/portraits-at-home/> <http://www.harbourfrontcentre.com/visualarts/2018/diagramdetritusdeconstruct/> <http://www.harbourfrontcentre.com/visualarts/2018/on-any-given-day/> <http://www.harbourfrontcentre.com/visualarts/2018/joint-efforts/>**  
   -Jun 2 <http://www.harbourfrontcentre.com/visualarts/2018/nordic-glass/>  
 **-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Length,-Breadth,-Thickness-and—Duration.aspx>**  
@@ -64,9 +58,8 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 
 ### Queen St
 
--Nov 10 <http://www.olgakorpergallery.com/exhibitions/view?id=109>  
--Nov 11 <http://band-rand.com/site/redefiningblackidentity/>  
--Nov 17 <http://georgiascherman.com/ForthcomingExhibitions.html>  
+<u>-Nov 11</u> <http://band-rand.com/site/redefiningblackidentity/>  
+<u>-Nov 17</u> <http://georgiascherman.com/ForthcomingExhibitions.html>  
 -Nov 24 <https://birchcontemporary.com/exhibition/will-gorlitz-solo-exhibition> <https://birchcontemporary.com/exhibition/solo-exhibition-2>  
 -Nov 24 <http://susanhobbs.com/current>  
 
@@ -84,22 +77,24 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 
 ### Bloordale & Junction Triangle
 
-**-Nov 11 <https://moca.ca/rehearsing-disagreement-programs-2018/>**  
+<u>-Nov 10</u> <http://www.olgakorpergallery.com/exhibitions/view?id=109>  
+**<u>-Nov 11</u> <https://moca.ca/rehearsing-disagreement-programs-2018/>**  
   -Nov 18 <https://moca.ca/laws-of-motion-in-a-cartoon-landscape-program-2018/>  
   -Jan 6 <https://moca.ca/believe-programs-2018/>  
--Nov 17 <http://www.cuttsgallery.com/exhibitions/>  
+<u>-Nov 17</u> <http://www.cuttsgallery.com/exhibitions/>  
+-Nov 24 <http://www.franzkaka.com/world-according-to-garp.html>  
 
+_**Nov 17-Jan 19 <http://www.mercerunion.org/exhibitions/bahar-noorizadeh-governance-machines-and-the-future-of-futures/>**_  
 _Nov 24-Dec 22 <http://www.cuttsgallery.com/exhibitions/>_  
-_Nov 3-Nov 24 <http://www.franzkaka.com/world-according-to-garp.html>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
-**<u>-Oct 27</u> <https://interaccess.org/exhibition/loner-culture>**  
-<u>-Oct 27</u> <http://angellgallery.com/exhibition/blue-rainbow> <http://angellgallery.com/exhibition/living-for-the-fame>  
-<u>-Nov 3</u> <https://alisonmilne.com/gallery/exhibitions/michelle-mackinnon>  
-**-Nov 18 <http://www.mattergallery.com/exhibitions>**  
+-Nov 24 <https://erinstumpprojects.com/current-exhibitions/karen-azoulay-amy-brener-shellwork>  
 -Dec 1 <http://becontemporary.com/toronto.php> Sorel Etrog  
+-Dec 9 <https://coopercolegallery.com/exhibition/kandis-williams/> <https://coopercolegallery.com/exhibition/2018_azza-el-siddique-let-me-hear-you-sweat/>  
 
+_**Nov 7-Dec 8 <https://interaccess.org/exhibition/preservation-and-permanence>**_  
+_Nov 10-Dec 1 <http://angellgallery.com/exhibition/rooms> <http://angellgallery.com/exhibition/almost-always-at-once>_  
 _Nov 15-Dec 22 <https://alisonmilne.com/gallery/exhibitions/kirsten-sims>_  

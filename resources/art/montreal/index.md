@@ -14,9 +14,7 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Downtown
 
-**-Oct 14 <http://www.musee-mccord.qc.ca/en/exhibitions/balenciaga/>**  
-
-_**Oct 20-Jun 20 <https://macm.org/en/exhibitions/julian-rosefeldt-manifesto/> <https://macm.org/en/exhibitions/francoise-sullivan/> <https://macm.org/en/exhibitions/scores/>**_  
+**-Jun 20 <https://macm.org/en/exhibitions/julian-rosefeldt-manifesto/> <https://macm.org/en/exhibitions/francoise-sullivan/> <https://macm.org/en/exhibitions/scores/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> MACM WUF9, MBAM W9, McCord W9, Centre for Architecture W9
 
@@ -24,10 +22,9 @@ _**Oct 20-Jun 20 <https://macm.org/en/exhibitions/julian-rosefeldt-manifesto/> <
 
 ### Old Port
 
-**-Jan 20 <https://phi-centre.com/en/event/echo-en/>**  
 -Dec 9 <http://fonderiedarling.org/The-Silver-Cord.html> <http://fonderiedarling.org/anteism.html>  
-
-_**Oct 25-Mar 3 <https://dhc-art.org/?page_id=10426>**_  
+**-Jan 20 <https://phi-centre.com/en/event/echo-en/>**  
+**-Mar 3 <https://dhc-art.org/?page_id=10426>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Centre Phi FSa8, Fonderie Darling U10
 
@@ -35,7 +32,7 @@ _**Oct 25-Mar 3 <https://dhc-art.org/?page_id=10426>**_
 
 ### Mile Ex
 
-_Oct 11-Jan 5 <https://www.facebook.com/events/163386751250401/>_  
+-Jan 5 <https://www.facebook.com/events/163386751250401/>  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Art Mûr UF8
 
@@ -51,7 +48,7 @@ _Oct 11-Jan 5 <https://www.facebook.com/events/163386751250401/>_
 
 ### Little Burgundy
 
-_**Jun 29-Aug 5 <https://www.elektramontreal.ca/bian>**_  
+**-Dec <http://arsenalmontreal.com/en/art-and-power-2018-en/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Arsenal T8
 
