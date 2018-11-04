@@ -40,7 +40,7 @@ The lists I subscribe to:
 * [GitHub](https://github.com/jpmckinney/) <i class="fa fa-github" aria-hidden="true"></i>
 * [LinkedIn](https://www.linkedin.com/in/mckinneyjames/) <i class="fa fa-linkedin" aria-hidden="true"></i>
 
-Most recent post: [8 more Canadian podcasts to subscribe to](https://medium.com/@jpmckinney/8-more-canadian-podcast-to-subscribe-to-202ed0b6abb5)
+Most recent post: [Monitoring Legislatures: The Long Game](https://medium.com/@jpmckinney/monitoring-legislatures-the-long-game-cefa4904ee81)
 {% endcapture %}
 
 {% include two-column.html one=one two=two %}
