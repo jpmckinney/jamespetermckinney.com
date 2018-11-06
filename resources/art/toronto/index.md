@@ -24,7 +24,6 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Downtown North
 
-**-Dec 9 <https://ryersonimagecentre.ca/exhibition/gordon-parks-the-flavio-story/> <https://ryersonimagecentre.ca/exhibition/terremoto-mexico-city-1985/> <https://ryersonimagecentre.ca/exhibition/claudia-joskowicz-every-building-on-avenida-alfonso-ugarte-after-ruscha/>**  
 -Mar 31 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/crosscurrents-canada-in-the-making>  
 -May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
@@ -42,8 +41,6 @@ _**Nov 29-Mar 24 <https://ago.ca/exhibitions/mickalene-thomas-femmes-noires>**_
 **-Dec 1 <https://gallery44.org/exhibitions/passages> <https://gallery44.org/exhibitions/toolkit-revolution>**  
   -Dec 19 <http://tangledarts.org/exhibits/somewhere-we-stay-authentic/>  
 -Dec 15 <https://scotiabankcontactphoto.com/2018/contact-gallery/digital-animalities>  
-**-Dec 23 <http://www.harbourfrontcentre.com/visualarts/2018/hand-is-the-mind/> <http://www.harbourfrontcentre.com/visualarts/2018/portraits-at-home/> <http://www.harbourfrontcentre.com/visualarts/2018/diagramdetritusdeconstruct/> <http://www.harbourfrontcentre.com/visualarts/2018/on-any-given-day/> <http://www.harbourfrontcentre.com/visualarts/2018/joint-efforts/>**  
-  -Jun 2 <http://www.harbourfrontcentre.com/visualarts/2018/nordic-glass/>  
 **-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Length,-Breadth,-Thickness-and—Duration.aspx>**  
 
 _Nov 23-Dec 8 <https://www.photorama.ca>_  
@@ -77,15 +74,12 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 
 ### Bloordale & Junction Triangle
 
-<u>-Nov 10</u> <http://www.olgakorpergallery.com/exhibitions/view?id=109>  
 **<u>-Nov 11</u> <https://moca.ca/rehearsing-disagreement-programs-2018/>**  
   -Nov 18 <https://moca.ca/laws-of-motion-in-a-cartoon-landscape-program-2018/>  
   -Jan 6 <https://moca.ca/believe-programs-2018/>  
-<u>-Nov 17</u> <http://www.cuttsgallery.com/exhibitions/>  
 -Nov 24 <http://www.franzkaka.com/world-according-to-garp.html>  
 
 _**Nov 17-Jan 19 <http://www.mercerunion.org/exhibitions/bahar-noorizadeh-governance-machines-and-the-future-of-futures/>**_  
-_Nov 24-Dec 22 <http://www.cuttsgallery.com/exhibitions/>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
