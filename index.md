@@ -23,7 +23,6 @@ The lists I subscribe to:
 * [Artery](https://artery.is)
 * [Forest Gregg](http://tinyletter.com/slow-news/archive)
 * [Gavin Starks](http://dgen.net)
-* [Lex Gill](https://tinyletter.com/alittlecloser)
 * [Tom Steinberg](http://eepurl.com/bvqAT5)
 * Art spaces in Toronto and Montreal
 * A few industry, local and miscellaneous newsletters
@@ -40,7 +39,7 @@ The lists I subscribe to:
 * [GitHub](https://github.com/jpmckinney/) <i class="fa fa-github" aria-hidden="true"></i>
 * [LinkedIn](https://www.linkedin.com/in/mckinneyjames/) <i class="fa fa-linkedin" aria-hidden="true"></i>
 
-Most recent post: [Monitoring Legislatures: The Long Game](https://medium.com/@jpmckinney/monitoring-legislatures-the-long-game-cefa4904ee81)
+Most recent post: [#IODC18: How’d we do on gender balance?](https://openheroines.org/iodc18-howd-we-do-on-gender-balance-dbf2a9c8f648)
 {% endcapture %}
 
 {% include two-column.html one=one two=two %}

@@ -42,6 +42,7 @@ _**Nov 29-Mar 24 <https://ago.ca/exhibitions/mickalene-thomas-femmes-noires>**_
   -Dec 19 <http://tangledarts.org/exhibits/somewhere-we-stay-authentic/>  
 -Dec 15 <https://scotiabankcontactphoto.com/2018/contact-gallery/digital-animalities>  
 **-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Length,-Breadth,-Thickness-and—Duration.aspx>**  
+-Jan 29 <http://becontemporary.com/project-space.php>  
 
 _Nov 23-Dec 8 <https://www.photorama.ca>_  
 _Dec 7-Feb 2 <https://gallery44.org/exhibitions/track-3>_  
@@ -87,8 +88,8 @@ _**Nov 17-Jan 19 <http://www.mercerunion.org/exhibitions/bahar-noorizadeh-govern
 
 -Nov 24 <https://erinstumpprojects.com/current-exhibitions/karen-azoulay-amy-brener-shellwork>  
 -Dec 1 <http://becontemporary.com/toronto.php> Sorel Etrog  
+-Dec 1 <http://angellgallery.com/exhibition/rooms> <http://angellgallery.com/exhibition/almost-always-at-once>  
+**-Dec 8 <https://interaccess.org/exhibition/preservation-and-permanence>**  
 -Dec 9 <https://coopercolegallery.com/exhibition/kandis-williams/> <https://coopercolegallery.com/exhibition/2018_azza-el-siddique-let-me-hear-you-sweat/>  
 
-_**Nov 7-Dec 8 <https://interaccess.org/exhibition/preservation-and-permanence>**_  
-_Nov 10-Dec 1 <http://angellgallery.com/exhibition/rooms> <http://angellgallery.com/exhibition/almost-always-at-once>_  
 _Nov 15-Dec 22 <https://alisonmilne.com/gallery/exhibitions/kirsten-sims>_  

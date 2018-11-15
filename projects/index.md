@@ -52,6 +52,7 @@ published: true
 
 ### Policy
 
+* [Open Washing: digging deeper into the tough questions](https://blog.okfn.org/2018/10/25/open-washing-digging-deeper-into-the-tough-questions/) (Open Knowledge Internationa, 2018)
 * [Boostrapping Culture in Government](http://www.cpsrenewal.ca/2017/06/bootstrapping-culture-in-government.html) (CPS Renewal, 2017)
 * [What’s needed to deliver on the federal government’s “open by default” promise?](http://policyoptions.irpp.org/magazines/march-2016/whats-needed-to-deliver-on-the-federal-governments-open-by-default-promise/) (Policy Options, 2016)
 * [Making government information more accessible](http://nationalpost.com/opinion/rudny-mckinney-making-government-information-more-accessible/wcm/35ea360f-a5a9-4609-b984-bd17d2864844) (National Post, 2016)
