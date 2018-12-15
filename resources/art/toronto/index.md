@@ -16,8 +16,9 @@ published: true
 
 ### Shows
 
+_Feb 6-Feb 24 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=prince-hamlet&BOparam::WScontent::loadArticle::context_id=>_  
 _Apr 6-Apr 28 <https://www.soulpepper.ca/performances/copenhagen/6177>_  
-_May 4-May 26 <https://www.soulpepper.ca/performances/the-brothers-size/6178> (LB)_  
+_May 4-May 26 <https://www.soulpepper.ca/performances/the-brothers-size/6178>_  
 _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>_  
 
 ### Downtown North
@@ -26,6 +27,8 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 -Mar 31 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/crosscurrents-canada-in-the-making>  
 -May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
+
+_Feb 2-Mar 23 <https://artmuseum.utoronto.ca/exhibition/vision-exchange-perspectives-from-india-to-canada/> <https://artmuseum.utoronto.ca/exhibition/p-mansaram-the-medium-is-the-medium-is-the-medium/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -36,7 +39,7 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 ### Downtown South
 
 **-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Length,-Breadth,-Thickness-and—Duration.aspx>**  
--Jan 29 <http://becontemporary.com/project-space.php>  
+-Jan 26 <http://becontemporary.com/project-space.php>  
 -Feb 2 <https://gallery44.org/exhibitions/track-3>  
 
 _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(2).aspx>**_  
@@ -69,14 +72,10 @@ _Feb 7-Mar 2 <http://www.birchcontemporary.com/exhibition/a-colourful-life>_
 
 ### Bloordale & Junction Triangle
 
-**<u>-Dec 8</u> <https://www.photorama.ca>**  
-
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
-**<u>-Dec 8</u> <https://interaccess.org/exhibition/preservation-and-permanence>**  
-<u>-Dec 9</u> <https://coopercolegallery.com/exhibition/kandis-williams/> <https://coopercolegallery.com/exhibition/2018_azza-el-siddique-let-me-hear-you-sweat/>  
 **-Dec 22 <https://erinstumpprojects.com/current-exhibitions/camille-rojas-sothebaes>**  
 -Dec 22 <https://alisonmilne.com/gallery/exhibitions/kirsten-sims>  
 _**-Jan 5 <http://angellgallery.com/exhibition/mitchell-f-chan>**_  

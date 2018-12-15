@@ -22,7 +22,6 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Old Port
 
--Dec 9 <http://fonderiedarling.org/The-Silver-Cord.html> <http://fonderiedarling.org/anteism.html>  
 **-Jan 20 <https://phi-centre.com/en/event/echo-en/>**  
 **-Mar 3 <https://dhc-art.org/?page_id=10426>**  
 
