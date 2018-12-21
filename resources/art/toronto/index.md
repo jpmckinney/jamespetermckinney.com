@@ -78,5 +78,5 @@ _Feb 7-Mar 2 <http://www.birchcontemporary.com/exhibition/a-colourful-life>_
 
 **-Dec 22 <https://erinstumpprojects.com/current-exhibitions/camille-rojas-sothebaes>**  
 -Dec 22 <https://alisonmilne.com/gallery/exhibitions/kirsten-sims>  
-_**-Jan 5 <http://angellgallery.com/exhibition/mitchell-f-chan>**_  
+**-Jan 5 <http://angellgallery.com/exhibition/mitchell-f-chan>**  
 -Feb 9 <http://www.mattergallery.com/exhibitions/2018/12/6/soul-structures>  

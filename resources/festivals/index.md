@@ -20,6 +20,14 @@ published: true
 * <http://www.super8porter.ca/Festivals.htm> film
 * <https://www.badgirlscollective.ca> books
 
+### Fall/Winter
+
+* Sep-Nov <http://naisa.ca/festivals/soundplayseries/> art/music
+* Nov-Mar <http://www.torontolongwinter.com> art/performance/music
+* Dec-Mar <http://ontarioplace.com/en/event/winter-ontario-place/>
+* Jan-Mar <http://www.thebentway.ca>
+* Jan-Jul **<http://torontorollerderby.com/season-schedule/>**
+
 ### Spring/Summer
 
 * **Apr-Oct <http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
@@ -40,38 +48,12 @@ Outdoor movies:
 * Jul-Sep <https://en.downsviewpark.ca/event/friday-night-lights-2018>
 * Jun-Sep <https://www.blogto.com/film/2018/06/free-outdoor-movies-toronto-summer-2018/>
 
-### Fall/Winter
-
-* Sep-Nov <http://naisa.ca/festivals/soundplayseries/> art/music
-* Nov-Mar <http://www.torontolongwinter.com> art/performance/music
-* Dec-Mar <http://ontarioplace.com/en/event/winter-ontario-place/>
-* Jan-Mar <https://www.torontolightfest.com>
-* Jan-Mar <http://www.thebentway.ca>
-* Jan-Jul **<http://torontorollerderby.com/season-schedule/>**
-
-### Nov
-
-* <https://hotdocscinema.ca/c/podcast> podcasts 1-5
-* <http://handeyesociety.com/wordplay/> games 10
-* <http://regentparkfilmfestival.com> film 13-17
-* <http://torontoqueerfilmfest.com> film 1-4
-* <http://eutorontofilmfest.ca> film 8-22
-* <https://syff.ca> film 9-11
-* <http://brazilfilmfest.net/> film 1-4
-* <http://www.rendezvouswithmadness.ca> film 10-21
-* <https://www.alumnaetheatre.com/fireworks-festival-2018.html> theatre 7-25
-* <http://www.unsound.pl> music 3
-
-### Dec
-
-* <http://www.jayu.ca/film-festival/> film 7-9
-* <http://torontochristmasmarket.com>
-
 ### Jan
 
 * **<http://www.tiff.net/canadas-top-ten/> film 12-21**
 * **<https://www.facebook.com/events/2030394877237005/> Come Up To My Room design 18-21**
 * **<http://www.waterfrontbia.com/event/ice-breakers/> 19-Mar 18**
+* **<https://www.torontolightfest.com> 18-Mar 3**
 * <http://todesignoffsite.com> design 15-21
 * <http://naisa.ca/festivals/deep-wireless/> radio
 * <https://factoronto.org> art 2019/2020
@@ -223,3 +205,21 @@ Outdoor movies:
 * <http://ifoa.org> books 18-28
 * <https://musicgallery.org/xavant> music 11-14
 * <http://www.cxto.ca> sport 28
+
+### Nov
+
+* <https://hotdocscinema.ca/c/podcast> podcasts 1-5
+* <http://handeyesociety.com/wordplay/> games 10
+* <http://regentparkfilmfestival.com> film 13-17
+* <http://torontoqueerfilmfest.com> film 1-4
+* <http://eutorontofilmfest.ca> film 8-22
+* <https://syff.ca> film 9-11
+* <http://brazilfilmfest.net/> film 1-4
+* <http://www.rendezvouswithmadness.ca> film 10-21
+* <https://www.alumnaetheatre.com/fireworks-festival-2018.html> theatre 7-25
+* <http://www.unsound.pl> music 3
+
+### Dec
+
+* <http://www.jayu.ca/film-festival/> film 7-9
+* <http://torontochristmasmarket.com>
