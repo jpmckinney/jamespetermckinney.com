@@ -28,6 +28,8 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 -May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
 
+_**Jan 23-Apr 7 <https://ryersonimagecentre.ca/exhibition/tanenbaum-collection/> <https://ryersonimagecentre.ca/exhibition/laura-henno-mtsamboro/>**_
+_Jan 23-Feb 24 <https://ryersonimagecentre.ca/exhibition/kodak-canada-the-early-years-1899-1939/>_  
 _Feb 2-Mar 23 <https://artmuseum.utoronto.ca/exhibition/vision-exchange-perspectives-from-india-to-canada/> <https://artmuseum.utoronto.ca/exhibition/p-mansaram-the-medium-is-the-medium-is-the-medium/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
@@ -38,9 +40,9 @@ _Feb 2-Mar 23 <https://artmuseum.utoronto.ca/exhibition/vision-exchange-perspect
 
 ### Downtown South
 
-**-Dec 30 <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2018/Fall-2018/Length,-Breadth,-Thickness-and—Duration.aspx>**  
 -Jan 26 <http://becontemporary.com/project-space.php>  
 -Feb 2 <https://gallery44.org/exhibitions/track-3>  
+-Apr 14 <https://www2.ocadu.ca/event/how-to-breathe-forever>  
 
 _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(2).aspx>**_  
 
@@ -52,10 +54,12 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 
 ### Queen St
 
--Jan 12 <http://www.birchcontemporary.com/exhibition/myrllen-a-portrait> <http://www.birchcontemporary.com/exhibition/acid-garden>  
--Jan 12 <http://www.georgiascherman.com/Exhibitions.html>  
+<u>-Jan 12</u> <https://www.gladstonehotel.com/spaces/flight-clara-hirsch/>
+<u>-Jan 12</u> <http://www.birchcontemporary.com/exhibition/myrllen-a-portrait> <http://www.birchcontemporary.com/exhibition/acid-garden>  
+<u>-Jan 12</u> <http://www.georgiascherman.com/Exhibitions.html>  
 -Feb 2 <http://susanhobbs.com/exhibits/1441-ian-carr-harris>  
 
+_**Jan 17-Mar 17 <http://kofflerarts.org/exhibitions/2018/09/12/ghazaleh-avarzamani/>**_  
 _Feb 7-Mar 2 <http://www.birchcontemporary.com/exhibition/a-colourful-life>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
@@ -72,11 +76,14 @@ _Feb 7-Mar 2 <http://www.birchcontemporary.com/exhibition/a-colourful-life>_
 
 ### Bloordale & Junction Triangle
 
+**Jan 16-Feb 23 <http://gallerytpw.ca/exhibitions/lum-desranleau/>**  
+
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
-**-Dec 22 <https://erinstumpprojects.com/current-exhibitions/camille-rojas-sothebaes>**  
--Dec 22 <https://alisonmilne.com/gallery/exhibitions/kirsten-sims>  
-**-Jan 5 <http://angellgallery.com/exhibition/mitchell-f-chan>**  
--Feb 9 <http://www.mattergallery.com/exhibitions/2018/12/6/soul-structures>  
+-Feb 2 <https://coopercolegallery.com/exhibition/2018-angelo-plessas-the-talisman-of-the-brotherhood-portal/> <https://coopercolegallery.com/exhibition/2018-chrysanne-stathacos-gold-rush/>  
+**-Feb 9 <http://www.mattergallery.com/exhibitions/2018/12/6/soul-structures>**  
+
+_Jan 12-Feb 9 <http://angellgallery.com/exhibition/i-followed-a-spiral-it-felt-like-a-loop> <http://angellgallery.com/exhibition/spirit-trails>_  
+_Feb 16-Mar 16 <http://angellgallery.com/exhibition/the-snow-show>_  

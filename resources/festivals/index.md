@@ -82,6 +82,7 @@ Outdoor movies:
 
 ### Apr
 
+* **<http://www.torontosilentfilmfestival.com> 4-8**
 * **<https://twitter.com/WonkProm> meetup 20**
 * **<http://imagesfestival.com> art 12-20**
 * **<https://www.hotdocs.ca> film 26-May 6**
