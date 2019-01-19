@@ -28,8 +28,8 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 -May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
 
-_**Jan 23-Apr 7 <https://ryersonimagecentre.ca/exhibition/tanenbaum-collection/> <https://ryersonimagecentre.ca/exhibition/laura-henno-mtsamboro/>**_
-_Jan 23-Feb 24 <https://ryersonimagecentre.ca/exhibition/kodak-canada-the-early-years-1899-1939/>_  
+_**Jan 23-Apr 7 <https://ryersonimagecentre.ca/exhibition/tanenbaum-collection/> <https://ryersonimagecentre.ca/exhibition/laura-henno-mtsamboro/>**_  
+  _Jan 23-Feb 24 <https://ryersonimagecentre.ca/exhibition/kodak-canada-the-early-years-1899-1939/>_  
 _**Feb 2-Mar 23 <https://artmuseum.utoronto.ca/exhibition/vision-exchange-perspectives-from-india-to-canada/> <https://artmuseum.utoronto.ca/exhibition/p-mansaram-the-medium-is-the-medium-is-the-medium/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
@@ -84,7 +84,7 @@ _Feb 7-Mar 2 <http://www.birchcontemporary.com/exhibition/a-colourful-life>_
 -Feb 2 <http://www.franzkaka.com/elif-saydam.html>  
 **-Feb 23 <http://gallerytpw.ca/exhibitions/lum-desranleau/>**  
 
-_**Feb 14-Apr 14 <https://moca.ca/chantal-akerman-programs-2019/> <<https://moca.ca/basma-alsharif-programs-2019/>**_  
+_**Feb 14-Apr 14 <https://moca.ca/chantal-akerman-programs-2019/> <https://moca.ca/basma-alsharif-programs-2019/>**_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
