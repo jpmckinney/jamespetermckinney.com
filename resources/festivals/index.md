@@ -62,7 +62,7 @@ Outdoor movies:
 
 ### Feb
 
-* <http://progressfestival.org/> performance Jan 30-17
+* <http://progressfestival.org> performance Jan 30-17
 * <https://www.tiff.net/nextwave/> film 16-18
 * <http://buddiesinbadtimes.com> Rhubarb Festival 17-28
 * <http://www.theartistproject.com> art fair 22-25
@@ -156,7 +156,7 @@ Outdoor movies:
 * <https://www.facebook.com/toabf> books 5-8
 * <https://www.facebook.com/ossingtonfestival/> sport 28
 * <http://bigonbloorfestival.com> art/culture 21-28
-* <https://torontocarnival.ca/> culture 8-Aug 12
+* <https://torontocarnival.ca> culture 8-Aug 12
 * <http://www.culturafestival.ca> culture 6-27
 * <http://www.salsaintoronto.com/lineup/salsa-on-st-clair/> culture 7-8
 * <http://www.harbourfrontcentre.com/barbadosonthewater/> culture 7-8
@@ -185,7 +185,7 @@ Outdoor movies:
 
 ### Sep
 
-* **<https://torontobiennial.org/> art 21-**
+* **<https://torontobiennial.org> art 21-**
 * **<https://www.tiff.net/tiff/> film 6-16**
 * **<http://www.nbto.com> art 29**
 * **<http://roguewaveart.org> art 8-Oct 27**
@@ -217,7 +217,7 @@ Outdoor movies:
 * <http://torontoqueerfilmfest.com> film 1-4
 * <http://eutorontofilmfest.ca> film 8-22
 * <https://syff.ca> film 9-11
-* <http://brazilfilmfest.net/> film 1-4
+* <http://brazilfilmfest.net> film 1-4
 * <http://www.rendezvouswithmadness.ca> film 10-21
 * <https://www.alumnaetheatre.com/fireworks-festival-2018.html> theatre 7-25
 * <http://www.unsound.pl> music 3
