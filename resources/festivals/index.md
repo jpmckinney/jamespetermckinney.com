@@ -26,7 +26,8 @@ published: true
 * Nov-Mar <http://www.torontolongwinter.com> art/performance/music
 * Dec-Mar <http://ontarioplace.com/en/event/winter-ontario-place/>
 * Jan-Mar <http://www.thebentway.ca>
-* Jan-Jul **<http://torontorollerderby.com/season-schedule/>**
+* Jan-Mar **<http://www.tiff.net/canadas-top-ten/> film**
+* Jan-Jul **<http://torontorollerderby.com/season-schedule/> sport**
 
 ### Spring/Summer
 
@@ -50,7 +51,6 @@ Outdoor movies:
 
 ### Jan
 
-* **<http://www.tiff.net/canadas-top-ten/> film 12-21**
 * **<https://www.facebook.com/events/2030394877237005/> Come Up To My Room design 18-21**
 * **<http://www.waterfrontbia.com/event/ice-breakers/> 19-Mar 18**
 * **<https://www.torontolightfest.com> 18-Mar 3**
@@ -62,6 +62,7 @@ Outdoor movies:
 
 ### Feb
 
+* <http://progressfestival.org/> performance Jan 30-17
 * <https://www.tiff.net/nextwave/> film 16-18
 * <http://buddiesinbadtimes.com> Rhubarb Festival 17-28
 * <http://www.theartistproject.com> art fair 22-25
@@ -184,6 +185,7 @@ Outdoor movies:
 
 ### Sep
 
+* **<https://torontobiennial.org/> art 21-**
 * **<https://www.tiff.net/tiff/> film 6-16**
 * **<http://www.nbto.com> art 29**
 * **<http://roguewaveart.org> art 8-Oct 27**

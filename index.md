@@ -39,7 +39,7 @@ The lists I subscribe to:
 * [GitHub](https://github.com/jpmckinney/) <i class="fa fa-github" aria-hidden="true"></i>
 * [LinkedIn](https://www.linkedin.com/in/mckinneyjames/) <i class="fa fa-linkedin" aria-hidden="true"></i>
 
-Most recent post: [#IODC18: How’d we do on gender balance?](https://openheroines.org/iodc18-howd-we-do-on-gender-balance-dbf2a9c8f648)
+Most recent post: [2018 Podcast Roundup](https://medium.com/@jpmckinney/2018-podcast-roundup-60c782e0fc3b)
 {% endcapture %}
 
 {% include two-column.html one=one two=two %}
