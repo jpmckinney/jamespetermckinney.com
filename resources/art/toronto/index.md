@@ -25,11 +25,11 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 **-Mar 24 <https://ago.ca/exhibitions/mickalene-thomas-femmes-noires>**  
 -Mar 31 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/crosscurrents-canada-in-the-making>  
+**-Apr 7 <https://ryersonimagecentre.ca/exhibition/tanenbaum-collection/> <https://ryersonimagecentre.ca/exhibition/laura-henno-mtsamboro/>**  
+  -Feb 24 <https://ryersonimagecentre.ca/exhibition/kodak-canada-the-early-years-1899-1939/>  
 -May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
 
-_**Jan 23-Apr 7 <https://ryersonimagecentre.ca/exhibition/tanenbaum-collection/> <https://ryersonimagecentre.ca/exhibition/laura-henno-mtsamboro/>**_  
-  _Jan 23-Feb 24 <https://ryersonimagecentre.ca/exhibition/kodak-canada-the-early-years-1899-1939/>_  
 _**Feb 2-Mar 23 <https://artmuseum.utoronto.ca/exhibition/vision-exchange-perspectives-from-india-to-canada/> <https://artmuseum.utoronto.ca/exhibition/p-mansaram-the-medium-is-the-medium-is-the-medium/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
@@ -40,18 +40,13 @@ _**Feb 2-Mar 23 <https://artmuseum.utoronto.ca/exhibition/vision-exchange-perspe
 
 ### Downtown South
 
--Jan 26 <http://becontemporary.com/project-space.php>  
-**-Feb 2 <https://gallery44.org/exhibitions/track-3>**  
-  -Feb 2 <http://www.circuitgallery.com/exhibitions/philip-cheung-arctic-front/>  
+-Feb 24 <http://tangledarts.org/exhibits/through-a-tired-eye/>  
   -Mar 15 <http://tangledarts.org/exhibits/constructed-identities-2/>  
-  -Mar 16 <http://www.yyzartistsoutlet.org/2018/11/antonvidokle/>  
 -Mar 3 <http://www.harbourfrontcentre.com/visualarts/2018/surface-tension/>  
   -Jun 2 <http://www.harbourfrontcentre.com/visualarts/2018/skew-whiff/> <http://www.harbourfrontcentre.com/visualarts/2018/everyday-objects/> <http://www.harbourfrontcentre.com/visualarts/2018/to-the-strangers-i-love-deeply/> <http://www.harbourfrontcentre.com/visualarts/2018/in-still-life/>  
   -Jul 1 <http://www.harbourfrontcentre.com/visualarts/2018/as-cavetto/>  
 -Apr 14 <https://www2.ocadu.ca/event/how-to-breathe-forever>  
-
-_Jan 24-Feb 24 <http://tangledarts.org/exhibits/through-a-tired-eye/>_  
-_**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(2).aspx>**_  
+**-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(2).aspx>**  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -61,8 +56,6 @@ _**Jan 26-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Unti
 
 ### Queen St
 
--Jan 26 <http://www.birchcontemporary.com/exhibition/myrllen-a-portrait> <http://www.birchcontemporary.com/exhibition/acid-garden>  
--Feb 2 <http://susanhobbs.com/exhibits/1441-ian-carr-harris>  
 **-Mar 17 <http://kofflerarts.org/exhibitions/2018/09/12/ghazaleh-avarzamani/>**  
 
 _Feb 7-Mar 2 <http://www.birchcontemporary.com/exhibition/a-colourful-life>_  
@@ -81,7 +74,6 @@ _Feb 7-Mar 2 <http://www.birchcontemporary.com/exhibition/a-colourful-life>_
 
 ### Bloordale & Junction Triangle
 
--Feb 2 <http://www.franzkaka.com/elif-saydam.html>  
 **-Feb 23 <http://gallerytpw.ca/exhibitions/lum-desranleau/>**  
 
 _**Feb 14-Apr 14 <https://moca.ca/chantal-akerman-programs-2019/> <https://moca.ca/basma-alsharif-programs-2019/>**_  
@@ -93,6 +85,6 @@ _**Feb 14-Apr 14 <https://moca.ca/chantal-akerman-programs-2019/> <https://moca.
 -Feb 2 <https://coopercolegallery.com/exhibition/2018-angelo-plessas-the-talisman-of-the-brotherhood-portal/> <https://coopercolegallery.com/exhibition/2018-chrysanne-stathacos-gold-rush/>  
 -Feb 9 <http://angellgallery.com/exhibition/i-followed-a-spiral-it-felt-like-a-loop> <http://angellgallery.com/exhibition/spirit-trails>  
 **-Feb 9 <http://www.mattergallery.com/exhibitions/2018/12/6/soul-structures>**  
+**-Feb 16 <https://interaccess.org/exhibition/pollinating-proxies>**  
 
-_**Jan 23-Feb 16 <https://interaccess.org/exhibition/pollinating-proxies>**_  
 _Feb 16-Mar 16 <http://angellgallery.com/exhibition/the-snow-show>_  
