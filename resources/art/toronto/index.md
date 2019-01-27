@@ -82,9 +82,6 @@ _**Feb 14-Apr 14 <https://moca.ca/chantal-akerman-programs-2019/> <https://moca.
 
 ### Dupont St & The Junction
 
--Feb 2 <https://coopercolegallery.com/exhibition/2018-angelo-plessas-the-talisman-of-the-brotherhood-portal/> <https://coopercolegallery.com/exhibition/2018-chrysanne-stathacos-gold-rush/>  
--Feb 9 <http://angellgallery.com/exhibition/i-followed-a-spiral-it-felt-like-a-loop> <http://angellgallery.com/exhibition/spirit-trails>  
-**-Feb 9 <http://www.mattergallery.com/exhibitions/2018/12/6/soul-structures>**  
 **-Feb 16 <https://interaccess.org/exhibition/pollinating-proxies>**  
 
 _Feb 16-Mar 16 <http://angellgallery.com/exhibition/the-snow-show>_  
