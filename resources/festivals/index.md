@@ -55,7 +55,7 @@ Outdoor movies:
 * **<http://www.waterfrontbia.com/event/ice-breakers/> 19-Mar 18**
 * **<https://www.torontolightfest.com> 18-Mar 3**
 * <http://todesignoffsite.com> design 15-21
-* <http://naisa.ca/festivals/deep-wireless/> radio
+* <http://naisa.ca/festivals/deep-wireless/> radio 17
 * <https://factoronto.org> art 2019/2020
 * ✖ <http://www.durationanddialogue.com> performance 27-29 (2017)
 * ✖ <http://www.endlesscity.org/cu> art/music 20-Feb 28 (2016)
@@ -66,8 +66,8 @@ Outdoor movies:
 * <https://www.tiff.net/nextwave/> film 16-18
 * <http://buddiesinbadtimes.com> Rhubarb Festival 17-28
 * <http://www.theartistproject.com> art fair 22-25
+* <http://www.bloor-yorkville.com/icefest/> 9-10
 * <http://www.eroticartsandcrafts.com> 10
-* <http://www.bloor-yorkville.com/icefest/> 24-25
 * <http://cinefranco.com> film 14-15
 * <https://torontoblackfilm.com> film 14-19
 * <http://teafestivaltoronto.com> tea 3-4

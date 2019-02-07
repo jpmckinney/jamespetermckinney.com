@@ -24,6 +24,8 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 **-Mar 3 <https://dhc-art.org/?page_id=10426>**  
 
+_**Apr 25-Sep 15 <https://dhc-art.org/yoko-ono-exhibition/>**_  
+
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Centre Phi FSa8, Fonderie Darling U10
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> DHC/ART, Centre Phi, Fonderie Darling / Beauchamp, Got, LeRoyer, MX, Matthew Namour
@@ -43,6 +45,8 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> d'Este
 
 ### Little Burgundy
+
+**<http://arsenalmontreal.com/details/selection-collection-hiver-2019/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Arsenal T8
 
