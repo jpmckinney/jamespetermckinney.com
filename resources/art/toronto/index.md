@@ -16,7 +16,9 @@ published: true
 
 ### Shows
 
+_Mar 7-Mar 16 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=revisor&BOparam::WScontent::loadArticle::context_id=> Revisor_
 _Apr 6-Apr 28 <https://www.soulpepper.ca/performances/copenhagen/6177>_  
+_**May 3-May 12 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=887&BOparam::WScontent::loadArticle::context_id=> 887**_
 _May 4-May 26 <https://www.soulpepper.ca/performances/the-brothers-size/6178>_  
 _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>_  
 
@@ -24,10 +26,13 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 **-Mar 24 <https://ago.ca/exhibitions/mickalene-thomas-femmes-noires>**  
 -Mar 31 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/crosscurrents-canada-in-the-making>  
+  -May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
+  -Apr 1 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/behind-the-scenes-beadwork-conservation>  
 **-Apr 7 <https://ryersonimagecentre.ca/exhibition/tanenbaum-collection/> <https://ryersonimagecentre.ca/exhibition/laura-henno-mtsamboro/>**  
-  -Feb 24 <https://ryersonimagecentre.ca/exhibition/kodak-canada-the-early-years-1899-1939/>  
--May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
+
+_**Apr 25-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**_  
+_Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -37,12 +42,12 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Downtown South
 
--Feb 24 <http://tangledarts.org/exhibits/through-a-tired-eye/>  
-  -Mar 15 <http://tangledarts.org/exhibits/constructed-identities-2/>  
-  -Mar 30 <http://www.prefix.ca/deimantas-narkevicius/>  
--Mar 3 <http://www.harbourfrontcentre.com/visualarts/2018/surface-tension/>  
+<u>-Mar 3</u> <http://www.harbourfrontcentre.com/visualarts/2018/surface-tension/>  
   -Jun 2 <http://www.harbourfrontcentre.com/visualarts/2018/skew-whiff/> <http://www.harbourfrontcentre.com/visualarts/2018/everyday-objects/> <http://www.harbourfrontcentre.com/visualarts/2018/to-the-strangers-i-love-deeply/> <http://www.harbourfrontcentre.com/visualarts/2018/in-still-life/>  
   -Jul 1 <http://www.harbourfrontcentre.com/visualarts/2018/as-cavetto/>  
+-Mar 15 <http://tangledarts.org/exhibits/constructed-identities-2/>  
+  -Mar 16 <https://gallery44.org/Salon44> <https://gallery44.org/exhibitions/somewhere-else>  
+  -Mar 30 <http://www.prefix.ca/deimantas-narkevicius/>  
 -Apr 14 <https://www2.ocadu.ca/event/how-to-breathe-forever>  
 **-May 12 <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(1).aspx> <http://www.thepowerplant.org/Exhibitions/2019/Winter-2019/Untitled-(2).aspx>**  
 
@@ -54,7 +59,7 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Queen St
 
--Mar 2 <http://www.birchcontemporary.com/exhibition/a-colourful-life>  
+<u>-Mar 2</u> <http://www.birchcontemporary.com/exhibition/a-colourful-life>  
 -Mar 23 <http://susanhobbs.com/exhibits/1443-lets-look-at-the-figures>  
 **-Mar 17 <http://kofflerarts.org/exhibitions/2018/09/12/ghazaleh-avarzamani/>**  
   -Mar 31 <https://criticaldistance.ca/program/exposing-liminalities/>  
@@ -73,7 +78,6 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Bloordale & Junction Triangle
 
-**-Feb 23 <http://gallerytpw.ca/exhibitions/lum-desranleau/>**  
 **-Mar 23 <http://www.mercerunion.org/exhibitions/nep-sidhu-medicine-for-a-nightmare-they-called-we-responded/>**  
 **-Apr 14 <https://moca.ca/chantal-akerman-programs-2019/> <https://moca.ca/basma-alsharif-programs-2019/>**  
 
@@ -81,10 +85,11 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Dupont St & The Junction
 
-**-Feb 16 <https://interaccess.org/exhibition/pollinating-proxies>**  
--Mar 9 <https://alisonmilne.com/gallery/exhibitions/phytology-photography>  
+<u>-Mar 9</u> <https://alisonmilne.com/gallery/exhibitions/phytology-photography>  
+<u>-Mar 9</u> <http://sibling.online/downturn.html>  
+-Mar 16 <http://angellgallery.com/exhibition/the-snow-show>  
+-Mar 23 <https://coopercolegallery.com/exhibition/2019-jesse-harris-ad-nauseam/>  
 
-_Feb 16-Mar 16 <http://angellgallery.com/exhibition/the-snow-show>_  
 _**Mar 6-May 4 <https://interaccess.org/exhibition/film-path-camera-path-under-titles>**_  
 _Mar 21-Apr 20 <https://alisonmilne.com/gallery/exhibitions/mitchell-fenton-ski>_  
 _May 1-Jun 1 <https://alisonmilne.com/gallery/exhibitions/anthea-baxter-page-passages>_  

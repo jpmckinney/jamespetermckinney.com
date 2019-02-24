@@ -49,29 +49,6 @@ Outdoor movies:
 * Jul-Sep <https://en.downsviewpark.ca/event/friday-night-lights-2018>
 * Jun-Sep <https://www.blogto.com/film/2018/06/free-outdoor-movies-toronto-summer-2018/>
 
-### Jan
-
-* **<https://www.facebook.com/events/2030394877237005/> Come Up To My Room design 18-21**
-* **<http://www.waterfrontbia.com/event/ice-breakers/> 19-Mar 18**
-* **<https://www.torontolightfest.com> 18-Mar 3**
-* <http://todesignoffsite.com> design 15-21
-* <http://naisa.ca/festivals/deep-wireless/> radio 17
-* <https://factoronto.org> art 2019/2020
-* ✖ <http://www.durationanddialogue.com> performance 27-29 (2017)
-* ✖ <http://www.endlesscity.org/cu> art/music 20-Feb 28 (2016)
-
-### Feb
-
-* <http://progressfestival.org> performance Jan 30-17
-* <https://www.tiff.net/nextwave/> film 16-18
-* <http://buddiesinbadtimes.com> Rhubarb Festival 17-28
-* <http://www.theartistproject.com> art fair 22-25
-* <http://www.bloor-yorkville.com/icefest/> 9-10
-* <http://www.eroticartsandcrafts.com> 10
-* <http://cinefranco.com> film 14-15
-* <https://torontoblackfilm.com> film 14-19
-* <http://teafestivaltoronto.com> tea 3-4
-
 ### Mar
 
 * **<https://winterstations.com> art Feb 19-Apr 1**
@@ -226,3 +203,26 @@ Outdoor movies:
 
 * <http://www.jayu.ca/film-festival/> film 7-9
 * <http://torontochristmasmarket.com>
+
+### Jan
+
+* **<https://www.facebook.com/events/2030394877237005/> Come Up To My Room design 18-21**
+* **<http://www.waterfrontbia.com/event/ice-breakers/> 19-Mar 18**
+* **<https://www.torontolightfest.com> 18-Mar 3**
+* <http://todesignoffsite.com> design 15-21
+* <http://naisa.ca/festivals/deep-wireless/> radio 17
+* <https://factoronto.org> art 2019/2020
+* ✖ <http://www.durationanddialogue.com> performance 27-29 (2017)
+* ✖ <http://www.endlesscity.org/cu> art/music 20-Feb 28 (2016)
+
+### Feb
+
+* <http://progressfestival.org> performance Jan 30-17
+* <https://www.tiff.net/nextwave/> film 15-17
+* <http://buddiesinbadtimes.com> Rhubarb Festival 17-28
+* <http://www.theartistproject.com> art fair 22-25
+* <http://www.bloor-yorkville.com/icefest/> 9-10
+* <http://www.eroticartsandcrafts.com> 10
+* <http://cinefranco.com> film 14-15
+* <https://torontoblackfilm.com> film 14-19
+* <http://teafestivaltoronto.com> tea 3-4
