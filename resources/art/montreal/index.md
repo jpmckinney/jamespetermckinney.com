@@ -22,7 +22,7 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 ### Old Port
 
-**-Mar 3 <https://dhc-art.org/?page_id=10426>**  
+-Apr 28 <https://phi-centre.com/en/event/the-horrifically-real-virtuality-en/>  
 
 _**Apr 25-Sep 15 <https://dhc-art.org/yoko-ono-exhibition/>**_  
 
