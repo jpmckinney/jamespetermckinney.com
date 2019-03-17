@@ -53,6 +53,7 @@ Outdoor movies:
 
 * **<https://winterstations.com> art Feb 19-Apr 1**
 * **<https://www.tso.ca/new-creations-festival> music 3-10**
+* <https://www.canfilmfest.ca> film 19-23
 * <http://www.torontosketchfest.com> 7-19
 * <http://www.torontostorytellingfestival.ca> talk 2-4, 19-25
 * <https://ff.hrw.org/toronto> film 18-25
