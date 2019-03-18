@@ -16,8 +16,6 @@ published: true
 
 ### Shows
 
-<u>-Mar 16</u> <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=revisor&BOparam::WScontent::loadArticle::context_id=> Revisor  
-
 _Apr 6-Apr 28 <https://www.soulpepper.ca/performances/copenhagen/6177>_  
 _**May 3-May 12 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=887&BOparam::WScontent::loadArticle::context_id=> 887**_  
 _May 4-May 26 <https://www.soulpepper.ca/performances/the-brothers-size/6178>_  
@@ -25,7 +23,7 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Downtown North
 
-**-Mar 24 <https://ago.ca/exhibitions/mickalene-thomas-femmes-noires>**  
+**<u>-Mar 24</u> <https://ago.ca/exhibitions/mickalene-thomas-femmes-noires>**  
 -Mar 31 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/crosscurrents-canada-in-the-making>  
   -Apr 1 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/behind-the-scenes-beadwork-conservation>  
   -May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
@@ -43,9 +41,7 @@ _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-t
 
 ### Downtown South
 
-<u>-Mar 15</u> <http://tangledarts.org/exhibits/constructed-identities-2/>  
-  -Mar 16 <https://gallery44.org/Salon44> <https://gallery44.org/exhibitions/somewhere-else>  
-  -Mar 30 <http://www.prefix.ca/deimantas-narkevicius/>  
+-Mar 30 <http://www.prefix.ca/deimantas-narkevicius/>  
   -Apr 19 <http://tangledarts.org/exhibits/outliers-on-tour/>  
 -Apr 14 <https://www2.ocadu.ca/event/how-to-breathe-forever>  
 
@@ -59,9 +55,8 @@ _Mar 29-Apr 27 <https://gallery44.org/exhibitions/onenh-dwa’-den’-dya-now-le
 
 ### Queen St
 
--Mar 23 <http://susanhobbs.com/exhibits/1443-lets-look-at-the-figures>  
-**<u>-Mar 17</u> <http://kofflerarts.org/exhibitions/2018/09/12/ghazaleh-avarzamani/>**  
-  -Mar 31 <https://criticaldistance.ca/program/exposing-liminalities/>  
+-<u>Mar 23</u> <http://susanhobbs.com/exhibits/1443-lets-look-at-the-figures>  
+-Mar 31 <https://criticaldistance.ca/program/exposing-liminalities/>  
 -Apr 6 <http://birchcontemporary.com/exhibition/mud-and-iron> <http://birchcontemporary.com/exhibition/imagine-my-house>  
 
 _**Apr 4-May 26 <http://kofflerarts.org/exhibitions/2018/11/26/nevet-yitzhak-warcraft/>**_  
@@ -80,7 +75,7 @@ _**Apr 4-May 26 <http://kofflerarts.org/exhibitions/2018/11/26/nevet-yitzhak-war
 
 ### Bloordale & Junction Triangle
 
-**-Mar 23 <http://www.mercerunion.org/exhibitions/nep-sidhu-medicine-for-a-nightmare-they-called-we-responded/>**  
+**<u>-Mar 23</u> <http://www.mercerunion.org/exhibitions/nep-sidhu-medicine-for-a-nightmare-they-called-we-responded/>**  
 **-Mar 30 <http://arsenaltoronto.com/details/trevorbaird/> <http://arsenaltoronto.com/details/gregito/> <http://arsenaltoronto.com/details/laurafindlay/>**  
 -Mar 30 <http://www.franzkaka.com/jennifer-carvalho---jenine-marsh.html>  
 **-Apr 14 <https://moca.ca/chantal-akerman-programs-2019/> <https://moca.ca/basma-alsharif-programs-2019/>**  
@@ -90,8 +85,7 @@ _**Apr 4-May 26 <http://kofflerarts.org/exhibitions/2018/11/26/nevet-yitzhak-war
 
 ### Dupont St & The Junction
 
-<u>-Mar 16</u> <http://angellgallery.com/exhibition/the-snow-show>  
--Mar 23 <https://coopercolegallery.com/exhibition/2019-jesse-harris-ad-nauseam/>  
+<u>-Mar 23</u> <https://coopercolegallery.com/exhibition/2019-jesse-harris-ad-nauseam/>  
 **-May 4 <https://interaccess.org/exhibition/film-path-camera-path-under-titles>**  
 
 _Mar 21-Apr 20 <https://alisonmilne.com/gallery/exhibitions/mitchell-fenton-ski>_  
