@@ -81,6 +81,8 @@ _**Apr 4-May 26 <http://kofflerarts.org/exhibitions/2018/11/26/nevet-yitzhak-war
 **-Apr 14 <https://moca.ca/chantal-akerman-programs-2019/> <https://moca.ca/basma-alsharif-programs-2019/>**  
 **-Apr 20 <http://gallerytpw.ca/exhibitions/four-waters/>**  
 
+_**May 24-Jul 9 <https://moca.ca/mark-dion-programs-2019/>**_  
+
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
@@ -89,4 +91,5 @@ _**Apr 4-May 26 <http://kofflerarts.org/exhibitions/2018/11/26/nevet-yitzhak-war
 **-May 4 <https://interaccess.org/exhibition/film-path-camera-path-under-titles>**  
 
 _Mar 21-Apr 20 <https://alisonmilne.com/gallery/exhibitions/mitchell-fenton-ski>_  
+_Apr 5-May 18 <http://becontemporary.com/upcoming.php>_  
 _May 1-Jun 1 <https://alisonmilne.com/gallery/exhibitions/anthea-baxter-page-passages>_  
