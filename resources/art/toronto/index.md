@@ -27,6 +27,9 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
   -Apr 1 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/behind-the-scenes-beadwork-conservation>  
   -May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
 **-Apr 7 <https://ryersonimagecentre.ca/exhibition/tanenbaum-collection/> <https://ryersonimagecentre.ca/exhibition/laura-henno-mtsamboro/> <https://ryersonimagecentre.ca/exhibition/fehn-foss-a-broader-sense-of-belonging/>**  
+-**Jun 9 <https://www.gardinermuseum.on.ca/event/ai-weiwei-unbroken/>** <https://www.gardinermuseum.on.ca/event/nurielle-stern-unswept-floor-tesserae/>  
+  -Apr 21 <https://www.gardinermuseum.on.ca/event/catharina-goldnau-2018-gardiner-museum-award-winner/>  
+  -Aug 1 <https://www.gardinermuseum.on.ca/event/diana-reitberger-collection/>  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
 
 _**Apr 25-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**_  
