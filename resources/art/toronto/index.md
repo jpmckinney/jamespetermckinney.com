@@ -45,10 +45,11 @@ _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-t
 
 <u>-Mar 30</u> <http://www.prefix.ca/deimantas-narkevicius/>  
   -Apr 19 <http://tangledarts.org/exhibits/outliers-on-tour/>  
+  -Apr 27 <https://gallery44.org/exhibitions/onenh-dwa’-den’-dya-now-let-us-proceed> <https://gallery44.org/exhibitions/new-psychedelia-industrial-healing>  
+  -May 4 YYZ Artists' Outlet, Bending Towards the Sun  
 -Apr 14 <https://www2.ocadu.ca/event/how-to-breathe-forever>  
 
-_Mar 29-Apr 27 <https://gallery44.org/exhibitions/onenh-dwa’-den’-dya-now-let-us-proceed> <https://gallery44.org/exhibitions/new-psychedelia-industrial-healing>_  
-_Mar 30-May 4 YYZ Artists' Outlet, Bending Towards the Sun_  
+_Apr 4-Apr 27 <http://www.circuitgallery.com/exhibitions/break-wake-hold-breath/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -60,9 +61,9 @@ _Mar 30-May 4 YYZ Artists' Outlet, Bending Towards the Sun_
 
 <u>-Mar 31</u> <https://criticaldistance.ca/program/exposing-liminalities/>  
 -Apr 6 <http://birchcontemporary.com/exhibition/mud-and-iron> <http://birchcontemporary.com/exhibition/imagine-my-house>  
+-Apr 11 <https://www.facebook.com/events/2055227617928970/> Remote  
+-May 4 <http://susanhobbs.com/exhibits/1445-a-condition-connected-with-what-is-happening-or-has-happened>  
 
-_Mar 29-Apr 11 <https://www.facebook.com/events/2055227617928970/>_  
-_Mar 28-May 4 <http://susanhobbs.com/exhibits/1445-a-condition-connected-with-what-is-happening-or-has-happened>_  
 _**Apr 4-May 26 <http://kofflerarts.org/exhibitions/2018/11/26/nevet-yitzhak-warcraft/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
@@ -84,15 +85,18 @@ _**Apr 4-May 26 <http://kofflerarts.org/exhibitions/2018/11/26/nevet-yitzhak-war
 **-Apr 14 <https://moca.ca/chantal-akerman-programs-2019/> <https://moca.ca/basma-alsharif-programs-2019/>**  
 **-Apr 20 <http://gallerytpw.ca/exhibitions/four-waters/>**  
 
+_**Apr 13-Jun 1 <http://www.mercerunion.org/exhibitions/beatrice-gibson-plural-dreams-of-social-life/>**_  
 _**May 24-Jul 9 <https://moca.ca/mark-dion-programs-2019/>**_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
-**-May 4 <https://interaccess.org/exhibition/film-path-camera-path-under-titles>**  
+-Apr 13 <http://sibling.online/Envoi/envoi.html>  
 -Apr 20 <https://alisonmilne.com/gallery/exhibitions/mitchell-fenton-ski>  
+-Apr 27 <https://angellgallery.com/exhibition/no-destination-in-mind>  
+**-May 4 <https://interaccess.org/exhibition/film-path-camera-path-under-titles>**  
+-May 4 <https://coopercolegallery.com/exhibition/2019-gabrielle-lhirondelle-hill-loose-spells/> <https://coopercolegallery.com/exhibition/ektor-garcia/>  
 
-_Mar 28-May 4 <https://coopercolegallery.com/exhibition/2019-gabrielle-lhirondelle-hill-loose-spells/> <https://coopercolegallery.com/exhibition/ektor-garcia/>_  
 _Apr 5-May 18 <http://becontemporary.com/upcoming.php>_  
 _May 1-Jun 1 <https://alisonmilne.com/gallery/exhibitions/anthea-baxter-page-passages>_  

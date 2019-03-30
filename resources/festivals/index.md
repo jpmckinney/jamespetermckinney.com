@@ -49,27 +49,17 @@ Outdoor movies:
 * Jul-Sep <https://en.downsviewpark.ca/event/friday-night-lights-2018>
 * Jun-Sep <https://www.blogto.com/film/2018/06/free-outdoor-movies-toronto-summer-2018/>
 
-### Mar
-
-* **<https://winterstations.com> art Feb 19-Apr 1**
-* **<https://www.tso.ca/new-creations-festival> music 3-10**
-* <https://www.canfilmfest.ca> film 19-23
-* <http://www.torontosketchfest.com> 7-19
-* <http://www.torontostorytellingfestival.ca> talk 2-4, 19-25
-* <https://ff.hrw.org/toronto> film 18-25
-* <https://www.alumnaetheatre.com/new-ideas-festival> theatre 7-25
-
 ### Apr
 
 * **<http://www.torontosilentfilmfestival.com> 4-8**
-* **<https://twitter.com/WonkProm> meetup 20**
-* **<http://imagesfestival.com> art 12-20**
+* **<https://www.wonkprom.com> meetup 11**
+* **<http://imagesfestival.com> art 11-18**
 * **<https://www.hotdocs.ca> film 26-May 6**
 * <http://www.mayworks.ca> art 25-May 5
 * <http://riserproject.org> theatre 17-May 12
 * <http://fashionarttoronto.ca> art/fashion 17-21
 * <http://www.gladstonehotel.com/art/growop2018/> art 18-22
-* <https://torontocoffeeandtea.com> coffee/eat 14-15
+* <https://torontocoffeeandtea.com> coffee/eat 4-5
 * _<http://meta2018.ca> art (grad) 5-7_
 * _<http://www.sheridanillustration.com> art (grad) 26-27_
 * _<http://www.senecacollege.ca/create/news/articles/artsfestival-2018> art (grad)_
@@ -77,7 +67,6 @@ Outdoor movies:
 * _<http://ysdn2018.com> design (grad) 11-13_
 * _<http://www.massexodus.ca> fashion (grad) 6_
 * ✖ <http://www.harbourfrontcentre.com/worldstage/performances/> performance 4-22 (2017)
-* ✖ <http://taafi.com> animation 22-25 (2016)
 
 ### May
 
@@ -227,3 +216,13 @@ Outdoor movies:
 * <http://cinefranco.com> film 14-15
 * <https://torontoblackfilm.com> film 14-19
 * <http://teafestivaltoronto.com> tea 3-4
+
+### Mar
+
+* **<https://winterstations.com> art Feb 19-Apr 1**
+* <https://www.canfilmfest.ca> film 19-23
+* <http://www.torontosketchfest.com> 7-19
+* <http://www.torontostorytellingfestival.ca> talk 2-4, 19-25
+* <https://ff.hrw.org/toronto> film 18-25
+* <https://www.alumnaetheatre.com/new-ideas-festival-2019.html> theatre 6-24
+* ✖ <https://www.tso.ca/new-creations-festival> music 3-10 (2018)

@@ -24,7 +24,7 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 -Apr 28 <https://phi-centre.com/en/event/the-horrifically-real-virtuality-en/>  
 
-_**Apr 25-Sep 15 <https://dhc-art.org/yoko-ono-exhibition/>**_  
+_**Apr 25-Sep 15 <https://fondation-phi.org> Yoko Ono**_  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Centre Phi FSa8, Fonderie Darling U10
 
