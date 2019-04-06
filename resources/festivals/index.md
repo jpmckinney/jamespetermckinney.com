@@ -202,6 +202,7 @@ Outdoor movies:
 * <http://todesignoffsite.com> design 15-21
 * <http://naisa.ca/festivals/deep-wireless/> radio 17
 * <https://factoronto.org> art 2019/2020
+* <http://the8fest.com> film 25-27
 * ✖ <http://www.durationanddialogue.com> performance 27-29 (2017)
 * ✖ <http://www.endlesscity.org/cu> art/music 20-Feb 28 (2016)
 
