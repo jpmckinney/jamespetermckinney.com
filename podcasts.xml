@@ -2,30 +2,29 @@
 <opml version="1.0">
 <head>
 	<title>iTunes Subscribed Feeds</title>
-	<dateCreated>Sat, 08 Dec 2018 17:50:53 GMT</dateCreated>
-	<dateModified>Sat, 08 Dec 2018 17:50:53 GMT</dateModified>
+	<dateCreated>Tue, 09 Apr 2019 19:37:10 GMT</dateCreated>
+	<dateModified>Tue, 09 Apr 2019 19:37:10 GMT</dateModified>
 </head>
 <body>
-	<outline text="Alone: A Love Story" type="rss" xmlUrl="https://www.cbc.ca/podcasting/includes/alone.xml" htmlUrl="http://www.cbc.ca/radio/alone" />
 	<outline text="bitchface" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:203308699/sounds.rss" htmlUrl="http://soundcloud.com/bitchfacepodcast" />
-	<outline text="Bodies" type="rss" xmlUrl="https://www.kcrw.com/podcast/show/bd" htmlUrl="https://www.kcrw.com/news-culture/shows/bodies" />
+	<outline text="Bodies" type="rss" xmlUrl="https://www.kcrw.com/podcast/show/bd" htmlUrl="https://www.kcrw.com/culture/shows/bodies" />
 	<outline text="CANADALAND ad-free master feed" type="rss" xmlUrl="https://www.patreon.com/rss/CANADALAND?auth=fdb6abcc99763179526f52f0c6ec7910" htmlUrl="https://www.patreon.com/CANADALAND" />
+	<outline text="Crackdown" type="rss" xmlUrl="http://feeds.feedburner.com/crackdown" htmlUrl="http://citedmedia.ca/crackdown/PodcastGenerator-2.7/" />
+	<outline text="Dominionated Podcast" type="rss" xmlUrl="https://dominionated.podbean.com/feed.xml" htmlUrl="http://dominionated.ca/" />
 	<outline text="Ear Hustle" type="rss" xmlUrl="http://feeds.earhustlesq.com/earhustlesq" htmlUrl="https://www.earhustlesq.com/" />
-	<outline text="Govern Yourself Accordingly - Politics | Activism | Leadership" type="rss" xmlUrl="https://feed.pippa.io/public/shows/govern-yourself-accordingly-politics-democracy-activism" htmlUrl="http://springtide.ngo/govern-yourself-accordingly" />
-	<outline text="Just Work It" type="rss" xmlUrl="https://justworkit.ca/feed/podcast" htmlUrl="https://justworkit.ca/" />
 	<outline text="Koffler.Digital Audio Programs" type="rss" xmlUrl="http://kofflerarts.libsyn.com/rss" htmlUrl="http://www.koffler.digital/" />
 	<outline text="Love Me" type="rss" xmlUrl="https://www.cbc.ca/podcasting/includes/loveme.xml" htmlUrl="http://www.cbc.ca/radio/podcasts/arts-culture/love-me/" />
 	<outline text="Meat" type="rss" xmlUrl="http://www.spreaker.com/show/2675008/episodes/feed" htmlUrl="http://www.meatpodcast.com" />
 	<outline text="Other People's Problems" type="rss" xmlUrl="https://www.cbc.ca/podcasting/includes/opp.xml" htmlUrl="http://www.cbc.ca/opp" />
 	<outline text="Polaris Podcast" type="rss" xmlUrl="http://polarispodcast.libsyn.com/rss" htmlUrl="https://polarismusicprize.ca/" />
 	<outline text="Spacing Radio" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:233628346/sounds.rss" htmlUrl="http://spacing.ca" />
-	<outline text="The Dominionated Podcast" type="rss" xmlUrl="https://dominionated.podbean.com/feed.xml" htmlUrl="http://dominionated.ca/" />
+	<outline text="The Bright Sessions" type="rss" xmlUrl="https://feeds.megaphone.fm/thebrightsessions" htmlUrl="http://thebrightsessions.com" />
 	<outline text="The Far Meridian" type="rss" xmlUrl="http://thefarmeridian.libsyn.com/rss" htmlUrl="https://www.thefarmeridian.com/feed/" />
 	<outline text="The House from CBC Radio" type="rss" xmlUrl="https://www.cbc.ca/podcasting/includes/thehouse.xml" htmlUrl="http://www.cbc.ca/radio/podcasts/current-affairs-information/the-house/" />
-	<outline text="The Shadows" type="rss" xmlUrl="https://www.cbc.ca/podcasting/includes/theshadows.xml" htmlUrl="https://www.cbc.ca/radio/podcasts/the-shadows/" />
-	<outline text="This Sounds Serious" type="rss" xmlUrl="https://rss.cast.plus/5b0ed1429f4094060b4de1ba/rss" htmlUrl="https://www.thissoundsserious.com/" />
+	<outline text="This Sounds Serious" type="rss" xmlUrl="https://feeds.megaphone.fm/KM8208861308" htmlUrl="https://www.thissoundsserious.com/" />
 	<outline text="Trampoline Hall" type="rss" xmlUrl="http://rss.acast.com/trampolinehall" htmlUrl="http://www.trampolinehall.net/podcastpage" />
 	<outline text="Underground Sounds" type="rss" xmlUrl="http://ckut.ca/en/program/1835/rss.xml" htmlUrl="http://ckut.ca" />
+	<outline text="Where Should We Begin? with Esther Perel" type="rss" xmlUrl="http://esther.audible.libsynpro.com/rss" htmlUrl="https://estherperel.com/podcast" />
 	<outline text="Within the Wires" type="rss" xmlUrl="http://feeds.nightvalepresents.com/withinthewires" htmlUrl="http://withinthewires.com/" />
 </body>
 </opml>
