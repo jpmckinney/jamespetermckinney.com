@@ -16,11 +16,19 @@ published: true
 
 ### Shows
 
--Apr 28 <https://www.soulpepper.ca/performances/copenhagen/6177>  
+-Apr 28 <https://www.soulpepper.ca/performances/copenhagen/6177> (AZ?)  
 
 _**May 3-May 12 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=887&BOparam::WScontent::loadArticle::context_id=> 887**_  
 _May 4-May 26 <https://www.soulpepper.ca/performances/the-brothers-size/6178>_  
-_May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>_  
+_May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ?)_  
+_Jul 13-Aug 4 <https://soulpepper.ca/performances/fool-for-love/7088>_  
+_**Aug 9-Sep 1 <https://soulpepper.ca/performances/art/7093> (AZ)**_  
+_Aug 28-Sep 15 <https://soulpepper.ca/performances/betrayal/7098>_  
+_Nov 6-Nov 10 <https://national.ballet.ca/Productions/2019-20-Season/Giselle>_  
+_Nov 15-Nov 21 <https://national.ballet.ca/Productions/2019-20-Season/Orpheus>_  
+_Nov 27-Dec 1 <https://national.ballet.ca/Productions/2019-20-Season/Etudes>_  
+_**Feb 29-Mar 1 Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
+_**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake> (AZ)**_  
 
 ### Downtown North
 
@@ -34,8 +42,6 @@ _**Apr 17-May 18 <https://artmuseum.utoronto.ca/exhibition/2019-university-of-to
 _**Apr 25-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**_  
 _**May 4-July 27 <https://artmuseum.utoronto.ca/exhibition/carrie-mae-weems-heave/>**_  
 _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>_  
-
-_May 4-Jul 27 <https://artmuseum.utoronto.ca/exhibition/carrie-mae-weems-heave/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -73,12 +79,6 @@ _**Jun 8-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Ait
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Koffler, Critical Distance, Gladstone Hotel, BAND, David Kaye, Craft / 1313, Bunker 2, Loop Hole, Northern, Nuvango, Propeller
 
-### Dundas St
-
-<span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
-
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Loop / Unlovable
-
 ### Bloordale & Junction Triangle
 
 **-Apr 29 <https://moca.ca/chantal-akerman-programs-2019/> <https://moca.ca/ange-loft-programs-2019/> <https://moca.ca/light-therapy-room-programs-2019/>**  
@@ -98,3 +98,9 @@ _**May 24-Jul 29 <https://moca.ca/mark-dion-programs-2019/>**_
 -May 18 <http://becontemporary.com/upcoming.php>  
 
 _May 1-Jun 1 <https://alisonmilne.com/gallery/exhibitions/anthea-baxter-page-passages>_  
+
+### Dundas St
+
+<span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
+
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Loop / Unlovable
