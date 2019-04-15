@@ -24,7 +24,6 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 ### Downtown North
 
-**<u>-Apr 7</u> <https://ryersonimagecentre.ca/exhibition/tanenbaum-collection/> <https://ryersonimagecentre.ca/exhibition/laura-henno-mtsamboro/> <https://ryersonimagecentre.ca/exhibition/fehn-foss-a-broader-sense-of-belonging/>**  
 -May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
 -**Jun 9 <https://www.gardinermuseum.on.ca/event/ai-weiwei-unbroken/>** <https://www.gardinermuseum.on.ca/event/nurielle-stern-unswept-floor-tesserae/>  
   -Apr 21 <https://www.gardinermuseum.on.ca/event/catharina-goldnau-2018-gardiner-museum-award-winner/>  
@@ -33,6 +32,7 @@ _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179>
 
 _**Apr 17-May 18 <https://artmuseum.utoronto.ca/exhibition/2019-university-of-toronto-shelley-peterson-student-art-exhibition/> <https://artmuseum.utoronto.ca/exhibition/2019-university-of-toronto-mvs-studio-program-graduating-exhibition/>**_  
 _**Apr 25-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**_  
+_**May 4-July 27 <https://artmuseum.utoronto.ca/exhibition/carrie-mae-weems-heave/>**_  
 _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>_  
 
 _May 4-Jul 27 <https://artmuseum.utoronto.ca/exhibition/carrie-mae-weems-heave/>_  
@@ -45,9 +45,11 @@ _May 4-Jul 27 <https://artmuseum.utoronto.ca/exhibition/carrie-mae-weems-heave/>
 
 ### Downtown South
 
--Apr 14 <https://www2.ocadu.ca/event/how-to-breathe-forever>  
 -Apr 27 <https://www.trinitysquarevideo.com/exhibition-burning-through-the-body/>  
   -Apr 27 <http://www.circuitgallery.com/exhibitions/break-wake-hold-breath/>  
+
+_May 3-Jun 15 <http://scotiabankcontactphoto.com/exhibition/fault-lines/>_  
+_May 8-Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -57,13 +59,13 @@ _May 4-Jul 27 <https://artmuseum.utoronto.ca/exhibition/carrie-mae-weems-heave/>
 
 ### Queen St
 
-<u>-Apr 6</u> <http://birchcontemporary.com/exhibition/mud-and-iron> <http://birchcontemporary.com/exhibition/imagine-my-house>  
--Apr 11 <https://www.facebook.com/events/2055227617928970/> Remote  
+-Apr 20 <https://criticaldistance.ca/program/nicole-kelly-westman-a-slight-space-amidst/>  
 -May 4 <http://susanhobbs.com/exhibits/1445-a-condition-connected-with-what-is-happening-or-has-happened>  
+-May 18 <http://birchcontemporary.com/exhibition/running-out-of-ink> <http://birchcontemporary.com/exhibition/clipped-tongue-and-flower->  
 **-May 26 <http://kofflerarts.org/exhibitions/2018/11/26/nevet-yitzhak-warcraft/>**  
 
-_Apr 10-May 18 <http://birchcontemporary.com/exhibition/running-out-of-ink> <http://birchcontemporary.com/exhibition/clipped-tongue-and-flower->_  
-_Apr 11-Apr 20 <https://criticaldistance.ca/program/nicole-kelly-westman-a-slight-space-amidst/>_  
+_**Apr 20-Jun 1 <http://georgiascherman.com/ForthcomingExhibitions.html> Christopher Lacroix**_  
+_**Jun 8-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -79,17 +81,16 @@ _Apr 11-Apr 20 <https://criticaldistance.ca/program/nicole-kelly-westman-a-sligh
 
 ### Bloordale & Junction Triangle
 
-**-Apr 14 <https://moca.ca/chantal-akerman-programs-2019/> <https://moca.ca/basma-alsharif-programs-2019/>**  
+**-Apr 29 <https://moca.ca/chantal-akerman-programs-2019/> <https://moca.ca/ange-loft-programs-2019/> <https://moca.ca/light-therapy-room-programs-2019/>**  
 **-Apr 20 <http://gallerytpw.ca/exhibitions/four-waters/>**  
+**-Jun 1 <http://www.mercerunion.org/exhibitions/beatrice-gibson-plural-dreams-of-social-life/>**  
 
-_**Apr 13-Jun 1 <http://www.mercerunion.org/exhibitions/beatrice-gibson-plural-dreams-of-social-life/>**_  
-_**May 24-Jul 9 <https://moca.ca/mark-dion-programs-2019/>**_  
+_**May 24-Jul 29 <https://moca.ca/mark-dion-programs-2019/>**_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
--Apr 13 <http://sibling.online/Envoi/envoi.html>  
 -Apr 20 <https://alisonmilne.com/gallery/exhibitions/mitchell-fenton-ski>  
 -Apr 27 <https://angellgallery.com/exhibition/no-destination-in-mind>  
 **-May 4 <https://interaccess.org/exhibition/film-path-camera-path-under-titles>**  
