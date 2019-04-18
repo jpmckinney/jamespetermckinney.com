@@ -16,7 +16,7 @@ published: true
 
 ### Shows
 
--Apr 28 <https://www.soulpepper.ca/performances/copenhagen/6177> (AZ?)  
+<u>-Apr 28</u> <https://www.soulpepper.ca/performances/copenhagen/6177> (AZ?)  
 
 _**May 3-May 12 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=887&BOparam::WScontent::loadArticle::context_id=> 887**_  
 _May 4-May 26 <https://www.soulpepper.ca/performances/the-brothers-size/6178>_  
@@ -32,13 +32,10 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown North
 
+**-May 18 <https://artmuseum.utoronto.ca/exhibition/2019-university-of-toronto-shelley-peterson-student-art-exhibition/> <https://artmuseum.utoronto.ca/exhibition/2019-university-of-toronto-mvs-studio-program-graduating-exhibition/>**  
 -May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
--**Jun 9 <https://www.gardinermuseum.on.ca/event/ai-weiwei-unbroken/>** <https://www.gardinermuseum.on.ca/event/nurielle-stern-unswept-floor-tesserae/>  
-  -Apr 21 <https://www.gardinermuseum.on.ca/event/catharina-goldnau-2018-gardiner-museum-award-winner/>  
-  -Aug 1 <https://www.gardinermuseum.on.ca/event/diana-reitberger-collection/>  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
 
-_**Apr 17-May 18 <https://artmuseum.utoronto.ca/exhibition/2019-university-of-toronto-shelley-peterson-student-art-exhibition/> <https://artmuseum.utoronto.ca/exhibition/2019-university-of-toronto-mvs-studio-program-graduating-exhibition/>**_  
 _**Apr 25-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**_  
 _**May 4-July 27 <https://artmuseum.utoronto.ca/exhibition/carrie-mae-weems-heave/>**_  
 _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>_  
@@ -51,8 +48,8 @@ _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-t
 
 ### Downtown South
 
--Apr 27 <https://www.trinitysquarevideo.com/exhibition-burning-through-the-body/>  
-  -Apr 27 <http://www.circuitgallery.com/exhibitions/break-wake-hold-breath/>  
+<u>-Apr 27</u> <https://www.trinitysquarevideo.com/exhibition-burning-through-the-body/>  
+  <u>-Apr 27</u> <http://www.circuitgallery.com/exhibitions/break-wake-hold-breath/>  
 
 _May 3-Jun 15 <http://scotiabankcontactphoto.com/exhibition/fault-lines/>_  
 _May 8-Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>_  
@@ -65,12 +62,11 @@ _May 8-Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flow
 
 ### Queen St
 
--Apr 20 <https://criticaldistance.ca/program/nicole-kelly-westman-a-slight-space-amidst/>  
 -May 4 <http://susanhobbs.com/exhibits/1445-a-condition-connected-with-what-is-happening-or-has-happened>  
 -May 18 <http://birchcontemporary.com/exhibition/running-out-of-ink> <http://birchcontemporary.com/exhibition/clipped-tongue-and-flower->  
 **-May 26 <http://kofflerarts.org/exhibitions/2018/11/26/nevet-yitzhak-warcraft/>**  
+**-Jun 1 <http://georgiascherman.com/ForthcomingExhibitions.html> Christopher Lacroix**  
 
-_**Apr 20-Jun 1 <http://georgiascherman.com/ForthcomingExhibitions.html> Christopher Lacroix**_  
 _**Jun 8-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
@@ -81,21 +77,13 @@ _**Jun 8-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Ait
 
 ### Bloordale & Junction Triangle
 
-**-Apr 29 <https://moca.ca/chantal-akerman-programs-2019/> <https://moca.ca/ange-loft-programs-2019/> <https://moca.ca/light-therapy-room-programs-2019/>**  
-**-Apr 20 <http://gallerytpw.ca/exhibitions/four-waters/>**  
-**-Jun 1 <http://www.mercerunion.org/exhibitions/beatrice-gibson-plural-dreams-of-social-life/>**  
+**-Jun 1 <https://danielfariagallery.com/exhibition/chris-curreri>**  
 
 _**May 24-Jul 29 <https://moca.ca/mark-dion-programs-2019/>**_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
-
--Apr 20 <https://alisonmilne.com/gallery/exhibitions/mitchell-fenton-ski>  
--Apr 27 <https://angellgallery.com/exhibition/no-destination-in-mind>  
-**-May 4 <https://interaccess.org/exhibition/film-path-camera-path-under-titles>**  
--May 4 <https://coopercolegallery.com/exhibition/2019-gabrielle-lhirondelle-hill-loose-spells/> <https://coopercolegallery.com/exhibition/ektor-garcia/>  
--May 18 <http://becontemporary.com/upcoming.php>  
 
 _May 1-Jun 1 <https://alisonmilne.com/gallery/exhibitions/anthea-baxter-page-passages>_  
 
