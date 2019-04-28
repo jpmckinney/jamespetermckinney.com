@@ -34,7 +34,7 @@ published: true
 * **Apr-Oct <http://stratfordfestivalreviews.com/shows/> theatre bus 10am 3pm / 5pm 11pm**
 * **Jun-Sep <https://www.canadianstage.com> Shakespeare in High Park theatre**
 * May-Oct <https://www.canadaswonderland.com> theme park
-* Apr-Dec <http://www.torontoartcrawl.com> art Apr 8, Jun 9, Jul 6
+* Apr-Dec <http://www.torontoartcrawl.com> art Apr 8
 * Jul-Sep <http://torontobicyclemusicfestival.com> music
 * May-Sep <http://electricisland.to> music
 * May-Oct <http://www.kensingtonmarketbia.com/pedestrian-sundays-in-kensington-market.htm> food
@@ -51,9 +51,9 @@ Outdoor movies:
 
 ### May
 
-* **<http://scotiabankcontactphoto.com> photography Apr 27-**
-* **<https://www.facebook.com/doorsopenTO> architecture 26-27**
-* **<http://www.torontocomics.com> comics 12-13**
+* **<http://scotiabankcontactphoto.com> photography**
+* **<https://www.facebook.com/doorsopenTO> architecture 25-26**
+* **<http://www.torontocomics.com> comics 11-12**
 * <http://riserproject.org> theatre 6-Jun 1
 * <http://www.nghtshfts.org> art 1-24
 * <https://torontocoffeeandtea.com> coffee/eat 4-5

@@ -31,9 +31,9 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 ### Downtown North
 
 **-May 18 <https://artmuseum.utoronto.ca/exhibition/2019-university-of-toronto-shelley-peterson-student-art-exhibition/> <https://artmuseum.utoronto.ca/exhibition/2019-university-of-toronto-mvs-studio-program-graduating-exhibition/>**  
+  -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
 -May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
--Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
-**-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
+  **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
 
 _**May 4-July 27 <https://artmuseum.utoronto.ca/exhibition/carrie-mae-weems-heave/>**_  
 _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>_  
