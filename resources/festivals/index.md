@@ -49,41 +49,26 @@ Outdoor movies:
 * Jul-Sep <https://en.downsviewpark.ca/event/friday-night-lights-2018>
 * Jun-Sep <https://www.blogto.com/film/2018/06/free-outdoor-movies-toronto-summer-2018/>
 
-### Apr
-
-* **<http://www.torontosilentfilmfestival.com> 4-8**
-* **<https://www.wonkprom.com> meetup 11**
-* **<http://imagesfestival.com> art 11-18**
-* **<https://www.hotdocs.ca> film 26-May 6**
-* <http://www.mayworks.ca> art 25-May 5
-* <http://riserproject.org> theatre 17-May 12
-* <http://fashionarttoronto.ca> art/fashion 17-21
-* <http://www.gladstonehotel.com/art/growop2018/> art 18-22
-* <https://torontocoffeeandtea.com> coffee/eat 4-5
-* _<http://meta2018.ca> art (grad) 5-7_
-* _<http://www.sheridanillustration.com> art (grad) 26-27_
-* _<http://www.senecacollege.ca/create/news/articles/artsfestival-2018> art (grad)_
-* _<http://www.maxex.ca> photography (grad) 27-May 6_
-* _<http://ysdn2018.com> design (grad) 11-13_
-* _<http://www.massexodus.ca> fashion (grad) 6_
-* ✖ <http://www.harbourfrontcentre.com/worldstage/performances/> performance 4-22 (2017)
-
 ### May
 
 * **<http://scotiabankcontactphoto.com> photography Apr 27-**
 * **<https://www.facebook.com/doorsopenTO> architecture 26-27**
 * **<http://www.torontocomics.com> comics 12-13**
-* <http://www.ocadu.ca/gradex.htm> art (grad) 3-6
-* <http://ifwtoronto.com> fashion 31-Jun 3
-* <http://www.nextmusicfromtokyo.com> music 18-23
+* <http://riserproject.org> theatre 6-Jun 1
+* <http://www.nghtshfts.org> art 1-24
+* <https://torontocoffeeandtea.com> coffee/eat 4-5
+* <http://www.ocadu.ca/gradex.htm> art (grad) 1-5
+* <http://www.maxex.ca> photography (grad) 2-6
+* <http://ifwtoronto.com> fashion 31-Jun 3 biennial (even)
+* <http://www.nextmusicfromtokyo.com> music 17-18
 * <https://www.rcmusic.com/performance/21c-music-festival> music 23-27
-* <https://cmw.net/music/> music 7-13
+* <https://cmw.net/music/> music 6-12
 * <http://censured.info> film 27-28 biennial (odd)
 * <https://www.insideout.ca/torontofestival/> film 24-Jun 3
-* <https://tjff.com> film 3-13
-* <https://www.thetastemakertour.com> food 18-19
-* <http://www.nativeearth.ca/paprika-festival-2018/> young 14-20
-* <http://www.harbourfrontcentre.com/junior/> youth 19-25
+* <https://tjff.com> film 2-12
+* <https://www.thetastemakertour.com/toronto> food 10-12
+* <http://www.nativeearth.ca/paprika19/> young 20-26
+* <http://www.harbourfrontcentre.com/junior/> youth 18-24
 * ✖ <http://subtletechnologies.com/festival/> art 10-Jun 25 (2017)
 
 ### Jun
@@ -227,3 +212,18 @@ Outdoor movies:
 * <https://ff.hrw.org/toronto> film 18-25
 * <https://www.alumnaetheatre.com/new-ideas-festival-2019.html> theatre 6-24
 * ✖ <https://www.tso.ca/new-creations-festival> music 3-10 (2018)
+
+### Apr
+
+* **<http://www.torontosilentfilmfestival.com> 4-8**
+* **<https://www.wonkprom.com> meetup 11**
+* **<http://imagesfestival.com> art 11-18**
+* **<https://www.hotdocs.ca> film 25-May 5**
+* <http://fashionarttoronto.ca> art/fashion 24-28
+* <https://www.gladstonehotel.com/Grow-Op> art 17-21
+* _<http://meta2018.ca> art (grad) 5-7_
+* _<http://www.sheridanillustration.com> art (grad) 11-12_
+* _<https://www.senecacollege.ca/create/news/articles/artsfestival-2019> art (grad)_
+* _<https://ysdn2019.com> design (grad) 10-11_
+* _<https://massexodus.ca> fashion (grad) 4-6_
+* ✖ <http://www.harbourfrontcentre.com/worldstage/performances/> performance 4-22 (2017)

@@ -16,8 +16,6 @@ published: true
 
 ### Shows
 
-<u>-Apr 28</u> <https://www.soulpepper.ca/performances/copenhagen/6177> (AZ?)  
-
 _**May 3-May 12 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=887&BOparam::WScontent::loadArticle::context_id=> 887**_  
 _May 4-May 26 <https://www.soulpepper.ca/performances/the-brothers-size/6178>_  
 _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ?)_  
@@ -35,8 +33,8 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 **-May 18 <https://artmuseum.utoronto.ca/exhibition/2019-university-of-toronto-shelley-peterson-student-art-exhibition/> <https://artmuseum.utoronto.ca/exhibition/2019-university-of-toronto-mvs-studio-program-graduating-exhibition/>**  
 -May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
+**-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
 
-_**Apr 25-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**_  
 _**May 4-July 27 <https://artmuseum.utoronto.ca/exhibition/carrie-mae-weems-heave/>**_  
 _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>_  
 
@@ -48,10 +46,8 @@ _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-t
 
 ### Downtown South
 
-<u>-Apr 27</u> <https://www.trinitysquarevideo.com/exhibition-burning-through-the-body/>  
-  <u>-Apr 27</u> <http://www.circuitgallery.com/exhibitions/break-wake-hold-breath/>  
-
 _May 3-Jun 15 <http://scotiabankcontactphoto.com/exhibition/fault-lines/>_  
+_May 3-Jun 22 <http://www.prefix.ca/exhibitions/taysir-batniji-suspended-time/>_  
 _May 8-Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
@@ -79,13 +75,19 @@ _**Jun 8-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Ait
 
 **-Jun 1 <https://danielfariagallery.com/exhibition/chris-curreri>**  
 
+_May 3-May 25 <http://www.franzkaka.com/anne-low-bletting.html>_  
 _**May 24-Jul 29 <https://moca.ca/mark-dion-programs-2019/>**_  
+  _May 10-Jul 7 <https://museumofcontemporaryart.ca/honest-shop-art-in-use-2019/>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
+-May 25 <https://erinstumpprojects.com/current-exhibitions/sarah-davidson-the-secret-life-of-forms>  
+-May 25 <http://www.sibling.online/nickalexa/nickalexa.html>  
+
 _May 1-Jun 1 <https://alisonmilne.com/gallery/exhibitions/anthea-baxter-page-passages>_  
+_**May 4-Jun 11 <https://angellgallery.com/exhibition/an-endless-formless-ruin> <https://angellgallery.com/exhibition/these-things-take-time>**_  
 
 ### Dundas St
 
