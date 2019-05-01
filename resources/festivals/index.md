@@ -52,8 +52,9 @@ Outdoor movies:
 ### May
 
 * **<http://scotiabankcontactphoto.com> photography**
-* **<https://www.facebook.com/doorsopenTO> architecture 25-26**
+* **<https://janeswalk.org/canada/toronto/toronto-walk-listings/> walk 3-5**
 * **<http://www.torontocomics.com> comics 11-12**
+* **<https://www.facebook.com/doorsopenTO> architecture 25-26**
 * <http://riserproject.org> theatre 6-Jun 1
 * <http://www.nghtshfts.org> art 1-24
 * <https://torontocoffeeandtea.com> coffee/eat 4-5
