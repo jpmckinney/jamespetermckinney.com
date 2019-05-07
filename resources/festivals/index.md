@@ -81,6 +81,7 @@ Outdoor movies:
 * <http://www.nuitrose.ca> art/performance 16
 * <https://www.femaleeyefilmfestival.com> film 26-Jul 1
 * <http://docnow.ca> film
+* <https://www.torontotruecrimefilmfestival.com> film 14-15
 * <http://gorillatickets.ca/event/bubble-tea-festival/> food 23
 * <http://www.wineandspiritfestival.ca> food 22-23
 * <http://buttertartfestival.ca> Midland food 9
