@@ -44,6 +44,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 _May 8-Jun 30 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/community-voices>_  
 _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>_  
+_Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
