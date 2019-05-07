@@ -16,16 +16,17 @@ published: true
 
 ### Shows
 
-**-May 12 <https://www.canadianstage.com/Online/default.asp?BOparam::WScontent::loadArticle::permalink=887&BOparam::WScontent::loadArticle::context_id=> 887**  
 -May 26 <https://www.soulpepper.ca/performances/the-brothers-size/6178>  
 
 _May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ?)_  
+_**Jun 7-Jun 13 <https://luminatofestival.com/2019/Events/Full-Light-Of-Day>**_  
 _Jul 13-Aug 4 <https://soulpepper.ca/performances/fool-for-love/7088>_  
 _**Aug 9-Sep 1 <https://soulpepper.ca/performances/art/7093> (AZ)**_  
 _Aug 28-Sep 15 <https://soulpepper.ca/performances/betrayal/7098>_  
 _Nov 6-Nov 10 <https://national.ballet.ca/Productions/2019-20-Season/Giselle>_  
 _Nov 15-Nov 21 <https://national.ballet.ca/Productions/2019-20-Season/Orpheus>_  
 _Nov 27-Dec 1 <https://national.ballet.ca/Productions/2019-20-Season/Etudes>_  
+
 _Feb 4-Feb 23 <https://www.crowstheatre.com/whats-on/view-all/secret-life-of-a-mother>_  
 _**Feb 29-Mar 1 Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
 _Mar 17-Apr 22 <https://www.crowstheatre.com/whats-on/view-all/all-the-little-animals-i-have-eaten> Nightwood_  
