@@ -16,6 +16,10 @@ This is no longer comprehensive. <span class="glyphicon glyphicon-info-sign" ari
 
 **-Jun 20 <https://macm.org/en/exhibitions/julian-rosefeldt-manifesto/> <https://macm.org/en/exhibitions/francoise-sullivan/> <https://macm.org/en/exhibitions/scores/>**  
 
+_Jun 20-Oct 6 <https://macm.org/en/exhibitions/rebecca-belmore-facing-the-monumental/>_  
+_Jun 20-Aug 4 <https://macm.org/expositions/collection-du-mac-nadia-myre-chloe-lum-et-yannick-desranleau/>_  
+_Jun 20-Jul 28 <https://macm.org/en/exhibitions/ragnar-kjartansson-a-lot-of-sorrow/>_  
+
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> MACM WUF9, MBAM W9, McCord W9, Centre for Architecture W9
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MACM, MBAM, McCord, Centre for Architecture

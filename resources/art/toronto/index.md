@@ -16,9 +16,8 @@ published: true
 
 ### Shows
 
--May 26 <https://www.soulpepper.ca/performances/the-brothers-size/6178>  
+-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ?)  
 
-_May 18-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ?)_  
 _**Jun 7-Jun 13 <https://luminatofestival.com/2019/Events/Full-Light-Of-Day>**_  
 _Jul 13-Aug 4 <https://soulpepper.ca/performances/fool-for-love/7088>_  
 _**Aug 9-Sep 1 <https://soulpepper.ca/performances/art/7093> (AZ)**_  
@@ -34,15 +33,12 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown North
 
-**-May 18 <https://artmuseum.utoronto.ca/exhibition/2019-university-of-toronto-shelley-peterson-student-art-exhibition/> <https://artmuseum.utoronto.ca/exhibition/2019-university-of-toronto-mvs-studio-program-graduating-exhibition/>**  
-  -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
--May 26 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
+<u>-May 26</u> <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
+  -Jun 30 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/community-voices>  
   **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
-**-Jul 27 <https://artmuseum.utoronto.ca/exhibition/carrie-mae-weems-heave/>**  
-**-Aug 4 <https://ryersonimagecentre.ca/exhibition/scotiabank-photography-award-moyra-davey/> <https://ryersonimagecentre.ca/exhibition/meryl-mcmaster-as-immense-as-the-sky/>**  
-  -Jun 9 <https://ryersonimagecentre.ca/exhibition/adrian-raymer-rejects/>  
+<u>-May 31</u> <https://scotiabankcontactphoto.com/exhibition/back-stages/> Bau-Xi  
+-Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
 
-_May 8-Jun 30 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/community-voices>_  
 _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>_  
 _Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>_  
 
@@ -54,11 +50,20 @@ _Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinar
 
 ### Downtown South
 
--Jun 1 <https://gallery44.org/exhibitions/developing-historical-negatives>  
+<u>-May 31</u> <https://scotiabankcontactphoto.com/exhibition/lta-10-palimpsest-2/> Brookfield Place  
+<u>-May 31</u> <https://scotiabankcontactphoto.com/exhibition/npac-national-pictures-of-the-year/> First Canadian Place  
+<u>-May 25</u> <https://scotiabankcontactphoto.com/exhibition/the-sky-as-my-witness-2/> Abbozzo  
+  <u>-Jun 1</u> <https://gallery44.org/exhibitions/developing-historical-negatives> <https://scotiabankcontactphoto.com/exhibition/more-than-this-2/>  
+  -Jun 8 <https://scotiabankcontactphoto.com/exhibition/the-loudspeaker-and-the-tower-2/> Trinity  
+  -Jun 8 <https://scotiabankcontactphoto.com/exhibition/moving-images-moving-people-2/> 450A  
   -Jun 15 <http://scotiabankcontactphoto.com/exhibition/fault-lines/> Tangled  
   -Jun 22 <http://www.prefix.ca/exhibitions/taysir-batniji-suspended-time/>  
-
-_May 8-Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>_  
+  -Jun 29 <https://scotiabankcontactphoto.com/exhibition/configurations> A Space  
+  -Jul 31 <https://scotiabankcontactphoto.com/exhibition/further-along-the-road/> Urbanspace  
+<u>-Jun 2</u> <https://scotiabankcontactphoto.com/exhibition/fissure/> Campbell House  
+-Jun 8 <https://scotiabankcontactphoto.com/exhibition/strange-beauty/> Coldstream  
+  -Jul 27 <https://scotiabankcontactphoto.com/exhibition/blending-the-blues-2/> Contact  
+-Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -68,12 +73,22 @@ _May 8-Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flow
 
 ### Queen St
 
--May 18 <http://birchcontemporary.com/exhibition/running-out-of-ink> <http://birchcontemporary.com/exhibition/clipped-tongue-and-flower->  
-**-May 26 <http://kofflerarts.org/exhibitions/2018/11/26/nevet-yitzhak-warcraft/>**  
-**-Jun 1 <http://georgiascherman.com/ForthcomingExhibitions.html> Christopher Lacroix**  
+<u>-May 25</u> <https://scotiabankcontactphoto.com/exhibition/beyond-the-limits/> Ryerson Artspace  
+**<u>-May 26</u> <http://kofflerarts.org/exhibitions/2018/11/26/nevet-yitzhak-warcraft/>**  
+  <u>-Jun 1</u> <https://scotiabankcontactphoto.com/exhibition/spectra-gallery-44-members-show-part-3/> Artscape  
+  <u>-Jun 2</u> <https://criticaldistance.ca/program/an-archive-but-not-an-atlas/>  
+<u>-May 29</u> <https://www.onlyonegallery.com/future>  
+<u>-May 29</u> <https://scotiabankcontactphoto.com/exhibition/humans-remain-photographic-evidence-of-life-on-earth-part-2/>  
+**<u>-Jun 1</u> <http://georgiascherman.com/ForthcomingExhibitions.html> Christopher Lacroix**  
+<u>-Jun 1</u> <https://scotiabankcontactphoto.com/exhibition/take-hold/> Paul Petro  
+<u>-Jun 2</u> <https://scotiabankcontactphoto.com/exhibition/future-memories/> BAND  
+-Jun 8 <https://scotiabankcontactphoto.com/exhibition/sevader-to-escape/> General Hardware  
 -Jun 9 <https://www.gladstonehotel.com/spaces/new-generation-photography-award/> <https://www.gladstonehotel.com/spaces/revelation/>  
+-Jun 15 <https://scotiabankcontactphoto.com/exhibition/skip-stop-2/> Pari Nadimi  
+-Jun 22 <http://susanhobbs.com/exhibits/1447-the-slow-rhythms-of-reason>  
+-Aug 30 <https://scotiabankcontactphoto.com/exhibition/a-nation-outside-a-nation/> Bentway  
 
-_May 9-Jun 22 <http://susanhobbs.com/exhibits/1447-the-slow-rhythms-of-reason>_  
+_May 22-Jun 16 <https://scotiabankcontactphoto.com/exhibition/chengzhongcun-城中村/>_  
 _**Jun 8-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
@@ -84,23 +99,29 @@ _**Jun 8-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Ait
 
 ### Bloordale & Junction Triangle
 
--May 25 <http://www.franzkaka.com/anne-low-bletting.html>  
-**-Jun 1 <https://danielfariagallery.com/exhibition/chris-curreri>**  
+<u>-May 25</u> <http://www.franzkaka.com/anne-low-bletting.html>  
+**<u>-Jun 1</u> <https://danielfariagallery.com/exhibition/chris-curreri>**  
+  **<u>-Jun 1</u> <https://scotiabankcontactphoto.com/exhibition/the-photobook-lab-2/> Scrap Metal**  
   **-Jun 8 <http://gallerytpw.ca/exhibitions/erika-defreitas/>**  
+  -Jun 19 <https://scotiabankcontactphoto.com/exhibition/it-will-be-night-the-mist-will-clear-2/> Clint Roenisch  
+<u>-Jun 1</u> <https://scotiabankcontactphoto.com/exhibition/the-outsiders-2/> Olga Kolper  
+  <u>-Jun 1</u> <https://scotiabankcontactphoto.com/exhibition/the-created-image/> Cutts  
+<u>-Jun 1</u> <https://scotiabankcontactphoto.com/exhibition/in-the-absence-of-paradise-2/> Loon  
+-Jul 7 <https://museumofcontemporaryart.ca/honest-shop-art-in-use-2019/>  
 
 _**May 24-Jul 29 <https://moca.ca/mark-dion-programs-2019/>**_  
-  _May 10-Jul 7 <https://museumofcontemporaryart.ca/honest-shop-art-in-use-2019/>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
--May 25 <https://erinstumpprojects.com/current-exhibitions/sarah-davidson-the-secret-life-of-forms>  
--May 25 <http://www.sibling.online/nickalexa/nickalexa.html>  
--Jun 1 <https://www.alisonmilne.com/gallery/exhibitions/anthea-baxter-page-passages>  
-**-Jun 11 <https://angellgallery.com/exhibition/an-endless-formless-ruin> <https://angellgallery.com/exhibition/these-things-take-time>**  
-
-_May 10-Jun 8 <https://coopercolegallery.com/exhibition/a-complete-change-of-form-into-a-more-beautiful-or-spiritual-state/>_  
+<u>-May 25</u> <https://erinstumpprojects.com/current-exhibitions/sarah-davidson-the-secret-life-of-forms>  
+<u>-May 25</u> <http://www.sibling.online/nickalexa/nickalexa.html>  
+<u>-May 31</u> <https://scotiabankcontactphoto.com/exhibition/private-lives/> United  
+**<u>-Jun 1</u> <https://angellgallery.com/exhibition/an-endless-formless-ruin> <https://angellgallery.com/exhibition/these-things-take-time>**  
+<u>-Jun 1</u> <https://www.alisonmilne.com/gallery/exhibitions/anthea-baxter-page-passages>  
+-Jun 8 <https://coopercolegallery.com/exhibition/a-complete-change-of-form-into-a-more-beautiful-or-spiritual-state/>  
+-Jun 15 <https://scotiabankcontactphoto.com/exhibition/placeholders/> Christie  
 
 ### Dundas St
 
