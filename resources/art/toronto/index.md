@@ -18,7 +18,9 @@ published: true
 
 -Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ?)  
 
+_**Jun 5-Jun 23 <https://luminatofestival.com/2019/Events/forget-me-not>**_  
 _**Jun 7-Jun 13 <https://luminatofestival.com/2019/Events/Full-Light-Of-Day>**_  
+_Jun 12-Jun 16 <https://luminatofestival.com/2019/Events/Kiinalik>_  
 _Jul 13-Aug 4 <https://soulpepper.ca/performances/fool-for-love/7088>_  
 _**Aug 9-Sep 1 <https://soulpepper.ca/performances/art/7093> (AZ)**_  
 _Aug 28-Sep 15 <https://soulpepper.ca/performances/betrayal/7098>_  
@@ -64,6 +66,8 @@ _Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinar
 -Jun 8 <https://scotiabankcontactphoto.com/exhibition/strange-beauty/> Coldstream  
   -Jul 27 <https://scotiabankcontactphoto.com/exhibition/blending-the-blues-2/> Contact  
 -Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
+
+_**Jun 7-Jun 23 <https://luminatofestival.com/2019/Events/house-of-mirrors>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
