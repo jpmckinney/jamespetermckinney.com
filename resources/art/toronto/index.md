@@ -38,6 +38,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 <u>-May 26</u> <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/beads,-they-re-sewn-so-tight>  
   -Jun 30 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/community-voices>  
   **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
+<u>-May 31</u> <https://scotiabankcontactphoto.com/exhibition/ravine/> Allan Gardens  
 <u>-May 31</u> <https://scotiabankcontactphoto.com/exhibition/back-stages/> Bau-Xi  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
 

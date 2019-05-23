@@ -57,6 +57,7 @@ Outdoor movies:
 * **<https://www.facebook.com/doorsopenTO> architecture 25-26**
 * <http://riserproject.org> theatre 6-Jun 1
 * <http://www.nghtshfts.org> art 1-24
+* <https://www.artfestontario.com/toronto> 18-20
 * <https://torontocoffeeandtea.com> coffee/eat 4-5
 * <http://www.ocadu.ca/gradex.htm> art (grad) 1-5
 * <http://www.maxex.ca> photography (grad) 2-6
