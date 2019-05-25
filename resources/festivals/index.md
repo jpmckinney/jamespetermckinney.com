@@ -99,7 +99,7 @@ Outdoor movies:
 
 ### Jul
 
-* **<http://vectorfestival.org> art 12-16**
+* **<http://vectorfestival.org> art 11-14**
 * **<https://fringetoronto.com/festivals/fringe> performance 4-15**
 * **<https://www.facebook.com/pg/sftcanada/events/> Momo Crawl food 29**
 * <https://www.toronto.ca/summerlicious> food 7-23

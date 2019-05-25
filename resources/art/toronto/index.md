@@ -42,6 +42,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 <u>-May 31</u> <https://scotiabankcontactphoto.com/exhibition/back-stages/> Bau-Xi  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
 
+_Jun 5-Jul 27 <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>_  
 _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>_  
 _Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>_  
 
@@ -62,6 +63,7 @@ _Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinar
   -Jun 15 <http://scotiabankcontactphoto.com/exhibition/fault-lines/> Tangled  
   -Jun 22 <http://www.prefix.ca/exhibitions/taysir-batniji-suspended-time/>  
   -Jun 29 <https://scotiabankcontactphoto.com/exhibition/configurations> A Space  
+  -Jul 20 <http://www.yyzartistsoutlet.org/2019/05/haley-uyeda-under-the-veil-of-morning-mist/> <http://www.yyzartistsoutlet.org/2019/05/zotz-collective-small-contribution-to-a-big-moment/>  
   -Jul 31 <https://scotiabankcontactphoto.com/exhibition/further-along-the-road/> Urbanspace  
 <u>-Jun 2</u> <https://scotiabankcontactphoto.com/exhibition/fissure/> Campbell House  
 -Jun 8 <https://scotiabankcontactphoto.com/exhibition/strange-beauty/> Coldstream  
@@ -127,6 +129,8 @@ _**May 24-Jul 29 <https://moca.ca/mark-dion-programs-2019/>**_
 <u>-Jun 1</u> <https://www.alisonmilne.com/gallery/exhibitions/anthea-baxter-page-passages>  
 -Jun 8 <https://coopercolegallery.com/exhibition/a-complete-change-of-form-into-a-more-beautiful-or-spiritual-state/>  
 -Jun 15 <https://scotiabankcontactphoto.com/exhibition/placeholders/> Christie  
+
+_Jun 8-Jul 20 <https://angellgallery.com/exhibition/breaker>_  
 
 ### Dundas St
 
