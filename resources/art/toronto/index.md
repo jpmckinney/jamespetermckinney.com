@@ -66,6 +66,7 @@ _Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinar
 -Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
 
 _**Jun 7-Jun 23 <https://luminatofestival.com/2019/Events/house-of-mirrors>**_  
+_**Jun 22-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 

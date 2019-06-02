@@ -9,6 +9,14 @@ published: true
 {% capture one %}
 ## Talks
 
+### 2019
+
+* [Open Government Partnership Global Summit](https://tinyurl.com/OGPSummit2019), Ottawa (facilitator)
+
+### 2018
+
+* Made in Canada Public Registry of Beneficial Owners Workshop, Ottawa (speaker)
+
 ### 2017
 
 * [Open Contracting 2017](http://opencontracting2017.org/), Amsterdam (facilitator)
@@ -16,7 +24,7 @@ published: true
 
 ### 2016
 
-* [Open Government Partnership Global Summit](https://en.ogpsummit.org/), Paris (panelist)
+* [Open Government Partnership Global Summit](https://2016.ogpsummit.org/), Paris (panelist)
 * [International Open Data Conference](https://internationalopendataconfer2016.sched.com/), Madrid ([panelist](https://internationalopendataconfer2016.sched.com/event/7czJ/my-best-open-data-fail))
 * [g0v Summit](http://summit.g0v.tw/2016/), Taipei ([speaker](http://summit.g0v.tw/2016/schedules#day1-all-24))
 * Canadian Open Data Summit, Saint John (moderator){% comment %}Open by Default: Addressing the Challenges{% endcomment %}
@@ -80,7 +88,7 @@ published: true
 * [Opening Parliament](https://openingparliament.org/)
 * [Geothink](http://geothink.ca/)
 * [InfluenceMapping](http://www.influencemapping.org/)
-* [Joined-up Data Alliance](http://juds.joinedupdata.org/)
+* [Joined-Up Data Alliance](http://juds.joinedupdata.org/)
 * [Open Civic Data](http://docs.opencivicdata.org/)
 * [Poplus](http://poplus.org/)
 * [Québec Ouvert](http://www.quebecouvert.org/)
@@ -95,23 +103,25 @@ published: true
 
 ## Standards
 
-* [Popolo](http://www.popoloproject.com/), author
-* [Data Catalog Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat/), invited expert
-* [Organization Ontology (ORG)](https://www.w3.org/TR/vocab-org/), invited expert
-* [Open Contracting Data Standard](http://standard.open-contracting.org/), core team (1.0), editor (present)
-* [US Project Open Data Metadata Schema](https://project-open-data.cio.gov/v1.1/schema/), contributor (1.0)
-* [Who's Got Dirt API](http://www.influencemapping.org/work/whosgotdirt/), author
-* [W3C vCard Ontology](https://www.w3.org/TR/vcard-rdf/), co-author
+* [Popolo](http://www.popoloproject.com/), author (2013-2015)
+* [Open Contracting Data Standard](http://standard.open-contracting.org/), core team (1.0), editor (ongoing)
+* [Represent CSV Schema](http://represent.opennorth.ca/government/), author (2014-2015)
+* [Data Catalog Vocabulary (DCAT)](https://www.w3.org/TR/vocab-dcat/), invited expert (2013-2014)
+* [Organization Ontology (ORG)](https://www.w3.org/TR/vocab-org/), invited expert (2013-2014)
+* [US Project Open Data Metadata Schema](https://project-open-data.cio.gov/v1.1/schema/), contributor (1.0) (2013-2014)
+* [Who's Got Dirt API](http://www.influencemapping.org/work/whosgotdirt/), author (2015-2016)
+* [W3C vCard Ontology](https://www.w3.org/TR/vcard-rdf/), co-author (2014)
 
 ## Software
 
 * [csvkit](https://github.com/wireservice/csvkit)
 * [Represent Civic Information API](http://represent.opennorth.ca/)
 * [Represent Boundaries](http://represent.poplus.org/)
-* [Citizen Budget](http://www.citizenbudget.com/)
-* [Ready Reckoner](http://www.readyreckoner.ca/)
-* [My RubyGems](https://rubygems.org/profiles/jpmckinney) ([status](http://jpmckinney.github.io/))
-* [My pull requests](https://github.com/pulls?q=is%3Apr+author%3Ajpmckinney+is%3Aclosed+-org%3Aopen-contracting+-org%3Aopen-contracting-archive+-org%3Aopen-contracting-extensions+-org%3Aopen-contracting-partnership+-org%3Aopenc+-org%3Aopennorth)
+* [Citizen Budget](http://www.citizenbudget.com/) (2011-2015)
+* [Ready Reckoner](http://www.readyreckoner.ca/) (2014-2015)
+* [My Python packages](https://rubygems.org/profiles/jpmckinney)
+* [My Ruby gems](https://rubygems.org/profiles/jpmckinney) ([status](http://jpmckinney.github.io/))
+* [My pull requests](https://github.com/pulls?q=is%3Apr+author%3Ajpmckinney+-org%3Awireservice+-org%3Aopencivicdata+-org%3Aactiveadmin+-org%3Aopen-contracting+-org%3Aopen-contracting-archive+-org%3Aopen-contracting-extensions+-org%3Aopen-contracting-partnership+-org%3Aopenc+-org%3Aopennorth+-org%3Ajpmckinney+is%3Amerged) merged to repositories without write access
 
 ## Databases
 

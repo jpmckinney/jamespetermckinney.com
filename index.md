@@ -20,10 +20,11 @@ layout: default
 {% comment %}
 The lists I subscribe to:
 
-* [Artery](https://artery.is)
 * [Forest Gregg](http://tinyletter.com/slow-news/archive)
 * [Gavin Starks](http://dgen.net)
+* [Mita Williams](https://tinyletter.com/UniversityOfWinds)
 * [Tom Steinberg](http://eepurl.com/bvqAT5)
+* [Training Commission](http://trainingcommission.com)
 * Art spaces in Toronto and Montreal
 * A few industry, local and miscellaneous newsletters
 {% endcomment %}
