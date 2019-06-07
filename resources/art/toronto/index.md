@@ -19,7 +19,6 @@ published: true
 -Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ?)  
 
 _**Jun 5-Jun 23 <https://luminatofestival.com/2019/Events/forget-me-not>**_  
-_**Jun 7-Jun 13 <https://luminatofestival.com/2019/Events/Full-Light-Of-Day>**_  
 _Jun 12-Jun 16 <https://luminatofestival.com/2019/Events/Kiinalik>_  
 _Jul 13-Aug 4 <https://soulpepper.ca/performances/fool-for-love/7088>_  
 _**Aug 9-Sep 1 <https://soulpepper.ca/performances/art/7093> (AZ)**_  
@@ -51,17 +50,14 @@ _Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinar
 
 ### Downtown South
 
-<u>-Jun 1</u> <https://scotiabankcontactphoto.com/exhibition/the-sky-as-my-witness-2/> Abbozzo  
-  <u>-Jun 1</u> <https://gallery44.org/exhibitions/developing-historical-negatives> <https://scotiabankcontactphoto.com/exhibition/more-than-this-2/>  
-  -Jun 8 <https://scotiabankcontactphoto.com/exhibition/the-loudspeaker-and-the-tower-2/> Trinity  
-  -Jun 8 <https://scotiabankcontactphoto.com/exhibition/moving-images-moving-people-2/> 450A  
+<u>-Jun 8</u> <https://scotiabankcontactphoto.com/exhibition/the-loudspeaker-and-the-tower-2/> Trinity  
+  <u>-Jun 8</u> <https://scotiabankcontactphoto.com/exhibition/moving-images-moving-people-2/> 450A  
   -Jun 15 <http://scotiabankcontactphoto.com/exhibition/fault-lines/> Tangled  
   -Jun 22 <http://www.prefix.ca/exhibitions/taysir-batniji-suspended-time/>  
   -Jun 29 <https://scotiabankcontactphoto.com/exhibition/configurations> A Space  
   -Jul 20 <http://www.yyzartistsoutlet.org/2019/05/haley-uyeda-under-the-veil-of-morning-mist/> <http://www.yyzartistsoutlet.org/2019/05/zotz-collective-small-contribution-to-a-big-moment/>  
   -Jul 31 <https://scotiabankcontactphoto.com/exhibition/further-along-the-road/> Urbanspace  
-<u>-Jun 2</u> <https://scotiabankcontactphoto.com/exhibition/fissure/> Campbell House  
--Jun 8 <https://scotiabankcontactphoto.com/exhibition/strange-beauty/> Coldstream  
+<u>-Jun 8</u> <https://scotiabankcontactphoto.com/exhibition/strange-beauty/> Coldstream  
   -Jul 27 <https://scotiabankcontactphoto.com/exhibition/blending-the-blues-2/> Contact  
 -Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
 
@@ -76,13 +72,8 @@ _**Jun 22-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-
 
 ### Queen St
 
-<u>-Jun 1</u> <https://scotiabankcontactphoto.com/exhibition/spectra-gallery-44-members-show-part-3/> Artscape  
-  <u>-Jun 2</u> <https://criticaldistance.ca/program/an-archive-but-not-an-atlas/>  
-**<u>-Jun 1</u> <http://georgiascherman.com/ForthcomingExhibitions.html> Christopher Lacroix**  
-<u>-Jun 1</u> <https://scotiabankcontactphoto.com/exhibition/take-hold/> Paul Petro  
-<u>-Jun 2</u> <https://scotiabankcontactphoto.com/exhibition/future-memories/> BAND  
--Jun 8 <https://scotiabankcontactphoto.com/exhibition/sevader-to-escape/> General Hardware  
--Jun 9 <https://www.gladstonehotel.com/spaces/new-generation-photography-award/> <https://www.gladstonehotel.com/spaces/revelation/>  
+<u>-Jun 8</u> <https://scotiabankcontactphoto.com/exhibition/sevader-to-escape/> General Hardware  
+<u>-Jun 9</u> <https://www.gladstonehotel.com/spaces/new-generation-photography-award/> <https://www.gladstonehotel.com/spaces/revelation/>  
 -Jun 15 <https://scotiabankcontactphoto.com/exhibition/skip-stop-2/> Pari Nadimi  
 -Jun 16 <https://scotiabankcontactphoto.com/exhibition/chengzhongcun-城中村/> 1313  
 -Jun 22 <http://susanhobbs.com/exhibits/1447-the-slow-rhythms-of-reason>  
