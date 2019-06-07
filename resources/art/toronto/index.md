@@ -16,9 +16,9 @@ published: true
 
 ### Shows
 
--Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ?)  
+-Jun 15 <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ)  
+**-Jun 23 <https://luminatofestival.com/2019/Events/forget-me-not>**  
 
-_**Jun 5-Jun 23 <https://luminatofestival.com/2019/Events/forget-me-not>**_  
 _Jun 12-Jun 16 <https://luminatofestival.com/2019/Events/Kiinalik>_  
 _Jul 13-Aug 4 <https://soulpepper.ca/performances/fool-for-love/7088>_  
 _**Aug 9-Sep 1 <https://soulpepper.ca/performances/art/7093> (AZ)**_  
@@ -37,8 +37,8 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 -Jun 30 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/community-voices>  
   **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
+-Jul 27 <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>  
 
-_Jun 5-Jul 27 <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>_  
 _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>_  
 _Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>_  
 
@@ -59,9 +59,9 @@ _Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinar
   -Jul 31 <https://scotiabankcontactphoto.com/exhibition/further-along-the-road/> Urbanspace  
 <u>-Jun 8</u> <https://scotiabankcontactphoto.com/exhibition/strange-beauty/> Coldstream  
   -Jul 27 <https://scotiabankcontactphoto.com/exhibition/blending-the-blues-2/> Contact  
+**-Jun 23 <https://luminatofestival.com/2019/Events/house-of-mirrors>**  
 -Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
 
-_**Jun 7-Jun 23 <https://luminatofestival.com/2019/Events/house-of-mirrors>**_  
 _**Jun 22-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
@@ -77,9 +77,8 @@ _**Jun 22-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-
 -Jun 15 <https://scotiabankcontactphoto.com/exhibition/skip-stop-2/> Pari Nadimi  
 -Jun 16 <https://scotiabankcontactphoto.com/exhibition/chengzhongcun-城中村/> 1313  
 -Jun 22 <http://susanhobbs.com/exhibits/1447-the-slow-rhythms-of-reason>  
+**-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken**  
 -Aug 30 <https://scotiabankcontactphoto.com/exhibition/a-nation-outside-a-nation/> Bentway  
-
-_**Jun 8-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -96,7 +95,7 @@ _**Jun 8-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Ait
 
 ### Dupont St & The Junction
 
-_Jun 8-Jul 20 <https://angellgallery.com/exhibition/breaker>_  
+-Jul 20 <https://angellgallery.com/exhibition/breaker>  
 
 ### Dundas St
 
