@@ -37,7 +37,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 -Jun 30 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/community-voices>  
   **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
--Jul 27 <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>  
+  -Jul 27 <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>  
 
 _Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>_  
 _Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>_  
@@ -55,11 +55,13 @@ _Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinar
   -Jun 15 <http://scotiabankcontactphoto.com/exhibition/fault-lines/> Tangled  
   -Jun 22 <http://www.prefix.ca/exhibitions/taysir-batniji-suspended-time/>  
   -Jun 29 <https://scotiabankcontactphoto.com/exhibition/configurations> A Space  
+  -Jul 6 <https://gallery44.org/exhibitions/proof-26> <https://gallery44.org/exhibitions/snake-bites-anger-without-warning>  
   -Jul 20 <http://www.yyzartistsoutlet.org/2019/05/haley-uyeda-under-the-veil-of-morning-mist/> <http://www.yyzartistsoutlet.org/2019/05/zotz-collective-small-contribution-to-a-big-moment/>  
   -Jul 31 <https://scotiabankcontactphoto.com/exhibition/further-along-the-road/> Urbanspace  
 <u>-Jun 8</u> <https://scotiabankcontactphoto.com/exhibition/strange-beauty/> Coldstream  
   -Jul 27 <https://scotiabankcontactphoto.com/exhibition/blending-the-blues-2/> Contact  
-**-Jun 23 <https://luminatofestival.com/2019/Events/house-of-mirrors>**  
+**-Jun 23 <https://luminatofestival.com/2019/Events/house-of-mirrors> <https://www.harbourfrontcentre.com/visualarts/2019/the-drawing-room/>**  
+  -Sep 8 <https://www.harbourfrontcentre.com/visualarts/2019/magical-material-thinking/> <https://www.harbourfrontcentre.com/visualarts/2019/compositions/>  
 -Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
 
 _**Jun 22-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>**_  
@@ -78,7 +80,11 @@ _**Jun 22-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-
 -Jun 16 <https://scotiabankcontactphoto.com/exhibition/chengzhongcun-城中村/> 1313  
 -Jun 22 <http://susanhobbs.com/exhibits/1447-the-slow-rhythms-of-reason>  
 **-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken**  
+-Jul 27 <https://birchcontemporary.com/exhibition/cognizance->  
 -Aug 30 <https://scotiabankcontactphoto.com/exhibition/a-nation-outside-a-nation/> Bentway  
+-Sep 3 <http://www.xpace.info/exhibition-event/marissa-sean-cruz-i-am-not-like-other-girls/>  
+
+_**Jun 20-Aug 18 <http://kofflerarts.org/news/2019/02/15/christian-hidaka-raphael-zarka/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -95,7 +101,10 @@ _**Jun 22-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-
 
 ### Dupont St & The Junction
 
+-Jul 6 <https://erinstumpprojects.com/current-exhibitions/dana-slijboom-romance>  
 -Jul 20 <https://angellgallery.com/exhibition/breaker>  
+
+_Jun 14-Jul 20 <https://coopercolegallery.com/exhibition/2019-geoff-mcfetridge/>_  
 
 ### Dundas St
 

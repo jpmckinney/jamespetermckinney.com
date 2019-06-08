@@ -48,7 +48,7 @@ _**Apr 25-Sep 15 <https://fondation-phi.org> Yoko Ono**_
 
 ### Little Burgundy
 
-**<http://arsenalmontreal.com/details/selection-collection-hiver-2019/>**  
+**<http://arsenalmontreal.com/en/details/selection-collection-summer-2019/>**  
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Arsenal T8
 
