@@ -19,6 +19,7 @@ published: true
 <u>-Jun 16</u> <https://luminatofestival.com/2019/Events/Kiinalik>  
 **<u>-Jun 23</u> <https://luminatofestival.com/2019/Events/forget-me-not>**  
 -Jun 30 <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ)  
+**-Oct 27 <https://www.stratfordfestival.ca/WhatsOn/PlaysAndEvents/Production/Othello/BuyTickets>**  
 
 _Jul 13-Aug 4 <https://soulpepper.ca/performances/fool-for-love/7088>_  
 _**Aug 9-Sep 1 <https://soulpepper.ca/performances/art/7093> (AZ)**_  
