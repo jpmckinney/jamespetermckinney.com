@@ -49,50 +49,26 @@ Outdoor movies:
 * Jul-Sep <https://en.downsviewpark.ca/event/friday-night-lights-2018>
 * Jun-Sep <https://www.blogto.com/film/2018/06/free-outdoor-movies-toronto-summer-2018/>
 
-### May
-
-* **<http://scotiabankcontactphoto.com> photography**
-* **<https://janeswalk.org/canada/toronto/toronto-walk-listings/> walk 3-5**
-* **<http://www.torontocomics.com> comics 11-12**
-* **<https://www.facebook.com/doorsopenTO> architecture 25-26**
-* <http://riserproject.org> theatre 6-Jun 1
-* <http://www.nghtshfts.org> art 1-24
-* <https://www.artfestontario.com/toronto> 18-20
-* <https://torontocoffeeandtea.com> coffee/eat 4-5
-* <http://www.ocadu.ca/gradex.htm> art (grad) 1-5
-* <http://www.maxex.ca> photography (grad) 2-6
-* <http://ifwtoronto.com> fashion 31-Jun 3 biennial (even)
-* <http://www.nextmusicfromtokyo.com> music 17-18
-* <https://www.rcmusic.com/performance/21c-music-festival> music 23-27
-* <https://cmw.net/music/> music 6-12
-* <http://censured.info> film 27-28 biennial (odd)
-* <https://www.insideout.ca/torontofestival/> film 24-Jun 3
-* <https://tjff.com> film 2-12
-* <https://www.thetastemakertour.com/toronto> food 10-12
-* <http://www.nativeearth.ca/paprika19/> young 20-26
-* <http://www.harbourfrontcentre.com/junior/> youth 18-24
-* ✖ <http://subtletechnologies.com/festival/> art 10-Jun 25 (2017)
-
 ### Jun
 
 * **<https://luminatofestival.com> art/performance/music 6-24**
+* <http://dundaswestfest.ca> food 7-8
 * <http://riverdaleartwalk.ca> art 2-3
-* <https://www.safeword.ca/safewords> theatre 1-2
-* <http://www.pridetoronto.com> <https://yohomo.ca> 22-24
 * <http://www.nuitrose.ca> art/performance 16
-* <https://www.femaleeyefilmfestival.com> film 26-Jul 1
-* <http://docnow.ca> film
+* <http://www.pridetoronto.com> <https://yohomo.ca> 22-24
+* <http://docnow.ca> film 6-30
 * <https://www.torontotruecrimefilmfestival.com> film 14-15
-* <http://gorillatickets.ca/event/bubble-tea-festival/> food 23
-* <http://www.wineandspiritfestival.ca> food 22-23
-* <http://buttertartfestival.ca> Midland food 9
-* <https://www.facebook.com/tasteofasiastreetfestival/> Markham food 25-26
-* <http://torontojazz.com> music 22-Jul 1
-* <http://fieldtriplife.com> music 2-3
-* <http://nxne.com> music 8-17
-* <http://digitaldreamsfestival.ca> music 23-24
-* <http://thejunctionbia.ca/event/the-junction-summer-solstice-festival/> fest 23
-* <http://towaterfrontfest.com> fest 22-24
+* <http://www.wineandspiritfestival.ca> food 14-15
+* <http://buttertartfestival.ca> Midland food 8
+* <https://www.facebook.com/tasteofasiastreetfestival/> Markham food 28-30
+* <http://torontojazz.com> music 21-30
+* <http://fieldtriplife.com> music 2-3 (2020)
+* <http://nxne.com> music 7-16
+* <http://digitaldreamsfestival.ca> music 29-30
+* <http://thejunctionbia.ca/event/the-junction-summer-solstice-festival/> fest 22
+* <http://towaterfrontfest.com> fest 29-Jul 1
+* ✖ <http://gorillatickets.ca/event/bubble-tea-festival/> food 23 (2018)
+* ✖ <https://www.safeword.ca/safewords> theatre 1-2 (2018)
 * ✖ <http://dancemakers.org/events/> dance 13-24 (2017)
 * ✖ <http://loveletterprojects.com> art 20-25 (2017)
 * ✖ <http://www.bestival.ca> music 11-12 (2016)
@@ -157,6 +133,7 @@ Outdoor movies:
 * <https://www.arttoronto.ca> art fair 26-29
 * <https://www.alunatheatre.ca/festival/rutas-2018/> performance 3-14
 * <http://www.imaginenative.org> film 17-21
+* <https://www.femaleeyefilmfestival.com> film 3-6
 * <http://www.reelworld.ca> film 9-14
 * <http://planetinfocus.org> film 25-28
 * <http://www.tsaff.ca> film 13-14
@@ -230,3 +207,27 @@ Outdoor movies:
 * _<https://ysdn2019.com> design (grad) 10-11_
 * _<https://massexodus.ca> fashion (grad) 4-6_
 * ✖ <http://www.harbourfrontcentre.com/worldstage/performances/> performance 4-22 (2017)
+
+### May
+
+* **<http://scotiabankcontactphoto.com> photography**
+* **<https://janeswalk.org/canada/toronto/toronto-walk-listings/> walk 3-5**
+* **<http://www.torontocomics.com> comics 11-12**
+* **<https://www.facebook.com/doorsopenTO> architecture 25-26**
+* <http://www.ocadu.ca/gradex.htm> art (grad) 1-5
+* <https://www.insideout.ca/torontofestival/> film 24-Jun 3
+* <http://riserproject.org> theatre 6-Jun 1
+* <http://www.nghtshfts.org> art 1-24
+* <https://www.artfestontario.com/toronto> 18-20
+* <http://www.maxex.ca> photography (grad) 2-6
+* <http://ifwtoronto.com> fashion 31-Jun 3 biennial (even)
+* <http://www.nextmusicfromtokyo.com> music 17-18
+* <https://www.rcmusic.com/performance/21c-music-festival> music 23-27
+* <https://cmw.net/music/> music 6-12
+* <http://censured.info> film 27-28 biennial (odd)
+* <https://tjff.com> film 2-12
+* <https://torontocoffeeandtea.com> coffee/eat 4-5
+* <https://www.thetastemakertour.com/toronto> food 10-12
+* <http://www.nativeearth.ca/paprika19/> young 20-26
+* <http://www.harbourfrontcentre.com/junior/> youth 18-24
+* ✖ <http://subtletechnologies.com/festival/> art 10-Jun 25 (2017)

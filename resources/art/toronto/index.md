@@ -16,10 +16,10 @@ published: true
 
 ### Shows
 
-<u>-Jun 15</u> <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ)  
-**-Jun 23 <https://luminatofestival.com/2019/Events/forget-me-not>**  
+<u>-Jun 16</u> <https://luminatofestival.com/2019/Events/Kiinalik>  
+**<u>-Jun 23</u> <https://luminatofestival.com/2019/Events/forget-me-not>**  
+-Jun 30 <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ)  
 
-_Jun 12-Jun 16 <https://luminatofestival.com/2019/Events/Kiinalik>_  
 _Jul 13-Aug 4 <https://soulpepper.ca/performances/fool-for-love/7088>_  
 _**Aug 9-Sep 1 <https://soulpepper.ca/performances/art/7093> (AZ)**_  
 _Aug 28-Sep 15 <https://soulpepper.ca/performances/betrayal/7098>_  
@@ -36,10 +36,10 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 -Jun 30 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/community-voices>  
   **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
+  -Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
 -Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
   -Jul 27 <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>  
 
-_Jun 12-Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>_  
 _Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
@@ -50,13 +50,12 @@ _Jun 22-Sep 2 <http://www.thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinar
 
 ### Downtown South
 
-<u>-Jun 15</u> <http://scotiabankcontactphoto.com/exhibition/fault-lines/> Tangled  
-  -Jun 22 <http://www.prefix.ca/exhibitions/taysir-batniji-suspended-time/>  
+<u>-Jun 22</u> <http://www.prefix.ca/exhibitions/taysir-batniji-suspended-time/>  
   -Jun 29 <https://scotiabankcontactphoto.com/exhibition/configurations> A Space  
   -Jul 6 <https://gallery44.org/exhibitions/proof-26> <https://gallery44.org/exhibitions/snake-bites-anger-without-warning>  
   -Jul 20 <http://www.yyzartistsoutlet.org/2019/05/haley-uyeda-under-the-veil-of-morning-mist/> <http://www.yyzartistsoutlet.org/2019/05/zotz-collective-small-contribution-to-a-big-moment/>  
   -Jul 31 <https://scotiabankcontactphoto.com/exhibition/further-along-the-road/> Urbanspace  
-**-Jun 23 <https://luminatofestival.com/2019/Events/house-of-mirrors> <https://www.harbourfrontcentre.com/visualarts/2019/the-drawing-room/>**  
+**<u>-Jun 23</u> <https://luminatofestival.com/2019/Events/house-of-mirrors> <https://www.harbourfrontcentre.com/visualarts/2019/the-drawing-room/>**  
   -Sep 8 <https://www.harbourfrontcentre.com/visualarts/2019/magical-material-thinking/> <https://www.harbourfrontcentre.com/visualarts/2019/compositions/>  
 **-Jul 27 <https://scotiabankcontactphoto.com/exhibition/blending-the-blues-2/> Contact**  
 -Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
@@ -72,9 +71,7 @@ _**Jun 22-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-
 
 ### Queen St
 
-<u>-Jun 15</u> <https://scotiabankcontactphoto.com/exhibition/skip-stop-2/> Pari Nadimi  
-<u>-Jun 16</u> <https://scotiabankcontactphoto.com/exhibition/chengzhongcun-城中村/> 1313  
--Jun 22 <http://susanhobbs.com/exhibits/1447-the-slow-rhythms-of-reason>  
+<u>-Jun 22</u> <http://susanhobbs.com/exhibits/1447-the-slow-rhythms-of-reason>  
 **-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken**  
 -Jul 27 <https://birchcontemporary.com/exhibition/cognizance->  
 -Aug 30 <https://scotiabankcontactphoto.com/exhibition/a-nation-outside-a-nation/> Bentway  
@@ -99,8 +96,7 @@ _**Jun 20-Aug 18 <http://kofflerarts.org/news/2019/02/15/christian-hidaka-raphae
 
 -Jul 6 <https://erinstumpprojects.com/current-exhibitions/dana-slijboom-romance>  
 -Jul 20 <https://angellgallery.com/exhibition/breaker>  
-
-_Jun 14-Jul 20 <https://coopercolegallery.com/exhibition/2019-geoff-mcfetridge/>_  
+-Jul 20 <https://coopercolegallery.com/exhibition/2019-geoff-mcfetridge/>  
 
 ### Dundas St
 
