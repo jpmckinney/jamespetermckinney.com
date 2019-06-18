@@ -119,7 +119,7 @@ published: true
 * [Represent Boundaries](http://represent.poplus.org/)
 * [Citizen Budget](http://www.citizenbudget.com/) (2011-2015)
 * [Ready Reckoner](http://www.readyreckoner.ca/) (2014-2015)
-* [My Python packages](https://rubygems.org/profiles/jpmckinney)
+* [My Python packages](https://pypi.org/user/jpmckinney/)
 * [My Ruby gems](https://rubygems.org/profiles/jpmckinney) ([status](http://jpmckinney.github.io/))
 * [My pull requests](https://github.com/pulls?q=is%3Apr+author%3Ajpmckinney+-org%3Awireservice+-org%3Aopencivicdata+-org%3Aactiveadmin+-org%3Aopen-contracting+-org%3Aopen-contracting-archive+-org%3Aopen-contracting-extensions+-org%3Aopen-contracting-partnership+-org%3Aopenc+-org%3Aopennorth+-org%3Ajpmckinney+is%3Amerged) merged to repositories without write access
 

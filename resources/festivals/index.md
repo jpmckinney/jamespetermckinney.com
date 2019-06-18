@@ -201,6 +201,7 @@ Outdoor movies:
 * **<https://www.hotdocs.ca> film 25-May 5**
 * <http://fashionarttoronto.ca> art/fashion 24-28
 * <https://www.gladstonehotel.com/Grow-Op> art 17-21
+* <https://www.girotoronto.ca> food 4-14
 * _<http://meta2018.ca> art (grad) 5-7_
 * _<http://www.sheridanillustration.com> art (grad) 11-12_
 * _<https://www.senecacollege.ca/create/news/articles/artsfestival-2019> art (grad)_

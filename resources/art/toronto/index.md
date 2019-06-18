@@ -17,7 +17,6 @@ published: true
 ### Shows
 
 <u>-Jun 16</u> <https://luminatofestival.com/2019/Events/Kiinalik>  
-**<u>-Jun 23</u> <https://luminatofestival.com/2019/Events/forget-me-not>**  
 -Jun 30 <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ)  
 **-Oct 27 <https://www.stratfordfestival.ca/WhatsOn/PlaysAndEvents/Production/Othello/BuyTickets>**  
 
@@ -73,12 +72,16 @@ _**Jun 22-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-
 ### Queen St
 
 <u>-Jun 22</u> <http://susanhobbs.com/exhibits/1447-the-slow-rhythms-of-reason>  
+<u>-Jun 23</u> <https://criticaldistance.ca/program/room-for-shifting-expressions-nuit-rose-2019/>  
+-Jul 7 <http://band-rand.com/site/ehiko-odeh/>  
 **-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken**  
 -Jul 27 <https://birchcontemporary.com/exhibition/cognizance->  
 -Aug 30 <https://scotiabankcontactphoto.com/exhibition/a-nation-outside-a-nation/> Bentway  
 -Sep 3 <http://www.xpace.info/exhibition-event/marissa-sean-cruz-i-am-not-like-other-girls/>  
+**-Sep 22 <http://funhousetoronto.com>**  
 
 _**Jun 20-Aug 18 <http://kofflerarts.org/news/2019/02/15/christian-hidaka-raphael-zarka/>**_  
+_Jul 4-Aug 17 <https://criticaldistance.ca/program/publishing-against-the-grain-at-critical-distance/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -91,6 +94,9 @@ _**Jun 20-Aug 18 <http://kofflerarts.org/news/2019/02/15/christian-hidaka-raphae
 -Jul 7 <https://museumofcontemporaryart.ca/honest-shop-art-in-use-2019/>  
   **-Jul 29 <https://moca.ca/mark-dion-programs-2019/>**  
 
+_**Jun 22-Aug 10 <http://www.mercerunion.org/exhibitions/jennifer-rose-sciarrino-from-root-to-lip/>**_  
+_**Jun 27-Aug 24 <http://www.scrapmetalgallery.com> Muscled Rose**_  
+
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
@@ -98,6 +104,8 @@ _**Jun 20-Aug 18 <http://kofflerarts.org/news/2019/02/15/christian-hidaka-raphae
 -Jul 6 <https://erinstumpprojects.com/current-exhibitions/dana-slijboom-romance>  
 -Jul 20 <https://angellgallery.com/exhibition/breaker>  
 -Jul 20 <https://coopercolegallery.com/exhibition/2019-geoff-mcfetridge/>  
+
+_**Jul 11-Aug 17 >https://interaccess.org/exhibition/future-relics>**_  
 
 ### Dundas St
 
