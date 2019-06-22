@@ -91,7 +91,7 @@ _Jul 4-Aug 17 <https://criticaldistance.ca/program/publishing-against-the-grain-
 
 ### Bloordale & Junction Triangle
 
--Jul 7 <https://museumofcontemporaryart.ca/honest-shop-art-in-use-2019/>  
+**-Jul 7 <https://moca.ca/lisa-jackson-vr-experience-2019/> <https://museumofcontemporaryart.ca/honest-shop-art-in-use-2019/>**  
   **-Jul 29 <https://moca.ca/mark-dion-programs-2019/>**  
 
 _**Jun 22-Aug 10 <http://www.mercerunion.org/exhibitions/jennifer-rose-sciarrino-from-root-to-lip/>**_  
