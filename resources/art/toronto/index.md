@@ -16,7 +16,7 @@ published: true
 
 ### Shows
 
--Jun 30 <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ)  
+<u>-Jun 30</u> <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ)  
 **-Oct 27 <https://www.stratfordfestival.ca/WhatsOn/PlaysAndEvents/Production/Othello/BuyTickets>**  
 
 _Jul 13-Aug 4 <https://soulpepper.ca/performances/fool-for-love/7088>_  
@@ -33,10 +33,10 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown North
 
--Jun 30 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/community-voices>  
+<u>-Jun 30</u> <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/community-voices>  
   **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
   -Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
--Jun 30 <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
+<u>-Jun 30</u> <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
   -Jul 27 <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
@@ -47,13 +47,13 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown South
 
--Jun 29 <https://scotiabankcontactphoto.com/exhibition/configurations> A Space  
+**<u>-Jun 23</u> <https://luminatofestival.com/2019/Events/house-of-mirrors> <https://www.harbourfrontcentre.com/visualarts/2019/the-drawing-room/>**  
+  -Sep 8 <https://www.harbourfrontcentre.com/visualarts/2019/magical-material-thinking/> <https://www.harbourfrontcentre.com/visualarts/2019/compositions/>  
+<u>-Jun 29</u> <https://scotiabankcontactphoto.com/exhibition/configurations> A Space  
   -Jul 6 <https://gallery44.org/exhibitions/proof-26> <https://gallery44.org/exhibitions/snake-bites-anger-without-warning>  
   -Jul 20 <http://www.prefix.ca/exhibitions/taysir-batniji-suspended-time/>  
   -Jul 20 <http://www.yyzartistsoutlet.org/2019/05/haley-uyeda-under-the-veil-of-morning-mist/> <http://www.yyzartistsoutlet.org/2019/05/zotz-collective-small-contribution-to-a-big-moment/>  
   -Jul 31 <https://scotiabankcontactphoto.com/exhibition/further-along-the-road/> Urbanspace  
-**<u>-Jun 23</u> <https://luminatofestival.com/2019/Events/house-of-mirrors> <https://www.harbourfrontcentre.com/visualarts/2019/the-drawing-room/>**  
-  -Sep 8 <https://www.harbourfrontcentre.com/visualarts/2019/magical-material-thinking/> <https://www.harbourfrontcentre.com/visualarts/2019/compositions/>  
 **-Jul 27 <https://scotiabankcontactphoto.com/exhibition/blending-the-blues-2/> Contact**  
 -Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
 **-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>**  
