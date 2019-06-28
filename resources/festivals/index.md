@@ -49,30 +49,6 @@ Outdoor movies:
 * Jul-Sep <https://en.downsviewpark.ca/event/friday-night-lights-2018>
 * Jun-Sep <https://www.blogto.com/film/2018/06/free-outdoor-movies-toronto-summer-2018/>
 
-### Jun
-
-* **<https://luminatofestival.com> art/performance/music 6-24**
-* <http://dundaswestfest.ca> food 7-8
-* <http://riverdaleartwalk.ca> art 2-3
-* <http://www.nuitrose.ca> art/performance 16
-* <http://www.pridetoronto.com> <https://yohomo.ca> 22-24
-* <http://docnow.ca> film 6-30
-* <https://www.torontotruecrimefilmfestival.com> film 14-15
-* <http://www.wineandspiritfestival.ca> food 14-15
-* <http://buttertartfestival.ca> Midland food 8
-* <https://www.facebook.com/tasteofasiastreetfestival/> Markham food 28-30
-* <http://torontojazz.com> music 21-30
-* <http://fieldtriplife.com> music 2-3 (2020)
-* <http://nxne.com> music 7-16
-* <http://digitaldreamsfestival.ca> music 29-30
-* <http://thejunctionbia.ca/event/the-junction-summer-solstice-festival/> fest 22
-* <http://towaterfrontfest.com> fest 29-Jul 1
-* ✖ <http://gorillatickets.ca/event/bubble-tea-festival/> food 23 (2018)
-* ✖ <https://www.safeword.ca/safewords> theatre 1-2 (2018)
-* ✖ <http://dancemakers.org/events/> dance 13-24 (2017)
-* ✖ <http://loveletterprojects.com> art 20-25 (2017)
-* ✖ <http://www.bestival.ca> music 11-12 (2016)
-
 ### Jul
 
 * **<http://vectorfestival.org> art 11-14**
@@ -232,3 +208,28 @@ Outdoor movies:
 * <http://www.nativeearth.ca/paprika19/> young 20-26
 * <http://www.harbourfrontcentre.com/junior/> youth 18-24
 * ✖ <http://subtletechnologies.com/festival/> art 10-Jun 25 (2017)
+
+### Jun
+
+* **<https://luminatofestival.com> art/performance/music 6-24**
+* <http://dundaswestfest.ca> food 7-8
+* <http://riverdaleartwalk.ca> art 2-3
+* <http://www.nuitrose.ca> art/performance 16
+* <http://www.pridetoronto.com> <https://yohomo.ca> 22-24
+* <http://docnow.ca> film 6-30
+* <https://icff.ca> film 13-21
+* <https://www.torontotruecrimefilmfestival.com> film 14-15
+* <http://www.wineandspiritfestival.ca> food 14-15
+* <http://buttertartfestival.ca> Midland food 8
+* <https://www.facebook.com/tasteofasiastreetfestival/> Markham food 28-30
+* <http://torontojazz.com> music 21-30
+* <http://fieldtriplife.com> music 2-3 (2020)
+* <http://nxne.com> music 7-16
+* <http://digitaldreamsfestival.ca> music 29-30
+* <http://thejunctionbia.ca/event/the-junction-summer-solstice-festival/> fest 22
+* <http://towaterfrontfest.com> fest 29-Jul 1
+* ✖ <http://gorillatickets.ca/event/bubble-tea-festival/> food 23 (2018)
+* ✖ <https://www.safeword.ca/safewords> theatre 1-2 (2018)
+* ✖ <http://dancemakers.org/events/> dance 13-24 (2017)
+* ✖ <http://loveletterprojects.com> art 20-25 (2017)
+* ✖ <http://www.bestival.ca> music 11-12 (2016)
