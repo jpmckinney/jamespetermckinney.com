@@ -47,16 +47,15 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown South
 
-**<u>-Jun 23</u> <https://luminatofestival.com/2019/Events/house-of-mirrors> <https://www.harbourfrontcentre.com/visualarts/2019/the-drawing-room/>**  
-  -Sep 8 <https://www.harbourfrontcentre.com/visualarts/2019/magical-material-thinking/> <https://www.harbourfrontcentre.com/visualarts/2019/compositions/>  
 <u>-Jun 29</u> <https://scotiabankcontactphoto.com/exhibition/configurations> A Space  
-  -Jul 6 <https://gallery44.org/exhibitions/proof-26> <https://gallery44.org/exhibitions/snake-bites-anger-without-warning>  
+  <u>-Jul 6</u> <https://gallery44.org/exhibitions/proof-26> <https://gallery44.org/exhibitions/snake-bites-anger-without-warning>  
   -Jul 20 <http://www.prefix.ca/exhibitions/taysir-batniji-suspended-time/>  
   -Jul 20 <http://www.yyzartistsoutlet.org/2019/05/haley-uyeda-under-the-veil-of-morning-mist/> <http://www.yyzartistsoutlet.org/2019/05/zotz-collective-small-contribution-to-a-big-moment/>  
   -Jul 31 <https://scotiabankcontactphoto.com/exhibition/further-along-the-road/> Urbanspace  
 **-Jul 27 <https://scotiabankcontactphoto.com/exhibition/blending-the-blues-2/> Contact**  
 -Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
 **-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>**  
+-Sep 8 <https://www.harbourfrontcentre.com/brave/events/index.cfm?id=10485&festival_id=328> <https://www.harbourfrontcentre.com/visualarts/2019/magical-material-thinking/> <https://www.harbourfrontcentre.com/visualarts/2019/compositions/> <https://www.harbourfrontcentre.com/visualarts/2019/love-boats/>  
 **-Sep 22 <https://www.showclix.com/event/the-funhouse-toronto>**  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
@@ -67,8 +66,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Queen St
 
-<u>-Jun 23</u> <https://criticaldistance.ca/program/room-for-shifting-expressions-nuit-rose-2019/>  
--Jul 7 <http://band-rand.com/site/ehiko-odeh/>  
+<u>-Jul 7</u> <http://band-rand.com/site/ehiko-odeh/>  
 **-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken**  
 -Jul 27 <https://birchcontemporary.com/exhibition/cognizance->  
 **-Aug 18 <http://kofflerarts.org/news/2019/02/15/christian-hidaka-raphael-zarka/>**  
@@ -86,18 +84,18 @@ _Jul 4-Aug 17 <https://criticaldistance.ca/program/publishing-against-the-grain-
 
 ### Bloordale & Junction Triangle
 
-**-Jul 7 <https://moca.ca/lisa-jackson-vr-experience-2019/> <https://museumofcontemporaryart.ca/honest-shop-art-in-use-2019/>**  
+**<u>-Jul 7</u> <https://moca.ca/lisa-jackson-vr-experience-2019/> <https://museumofcontemporaryart.ca/honest-shop-art-in-use-2019/>**  
   **-Jul 29 <https://moca.ca/mark-dion-programs-2019/>**  
+-Jul 20 <http://www.franzkaka.com/franz-kaka--drawings.html>  
 **-Aug 10 <http://www.mercerunion.org/exhibitions/jennifer-rose-sciarrino-from-root-to-lip/>**  
-
-_**Jun 27-Aug 24 <http://www.scrapmetalgallery.com> Muscled Rose**_  
-_**Jun 29-Aug 3 <http://gallerytpw.ca/exhibitions/kg-guttman/>**_  
+_**-Aug 3 <http://gallerytpw.ca/exhibitions/kg-guttman/>**_  
+_**-Aug 24 <http://www.scrapmetalgallery.com> Muscled Rose**_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
--Jul 6 <https://erinstumpprojects.com/current-exhibitions/dana-slijboom-romance> <https://erinstumpprojects.com/current-exhibitions/nadia-gohar-mudstone>  
+<u>-Jul 6</u> <https://erinstumpprojects.com/current-exhibitions/dana-slijboom-romance> <https://erinstumpprojects.com/current-exhibitions/nadia-gohar-mudstone>  
 -Jul 20 <https://angellgallery.com/exhibition/breaker>  
 -Jul 20 <https://coopercolegallery.com/exhibition/2019-geoff-mcfetridge/>  
 
