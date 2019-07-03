@@ -83,6 +83,7 @@ Outdoor movies:
 * **<http://zinedream.com> comics 12**
 * <http://toronto.figmentproject.org> art 18-19
 * <http://www.sailincinema.com> film 10-11
+* <https://www.chinatownbia.com/eventsnews/toronto-chinatown-festival/> food 17-18
 * <http://tasteofthedanforth.com> food 10-12
 * <https://veldmusicfestival.com> music 4-5
 * <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 18-19

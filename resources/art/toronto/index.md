@@ -16,7 +16,6 @@ published: true
 
 ### Shows
 
-<u>-Jun 30</u> <https://www.soulpepper.ca/performances/august-osage-county/6179> (AZ)  
 **-Oct 27 <https://www.stratfordfestival.ca/WhatsOn/PlaysAndEvents/Production/Othello/BuyTickets>**  
 
 _Jul 13-Aug 4 <https://soulpepper.ca/performances/fool-for-love/7088>_  
@@ -33,11 +32,9 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown North
 
-<u>-Jun 30</u> <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/community-voices>  
-  **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
+**-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
   -Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
-<u>-Jun 30</u> <https://artmuseum.utoronto.ca/exhibition/reading-again/>  
-  -Jul 27 <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>  
+**-Jul 27 <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>**  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -47,11 +44,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown South
 
-<u>-Jun 29</u> <https://scotiabankcontactphoto.com/exhibition/configurations> A Space  
-  <u>-Jul 6</u> <https://gallery44.org/exhibitions/proof-26> <https://gallery44.org/exhibitions/snake-bites-anger-without-warning>  
-  -Jul 20 <http://www.prefix.ca/exhibitions/taysir-batniji-suspended-time/>  
-  -Jul 20 <http://www.yyzartistsoutlet.org/2019/05/haley-uyeda-under-the-veil-of-morning-mist/> <http://www.yyzartistsoutlet.org/2019/05/zotz-collective-small-contribution-to-a-big-moment/>  
-  -Jul 31 <https://scotiabankcontactphoto.com/exhibition/further-along-the-road/> Urbanspace  
+<u>-Jul 6</u> <https://gallery44.org/exhibitions/proof-26> <https://gallery44.org/exhibitions/snake-bites-anger-without-warning>  
 **-Jul 27 <https://scotiabankcontactphoto.com/exhibition/blending-the-blues-2/> Contact**  
 -Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
 **-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>**  
@@ -69,12 +62,11 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 <u>-Jul 7</u> <http://band-rand.com/site/ehiko-odeh/>  
 **-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken**  
 -Jul 27 <https://birchcontemporary.com/exhibition/cognizance->  
+-Aug 17 <https://criticaldistance.ca/program/publishing-against-the-grain-at-critical-distance/>  
 **-Aug 18 <http://kofflerarts.org/news/2019/02/15/christian-hidaka-raphael-zarka/>**  
 -Aug 30 <https://scotiabankcontactphoto.com/exhibition/a-nation-outside-a-nation/> Bentway  
 -Sep 3 <http://www.xpace.info/exhibition-event/marissa-sean-cruz-i-am-not-like-other-girls/>  
 **-Sep 22 <http://funhousetoronto.com>**  
-
-_Jul 4-Aug 17 <https://criticaldistance.ca/program/publishing-against-the-grain-at-critical-distance/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -88,8 +80,8 @@ _Jul 4-Aug 17 <https://criticaldistance.ca/program/publishing-against-the-grain-
   **-Jul 29 <https://moca.ca/mark-dion-programs-2019/>**  
 -Jul 20 <http://www.franzkaka.com/franz-kaka--drawings.html>  
 **-Aug 10 <http://www.mercerunion.org/exhibitions/jennifer-rose-sciarrino-from-root-to-lip/>**  
-_**-Aug 3 <http://gallerytpw.ca/exhibitions/kg-guttman/>**_  
-_**-Aug 24 <http://www.scrapmetalgallery.com> Muscled Rose**_  
+**-Aug 3 <http://gallerytpw.ca/exhibitions/kg-guttman/>**  
+**-Aug 24 <http://www.scrapmetalgallery.com> Muscled Rose**  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
