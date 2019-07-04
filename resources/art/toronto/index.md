@@ -32,9 +32,9 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown North
 
+**-Jul 27 <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>**  
 **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
   -Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
-**-Jul 27 <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>**  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -44,8 +44,6 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown South
 
-<u>-Jul 6</u> <https://gallery44.org/exhibitions/proof-26> <https://gallery44.org/exhibitions/snake-bites-anger-without-warning>  
-**-Jul 27 <https://scotiabankcontactphoto.com/exhibition/blending-the-blues-2/> Contact**  
 -Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
 **-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>**  
 -Sep 8 <https://www.harbourfrontcentre.com/brave/events/index.cfm?id=10485&festival_id=328> <https://www.harbourfrontcentre.com/visualarts/2019/magical-material-thinking/> <https://www.harbourfrontcentre.com/visualarts/2019/compositions/> <https://www.harbourfrontcentre.com/visualarts/2019/love-boats/>  
@@ -60,10 +58,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 ### Queen St
 
 <u>-Jul 7</u> <http://band-rand.com/site/ehiko-odeh/>  
-**-Jul 13 <http://georgiascherman.com/ForthcomingExhibitions.html> Jen Aitken**  
--Jul 27 <https://birchcontemporary.com/exhibition/cognizance->  
 -Aug 17 <https://criticaldistance.ca/program/publishing-against-the-grain-at-critical-distance/>  
-**-Aug 18 <http://kofflerarts.org/news/2019/02/15/christian-hidaka-raphael-zarka/>**  
 -Aug 30 <https://scotiabankcontactphoto.com/exhibition/a-nation-outside-a-nation/> Bentway  
 -Sep 3 <http://www.xpace.info/exhibition-event/marissa-sean-cruz-i-am-not-like-other-girls/>  
 **-Sep 22 <http://funhousetoronto.com>**  
