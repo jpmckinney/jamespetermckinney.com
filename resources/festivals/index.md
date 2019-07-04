@@ -62,6 +62,7 @@ Outdoor movies:
 * <http://makerfestival.ca> 7-8
 * <https://www.facebook.com/toabf> books 5-8
 * <https://www.facebook.com/ossingtonfestival/> sport 28
+* <http://tfft.ca> film 19-21
 * <http://bigonbloorfestival.com> art/culture 21-28
 * <https://torontocarnival.ca> culture 8-Aug 12
 * <http://www.culturafestival.ca> culture 6-27

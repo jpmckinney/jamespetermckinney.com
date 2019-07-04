@@ -91,7 +91,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 -Jul 20 <https://angellgallery.com/exhibition/breaker>  
 -Jul 20 <https://coopercolegallery.com/exhibition/2019-geoff-mcfetridge/>  
 
-_**Jul 11-Aug 17 >https://interaccess.org/exhibition/future-relics>**_  
+_**Jul 11-Aug 17 <https://interaccess.org/exhibition/future-relics>**_  
 
 ### Dundas St
 
