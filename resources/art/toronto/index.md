@@ -16,9 +16,9 @@ published: true
 
 ### Shows
 
+-Aug 4 <https://soulpepper.ca/performances/fool-for-love/7088>  
 **-Oct 27 <https://www.stratfordfestival.ca/WhatsOn/PlaysAndEvents/Production/Othello/BuyTickets>**  
 
-_Jul 13-Aug 4 <https://soulpepper.ca/performances/fool-for-love/7088>_  
 _**Aug 9-Sep 1 <https://soulpepper.ca/performances/art/7093> (AZ)**_  
 _Aug 28-Sep 15 <https://soulpepper.ca/performances/betrayal/7098>_  
 _Nov 6-Nov 10 <https://national.ballet.ca/Productions/2019-20-Season/Giselle>_  
@@ -32,7 +32,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown North
 
-**-Jul 27 <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>**  
+**<u>-Jul 27</u> <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>**  
 **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
   -Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
 
@@ -57,7 +57,6 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Queen St
 
-<u>-Jul 7</u> <http://band-rand.com/site/ehiko-odeh/>  
 -Aug 17 <https://criticaldistance.ca/program/publishing-against-the-grain-at-critical-distance/>  
 -Aug 30 <https://scotiabankcontactphoto.com/exhibition/a-nation-outside-a-nation/> Bentway  
 -Sep 3 <http://www.xpace.info/exhibition-event/marissa-sean-cruz-i-am-not-like-other-girls/>  
@@ -71,9 +70,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Bloordale & Junction Triangle
 
-**<u>-Jul 7</u> <https://moca.ca/lisa-jackson-vr-experience-2019/> <https://museumofcontemporaryart.ca/honest-shop-art-in-use-2019/>**  
-  **-Jul 29 <https://moca.ca/mark-dion-programs-2019/>**  
--Jul 20 <http://www.franzkaka.com/franz-kaka--drawings.html>  
+<u>-Jul 20</u> <http://www.franzkaka.com/franz-kaka--drawings.html>  
 **-Aug 10 <http://www.mercerunion.org/exhibitions/jennifer-rose-sciarrino-from-root-to-lip/>**  
 **-Aug 3 <http://gallerytpw.ca/exhibitions/kg-guttman/>**  
 **-Aug 24 <http://www.scrapmetalgallery.com> Muscled Rose**  
@@ -82,11 +79,9 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Dupont St & The Junction
 
-<u>-Jul 6</u> <https://erinstumpprojects.com/current-exhibitions/dana-slijboom-romance> <https://erinstumpprojects.com/current-exhibitions/nadia-gohar-mudstone>  
--Jul 20 <https://angellgallery.com/exhibition/breaker>  
--Jul 20 <https://coopercolegallery.com/exhibition/2019-geoff-mcfetridge/>  
-
-_**Jul 11-Aug 17 <https://interaccess.org/exhibition/future-relics>**_  
+<u>-Jul 20</u> <https://angellgallery.com/exhibition/breaker>  
+<u>-Jul 20</u> <https://coopercolegallery.com/exhibition/2019-geoff-mcfetridge/>  
+**-Aug 17 <https://interaccess.org/exhibition/future-relics>**  
 
 ### Dundas St
 

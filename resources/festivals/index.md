@@ -53,6 +53,7 @@ Outdoor movies:
 
 * **<http://vectorfestival.org> art 11-14**
 * **<https://fringetoronto.com/festivals/fringe> performance 4-15**
+* **<http://zinedream.com> comics 21**
 * **<https://www.facebook.com/pg/sftcanada/events/> Momo Crawl food 29**
 * <https://www.toronto.ca/summerlicious> food 7-23
 * <http://nightitup.com> Markham food 13-15
@@ -81,7 +82,6 @@ Outdoor movies:
 ### Aug
 
 * **<http://summerworks.ca> performance 9-19**
-* **<http://zinedream.com> comics 12**
 * <http://toronto.figmentproject.org> art 18-19
 * <http://www.sailincinema.com> film 10-11
 * <https://www.chinatownbia.com/eventsnews/toronto-chinatown-festival/> food 17-18
