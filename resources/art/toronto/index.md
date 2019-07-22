@@ -36,6 +36,8 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
   -Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
 
+_Oct 2-Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild!>_  
+
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> AGO W9F9, Aga Khan W8, Ryerson W8, Art Museum W8, Gardiner F9, Textile W8, Hashtag 10 / Daniels Spectrum 9, Mississauga U8, Spence 8
@@ -70,18 +72,21 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Bloordale & Junction Triangle
 
-<u>-Jul 20</u> <http://www.franzkaka.com/franz-kaka--drawings.html>  
 **-Aug 10 <http://www.mercerunion.org/exhibitions/jennifer-rose-sciarrino-from-root-to-lip/>**  
 **-Aug 3 <http://gallerytpw.ca/exhibitions/kg-guttman/>**  
 **-Aug 24 <http://www.scrapmetalgallery.com> Muscled Rose**  
+**-Sep 8 <https://museumofcontemporaryart.ca/an-index-programmes-2019/>**  
+
+_**Sep 5-Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>**_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
-<u>-Jul 20</u> <https://angellgallery.com/exhibition/breaker>  
-<u>-Jul 20</u> <https://coopercolegallery.com/exhibition/2019-geoff-mcfetridge/>  
+<http://becontemporary.com>  
+-Aug 10 <https://erinstumpprojects.com/current-exhibitions/leisure-menagerie>  
 **-Aug 17 <https://interaccess.org/exhibition/future-relics>**  
+-Aug 17 <http://www.sibling.online/connorcrawford/connorcrawford.html>  
 
 ### Dundas St
 

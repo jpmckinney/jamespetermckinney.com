@@ -49,36 +49,6 @@ Outdoor movies:
 * Jul-Sep <https://en.downsviewpark.ca/event/friday-night-lights-2018>
 * Jun-Sep <https://www.blogto.com/film/2018/06/free-outdoor-movies-toronto-summer-2018/>
 
-### Jul
-
-* **<http://vectorfestival.org> art 11-14**
-* **<https://fringetoronto.com/festivals/fringe> performance 4-15**
-* **<http://zinedream.com> comics 21**
-* **<https://www.facebook.com/pg/sftcanada/events/> Momo Crawl food 29**
-* <https://www.toronto.ca/summerlicious> food 7-23
-* <http://nightitup.com> Markham food 13-15
-* <http://www.harbourfrontcentre.com/brave/> art 12-29
-* <http://torontooutdoorart.org> art fair 6-8
-* <https://mowatcentre.ca/category/policy-in-a-pub/> meetup 18
-* <http://makerfestival.ca> 7-8
-* <https://www.facebook.com/toabf> books 5-8
-* <https://www.facebook.com/ossingtonfestival/> sport 28
-* <http://tfft.ca> film 19-21
-* <http://bigonbloorfestival.com> art/culture 21-28
-* <https://torontocarnival.ca> culture 8-Aug 12
-* <http://www.culturafestival.ca> culture 6-27
-* <http://www.salsaintoronto.com/lineup/salsa-on-st-clair/> culture 7-8
-* <http://www.harbourfrontcentre.com/barbadosonthewater/> culture 7-8
-* <https://afrofest.ca> culture 7-8
-* <https://www.festivalofindia.ca> culture 14-15
-* <http://www.alldayidream.com> music 14
-* <http://beachesjazz.com> music 6-29
-* <http://www.torontosummermusic.com> music 12-Aug 4
-* ✖ <http://torontoartblast.com> art 9, 16-17, 23-24, 30-31 (2017)
-* ✖ <http://bubblerun.com/locations/> sport 8 (2017)
-* ✖ <http://unitycharity.com/unityfest/> music 13-15 (2016)
-* ✖ <https://torontoanarchistbookfair.wordpress.com> talk 23-24 (2016)
-
 ### Aug
 
 * **<http://summerworks.ca> performance 9-19**
@@ -89,6 +59,7 @@ Outdoor movies:
 * <https://veldmusicfestival.com> music 4-5
 * <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 18-19
 * <http://theex.com> fair 17-Sep 3
+* <http://www.harbourfrontcentre.com/barbadosonthewater/> culture 16-18
 * ✖ <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6 (2016)
 * ✖ <http://mainsquared.com/about-main-squared/> art 26-Sep 3 (2017)
 
@@ -235,3 +206,31 @@ Outdoor movies:
 * ✖ <http://dancemakers.org/events/> dance 13-24 (2017)
 * ✖ <http://loveletterprojects.com> art 20-25 (2017)
 * ✖ <http://www.bestival.ca> music 11-12 (2016)
+
+### Jul
+
+* **<http://vectorfestival.org> art 11-14**
+* **<https://fringetoronto.com/festivals/fringe> performance 3-14**
+* **<http://zinedream.com> comics 21**
+* **<https://www.facebook.com/pg/sftcanada/events/> Momo Crawl food 28**
+* <https://www.toronto.ca/summerlicious> food 5-21
+* <http://nightitup.com> Markham food 12-14
+* <http://www.harbourfrontcentre.com/brave/> art 11-21
+* <http://torontooutdoorart.org> art fair 12-14
+* <http://makerfestival.ca>
+* <https://www.facebook.com/toabf> books
+* <https://www.facebook.com/ossingtonfestival/> sport 27
+* <http://tfft.ca> film 19-21
+* <http://bigonbloorfestival.com> art/culture 20-27
+* <https://torontocarnival.ca> culture 3-Aug 3
+* <http://www.culturafestival.ca> culture 5-26
+* <http://www.salsaintoronto.com/lineup/salsa-on-st-clair/> culture 6-7
+* <https://afrofest.ca> culture 6-7
+* <https://www.festivalofindia.ca> culture 13-14
+* <http://www.alldayidream.com> music 13
+* <http://beachesjazz.com> music 5-28
+* <http://www.torontosummermusic.com> music 11-Aug 3
+* ✖ <http://torontoartblast.com> art 9, 16-17, 23-24, 30-31 (2017)
+* ✖ <http://bubblerun.com/locations/> sport 8 (2017)
+* ✖ <http://unitycharity.com/unityfest/> music 13-15 (2016)
+* ✖ <https://torontoanarchistbookfair.wordpress.com> talk 23-24 (2016)
