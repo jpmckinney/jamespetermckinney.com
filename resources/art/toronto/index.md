@@ -16,7 +16,7 @@ published: true
 
 ### Shows
 
--Aug 4 <https://soulpepper.ca/performances/fool-for-love/7088>  
+-Aug 11 <https://soulpepper.ca/performances/fool-for-love/7088>  
 **-Oct 27 <https://www.stratfordfestival.ca/WhatsOn/PlaysAndEvents/Production/Othello/BuyTickets>**  
 
 _**Aug 9-Sep 1 <https://soulpepper.ca/performances/art/7093> (AZ)**_  
@@ -72,8 +72,8 @@ _Oct 2-Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild
 
 ### Bloordale & Junction Triangle
 
-**-Aug 10 <http://www.mercerunion.org/exhibitions/jennifer-rose-sciarrino-from-root-to-lip/>**  
-**-Aug 3 <http://gallerytpw.ca/exhibitions/kg-guttman/>**  
+**<u>-Aug 3</u> <http://gallerytpw.ca/exhibitions/kg-guttman/>**  
+**<u>-Aug 10</u> <http://www.mercerunion.org/exhibitions/jennifer-rose-sciarrino-from-root-to-lip/>**  
 **-Aug 24 <http://www.scrapmetalgallery.com> Muscled Rose**  
 **-Sep 8 <https://museumofcontemporaryart.ca/an-index-programmes-2019/>**  
 
@@ -84,7 +84,7 @@ _**Sep 5-Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>*
 ### Dupont St & The Junction
 
 <http://becontemporary.com>  
--Aug 10 <https://erinstumpprojects.com/current-exhibitions/leisure-menagerie>  
+<u>-Aug 10</u> <https://erinstumpprojects.com/current-exhibitions/leisure-menagerie>  
 **-Aug 17 <https://interaccess.org/exhibition/future-relics>**  
 -Aug 17 <http://www.sibling.online/connorcrawford/connorcrawford.html>  
 
