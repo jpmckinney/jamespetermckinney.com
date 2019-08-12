@@ -16,10 +16,9 @@ published: true
 
 ### Shows
 
--Aug 11 <https://soulpepper.ca/performances/fool-for-love/7088>  
+**-Sep 1 <https://soulpepper.ca/performances/art/7093> (AZ)**  
 **-Oct 27 <https://www.stratfordfestival.ca/WhatsOn/PlaysAndEvents/Production/Othello/BuyTickets>**  
 
-_**Aug 9-Sep 1 <https://soulpepper.ca/performances/art/7093> (AZ)**_  
 _Aug 28-Sep 15 <https://soulpepper.ca/performances/betrayal/7098>_  
 _Nov 6-Nov 10 <https://national.ballet.ca/Productions/2019-20-Season/Giselle>_  
 _Nov 15-Nov 21 <https://national.ballet.ca/Productions/2019-20-Season/Orpheus>_  
@@ -32,7 +31,6 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown North
 
-**<u>-Jul 27</u> <https://artmuseum.utoronto.ca/exhibition/variations-in-black-queer-and-otherwise-works-by-abdi-osman/> <https://artmuseum.utoronto.ca/exhibition/in-out-of-saskatchewan/> <https://artmuseum.utoronto.ca/exhibition/common-place-common-place/>**  
 **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
   -Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
 
@@ -46,10 +44,9 @@ _Oct 2-Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild
 
 ### Downtown South
 
--Aug 18 <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
+<u>-Aug 18</u> <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
 **-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>**  
 -Sep 8 <https://www.harbourfrontcentre.com/brave/events/index.cfm?id=10485&festival_id=328> <https://www.harbourfrontcentre.com/visualarts/2019/magical-material-thinking/> <https://www.harbourfrontcentre.com/visualarts/2019/compositions/> <https://www.harbourfrontcentre.com/visualarts/2019/love-boats/>  
-**-Sep 22 <https://www.showclix.com/event/the-funhouse-toronto>**  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -59,9 +56,8 @@ _Oct 2-Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild
 
 ### Queen St
 
--Aug 17 <https://criticaldistance.ca/program/publishing-against-the-grain-at-critical-distance/>  
+<u>-Aug 17</u> <https://criticaldistance.ca/program/publishing-against-the-grain-at-critical-distance/>  
 -Aug 30 <https://scotiabankcontactphoto.com/exhibition/a-nation-outside-a-nation/> Bentway  
--Sep 3 <http://www.xpace.info/exhibition-event/marissa-sean-cruz-i-am-not-like-other-girls/>  
 **-Sep 22 <http://funhousetoronto.com>**  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
@@ -72,9 +68,7 @@ _Oct 2-Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild
 
 ### Bloordale & Junction Triangle
 
-**<u>-Aug 3</u> <http://gallerytpw.ca/exhibitions/kg-guttman/>**  
-**<u>-Aug 10</u> <http://www.mercerunion.org/exhibitions/jennifer-rose-sciarrino-from-root-to-lip/>**  
-**-Aug 24 <http://www.scrapmetalgallery.com> Muscled Rose**  
+-Sep 3 <http://www.xpace.info/exhibition-event/marissa-sean-cruz-i-am-not-like-other-girls/>  
 **-Sep 8 <https://museumofcontemporaryart.ca/an-index-programmes-2019/>**  
 
 _**Sep 5-Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>**_  
@@ -83,10 +77,7 @@ _**Sep 5-Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>*
 
 ### Dupont St & The Junction
 
-<http://becontemporary.com>  
-<u>-Aug 10</u> <https://erinstumpprojects.com/current-exhibitions/leisure-menagerie>  
-**-Aug 17 <https://interaccess.org/exhibition/future-relics>**  
--Aug 17 <http://www.sibling.online/connorcrawford/connorcrawford.html>  
+<u>-Aug 17</u> <http://www.sibling.online/connorcrawford/connorcrawford.html>  
 
 ### Dundas St
 
