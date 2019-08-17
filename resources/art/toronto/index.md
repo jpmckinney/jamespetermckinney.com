@@ -34,7 +34,13 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
   -Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
 
+_**Sep 11-Dec 8 <https://ryersonimagecentre.ca/exhibition/the-way-she-looks-a-history-of-female-gazes-in-african-portraiture/> <https://ryersonimagecentre.ca/exhibition/syrus-marcus-ware-ancestors-can-you-read-us-dispatches-from-the-future/>**_  
+  _Sep 11-Oct 20 <https://ryersonimagecentre.ca/exhibition/lucy-lu-da-pi-yuan/>_  
+  _Oct 30-Dec 8 <https://ryersonimagecentre.ca/exhibition/grayson-james-after-alexandria/>_  
+_**Sep 18-Nov 30 <https://artmuseum.utoronto.ca/exhibition/deanna-bowen-the-god-of-gods/> <https://artmuseum.utoronto.ca/exhibition/qaggiq-gathering-place/>**_  
+  _**Sep 18-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**_  
 _Oct 2-Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild!>_  
+_**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -44,9 +50,10 @@ _Oct 2-Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild
 
 ### Downtown South
 
-<u>-Aug 18</u> <https://www2.ocadu.ca/event/tm-glass-the-audible-language-of-flowers>  
 **-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>**  
 -Sep 8 <https://www.harbourfrontcentre.com/brave/events/index.cfm?id=10485&festival_id=328> <https://www.harbourfrontcentre.com/visualarts/2019/magical-material-thinking/> <https://www.harbourfrontcentre.com/visualarts/2019/compositions/> <https://www.harbourfrontcentre.com/visualarts/2019/love-boats/>  
+
+_**Sep 18-Dec 7 <https://www2.ocadu.ca/event/ᐊᕙᑖᓂᑦ-ᑕᒪᐃᓐᓂᑦ-ᓄᓇᑐᐃᓐᓇᓂᑦ-among-all-these-tundras>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -56,9 +63,10 @@ _Oct 2-Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild
 
 ### Queen St
 
-<u>-Aug 17</u> <https://criticaldistance.ca/program/publishing-against-the-grain-at-critical-distance/>  
 -Aug 30 <https://scotiabankcontactphoto.com/exhibition/a-nation-outside-a-nation/> Bentway  
 **-Sep 22 <http://funhousetoronto.com>**  
+
+_**Sep 18-Nov 17 <http://kofflerarts.org/news/2019/03/12/undomesticated/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -72,12 +80,14 @@ _Oct 2-Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild
 **-Sep 8 <https://museumofcontemporaryart.ca/an-index-programmes-2019/>**  
 
 _**Sep 5-Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>**_  
+_**Sep 19-Jan 25 <http://www.scrapmetalgallery.com>**_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
 
-<u>-Aug 17</u> <http://www.sibling.online/connorcrawford/connorcrawford.html>  
+_Sep 7-Oct 5 <https://angellgallery.com/exhibition/all-of-my-fear-in-a-single-flower> <https://angellgallery.com/exhibition/monuments> <https://angellgallery.com/exhibition/building-and-balancing> <https://angellgallery.com/exhibition/a-place-between-the-water-in-the-water>_  
+_**Sep 11-Oct 26 <https://interaccess.org/exhibition/janus>**_  
 
 ### Dundas St
 

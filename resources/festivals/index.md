@@ -52,16 +52,15 @@ Outdoor movies:
 ### Aug
 
 * **<http://summerworks.ca> performance 9-19**
-* <http://toronto.figmentproject.org> art 18-19
-* <http://www.sailincinema.com> film 10-11
 * <https://www.chinatownbia.com/eventsnews/toronto-chinatown-festival/> food 17-18
-* <http://tasteofthedanforth.com> food 10-12
+* <http://tasteofthedanforth.com> food 9-11
 * <https://veldmusicfestival.com> music 4-5
 * <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 18-19
 * <http://theex.com> fair 17-Sep 3
 * <http://www.harbourfrontcentre.com/barbadosonthewater/> culture 16-18
-* ✖ <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6 (2016)
+* ✖ <http://www.sailincinema.com> film 10-11 (2018)
 * ✖ <http://mainsquared.com/about-main-squared/> art 26-Sep 3 (2017)
+* ✖ <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6 (2016)
 
 ### Sep
 
@@ -71,6 +70,7 @@ Outdoor movies:
 * **<http://roguewaveart.org> art 8-Oct 27**
 * <http://queenwestartcrawl.com> art 22-23
 * <http://www.nightwoodtheatre.net/whats_on/groundswell_festival_2018> theatre 24-30
+* <http://toronto.figmentproject.org> art 21-22
 * <https://brokenpencil.com/canzine/canzineto/canzine-toronto-events/> books 22
 * ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)
 * ✖ <http://torontourbanrootsfest.com> music 16-18 (2016)
