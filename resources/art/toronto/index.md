@@ -16,7 +16,7 @@ published: true
 
 ### Shows
 
-**-Sep 1 <https://soulpepper.ca/performances/art/7093> (AZ)**  
+**<u>-Sep 1</u> <https://soulpepper.ca/performances/art/7093> (AZ)**  
 **-Oct 27 <https://www.stratfordfestival.ca/WhatsOn/PlaysAndEvents/Production/Othello/BuyTickets>**  
 
 _Aug 28-Sep 15 <https://soulpepper.ca/performances/betrayal/7098>_  
@@ -34,12 +34,12 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
   -Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
 
-_**Sep 11-Dec 8 <https://ryersonimagecentre.ca/exhibition/the-way-she-looks-a-history-of-female-gazes-in-african-portraiture/> <https://ryersonimagecentre.ca/exhibition/syrus-marcus-ware-ancestors-can-you-read-us-dispatches-from-the-future/>**_  
-  _Sep 11-Oct 20 <https://ryersonimagecentre.ca/exhibition/lucy-lu-da-pi-yuan/>_  
-  _Oct 30-Dec 8 <https://ryersonimagecentre.ca/exhibition/grayson-james-after-alexandria/>_  
 _**Sep 4-Nov 30 <https://artmuseum.utoronto.ca/exhibition/deanna-bowen-the-god-of-gods/>**_  
   _**Sep 18-Nov 30 <https://artmuseum.utoronto.ca/exhibition/qaggiq-gathering-place/>**_  
   _**Sep 18-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**_  
+_**Sep 11-Dec 8 <https://ryersonimagecentre.ca/exhibition/the-way-she-looks-a-history-of-female-gazes-in-african-portraiture/> <https://ryersonimagecentre.ca/exhibition/syrus-marcus-ware-ancestors-can-you-read-us-dispatches-from-the-future/>**_  
+  _Sep 11-Oct 20 <https://ryersonimagecentre.ca/exhibition/lucy-lu-da-pi-yuan/>_  
+  _Oct 30-Dec 8 <https://ryersonimagecentre.ca/exhibition/grayson-james-after-alexandria/>_  
 _Oct 2-Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild!>_  
 _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/>**_  
 
@@ -51,8 +51,8 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Downtown South
 
-**-Sep 2 <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>**  
--Sep 8 <https://www.harbourfrontcentre.com/brave/events/index.cfm?id=10485&festival_id=328> <https://www.harbourfrontcentre.com/visualarts/2019/magical-material-thinking/> <https://www.harbourfrontcentre.com/visualarts/2019/compositions/> <https://www.harbourfrontcentre.com/visualarts/2019/love-boats/>  
+**<u>-Sep 2</u> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>**  
+<u>-Sep 8</u> <https://www.harbourfrontcentre.com/brave/events/index.cfm?id=10485&festival_id=328> <https://www.harbourfrontcentre.com/visualarts/2019/magical-material-thinking/> <https://www.harbourfrontcentre.com/visualarts/2019/compositions/> <https://www.harbourfrontcentre.com/visualarts/2019/love-boats/>  
 
 _**Sep 18-Dec 7 <https://www2.ocadu.ca/event/ᐊᕙᑖᓂᑦ-ᑕᒪᐃᓐᓂᑦ-ᓄᓇᑐᐃᓐᓇᓂᑦ-among-all-these-tundras>**_  
 
@@ -64,7 +64,7 @@ _**Sep 18-Dec 7 <https://www2.ocadu.ca/event/ᐊᕙᑖᓂᑦ-ᑕᒪᐃᓐᓂᑦ-
 
 ### Queen St
 
--Aug 30 <https://scotiabankcontactphoto.com/exhibition/a-nation-outside-a-nation/> Bentway  
+<u>-Aug 30</u> <https://scotiabankcontactphoto.com/exhibition/a-nation-outside-a-nation/> Bentway  
 **-Sep 22 <http://funhousetoronto.com>**  
 
 _**Sep 18-Nov 17 <http://kofflerarts.org/news/2019/03/12/undomesticated/>**_  
@@ -77,8 +77,8 @@ _**Sep 18-Nov 17 <http://kofflerarts.org/news/2019/03/12/undomesticated/>**_
 
 ### Bloordale & Junction Triangle
 
--Sep 3 <http://www.xpace.info/exhibition-event/marissa-sean-cruz-i-am-not-like-other-girls/>  
-**-Sep 8 <https://museumofcontemporaryart.ca/an-index-programmes-2019/>**  
+<u>-Sep 3</u> <http://www.xpace.info/exhibition-event/marissa-sean-cruz-i-am-not-like-other-girls/>  
+**<u>-Sep 8</u> <https://museumofcontemporaryart.ca/an-index-programmes-2019/>**  
 
 _**Sep 5-Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>**_  
 _**Sep 19-Jan 25 <http://www.scrapmetalgallery.com>**_  
