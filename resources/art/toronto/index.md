@@ -37,7 +37,8 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 _**Sep 11-Dec 8 <https://ryersonimagecentre.ca/exhibition/the-way-she-looks-a-history-of-female-gazes-in-african-portraiture/> <https://ryersonimagecentre.ca/exhibition/syrus-marcus-ware-ancestors-can-you-read-us-dispatches-from-the-future/>**_  
   _Sep 11-Oct 20 <https://ryersonimagecentre.ca/exhibition/lucy-lu-da-pi-yuan/>_  
   _Oct 30-Dec 8 <https://ryersonimagecentre.ca/exhibition/grayson-james-after-alexandria/>_  
-_**Sep 18-Nov 30 <https://artmuseum.utoronto.ca/exhibition/deanna-bowen-the-god-of-gods/> <https://artmuseum.utoronto.ca/exhibition/qaggiq-gathering-place/>**_  
+_**Sep 4-Nov 30 <https://artmuseum.utoronto.ca/exhibition/deanna-bowen-the-god-of-gods/>**_  
+  _**Sep 18-Nov 30 <https://artmuseum.utoronto.ca/exhibition/qaggiq-gathering-place/>**_  
   _**Sep 18-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**_  
 _Oct 2-Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild!>_  
 _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/>**_  
