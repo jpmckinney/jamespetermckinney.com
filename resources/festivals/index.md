@@ -69,7 +69,7 @@ Outdoor movies:
 * **<http://www.nbto.com> art 29**
 * **<http://roguewaveart.org> art 8-Oct 27**
 * <http://queenwestartcrawl.com> art 22-23
-* <http://www.nightwoodtheatre.net/whats_on/groundswell_festival_2018> theatre 24-30
+* <http://www.nightwoodtheatre.net/whats_on/groundswell_festival_2018> theatre 23-28
 * <http://toronto.figmentproject.org> art 21-22
 * <https://brokenpencil.com/canzine/canzineto/canzine-toronto-events/> books 22
 * ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)

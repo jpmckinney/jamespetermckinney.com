@@ -16,10 +16,10 @@ published: true
 
 ### Shows
 
-**<u>-Sep 1</u> <https://soulpepper.ca/performances/art/7093> (AZ)**  
+**<u>-Sep 7</u> <https://soulpepper.ca/performances/art/7093> (AZ)**  
+-Sep 15 <https://soulpepper.ca/performances/betrayal/7098>  
 **-Oct 27 <https://www.stratfordfestival.ca/WhatsOn/PlaysAndEvents/Production/Othello/BuyTickets>**  
 
-_Aug 28-Sep 15 <https://soulpepper.ca/performances/betrayal/7098>_  
 _Nov 6-Nov 10 <https://national.ballet.ca/Productions/2019-20-Season/Giselle>_  
 _Nov 15-Nov 21 <https://national.ballet.ca/Productions/2019-20-Season/Orpheus>_  
 _Nov 27-Dec 1 <https://national.ballet.ca/Productions/2019-20-Season/Etudes>_  
@@ -64,9 +64,10 @@ _**Sep 18-Dec 7 <https://www2.ocadu.ca/event/ᐊᕙᑖᓂᑦ-ᑕᒪᐃᓐᓂᑦ-
 
 ### Queen St
 
-<u>-Aug 30</u> <https://scotiabankcontactphoto.com/exhibition/a-nation-outside-a-nation/> Bentway  
 **-Sep 22 <http://funhousetoronto.com>**  
 
+_Sep 5-Oct 12 <http://susanhobbs.com/exhibits/1451-robin-cameron-lucien-durey-kate-newby-kathleen-ryan-karen-tam-charlotta-westergren-organized-by-pamela-meredith-mm>_  
+_**Sep 6-Oct 12 <http://www.georgiascherman.com/> Suzy Lake**_  
 _**Sep 18-Nov 17 <http://kofflerarts.org/news/2019/03/12/undomesticated/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
@@ -81,11 +82,16 @@ _**Sep 18-Nov 17 <http://kofflerarts.org/news/2019/03/12/undomesticated/>**_
 **<u>-Sep 8</u> <https://museumofcontemporaryart.ca/an-index-programmes-2019/>**  
 
 _**Sep 5-Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>**_  
+_Sep 7-Sep 28 <http://www.franzkaka.com/> HaeAhn Paul Kwon Kajander_  
+_**Sep 12-Oct 26 <http://gallerytpw.ca/exhibitions/smtp/>**_  
+_**Sep 14-Nov 2 <http://www.mercerunion.org/exhibitions/bambitchell-bugs-and-beasts-before-the-law/>**_  
 _**Sep 19-Jan 25 <http://www.scrapmetalgallery.com>**_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
 ### Dupont St & The Junction
+
+-Sep 28 <http://www.sibling.online/marisaholmes/marisaholmes.html>  
 
 _Sep 7-Oct 5 <https://angellgallery.com/exhibition/all-of-my-fear-in-a-single-flower> <https://angellgallery.com/exhibition/monuments> <https://angellgallery.com/exhibition/building-and-balancing> <https://angellgallery.com/exhibition/a-place-between-the-water-in-the-water>_  
 _**Sep 11-Oct 26 <https://interaccess.org/exhibition/janus>**_  
