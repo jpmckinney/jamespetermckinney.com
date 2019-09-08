@@ -49,34 +49,21 @@ Outdoor movies:
 * Jul-Sep <https://en.downsviewpark.ca/event/friday-night-lights-2018>
 * Jun-Sep <https://www.blogto.com/film/2018/06/free-outdoor-movies-toronto-summer-2018/>
 
-### Aug
-
-* **<http://summerworks.ca> performance 9-19**
-* <https://www.chinatownbia.com/eventsnews/toronto-chinatown-festival/> food 17-18
-* <http://tasteofthedanforth.com> food 9-11
-* <https://veldmusicfestival.com> music 4-5
-* <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 18-19
-* <http://theex.com> fair 17-Sep 3
-* <http://www.harbourfrontcentre.com/barbadosonthewater/> culture 16-18
-* ✖ <http://www.sailincinema.com> film 10-11 (2018)
-* ✖ <http://mainsquared.com/about-main-squared/> art 26-Sep 3 (2017)
-* ✖ <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6 (2016)
-
 ### Sep
 
-* **<https://torontobiennial.org> art 21-**
 * **<https://www.tiff.net/tiff/> film 6-16**
-* **<http://www.nbto.com> art 29**
-* **<http://roguewaveart.org> art 8-Oct 27**
-* <http://queenwestartcrawl.com> art 22-23
-* <http://www.nightwoodtheatre.net/whats_on/groundswell_festival_2018> theatre 23-28
+* **<https://torontobiennial.org> art 21-Dec 1**
+* <http://queenwestartcrawl.com> art 21-22
+* <https://www.nightwoodtheatre.net/whats_on/groundswell_festival1> theatre 23-28
+* <https://brokenpencil.com/canzine/canzineto/canzine-toronto-events/> books 14
 * <http://toronto.figmentproject.org> art 21-22
-* <https://brokenpencil.com/canzine/canzineto/canzine-toronto-events/> books 22
+* ✖ <http://roguewaveart.org> art 8-Oct 27 (2018)
 * ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)
 * ✖ <http://torontourbanrootsfest.com> music 16-18 (2016)
 
 ### Oct
 
+* **<http://www.nbto.com> art 5**
 * **<https://www.worldpressphoto.org/exhibitions/2018-exhibition/toronto> photography 2-22**
 * <http://7a-11d.ca> performance 2-7
 * <https://www.arttoronto.ca> art fair 26-29
@@ -86,6 +73,7 @@ Outdoor movies:
 * <http://www.reelworld.ca> film 9-14
 * <http://planetinfocus.org> film 25-28
 * <http://www.tsaff.ca> film 13-14
+* <https://www.torontomotofilmfest.com> 3-6
 * <http://ifoa.org> books 18-28
 * <https://musicgallery.org/xavant> music 11-14
 * <http://www.cxto.ca> sport 28
@@ -234,3 +222,16 @@ Outdoor movies:
 * ✖ <http://bubblerun.com/locations/> sport 8 (2017)
 * ✖ <http://unitycharity.com/unityfest/> music 13-15 (2016)
 * ✖ <https://torontoanarchistbookfair.wordpress.com> talk 23-24 (2016)
+
+### Aug
+
+* **<http://summerworks.ca> performance 9-19**
+* <http://theex.com> fair 17-Sep 3
+* <https://www.chinatownbia.com/eventsnews/toronto-chinatown-festival/> food 17-18
+* <http://tasteofthedanforth.com> food 9-11
+* <https://veldmusicfestival.com> music 4-5
+* <http://www.wavelengthmusic.ca/events/camp-wavelength/> music 18-19
+* <http://www.harbourfrontcentre.com/barbadosonthewater/> culture 16-18
+* ✖ <http://www.sailincinema.com> film 10-11 (2018)
+* ✖ <http://mainsquared.com/about-main-squared/> art 26-Sep 3 (2017)
+* ✖ <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6 (2016)

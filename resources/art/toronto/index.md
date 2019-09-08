@@ -32,10 +32,9 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 ### Downtown North
 
 **-Sep 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/nadia-myre-balancing-acts>**  
-  -Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
+  -Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>**-Nov 30 <https://artmuseum.utoronto.ca/exhibition/deanna-bowen-the-god-of-gods/>**  
 
-_**Sep 4-Nov 30 <https://artmuseum.utoronto.ca/exhibition/deanna-bowen-the-god-of-gods/>**_  
-  _**Sep 18-Nov 30 <https://artmuseum.utoronto.ca/exhibition/qaggiq-gathering-place/>**_  
+_**Sep 18-Nov 30 <https://artmuseum.utoronto.ca/exhibition/qaggiq-gathering-place/>**_  
   _**Sep 18-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**_  
 _**Sep 11-Dec 8 <https://ryersonimagecentre.ca/exhibition/the-way-she-looks-a-history-of-female-gazes-in-african-portraiture/> <https://ryersonimagecentre.ca/exhibition/syrus-marcus-ware-ancestors-can-you-read-us-dispatches-from-the-future/>**_  
   _Sep 11-Oct 20 <https://ryersonimagecentre.ca/exhibition/lucy-lu-da-pi-yuan/>_  
@@ -51,10 +50,14 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Downtown South
 
-**<u>-Sep 2</u> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/Ordinary-Men.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/If-you-end-up-with-the-story-you-started-with,-the.aspx> <http://thepowerplant.org/Exhibitions/2019/Summer-2019/On-Scams.aspx>**  
-<u>-Sep 8</u> <https://www.harbourfrontcentre.com/brave/events/index.cfm?id=10485&festival_id=328> <https://www.harbourfrontcentre.com/visualarts/2019/magical-material-thinking/> <https://www.harbourfrontcentre.com/visualarts/2019/compositions/> <https://www.harbourfrontcentre.com/visualarts/2019/love-boats/>  
+-Sep 28 <http://www.circuitgallery.com/exhibitions/akihiko-miyoshi-through-lens-screen/>  
 
+_Sep 14-Oct 27 <http://www.corkingallery.com/exhibitions> 40 Years_  
+_Sep 15-Oct 25 <http://tangledarts.org/exhibits/ancestral-mindscapes/>_  
 _**Sep 18-Dec 7 <https://www2.ocadu.ca/event/ᐊᕙᑖᓂᑦ-ᑕᒪᐃᓐᓂᑦ-ᓄᓇᑐᐃᓐᓇᓂᑦ-among-all-these-tundras>**_  
+_**Sep 21-Jan 5 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Hold-Everything-Dear.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Blues-Klair.aspx>**_  
+  _**Sep 21-May 10 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Naeem-Mohaiemen.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Solo-Exhibition-(2).aspx>**_  
+_Sep 25-Nov 2 <http://becontemporary.com/project-space.php>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -64,11 +67,14 @@ _**Sep 18-Dec 7 <https://www2.ocadu.ca/event/ᐊᕙᑖᓂᑦ-ᑕᒪᐃᓐᓂᑦ-
 
 ### Queen St
 
-**-Sep 22 <http://funhousetoronto.com>**  
+**-Sep 28 <http://birchcontemporary.com/exhibition/30th-anniversary-group-show>**_  
+**-Oct 12 <http://www.georgiascherman.com/> Suzy Lake**  
+-Oct 12 <http://susanhobbs.com/exhibits/1451-robin-cameron-lucien-durey-kate-newby-kathleen-ryan-karen-tam-charlotta-westergren-organized-by-pamela-meredith-mm>  
+**-Jan 5 <https://www.gladstonehotel.com/spaces/hard-twist-14-entwined/>**  
 
-_Sep 5-Oct 12 <http://susanhobbs.com/exhibits/1451-robin-cameron-lucien-durey-kate-newby-kathleen-ryan-karen-tam-charlotta-westergren-organized-by-pamela-meredith-mm>_  
-_**Sep 6-Oct 12 <http://www.georgiascherman.com/> Suzy Lake**_  
 _**Sep 18-Nov 17 <http://kofflerarts.org/news/2019/03/12/undomesticated/>**_  
+_Oct 10-Nov 9 <http://birchcontemporary.com/exhibition/abcd>_  
+_Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -80,11 +86,12 @@ _**Sep 18-Nov 17 <http://kofflerarts.org/news/2019/03/12/undomesticated/>**_
 
 <u>-Sep 3</u> <http://www.xpace.info/exhibition-event/marissa-sean-cruz-i-am-not-like-other-girls/>  
 **<u>-Sep 8</u> <https://museumofcontemporaryart.ca/an-index-programmes-2019/>**  
+  -Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>  
+-Sep 28 <http://www.franzkaka.com/> HaeAhn Paul Kwon Kajander  
 
-_**Sep 5-Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>**_  
-_Sep 7-Sep 28 <http://www.franzkaka.com/> HaeAhn Paul Kwon Kajander_  
 _**Sep 12-Oct 26 <http://gallerytpw.ca/exhibitions/smtp/>**_  
 _**Sep 14-Nov 2 <http://www.mercerunion.org/exhibitions/bambitchell-bugs-and-beasts-before-the-law/>**_  
+_**Sep 19-Nov 3 <https://museumofcontemporaryart.ca/shezad-dawood-programmes-2019/>**_  
 _**Sep 19-Jan 25 <http://www.scrapmetalgallery.com>**_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
@@ -92,9 +99,10 @@ _**Sep 19-Jan 25 <http://www.scrapmetalgallery.com>**_
 ### Dupont St & The Junction
 
 -Sep 28 <http://www.sibling.online/marisaholmes/marisaholmes.html>  
+-Oct 5 <https://angellgallery.com/exhibition/all-of-my-fear-in-a-single-flower> <https://angellgallery.com/exhibition/monuments> <https://angellgallery.com/exhibition/building-and-balancing> <https://angellgallery.com/exhibition/a-place-between-the-water-in-the-water>  
 
-_Sep 7-Oct 5 <https://angellgallery.com/exhibition/all-of-my-fear-in-a-single-flower> <https://angellgallery.com/exhibition/monuments> <https://angellgallery.com/exhibition/building-and-balancing> <https://angellgallery.com/exhibition/a-place-between-the-water-in-the-water>_  
 _**Sep 11-Oct 26 <https://interaccess.org/exhibition/janus>**_  
+_Sep 12-Oct 19 <https://coopercolegallery.com/exhibition/nothing-in-my-life-feels-big-enough/> <https://coopercolegallery.com/exhibition/2019-kara-hamilton-nothing-is-wild/>_  
 
 ### Dundas St
 
