@@ -57,6 +57,8 @@ Outdoor movies:
 * <https://www.nightwoodtheatre.net/whats_on/groundswell_festival1> theatre 23-28
 * <https://brokenpencil.com/canzine/canzineto/canzine-toronto-events/> books 14
 * <http://toronto.figmentproject.org> art 21-22
+* <https://www.cabbagetownfestival.ca> culture 7-8
+* <https://dragonfestival.ca> culture 6-8
 * ✖ <http://roguewaveart.org> art 8-Oct 27 (2018)
 * ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)
 * ✖ <http://torontourbanrootsfest.com> music 16-18 (2016)
