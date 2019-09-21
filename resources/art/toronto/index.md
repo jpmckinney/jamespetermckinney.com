@@ -47,7 +47,7 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> AGO W9F9, Aga Khan W8, Ryerson W8, Art Museum W8, Gardiner F9, Textile W8, Hashtag 10 / Daniels Spectrum 9, Mississauga U8, Spence 8
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> AGO, Aga Khan, Ryerson, Gardiner, Textile, OFFSITE, Hashtag, Bau-Xi / Daniels Spectrum, Mississauga, Parts, Project, Spence
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> AGO, Aga Khan, Ryerson, Gardiner, Textile, OFFSITE, Hashtag, Bau-Xi / Daniels Spectrum, Mississauga, Parts, Project, Crutch, Spence
 
 ### Downtown South
 
@@ -98,7 +98,7 @@ _Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_
 **-Nov 2 <http://www.mercerunion.org/exhibitions/bambitchell-bugs-and-beasts-before-the-law/>**  
 **-Nov 3 <https://museumofcontemporaryart.ca/shezad-dawood-programmes-2019/>**  
 -Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>  
-**-Jan 25 <http://www.scrapmetalgallery.com>**  
+**-Jan 25 <http://www.scrapmetalgallery.com> Eric Mack**  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
 
@@ -110,6 +110,8 @@ _Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_
 **-Oct 26 <https://interaccess.org/exhibition/janus>**  
 
 _Sep 26-Nov 9 <https://alisonmilne.com/gallery/exhibitions/nissim-ben-aderet>_  
+
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
 
 ### Dundas St
 
