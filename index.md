@@ -8,7 +8,7 @@ layout: default
 {% capture one %}
 ## Reference
 
-* Art exhibitions in [Toronto](resources/art/toronto/) and [Montreal](resources/art/montreal/)
+* Art exhibitions in [Toronto](resources/art/toronto/)
 * [Festivals in Toronto and Montreal](resources/festivals/)
 * [Other events in Toronto and Montreal](resources/events/)
 * [Maps of art galleries in cities worldwide](resources/maps/)
