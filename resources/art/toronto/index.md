@@ -12,9 +12,10 @@ published: true
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon. Exhibitions are removed once visited. <span class="glyphicon glyphicon-time" aria-hidden="true"></span> is open late. <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> is open Sunday.
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Museums: Bata Shoe U8, DX, ROM F8
+**-Dec 1 <https://torontobiennial.org/site/small-arms-inspection-building/>**
+  -Dec 1 <https://torontobiennial.org/work/elder-duke-redbird-at-ontario-place/>  
 
-**-Dec 1 <https://torontobiennial.org>**
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Museums: Bata Shoe U8, DX, ROM F8
 
 ### Shows
 
@@ -38,6 +39,9 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 -Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
 **-Nov 30 <https://artmuseum.utoronto.ca/exhibition/deanna-bowen-the-god-of-gods/> <https://artmuseum.utoronto.ca/exhibition/qaggiq-gathering-place/>**  
   **-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**  
+-Dec 1 <https://torontobiennial.org/work/maria-thereza-alves-at-riverdale-park/>  
+-Mar 29 <https://ago.ca/exhibitions/lisa-reihana-pursuit-venus-infected> …  
+
 
 _Oct 30-Dec 8 <https://ryersonimagecentre.ca/exhibition/grayson-james-after-alexandria/>_  
 _Oct 2-Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild!>_  
@@ -45,9 +49,9 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
-<span class="glyphicon glyphicon-time" aria-hidden="true"></span> AGO W9F9, Aga Khan W8, Ryerson W8, Art Museum W8, Gardiner F9, Textile W8, Hashtag 10 / Daniels Spectrum 9, Mississauga U8, Spence 8
+<span class="glyphicon glyphicon-time" aria-hidden="true"></span> AGO W9F9, Aga Khan W8, RIC W8, Art Museum W8, Gardiner F9, Textile W8, Hashtag 10 / Daniels Spectrum 9, Mississauga U8, Spence 8
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> AGO, Aga Khan, Ryerson, Gardiner, Textile, OFFSITE, Hashtag, Bau-Xi / Daniels Spectrum, Mississauga, Parts, Project, Crutch, Spence
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> AGO, Aga Khan, RIC, Gardiner, Textile, OFFSITE, Hashtag, Bau-Xi / Daniels Spectrum, Mississauga, Parts, Project, Crutch, Spence
 
 ### Downtown South
 
@@ -55,6 +59,9 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
   -Oct 25 <http://tangledarts.org/exhibits/ancestral-mindscapes/>  
   -Oct 26 <https://gallery44.org/exhibitions/lost-love-saisons-futures> <https://gallery44.org/exhibitions/sheepskin-ballads-and-gentleness-hymns>  
 -Oct 27 <http://www.corkingallery.com/exhibitions> 40 Years  
+-Dec 1 <https://torontobiennial.org/work/lou-sheppard-at-toronto-sculpture-garden/>  
+  -Dec 1 <https://torontobiennial.org/work/luis-jacob-at-union-station/>  
+  -Dec 1 <https://torontobiennial.org/work/curtis-talwst-santiago-at-55-unwin/>  
 **-Dec 7 <https://www2.ocadu.ca/event/ᐊᕙᑖᓂᑦ-ᑕᒪᐃᓐᓂᑦ-ᓄᓇᑐᐃᓐᓇᓂᑦ-among-all-these-tundras>**  
 **-Jan 5 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Hold-Everything-Dear.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Blues-Klair.aspx>**  
   **-May 10 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Naeem-Mohaiemen.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Solo-Exhibition-(2).aspx>**  
@@ -100,7 +107,7 @@ _Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_
 -Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>  
 **-Jan 25 <http://www.scrapmetalgallery.com> Eric Mack**  
 
-<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Darren
+<span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MOCA
 
 ### Dupont St & The Junction
 
