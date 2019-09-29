@@ -19,7 +19,6 @@ published: true
 
 ### Shows
 
-**<u>-Sep 25</u> <https://soulpepper.ca/performances/betrayal/7098>**  
 **-Oct 27 <https://www.stratfordfestival.ca/WhatsOn/PlaysAndEvents/Production/Othello/BuyTickets>**  
 
 _Oct 9-Oct 27 <https://www.passemuraille.ca/19-20-season-shows/the-election/>_  
@@ -55,10 +54,11 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Downtown South
 
-<u>-Sep 28</u> <http://www.circuitgallery.com/exhibitions/akihiko-miyoshi-through-lens-screen/>  
-  -Oct 25 <http://tangledarts.org/exhibits/ancestral-mindscapes/>  
+-Oct 25 <http://tangledarts.org/exhibits/ancestral-mindscapes/>  
   -Oct 26 <https://gallery44.org/exhibitions/lost-love-saisons-futures> <https://gallery44.org/exhibitions/sheepskin-ballads-and-gentleness-hymns>  
+  -Oct 26 <https://cargocollective.com/ryersonartspace/Upcoming-1/RYE-NEW-GEN>  
 -Oct 27 <http://www.corkingallery.com/exhibitions> 40 Years  
+-Nov 2 <http://becontemporary.com/project-space.php>  
 -Dec 1 <https://torontobiennial.org/work/lou-sheppard-at-toronto-sculpture-garden/>  
   -Dec 1 <https://torontobiennial.org/work/luis-jacob-at-union-station/>  
   -Dec 1 <https://torontobiennial.org/work/curtis-talwst-santiago-at-55-unwin/>  
@@ -67,8 +67,6 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
   **-May 10 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Naeem-Mohaiemen.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Solo-Exhibition-(2).aspx>**  
 -Jan 5 <https://www.harbourfrontcentre.com/visualarts/2019/ravisara/> <https://www.harbourfrontcentre.com/visualarts/2019/feels/> <https://www.harbourfrontcentre.com/visualarts/2019/fair-warning/>  
 
-_Sep 25-Nov 2 <http://becontemporary.com/project-space.php>_  
-_Sep 27-Oct 26 <https://cargocollective.com/ryersonartspace/Upcoming-1/RYE-NEW-GEN>_  
 _Nov 1-Dec 14 <https://gallery44.org/exhibitions/under-cave-winds>_  
   _Nov 1-Jan 4 <https://gallery44.org/exhibitions/behind-sun>_  
 
@@ -80,7 +78,6 @@ _Nov 1-Dec 14 <https://gallery44.org/exhibitions/under-cave-winds>_
 
 ### Queen St
 
-**<u>-Sep 28</u> <http://birchcontemporary.com/exhibition/30th-anniversary-group-show>**_  
 -Oct 6 <https://www.eventbrite.ca/e/no-more-than-your-shoulders-can-handle-artist-talk-tickets-71806728859>  
 **-Oct 12 <http://www.georgiascherman.com/> Suzy Lake**  
 -Oct 12 <http://susanhobbs.com/exhibits/1451-robin-cameron-lucien-durey-kate-newby-kathleen-ryan-karen-tam-charlotta-westergren-organized-by-pamela-meredith-mm>  
@@ -100,7 +97,6 @@ _Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_
 
 ### Bloordale & Junction Triangle
 
-<u>-Sep 28</u> <http://www.franzkaka.com/> HaeAhn Paul Kwon Kajander  
 **-Oct 26 <http://gallerytpw.ca/exhibitions/smtp/>**  
 **-Nov 2 <http://www.mercerunion.org/exhibitions/bambitchell-bugs-and-beasts-before-the-law/>**  
 **-Nov 3 <https://museumofcontemporaryart.ca/shezad-dawood-programmes-2019/>**  
@@ -111,12 +107,10 @@ _Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_
 
 ### Dupont St & The Junction
 
-<u>-Sep 28</u> <http://www.sibling.online/marisaholmes/marisaholmes.html>  
 -Oct 5 <https://angellgallery.com/exhibition/all-of-my-fear-in-a-single-flower> <https://angellgallery.com/exhibition/monuments> <https://angellgallery.com/exhibition/building-and-balancing> <https://angellgallery.com/exhibition/a-place-between-the-water-in-the-water>  
 -Oct 19 <https://coopercolegallery.com/exhibition/nothing-in-my-life-feels-big-enough/> <https://coopercolegallery.com/exhibition/2019-kara-hamilton-nothing-is-wild/>  
 **-Oct 26 <https://interaccess.org/exhibition/janus>**  
-
-_Sep 26-Nov 9 <https://alisonmilne.com/gallery/exhibitions/nissim-ben-aderet>_  
+-Nov 9 <https://alisonmilne.com/gallery/exhibitions/nissim-ben-aderet>  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
 
