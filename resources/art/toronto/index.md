@@ -33,9 +33,10 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown North
 
--Oct 20 <https://ryersonimagecentre.ca/exhibition/lucy-lu-da-pi-yuan/>  
+<u>-Oct 20</u> <https://ryersonimagecentre.ca/exhibition/lucy-lu-da-pi-yuan/>  
   **-Dec 8 <https://ryersonimagecentre.ca/exhibition/the-way-she-looks-a-history-of-female-gazes-in-african-portraiture/> <https://ryersonimagecentre.ca/exhibition/syrus-marcus-ware-ancestors-can-you-read-us-dispatches-from-the-future/>**  
 -Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
+  -Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild!>  
 **-Nov 30 <https://artmuseum.utoronto.ca/exhibition/deanna-bowen-the-god-of-gods/> <https://artmuseum.utoronto.ca/exhibition/qaggiq-gathering-place/>**  
   **-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**  
 -Dec 1 <https://torontobiennial.org/work/maria-thereza-alves-at-riverdale-park/>  
@@ -43,7 +44,6 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 
 _Oct 30-Dec 8 <https://ryersonimagecentre.ca/exhibition/grayson-james-after-alexandria/>_  
-_Oct 2-Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild!>_  
 _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
@@ -54,9 +54,10 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Downtown South
 
--Oct 25 <http://tangledarts.org/exhibits/ancestral-mindscapes/>  
-  -Oct 26 <https://gallery44.org/exhibitions/lost-love-saisons-futures> <https://gallery44.org/exhibitions/sheepskin-ballads-and-gentleness-hymns>  
+<u>-Oct 12</u> <https://openstudio.ca/exhibition/visiting-artists-exhibition-maura-doyle-and-sidney-masuga/> https://openstudio.ca/exhibition/where-im-at-now/> <https://openstudio.ca/exhibition/shape-garden-tom-lecuyer/>  
   -Oct 26 <https://cargocollective.com/ryersonartspace/Upcoming-1/RYE-NEW-GEN>  
+  -Oct 26 <https://gallery44.org/exhibitions/lost-love-saisons-futures> <https://gallery44.org/exhibitions/condo-development>  
+  -Nov 30 <https://www.yyzartistsoutlet.org/2019/09/sandra-brewster-town-girls-beneath/> <https://www.yyzartistsoutlet.org/2019/09/hannah-claus-spatial-codifications/>  
 -Oct 27 <http://www.corkingallery.com/exhibitions> 40 Years  
 -Nov 2 <http://becontemporary.com/project-space.php>  
 -Dec 1 <https://torontobiennial.org/work/lou-sheppard-at-toronto-sculpture-garden/>  
@@ -65,8 +66,8 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 **-Dec 7 <https://www2.ocadu.ca/event/ᐊᕙᑖᓂᑦ-ᑕᒪᐃᓐᓂᑦ-ᓄᓇᑐᐃᓐᓇᓂᑦ-among-all-these-tundras>**  
 **-Jan 5 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Hold-Everything-Dear.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Blues-Klair.aspx>**  
   **-May 10 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Naeem-Mohaiemen.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Solo-Exhibition-(2).aspx>**  
--Jan 5 <https://www.harbourfrontcentre.com/visualarts/2019/ravisara/> <https://www.harbourfrontcentre.com/visualarts/2019/feels/> <https://www.harbourfrontcentre.com/visualarts/2019/fair-warning/>  
 
+_Oct 17-Nov 30 <https://scotiabankcontactphoto.com/exhibition/say-it-with-flowers/>_  
 _Nov 1-Dec 14 <https://gallery44.org/exhibitions/under-cave-winds>_  
   _Nov 1-Jan 4 <https://gallery44.org/exhibitions/behind-sun>_  
 
@@ -78,13 +79,12 @@ _Nov 1-Dec 14 <https://gallery44.org/exhibitions/under-cave-winds>_
 
 ### Queen St
 
--Oct 6 <https://www.eventbrite.ca/e/no-more-than-your-shoulders-can-handle-artist-talk-tickets-71806728859>  
-**-Oct 12 <http://www.georgiascherman.com/> Suzy Lake**  
--Oct 12 <http://susanhobbs.com/exhibits/1451-robin-cameron-lucien-durey-kate-newby-kathleen-ryan-karen-tam-charlotta-westergren-organized-by-pamela-meredith-mm>  
+**<u>-Oct 12</u> <http://www.georgiascherman.com/> Suzy Lake**  
+<u>-Oct 12</u> <http://susanhobbs.com/exhibits/1451-robin-cameron-lucien-durey-kate-newby-kathleen-ryan-karen-tam-charlotta-westergren-organized-by-pamela-meredith-mm>  
 **-Nov 17 <http://kofflerarts.org/news/2019/03/12/undomesticated/>**  
+  -Dec 8 <https://www.criticaldistance.ca/program/access-is-love-and-love-is-complicated/>  
 **-Jan 5 <https://www.gladstonehotel.com/spaces/hard-twist-14-entwined/>**  
 
-_Oct 3-Dec 8 <https://www.criticaldistance.ca/program/access-is-love-and-love-is-complicated/>_  
 _Oct 10-Nov 9 <http://birchcontemporary.com/exhibition/abcd>_  
 _Oct 24-Nov 24 <https://www.eventbrite.ca/e/twenty-four-seven365-artist-talk-tickets-71805693763>_  
 _Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_  
@@ -107,10 +107,11 @@ _Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_
 
 ### Dupont St & The Junction
 
--Oct 5 <https://angellgallery.com/exhibition/all-of-my-fear-in-a-single-flower> <https://angellgallery.com/exhibition/monuments> <https://angellgallery.com/exhibition/building-and-balancing> <https://angellgallery.com/exhibition/a-place-between-the-water-in-the-water>  
--Oct 19 <https://coopercolegallery.com/exhibition/nothing-in-my-life-feels-big-enough/> <https://coopercolegallery.com/exhibition/2019-kara-hamilton-nothing-is-wild/>  
+<u>-Oct 19</u> <https://coopercolegallery.com/exhibition/nothing-in-my-life-feels-big-enough/> <https://coopercolegallery.com/exhibition/2019-kara-hamilton-nothing-is-wild/>  
 **-Oct 26 <https://interaccess.org/exhibition/janus>**  
 -Nov 9 <https://alisonmilne.com/gallery/exhibitions/nissim-ben-aderet>  
+
+_Oct 10-Nov 9 <https://angellgallery.com/exhibition/ellipsis> <https://angellgallery.com/exhibition/a-few-stars-in-the-lake>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
 
