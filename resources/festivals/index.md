@@ -49,42 +49,29 @@ Outdoor movies:
 * Jul-Sep <https://en.downsviewpark.ca/event/friday-night-lights-2018>
 * Jun-Sep <https://www.blogto.com/film/2018/06/free-outdoor-movies-toronto-summer-2018/>
 
-### Sep
-
-* **<https://www.tiff.net/tiff/> film 6-16**
-* **<https://torontobiennial.org> art 21-Dec 1**
-* <http://queenwestartcrawl.com> art 21-22
-* <https://www.nightwoodtheatre.net/whats_on/groundswell_festival1> theatre 23-28
-* <https://brokenpencil.com/canzine/canzineto/canzine-toronto-events/> books 14
-* <http://toronto.figmentproject.org> art 21-22
-* <https://www.cabbagetownfestival.ca> culture 7-8
-* <https://dragonfestival.ca> culture 6-8
-* ✖ <http://roguewaveart.org> art 8-Oct 27 (2018)
-* ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)
-* ✖ <http://torontourbanrootsfest.com> music 16-18 (2016)
-
 ### Oct
 
 * **<http://www.nbto.com> art 5**
-* **<https://www.worldpressphoto.org/exhibitions/2018-exhibition/toronto> photography 2-22**
-* <http://7a-11d.ca> performance 2-7
-* <https://www.arttoronto.ca> art fair 26-29
-* <https://www.alunatheatre.ca/festival/rutas-2018/> performance 3-14
-* <http://www.imaginenative.org> film 17-21
-* <https://www.femaleeyefilmfestival.com> film 3-6
-* <http://www.reelworld.ca> film 9-14
-* <http://planetinfocus.org> film 25-28
-* <http://www.tsaff.ca> film 13-14
+* **<https://worldpressphoto.org/calendar/world-press-photo-exhibition-2019/38232/Toronto%2c-Canada> photography 1-23**
+* <http://7a-11d.ca> performance 2-7 biennial (even)
+* <https://www.alunatheatre.ca/festival/caminos-2019/> performance 3-13 biennial (odd)
+* <https://www.alunatheatre.ca/festival/rutas-2018/> performance 3-14 biennial (even)
+* <https://www.arttoronto.ca> art fair 25-27
+* <http://planetinfocus.org> film 15-20
+* <http://www.reelworld.ca> film 17-21
+* <http://www.imaginenative.org> film 22-27
+* <http://www.tsaff.ca> film 19-20
 * <https://www.torontomotofilmfest.com> 3-6
-* <http://ifoa.org> books 18-28
-* <https://musicgallery.org/xavant> music 11-14
-* <http://www.cxto.ca> sport 28
+* <http://ifoa.org> books 24-Nov 3
+* <https://musicgallery.org/xavant> music 17-20
+* ✖ <http://www.cxto.ca> sport 28 (2017)
 
 ### Nov
 
 * <https://hotdocscinema.ca/c/podcast> podcasts 1-5
 * <http://handeyesociety.com/wordplay/> games 10
 * <http://regentparkfilmfestival.com> film 13-17
+* <https://www.femaleeyefilmfestival.com> film 7-10
 * <http://torontoqueerfilmfest.com> film 1-4
 * <http://eutorontofilmfest.ca> film 8-22
 * <https://syff.ca> film 9-11
@@ -237,3 +224,17 @@ Outdoor movies:
 * ✖ <http://www.sailincinema.com> film 10-11 (2018)
 * ✖ <http://mainsquared.com/about-main-squared/> art 26-Sep 3 (2017)
 * ✖ <http://embracepresents.com/festivals/time-festival/> music biennial (even) 6 (2016)
+
+### Sep
+
+* **<https://www.tiff.net/tiff/> film 6-16**
+* **<https://torontobiennial.org> art 21-Dec 1**
+* <http://queenwestartcrawl.com> art 21-22
+* <https://www.nightwoodtheatre.net/whats_on/groundswell_festival1> theatre 23-28
+* <https://brokenpencil.com/canzine/canzineto/canzine-toronto-events/> books 14
+* <http://toronto.figmentproject.org> art 21-22
+* <https://www.cabbagetownfestival.ca> culture 7-8
+* <https://dragonfestival.ca> culture 6-8
+* ✖ <http://roguewaveart.org> art 8-Oct 27 (2018)
+* ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)
+* ✖ <http://torontourbanrootsfest.com> music 16-18 (2016)

@@ -58,6 +58,7 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
   -Oct 26 <https://cargocollective.com/ryersonartspace/Upcoming-1/RYE-NEW-GEN>  
   -Oct 26 <https://gallery44.org/exhibitions/lost-love-saisons-futures> <https://gallery44.org/exhibitions/condo-development>  
   -Nov 30 <https://www.yyzartistsoutlet.org/2019/09/sandra-brewster-town-girls-beneath/> <https://www.yyzartistsoutlet.org/2019/09/hannah-claus-spatial-codifications/>  
+**-Oct 23 <https://worldpressphoto.org/calendar/world-press-photo-exhibition-2019/38232/Toronto%2c-Canada>**  
 -Oct 27 <http://www.corkingallery.com/exhibitions> 40 Years  
 -Nov 2 <http://becontemporary.com/project-space.php>  
 -Dec 1 <https://torontobiennial.org/work/lou-sheppard-at-toronto-sculpture-garden/>  
