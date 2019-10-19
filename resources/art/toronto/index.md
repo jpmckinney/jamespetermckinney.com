@@ -12,30 +12,31 @@ published: true
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon. Exhibitions are removed once visited. <span class="glyphicon glyphicon-time" aria-hidden="true"></span> is open late. <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> is open Sunday.
 
-**-Dec 1 <https://torontobiennial.org/site/small-arms-inspection-building/>**
+**-Dec 1 <https://torontobiennial.org/site/small-arms-inspection-building/>**  
   -Dec 1 <https://torontobiennial.org/work/elder-duke-redbird-at-ontario-place/>  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Museums: Bata Shoe U8, DX, ROM F8
 
 ### Shows
 
-**-Oct 27 <https://www.stratfordfestival.ca/WhatsOn/PlaysAndEvents/Production/Othello/BuyTickets>**  
+**<u>-Oct 27</u> <https://www.stratfordfestival.ca/WhatsOn/PlaysAndEvents/Production/Othello/BuyTickets>**  
+**<u>-Oct 27</u> <https://www.passemuraille.ca/19-20-season-shows/the-election/>**  
 
-_Oct 9-Oct 27 <https://www.passemuraille.ca/19-20-season-shows/the-election/>_  
 _Nov 6-Nov 10 <https://national.ballet.ca/Productions/2019-20-Season/Giselle>_  
 _Nov 15-Nov 21 <https://national.ballet.ca/Productions/2019-20-Season/Orpheus>_  
 _Nov 27-Dec 1 <https://national.ballet.ca/Productions/2019-20-Season/Etudes>_  
 
-_Feb 4-Feb 23 <https://www.crowstheatre.com/whats-on/view-all/secret-life-of-a-mother>_  
+_**Jan 7-Jan 26 <https://www.crowstheatre.com/whats-on/view-all/julius-caesar> (package)**_  
+_**Feb 4-Feb 23 <https://www.crowstheatre.com/whats-on/view-all/secret-life-of-a-mother> (package)**_  
 _**Feb 29-Mar 1 Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
-_Mar 17-Apr 22 <https://www.crowstheatre.com/whats-on/view-all/all-the-little-animals-i-have-eaten> Nightwood_  
+_**Mar 17-Apr 22 <https://www.crowstheatre.com/whats-on/view-all/all-the-little-animals-i-have-eaten> (package)**_  
 _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake> (AZ)**_  
 
 ### Downtown North
 
 <u>-Oct 20</u> <https://ryersonimagecentre.ca/exhibition/lucy-lu-da-pi-yuan/>  
   **-Dec 8 <https://ryersonimagecentre.ca/exhibition/the-way-she-looks-a-history-of-female-gazes-in-african-portraiture/> <https://ryersonimagecentre.ca/exhibition/syrus-marcus-ware-ancestors-can-you-read-us-dispatches-from-the-future/>**  
--Oct 27 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
+<u>-Oct 27<u> <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
   -Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild!>  
 **-Nov 30 <https://artmuseum.utoronto.ca/exhibition/deanna-bowen-the-god-of-gods/> <https://artmuseum.utoronto.ca/exhibition/qaggiq-gathering-place/>**  
   **-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**  
@@ -54,13 +55,13 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Downtown South
 
-<u>-Oct 12</u> <https://openstudio.ca/exhibition/visiting-artists-exhibition-maura-doyle-and-sidney-masuga/> https://openstudio.ca/exhibition/where-im-at-now/> <https://openstudio.ca/exhibition/shape-garden-tom-lecuyer/>  
-  -Oct 26 <https://cargocollective.com/ryersonartspace/Upcoming-1/RYE-NEW-GEN>  
-  -Oct 26 <https://gallery44.org/exhibitions/lost-love-saisons-futures> <https://gallery44.org/exhibitions/condo-development>  
+**<u>-Oct 23</u> <https://worldpressphoto.org/calendar/world-press-photo-exhibition-2019/38232/Toronto%2c-Canada>**  
+<u>-Oct 26</u> <https://cargocollective.com/ryersonartspace/Upcoming-1/RYE-NEW-GEN>  
+  <u>-Oct 26</u> <https://gallery44.org/exhibitions/lost-love-saisons-futures> <https://gallery44.org/exhibitions/condo-development>  
   -Nov 30 <https://www.yyzartistsoutlet.org/2019/09/sandra-brewster-town-girls-beneath/> <https://www.yyzartistsoutlet.org/2019/09/hannah-claus-spatial-codifications/>  
-**-Oct 23 <https://worldpressphoto.org/calendar/world-press-photo-exhibition-2019/38232/Toronto%2c-Canada>**  
--Oct 27 <http://www.corkingallery.com/exhibitions> 40 Years  
+<u>-Oct 27</u> <http://www.corkingallery.com/exhibitions> 40 Years  
 -Nov 2 <http://becontemporary.com/project-space.php>  
+-Nov 30 <https://scotiabankcontactphoto.com/exhibition/say-it-with-flowers/>  
 -Dec 1 <https://torontobiennial.org/work/lou-sheppard-at-toronto-sculpture-garden/>  
   -Dec 1 <https://torontobiennial.org/work/luis-jacob-at-union-station/>  
   -Dec 1 <https://torontobiennial.org/work/curtis-talwst-santiago-at-55-unwin/>  
@@ -68,7 +69,6 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 **-Jan 5 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Hold-Everything-Dear.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Blues-Klair.aspx>**  
   **-May 10 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Naeem-Mohaiemen.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Solo-Exhibition-(2).aspx>**  
 
-_Oct 17-Nov 30 <https://scotiabankcontactphoto.com/exhibition/say-it-with-flowers/>_  
 _Nov 1-Dec 14 <https://gallery44.org/exhibitions/under-cave-winds>_  
   _Nov 1-Jan 4 <https://gallery44.org/exhibitions/behind-sun>_  
 
@@ -80,13 +80,11 @@ _Nov 1-Dec 14 <https://gallery44.org/exhibitions/under-cave-winds>_
 
 ### Queen St
 
-**<u>-Oct 12</u> <http://www.georgiascherman.com/> Suzy Lake**  
-<u>-Oct 12</u> <http://susanhobbs.com/exhibits/1451-robin-cameron-lucien-durey-kate-newby-kathleen-ryan-karen-tam-charlotta-westergren-organized-by-pamela-meredith-mm>  
+-Nov 9 <http://birchcontemporary.com/exhibition/abcd>  
 **-Nov 17 <http://kofflerarts.org/news/2019/03/12/undomesticated/>**  
   -Dec 8 <https://www.criticaldistance.ca/program/access-is-love-and-love-is-complicated/>  
 **-Jan 5 <https://www.gladstonehotel.com/spaces/hard-twist-14-entwined/>**  
 
-_Oct 10-Nov 9 <http://birchcontemporary.com/exhibition/abcd>_  
 _Oct 24-Nov 24 <https://www.eventbrite.ca/e/twenty-four-seven365-artist-talk-tickets-71805693763>_  
 _Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_  
 
@@ -98,7 +96,7 @@ _Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_
 
 ### Bloordale & Junction Triangle
 
-**-Oct 26 <http://gallerytpw.ca/exhibitions/smtp/>**  
+**<u>-Oct 26</u> <http://gallerytpw.ca/exhibitions/smtp/>**  
 **-Nov 2 <http://www.mercerunion.org/exhibitions/bambitchell-bugs-and-beasts-before-the-law/>**  
 **-Nov 3 <https://museumofcontemporaryart.ca/shezad-dawood-programmes-2019/>**  
 -Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>  
@@ -108,11 +106,9 @@ _Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_
 
 ### Dupont St & The Junction
 
-<u>-Oct 19</u> <https://coopercolegallery.com/exhibition/nothing-in-my-life-feels-big-enough/> <https://coopercolegallery.com/exhibition/2019-kara-hamilton-nothing-is-wild/>  
-**-Oct 26 <https://interaccess.org/exhibition/janus>**  
+**<u>-Oct 26</u> <https://interaccess.org/exhibition/janus>**  
 -Nov 9 <https://alisonmilne.com/gallery/exhibitions/nissim-ben-aderet>  
-
-_Oct 10-Nov 9 <https://angellgallery.com/exhibition/ellipsis> <https://angellgallery.com/exhibition/a-few-stars-in-the-lake>_  
+-Nov 9 <https://angellgallery.com/exhibition/ellipsis> <https://angellgallery.com/exhibition/a-few-stars-in-the-lake>  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
 

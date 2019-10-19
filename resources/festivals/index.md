@@ -22,6 +22,7 @@ published: true
 
 ### Fall/Winter
 
+* **Sep-Oct <* https://torontopubliclibrary.typepad.com/programming/2019/08/oncivilsociety-fall-2019-lineup-announced-.html>**
 * Sep-Nov <http://naisa.ca/festivals/soundplayseries/> art/music
 * Nov-Mar <http://www.torontolongwinter.com> art/performance/music
 * Dec-Mar <http://ontarioplace.com/en/event/winter-ontario-place/>
