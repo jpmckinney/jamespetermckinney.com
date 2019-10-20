@@ -20,7 +20,6 @@ published: true
 ### Shows
 
 **<u>-Oct 27</u> <https://www.stratfordfestival.ca/WhatsOn/PlaysAndEvents/Production/Othello/BuyTickets>**  
-**<u>-Oct 27</u> <https://www.passemuraille.ca/19-20-season-shows/the-election/>**  
 
 _Nov 6-Nov 10 <https://national.ballet.ca/Productions/2019-20-Season/Giselle>_  
 _Nov 15-Nov 21 <https://national.ballet.ca/Productions/2019-20-Season/Orpheus>_  
@@ -30,18 +29,24 @@ _**Jan 7-Jan 26 <https://www.crowstheatre.com/whats-on/view-all/julius-caesar> (
 _**Feb 4-Feb 23 <https://www.crowstheatre.com/whats-on/view-all/secret-life-of-a-mother> (package)**_  
 _**Feb 29-Mar 1 Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
 _**Mar 17-Apr 22 <https://www.crowstheatre.com/whats-on/view-all/all-the-little-animals-i-have-eaten> (package)**_  
+_**May 17-Jun 7 <https://outsidethemarch.ca/the-experiences/the-ex-boyfriend-yard-sale/>**_  
 _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake> (AZ)**_  
 
 ### Downtown North
 
 <u>-Oct 20</u> <https://ryersonimagecentre.ca/exhibition/lucy-lu-da-pi-yuan/>  
   **-Dec 8 <https://ryersonimagecentre.ca/exhibition/the-way-she-looks-a-history-of-female-gazes-in-african-portraiture/> <https://ryersonimagecentre.ca/exhibition/syrus-marcus-ware-ancestors-can-you-read-us-dispatches-from-the-future/>**  
-<u>-Oct 27<u> <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
-  -Mar 15 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/wild!>  
+<u>-Oct 27</u> <http://www.textilemuseum.ca/exhibitions/current-exhibitions/a-tapestry-of-spirit-the-torah-stitch-by-stitch-pr>  
+  -Mar 15 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/wild!>  
+-Nov 10 <https://ago.ca/exhibitions/ballet-mecanique>  
+  -Dec 1 <https://ago.ca/exhibitions/valerie-blass-le-parlement-des-invisibles> <https://ago.ca/exhibitions/kara-hamilton-water-two-colours>  
+  -Feb 2 <https://ago.ca/exhibitions/conde-beveridge-early-work>  
+  -Mar 29 <https://ago.ca/exhibitions/sandra-brewster-blur> <https://ago.ca/exhibitions/lisa-reihana-pursuit-venus-infected>  
+  -Jul <https://ago.ca/exhibitions/joseph-beuys>  
+  <https://ago.ca/exhibitions/yayoi-kusamas-infinity-mirrored-room-lets-survive-forever>  
 **-Nov 30 <https://artmuseum.utoronto.ca/exhibition/deanna-bowen-the-god-of-gods/> <https://artmuseum.utoronto.ca/exhibition/qaggiq-gathering-place/>**  
   **-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**  
 -Dec 1 <https://torontobiennial.org/work/maria-thereza-alves-at-riverdale-park/>  
--Mar 29 <https://ago.ca/exhibitions/lisa-reihana-pursuit-venus-infected> …  
 
 
 _Oct 30-Dec 8 <https://ryersonimagecentre.ca/exhibition/grayson-james-after-alexandria/>_  
@@ -83,6 +88,8 @@ _Nov 1-Dec 14 <https://gallery44.org/exhibitions/under-cave-winds>_
 -Nov 9 <http://birchcontemporary.com/exhibition/abcd>  
 **-Nov 17 <http://kofflerarts.org/news/2019/03/12/undomesticated/>**  
   -Dec 8 <https://www.criticaldistance.ca/program/access-is-love-and-love-is-complicated/>  
+-Nov 23 <http://susanhobbs.com/current> Beth Stuart  
+-Nov 23 <http://www.georgiascherman.com/current> Blue Republic  
 **-Jan 5 <https://www.gladstonehotel.com/spaces/hard-twist-14-entwined/>**  
 
 _Oct 24-Nov 24 <https://www.eventbrite.ca/e/twenty-four-seven365-artist-talk-tickets-71805693763>_  
