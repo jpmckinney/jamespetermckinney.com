@@ -57,7 +57,7 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 ### Downtown South
 
 -Nov 30 <https://www.yyzartistsoutlet.org/2019/09/sandra-brewster-town-girls-beneath/> <https://www.yyzartistsoutlet.org/2019/09/hannah-claus-spatial-codifications/>  
-  -Dec 14 <https://gallery44.org/exhibitions/under-cave-winds>  
+  -Dec 14 <https://gallery44.org/exhibitions/under-cave-winds> <https://gallery44.org/exhibitions/apolitical-landscapes>  
   -Jan 4 <https://gallery44.org/exhibitions/behind-sun>  
 -Nov 30 <https://scotiabankcontactphoto.com/exhibition/say-it-with-flowers/>  
 -Dec 1 <https://torontobiennial.org/work/lou-sheppard-at-toronto-sculpture-garden/>  
@@ -105,6 +105,9 @@ _Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_
 <u>-Nov 9</u> <https://alisonmilne.com/gallery/exhibitions/nissim-ben-aderet>  
 <u>-Nov 9</u> <https://angellgallery.com/exhibition/ellipsis> <https://angellgallery.com/exhibition/a-few-stars-in-the-lake>  
 -Dec 7 <https://coopercolegallery.com/exhibition/2019-daniel-rios-rodriguez-another-fire/> <https://coopercolegallery.com/exhibition/2019-jagdeep-raina-i-promise/>  
+
+_**Nov 6-Dec 7 <https://interaccess.org/exhibition/scaffolds-i-can-no-longer-see>**_  
+_Nov 16-Dec 21 <https://angellgallery.com/exhibition/florilegium> <https://angellgallery.com/exhibition/the-spirit-is-willing>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
 

@@ -22,7 +22,7 @@ published: true
 
 ### Fall/Winter
 
-* **Sep-Oct <* https://torontopubliclibrary.typepad.com/programming/2019/08/oncivilsociety-fall-2019-lineup-announced-.html>**
+* **Sep-Oct <https://torontopubliclibrary.typepad.com/programming/2019/08/oncivilsociety-fall-2019-lineup-announced-.html>**
 * Sep-Nov <http://naisa.ca/festivals/soundplayseries/> art/music
 * Nov-Mar <http://www.torontolongwinter.com> art/performance/music
 * Dec-Mar <http://ontarioplace.com/en/event/winter-ontario-place/>
@@ -50,36 +50,17 @@ Outdoor movies:
 * Jul-Sep <https://en.downsviewpark.ca/event/friday-night-lights-2018>
 * Jun-Sep <https://www.blogto.com/film/2018/06/free-outdoor-movies-toronto-summer-2018/>
 
-### Oct
-
-* **<http://www.nbto.com> art 5**
-* **<https://worldpressphoto.org/calendar/world-press-photo-exhibition-2019/38232/Toronto%2c-Canada> photography 1-23**
-* <http://7a-11d.ca> performance 2-7 biennial (even)
-* <https://www.alunatheatre.ca/festival/caminos-2019/> performance 3-13 biennial (odd)
-* <https://www.alunatheatre.ca/festival/rutas-2018/> performance 3-14 biennial (even)
-* <https://www.arttoronto.ca> art fair 25-27
-* <http://planetinfocus.org> film 15-20
-* <http://www.reelworld.ca> film 17-21
-* <http://www.imaginenative.org> film 22-27
-* <http://www.tsaff.ca> film 19-20
-* <https://www.torontomotofilmfest.com> 3-6
-* <http://ifoa.org> books 24-Nov 3
-* <https://musicgallery.org/xavant> music 17-20
-* ✖ <http://www.cxto.ca> sport 28 (2017)
-
 ### Nov
 
-* <https://hotdocscinema.ca/c/podcast> podcasts 1-5
-* <http://handeyesociety.com/wordplay/> games 10
-* <http://regentparkfilmfestival.com> film 13-17
+* <https://hotdocscinema.ca/c/podcast> podcasts 6-11
+* <http://handeyesociety.com/wordplay/> games 9-10
+* <http://regentparkfilmfestival.com> film 20-23
 * <https://www.femaleeyefilmfestival.com> film 7-10
-* <http://torontoqueerfilmfest.com> film 1-4
-* <http://eutorontofilmfest.ca> film 8-22
-* <https://syff.ca> film 9-11
-* <http://brazilfilmfest.net> film 1-4
-* <http://www.rendezvouswithmadness.ca> film 10-21
-* <https://www.alumnaetheatre.com/fireworks-festival-2018.html> theatre 7-25
-* <http://www.unsound.pl> music 3
+* <http://torontoqueerfilmfest.com> film 7-10
+* <http://eutorontofilmfest.ca> film 7-21
+* <https://syff.ca> film 15-17
+* <http://brazilfilmfest.net> film 1-3
+* <https://www.alumnaetheatre.com/fireworks-festival.html> theatre 6-24
 
 ### Dec
 
@@ -239,3 +220,21 @@ Outdoor movies:
 * ✖ <http://roguewaveart.org> art 8-Oct 27 (2018)
 * ✖ <http://www.endlesscity.org/forms/events> art 28-30 (2016)
 * ✖ <http://torontourbanrootsfest.com> music 16-18 (2016)
+
+### Oct
+
+* **<http://www.nbto.com> art 5**
+* **<https://worldpressphoto.org/calendar/world-press-photo-exhibition-2019/38232/Toronto%2c-Canada> photography 1-23**
+* <http://7a-11d.ca> performance 2-7 biennial (even)
+* <https://www.alunatheatre.ca/festival/caminos-2019/> performance 3-13 biennial (odd)
+* <https://www.alunatheatre.ca/festival/rutas-2018/> performance 3-14 biennial (even)
+* <https://www.arttoronto.ca> art fair 25-27
+* <http://planetinfocus.org> film 15-20
+* <http://www.reelworld.ca> film 17-21
+* <http://www.imaginenative.org> film 22-27
+* <http://www.tsaff.ca> film 19-20
+* <https://www.torontomotofilmfest.com> 3-6
+* <https://workmanarts.com/rendezvous-with-madness/> film 10-20
+* <http://ifoa.org> books 24-Nov 3
+* <https://musicgallery.org/xavant> music 17-20
+* ✖ <http://www.cxto.ca> sport 28 (2017)
