@@ -35,17 +35,17 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 -Nov 10 <https://ago.ca/exhibitions/ballet-mecanique>  
   -Dec 1 <https://ago.ca/exhibitions/valerie-blass-le-parlement-des-invisibles> <https://ago.ca/exhibitions/kara-hamilton-water-two-colours>  
   -Feb 2 <https://ago.ca/exhibitions/conde-beveridge-early-work>  
+  -Feb 23 <https://ago.ca/exhibitions/hito-steyerl-future>  
   -Mar 29 <https://ago.ca/exhibitions/sandra-brewster-blur> <https://ago.ca/exhibitions/lisa-reihana-pursuit-venus-infected>  
   -Jul <https://ago.ca/exhibitions/joseph-beuys>  
   <https://ago.ca/exhibitions/yayoi-kusamas-infinity-mirrored-room-lets-survive-forever>  
 **-Nov 30 <https://artmuseum.utoronto.ca/exhibition/deanna-bowen-the-god-of-gods/> <https://artmuseum.utoronto.ca/exhibition/qaggiq-gathering-place/>**  
   **-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**  
 -Dec 1 <https://torontobiennial.org/work/maria-thereza-alves-at-riverdale-park/>  
-**-Dec 8 <https://ryersonimagecentre.ca/exhibition/the-way-she-looks-a-history-of-female-gazes-in-african-portraiture/> <https://ryersonimagecentre.ca/exhibition/syrus-marcus-ware-ancestors-can-you-read-us-dispatches-from-the-future/>**  
+**-Dec 8 <https://ryersonimagecentre.ca/exhibition/the-way-she-looks-a-history-of-female-gazes-in-african-portraiture/> <https://ryersonimagecentre.ca/exhibition/syrus-marcus-ware-ancestors-can-you-read-us-dispatches-from-the-future/> <https://ryersonimagecentre.ca/exhibition/grayson-james-after-alexandria/>**  
 -Mar 15 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/wild!>  
 
 
-_Oct 30-Dec 8 <https://ryersonimagecentre.ca/exhibition/grayson-james-after-alexandria/>_  
 _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
@@ -56,18 +56,17 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Downtown South
 
-<u>-Nov 2</u> <http://becontemporary.com/project-space.php>  
 -Nov 30 <https://www.yyzartistsoutlet.org/2019/09/sandra-brewster-town-girls-beneath/> <https://www.yyzartistsoutlet.org/2019/09/hannah-claus-spatial-codifications/>  
+  -Dec 14 <https://gallery44.org/exhibitions/under-cave-winds>  
+  -Jan 4 <https://gallery44.org/exhibitions/behind-sun>  
 -Nov 30 <https://scotiabankcontactphoto.com/exhibition/say-it-with-flowers/>  
 -Dec 1 <https://torontobiennial.org/work/lou-sheppard-at-toronto-sculpture-garden/>  
   -Dec 1 <https://torontobiennial.org/work/luis-jacob-at-union-station/>  
   -Dec 1 <https://torontobiennial.org/work/curtis-talwst-santiago-at-55-unwin/>  
 **-Dec 7 <https://www2.ocadu.ca/event/ᐊᕙᑖᓂᑦ-ᑕᒪᐃᓐᓂᑦ-ᓄᓇᑐᐃᓐᓇᓂᑦ-among-all-these-tundras>**  
 **-Jan 5 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Hold-Everything-Dear.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Blues-Klair.aspx>**  
+**-Jan 31 <http://sugarcontemporary.com/#!slavs-and-tatars>**  
   **-May 10 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Naeem-Mohaiemen.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Solo-Exhibition-(2).aspx>**  
-
-_Nov 1-Dec 14 <https://gallery44.org/exhibitions/under-cave-winds>_  
-  _Nov 1-Jan 4 <https://gallery44.org/exhibitions/behind-sun>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -95,8 +94,7 @@ _Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_
 
 ### Bloordale & Junction Triangle
 
-**<u>-Nov 2</u> <http://www.mercerunion.org/exhibitions/bambitchell-bugs-and-beasts-before-the-law/>**  
-<u>**-Nov 3</u> <https://museumofcontemporaryart.ca/shezad-dawood-programmes-2019/>**  
+**<u>-Nov 10</u> <https://museumofcontemporaryart.ca/shezad-dawood-programmes-2019/>**  
 -Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>  
 **-Jan 25 <http://www.scrapmetalgallery.com> Eric Mack**  
 
