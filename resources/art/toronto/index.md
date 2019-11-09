@@ -57,6 +57,7 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 -Nov 30 <https://www.yyzartistsoutlet.org/2019/09/sandra-brewster-town-girls-beneath/> <https://www.yyzartistsoutlet.org/2019/09/hannah-claus-spatial-codifications/>  
   -Dec 14 <https://gallery44.org/exhibitions/under-cave-winds> <https://gallery44.org/exhibitions/apolitical-landscapes>  
+  -Dec 20 <https://tangledarts.org/exhibits/body-farm/>  
   -Jan 4 <https://gallery44.org/exhibitions/behind-sun>  
 -Nov 30 <https://scotiabankcontactphoto.com/exhibition/say-it-with-flowers/>  
 -Dec 1 <https://torontobiennial.org/work/lou-sheppard-at-toronto-sculpture-garden/>  
