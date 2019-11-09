@@ -19,7 +19,6 @@ published: true
 
 ### Shows
 
-_Nov 6-Nov 10 <https://national.ballet.ca/Productions/2019-20-Season/Giselle>_  
 _Nov 15-Nov 21 <https://national.ballet.ca/Productions/2019-20-Season/Orpheus>_  
 _Nov 27-Dec 1 <https://national.ballet.ca/Productions/2019-20-Season/Etudes>_  
 
@@ -27,12 +26,12 @@ _**Jan 7-Jan 26 <https://www.crowstheatre.com/whats-on/view-all/julius-caesar> (
 _**Feb 4-Feb 23 <https://www.crowstheatre.com/whats-on/view-all/secret-life-of-a-mother> (package)**_  
 _**Feb 29-Mar 1 Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
 _**Mar 17-Apr 22 <https://www.crowstheatre.com/whats-on/view-all/all-the-little-animals-i-have-eaten> (package)**_  
-_**May 17-Jun 7 <https://outsidethemarch.ca/the-experiences/the-ex-boyfriend-yard-sale/>**_  
+_**May 19-Jun 7 <https://outsidethemarch.ca/the-experiences/the-ex-boyfriend-yard-sale/> (AZ)**_  
 _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake> (AZ)**_  
 
 ### Downtown North
 
--Nov 10 <https://ago.ca/exhibitions/ballet-mecanique>  
+<u>-Nov 10</u> <https://ago.ca/exhibitions/ballet-mecanique>  
   -Dec 1 <https://ago.ca/exhibitions/valerie-blass-le-parlement-des-invisibles> <https://ago.ca/exhibitions/kara-hamilton-water-two-colours>  
   -Feb 2 <https://ago.ca/exhibitions/conde-beveridge-early-work>  
   -Feb 23 <https://ago.ca/exhibitions/hito-steyerl-future>  
@@ -76,8 +75,7 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Queen St
 
-<u>-Nov 9</u> <http://birchcontemporary.com/exhibition/abcd>  
-**-Nov 17 <http://kofflerarts.org/news/2019/03/12/undomesticated/>**  
+**<u>-Nov 17</u> <http://kofflerarts.org/news/2019/03/12/undomesticated/>**  
   -Dec 8 <https://www.criticaldistance.ca/program/access-is-love-and-love-is-complicated/>  
 -Nov 23 <http://susanhobbs.com/current> Beth Stuart  
 -Nov 23 <http://www.georgiascherman.com/current> Blue Republic  
@@ -98,15 +96,15 @@ _Nov 14-Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>_
 -Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>  
 **-Jan 25 <http://www.scrapmetalgallery.com> Eric Mack**  
 
+_Nov 22-Dec 7 <https://www.photorama.ca>_  
+
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MOCA
 
 ### Dupont St & The Junction
 
-<u>-Nov 9</u> <https://alisonmilne.com/gallery/exhibitions/nissim-ben-aderet>  
-<u>-Nov 9</u> <https://angellgallery.com/exhibition/ellipsis> <https://angellgallery.com/exhibition/a-few-stars-in-the-lake>  
 -Dec 7 <https://coopercolegallery.com/exhibition/2019-daniel-rios-rodriguez-another-fire/> <https://coopercolegallery.com/exhibition/2019-jagdeep-raina-i-promise/>  
+**-Dec 7 <https://interaccess.org/exhibition/scaffolds-i-can-no-longer-see>**  
 
-_**Nov 6-Dec 7 <https://interaccess.org/exhibition/scaffolds-i-can-no-longer-see>**_  
 _Nov 16-Dec 21 <https://angellgallery.com/exhibition/florilegium> <https://angellgallery.com/exhibition/the-spirit-is-willing>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
