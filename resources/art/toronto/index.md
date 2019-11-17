@@ -75,11 +75,10 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Queen St
 
-**<u>-Nov 17</u> <http://kofflerarts.org/news/2019/03/12/undomesticated/>**  
-  -Dec 8 <https://www.criticaldistance.ca/program/access-is-love-and-love-is-complicated/>  
 <u>-Nov 23</u> <http://susanhobbs.com/current> Beth Stuart  
 <u>-Nov 23</u> <http://www.georgiascherman.com/current> Blue Republic  
 <u>-Nov 24</u> <https://www.eventbrite.ca/e/twenty-four-seven365-artist-talk-tickets-71805693763>  
+-Dec 8 <https://www.criticaldistance.ca/program/access-is-love-and-love-is-complicated/>  
 -Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>  
 **-Jan 5 <https://www.gladstonehotel.com/spaces/hard-twist-14-entwined/>**  
 
