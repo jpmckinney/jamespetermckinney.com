@@ -12,16 +12,11 @@ published: true
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> <strong>Bold</strong> is want-to-see. <em>Italic</em> is upcoming. <u>Underline</u> ends soon. Exhibitions are removed once visited. <span class="glyphicon glyphicon-time" aria-hidden="true"></span> is open late. <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> is open Sunday.
 
-**<u>-Dec 1</u> <https://torontobiennial.org/site/small-arms-inspection-building/>**  
-  <u>-Dec 1</u> <https://torontobiennial.org/work/elder-duke-redbird-at-ontario-place/>  
-
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Museums: Bata Shoe U8, DX, ROM F8
 
 ### Shows
 
-<u>-Nov 21</u> <https://national.ballet.ca/Productions/2019-20-Season/Orpheus>  
-
-_Nov 27-Dec 1 <https://national.ballet.ca/Productions/2019-20-Season/Etudes>_  
+<u>-Dec 1</u> <https://national.ballet.ca/Productions/2019-20-Season/Etudes>  
 
 _**Jan 7-Jan 26 <https://www.crowstheatre.com/whats-on/view-all/julius-caesar> (package)**_  
 _**Feb 4-Feb 23 <https://www.crowstheatre.com/whats-on/view-all/secret-life-of-a-mother> (package)**_  
@@ -32,9 +27,6 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown North
 
-**<u>-Nov 30</u> <https://artmuseum.utoronto.ca/exhibition/deanna-bowen-the-god-of-gods/> <https://artmuseum.utoronto.ca/exhibition/qaggiq-gathering-place/>**  
-  **-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**  
-<u>-Dec 1</u> <https://torontobiennial.org/work/maria-thereza-alves-at-riverdale-park/>  
 <u>-Dec 1</u> <https://ago.ca/exhibitions/valerie-blass-le-parlement-des-invisibles> <https://ago.ca/exhibitions/kara-hamilton-water-two-colours>  
   -Feb 2 <https://ago.ca/exhibitions/conde-beveridge-early-work>  
   -Feb 23 <https://ago.ca/exhibitions/hito-steyerl-future>  
@@ -42,7 +34,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
   -Jul <https://ago.ca/exhibitions/joseph-beuys>  
   <https://ago.ca/exhibitions/yayoi-kusamas-infinity-mirrored-room-lets-survive-forever>  
 -Mar 15 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/wild!>  
-
+**-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**  
 
 _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/>**_  
 
@@ -59,10 +51,7 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
   -Dec 20 <https://tangledarts.org/exhibits/body-farm/>  
   -Jan 4 <https://gallery44.org/exhibitions/behind-sun>  
 <u>-Nov 30</u> <https://scotiabankcontactphoto.com/exhibition/say-it-with-flowers/>  
-<u>-Dec 1</u> <https://torontobiennial.org/work/lou-sheppard-at-toronto-sculpture-garden/>  
-  <u>-Dec 1</u> <https://torontobiennial.org/work/luis-jacob-at-union-station/>  
-  <u>-Dec 1</u> <https://torontobiennial.org/work/curtis-talwst-santiago-at-55-unwin/>  
-**-Dec 7 <https://www2.ocadu.ca/event/ᐊᕙᑖᓂᑦ-ᑕᒪᐃᓐᓂᑦ-ᓄᓇᑐᐃᓐᓇᓂᑦ-among-all-these-tundras>**  
+**<u>-Dec 7</u> <https://www2.ocadu.ca/event/ᐊᕙᑖᓂᑦ-ᑕᒪᐃᓐᓂᑦ-ᓄᓇᑐᐃᓐᓇᓂᑦ-among-all-these-tundras>**  
 **-Jan 5 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Hold-Everything-Dear.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Blues-Klair.aspx>**  
 **-Jan 31 <http://sugarcontemporary.com/#!slavs-and-tatars>**  
   **-May 10 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Naeem-Mohaiemen.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Solo-Exhibition-(2).aspx>**  
@@ -75,12 +64,10 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Queen St
 
-<u>-Nov 23</u> <http://susanhobbs.com/current> Beth Stuart  
-<u>-Nov 23</u> <http://www.georgiascherman.com/current> Blue Republic  
-<u>-Nov 24</u> <https://www.eventbrite.ca/e/twenty-four-seven365-artist-talk-tickets-71805693763>  
--Dec 8 <https://www.criticaldistance.ca/program/access-is-love-and-love-is-complicated/>  
+<u>-Dec 8</u> <https://www.criticaldistance.ca/program/access-is-love-and-love-is-complicated/>  
 -Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>  
 **-Jan 5 <https://www.gladstonehotel.com/spaces/hard-twist-14-entwined/>**  
+-Jan 25 <http://susanhobbs.com/current>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -90,17 +77,16 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Bloordale & Junction Triangle
 
+<u>-Dec 7</u> <https://www.photorama.ca>  
 -Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>  
 **-Jan 25 <http://www.scrapmetalgallery.com> Eric Mack**  
-
-_Nov 22-Dec 7 <https://www.photorama.ca>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MOCA
 
 ### Dupont St & The Junction
 
--Dec 7 <https://coopercolegallery.com/exhibition/2019-daniel-rios-rodriguez-another-fire/> <https://coopercolegallery.com/exhibition/2019-jagdeep-raina-i-promise/>  
-**-Dec 7 <https://interaccess.org/exhibition/scaffolds-i-can-no-longer-see>**  
+**<u>-Dec 7</u> <https://interaccess.org/exhibition/scaffolds-i-can-no-longer-see>**  
+<u>-Dec 7</u> <https://coopercolegallery.com/exhibition/2019-daniel-rios-rodriguez-another-fire/> <https://coopercolegallery.com/exhibition/2019-jagdeep-raina-i-promise/>  
 -Dec 21 <https://angellgallery.com/exhibition/florilegium> <https://angellgallery.com/exhibition/the-spirit-is-willing>  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
