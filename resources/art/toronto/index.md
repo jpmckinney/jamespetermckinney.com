@@ -18,6 +18,7 @@ published: true
 
 _**Jan 7-Jan 26 <https://www.crowstheatre.com/whats-on/view-all/julius-caesar> (package)**_  
 _**Feb 4-Feb 23 <https://www.crowstheatre.com/whats-on/view-all/secret-life-of-a-mother> (package)**_  
+_**Feb 27-Mar 8 <https://www.theatrewhynot.org/project/brainstorm/>**_  
 _**Feb 29-Mar 1 Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
 _**Mar 17-Apr 22 <https://www.crowstheatre.com/whats-on/view-all/all-the-little-animals-i-have-eaten> (package)**_  
 _**May 19-Jun 7 <https://outsidethemarch.ca/the-experiences/the-ex-boyfriend-yard-sale/> (AZ)**_  
@@ -31,6 +32,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
   -Jul <https://ago.ca/exhibitions/joseph-beuys>  
   <https://ago.ca/exhibitions/yayoi-kusamas-infinity-mirrored-room-lets-survive-forever>  
 -Mar 15 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/wild!>  
+  -Aug 30 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/ᖃᓪᓗᓈᖅᑕᐃᑦ-ᓯᑯᓯᓛᕐᒥᑦ-printed-textiles-from-kinngait-st>  
 **-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**  
 
 _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/>**_  
@@ -46,8 +48,12 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 <u>-Dec 20</u> <https://tangledarts.org/exhibits/body-farm/>  
   -Jan 4 <https://gallery44.org/exhibitions/behind-sun>  
 **-Jan 5 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Hold-Everything-Dear.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Blues-Klair.aspx>**  
+-Jan 5 <https://www.harbourfrontcentre.com/visualarts/2019/flora-fauna/> <https://www.harbourfrontcentre.com/festivalofcool/events/index.cfm?id=10817&festival_id=336> <https://www.harbourfrontcentre.com/festivalofcool/events/index.cfm?id=10818&festival_id=336>  
 **-Jan 31 <http://sugarcontemporary.com/#!slavs-and-tatars>**  
   **-May 10 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Naeem-Mohaiemen.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Solo-Exhibition-(2).aspx>**  
+
+_Jan 10-Feb 8 <https://gallery44.org/exhibitions/famous-men> <https://gallery44.org/exhibitions/meantime>_  
+  _Jan 10-Mar 14 <https://gallery44.org/exhibitions/butterfly-effect-0>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -61,6 +67,8 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 **-Jan 5 <https://www.gladstonehotel.com/spaces/hard-twist-14-entwined/>**  
 -Jan 25 <http://susanhobbs.com/current>  
 
+_**Jan 23-Mar 29 <http://kofflerarts.org/news/2019/07/15/karen-tam/>**_  
+
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> InterAccess W8, Only One 7
@@ -71,6 +79,7 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 -Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>  
 **-Jan 25 <http://www.scrapmetalgallery.com> Eric Mack**  
+**-Feb 22 <http://www.mercerunion.org/exhibitions/laure-prouvost-jonas-staal-obscure-union/>**  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MOCA
 
@@ -78,6 +87,10 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 <u>-Dec 21</u> <https://coopercolegallery.com/exhibition/2019-daniel-rios-rodriguez-another-fire/> <https://coopercolegallery.com/exhibition/2019-jagdeep-raina-i-promise/>  
 <u>-Dec 21</u> <https://angellgallery.com/exhibition/florilegium> <https://angellgallery.com/exhibition/the-spirit-is-willing>  
+-Jan 22 <http://www.mattergallery.com/exhibitions/2019/12/14/simon-back>  
+-Feb 1 <https://alisonmilne.com/gallery/exhibitions/little-gems-the-art-of-gift-giving>  
+
+_**Jan 15-Feb 15 <https://interaccess.org/exhibition/upper-side-sky>**_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
 
