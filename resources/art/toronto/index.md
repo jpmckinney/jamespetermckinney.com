@@ -16,8 +16,6 @@ published: true
 
 ### Shows
 
-<u>-Dec 1</u> <https://national.ballet.ca/Productions/2019-20-Season/Etudes>  
-
 _**Jan 7-Jan 26 <https://www.crowstheatre.com/whats-on/view-all/julius-caesar> (package)**_  
 _**Feb 4-Feb 23 <https://www.crowstheatre.com/whats-on/view-all/secret-life-of-a-mother> (package)**_  
 _**Feb 29-Mar 1 Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
@@ -27,8 +25,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 
 ### Downtown North
 
-<u>-Dec 1</u> <https://ago.ca/exhibitions/valerie-blass-le-parlement-des-invisibles> <https://ago.ca/exhibitions/kara-hamilton-water-two-colours>  
-  -Feb 2 <https://ago.ca/exhibitions/conde-beveridge-early-work>  
+-Feb 2 <https://ago.ca/exhibitions/conde-beveridge-early-work>  
   -Feb 23 <https://ago.ca/exhibitions/hito-steyerl-future>  
   -Mar 29 <https://ago.ca/exhibitions/sandra-brewster-blur> <https://ago.ca/exhibitions/lisa-reihana-pursuit-venus-infected>  
   -Jul <https://ago.ca/exhibitions/joseph-beuys>  
@@ -46,12 +43,8 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Downtown South
 
-<u>-Nov 30</u> <https://www.yyzartistsoutlet.org/2019/09/sandra-brewster-town-girls-beneath/> <https://www.yyzartistsoutlet.org/2019/09/hannah-claus-spatial-codifications/>  
-  -Dec 14 <https://gallery44.org/exhibitions/under-cave-winds> <https://gallery44.org/exhibitions/apolitical-landscapes>  
-  -Dec 20 <https://tangledarts.org/exhibits/body-farm/>  
+<u>-Dec 20</u> <https://tangledarts.org/exhibits/body-farm/>  
   -Jan 4 <https://gallery44.org/exhibitions/behind-sun>  
-<u>-Nov 30</u> <https://scotiabankcontactphoto.com/exhibition/say-it-with-flowers/>  
-**<u>-Dec 7</u> <https://www2.ocadu.ca/event/ᐊᕙᑖᓂᑦ-ᑕᒪᐃᓐᓂᑦ-ᓄᓇᑐᐃᓐᓇᓂᑦ-among-all-these-tundras>**  
 **-Jan 5 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Hold-Everything-Dear.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Blues-Klair.aspx>**  
 **-Jan 31 <http://sugarcontemporary.com/#!slavs-and-tatars>**  
   **-May 10 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Naeem-Mohaiemen.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Solo-Exhibition-(2).aspx>**  
@@ -64,8 +57,7 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Queen St
 
-<u>-Dec 8</u> <https://www.criticaldistance.ca/program/access-is-love-and-love-is-complicated/>  
--Dec 14 <http://birchcontemporary.com/exhibition/vanishing-point>  
+<u>-Dec 21</u> <http://birchcontemporary.com/exhibition/vanishing-point>  
 **-Jan 5 <https://www.gladstonehotel.com/spaces/hard-twist-14-entwined/>**  
 -Jan 25 <http://susanhobbs.com/current>  
 
@@ -77,7 +69,6 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Bloordale & Junction Triangle
 
-<u>-Dec 7</u> <https://www.photorama.ca>  
 -Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>  
 **-Jan 25 <http://www.scrapmetalgallery.com> Eric Mack**  
 
@@ -85,9 +76,8 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Dupont St & The Junction
 
-**<u>-Dec 7</u> <https://interaccess.org/exhibition/scaffolds-i-can-no-longer-see>**  
-<u>-Dec 7</u> <https://coopercolegallery.com/exhibition/2019-daniel-rios-rodriguez-another-fire/> <https://coopercolegallery.com/exhibition/2019-jagdeep-raina-i-promise/>  
--Dec 21 <https://angellgallery.com/exhibition/florilegium> <https://angellgallery.com/exhibition/the-spirit-is-willing>  
+<u>-Dec 21</u> <https://coopercolegallery.com/exhibition/2019-daniel-rios-rodriguez-another-fire/> <https://coopercolegallery.com/exhibition/2019-jagdeep-raina-i-promise/>  
+<u>-Dec 21</u> <https://angellgallery.com/exhibition/florilegium> <https://angellgallery.com/exhibition/the-spirit-is-willing>  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
 
