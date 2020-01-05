@@ -36,6 +36,8 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 **-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**  
 
 _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/>**_  
+_**Jan 18-Mar 21 <https://artmuseum.utoronto.ca/exhibition/listening-to-snow/>**_  
+  _**Jan 25-Mar 21 <https://artmuseum.utoronto.ca/exhibition/lorenza-bottner-requiem-for-the-norm/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -78,6 +80,7 @@ _**Jan 23-Mar 29 <http://kofflerarts.org/news/2019/07/15/karen-tam/>**_
 
 ### Dupont St & The Junction
 
+-Jan 18 <https://angellgallery.com/exhibition/florilegium> <https://angellgallery.com/exhibition/the-spirit-is-willing>  
 -Jan 22 <http://www.mattergallery.com/exhibitions/2019/12/14/simon-back>  
 -Feb 1 <https://alisonmilne.com/gallery/exhibitions/little-gems-the-art-of-gift-giving>  
 
