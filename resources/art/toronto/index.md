@@ -16,11 +16,11 @@ published: true
 
 ### Shows
 
-_**Jan 7-Jan 26 <https://www.crowstheatre.com/whats-on/view-all/julius-caesar> (package)**_  
-_**Feb 4-Feb 23 <https://www.crowstheatre.com/whats-on/view-all/secret-life-of-a-mother> (package)**_  
+_**Jan 7-Feb 2 <https://www.crowstheatre.com/whats-on/view-all/julius-caesar> (package)**_  
+_**Feb 6-Feb 23 <https://www.crowstheatre.com/whats-on/view-all/secret-life-of-a-mother> (package)**_  
 _**Feb 27-Mar 8 <https://www.theatrewhynot.org/project/brainstorm/>**_  
 _**Feb 29-Mar 1 Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
-_**Mar 17-Apr 22 <https://www.crowstheatre.com/whats-on/view-all/all-the-little-animals-i-have-eaten> (package)**_  
+_**Mar 24-Apr 12 <https://www.crowstheatre.com/whats-on/view-all/all-the-little-animals-i-have-eaten> (package)**_  
 _**May 19-Jun 7 <https://outsidethemarch.ca/the-experiences/the-ex-boyfriend-yard-sale/> (AZ)**_  
 _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake> (AZ)**_  
 
@@ -45,13 +45,9 @@ _**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from
 
 ### Downtown South
 
-<u>-Dec 20</u> <https://tangledarts.org/exhibits/body-farm/>  
-  -Jan 4 <https://gallery44.org/exhibitions/behind-sun>  
-**-Jan 5 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Hold-Everything-Dear.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Blues-Klair.aspx>**  
--Jan 5 <https://www.harbourfrontcentre.com/visualarts/2019/flora-fauna/> <https://www.harbourfrontcentre.com/festivalofcool/events/index.cfm?id=10817&festival_id=336> <https://www.harbourfrontcentre.com/festivalofcool/events/index.cfm?id=10818&festival_id=336>  
 **-Jan 31 <http://sugarcontemporary.com/#!slavs-and-tatars>**  
-  **-May 10 <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Naeem-Mohaiemen.aspx> <http://thepowerplant.org/Exhibitions/2019/Fall-2019/Solo-Exhibition-(2).aspx>**  
 
+_Jan 9-Feb 1 <http://www.circuitgallery.com/exhibitions/andreanne-michon-time-sensitive/>_  
 _Jan 10-Feb 8 <https://gallery44.org/exhibitions/famous-men> <https://gallery44.org/exhibitions/meantime>_  
   _Jan 10-Mar 14 <https://gallery44.org/exhibitions/butterfly-effect-0>_  
 
@@ -63,8 +59,6 @@ _Jan 10-Feb 8 <https://gallery44.org/exhibitions/famous-men> <https://gallery44.
 
 ### Queen St
 
-<u>-Dec 21</u> <http://birchcontemporary.com/exhibition/vanishing-point>  
-**-Jan 5 <https://www.gladstonehotel.com/spaces/hard-twist-14-entwined/>**  
 -Jan 25 <http://susanhobbs.com/current>  
 
 _**Jan 23-Mar 29 <http://kofflerarts.org/news/2019/07/15/karen-tam/>**_  
@@ -77,7 +71,6 @@ _**Jan 23-Mar 29 <http://kofflerarts.org/news/2019/07/15/karen-tam/>**_
 
 ### Bloordale & Junction Triangle
 
--Jan 5 <https://museumofcontemporaryart.ca/age-of-you-programmes-2019/>  
 **-Jan 25 <http://www.scrapmetalgallery.com> Eric Mack**  
 **-Feb 22 <http://www.mercerunion.org/exhibitions/laure-prouvost-jonas-staal-obscure-union/>**  
 
@@ -85,12 +78,13 @@ _**Jan 23-Mar 29 <http://kofflerarts.org/news/2019/07/15/karen-tam/>**_
 
 ### Dupont St & The Junction
 
-<u>-Dec 21</u> <https://coopercolegallery.com/exhibition/2019-daniel-rios-rodriguez-another-fire/> <https://coopercolegallery.com/exhibition/2019-jagdeep-raina-i-promise/>  
-<u>-Dec 21</u> <https://angellgallery.com/exhibition/florilegium> <https://angellgallery.com/exhibition/the-spirit-is-willing>  
 -Jan 22 <http://www.mattergallery.com/exhibitions/2019/12/14/simon-back>  
 -Feb 1 <https://alisonmilne.com/gallery/exhibitions/little-gems-the-art-of-gift-giving>  
 
+_Jan 9-Feb 1 <http://www.franzkaka.com/franz-kaka--spilled-plenitude.html>_  
 _**Jan 15-Feb 15 <https://interaccess.org/exhibition/upper-side-sky>**_  
+_**Feb 6-Apr 12 <https://museumofcontemporaryart.ca/megan-rooney-exhibitions-2020/>**_  
+  _Feb 6-May 10 <https://museumofcontemporaryart.ca/carlos-bunga-exhibitions-2020/> <https://museumofcontemporaryart.ca/shelagh-keeley-exhibitions-2020/> <https://museumofcontemporaryart.ca/sarah-sze-exhibitions-2020/>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
 
