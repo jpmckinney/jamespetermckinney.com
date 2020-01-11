@@ -28,9 +28,6 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 ### Downtown North
 
 -Feb 2 <https://ago.ca/exhibitions/conde-beveridge-early-work>  
-  -Feb 23 <https://ago.ca/exhibitions/hito-steyerl-future>  
-  -Mar 29 <https://ago.ca/exhibitions/sandra-brewster-blur> <https://ago.ca/exhibitions/lisa-reihana-pursuit-venus-infected>  
-  -Jul <https://ago.ca/exhibitions/joseph-beuys>  
   <https://ago.ca/exhibitions/yayoi-kusamas-infinity-mirrored-room-lets-survive-forever>  
 -Mar 15 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/wild!>  
   -Aug 30 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/ᖃᓪᓗᓈᖅᑕᐃᑦ-ᓯᑯᓯᓛᕐᒥᑦ-printed-textiles-from-kinngait-st>  
