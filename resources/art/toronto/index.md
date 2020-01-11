@@ -16,7 +16,8 @@ published: true
 
 ### Shows
 
-_**Jan 7-Feb 2 <https://www.crowstheatre.com/whats-on/view-all/julius-caesar> (package)**_  
+**-Feb 2 <https://www.crowstheatre.com/whats-on/view-all/julius-caesar> (package)**  
+
 _**Feb 6-Feb 23 <https://www.crowstheatre.com/whats-on/view-all/secret-life-of-a-mother> (package)**_  
 _**Feb 27-Mar 8 <https://www.theatrewhynot.org/project/brainstorm/>**_  
 _**Feb 29-Mar 1 Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
@@ -49,9 +50,9 @@ _**Jan 18-Mar 21 <https://artmuseum.utoronto.ca/exhibition/listening-to-snow/>**
 
 **-Jan 31 <http://sugarcontemporary.com/#!slavs-and-tatars>**  
 
-_Jan 9-Feb 1 <http://www.circuitgallery.com/exhibitions/andreanne-michon-time-sensitive/>_  
-_Jan 10-Feb 8 <https://gallery44.org/exhibitions/famous-men> <https://gallery44.org/exhibitions/meantime>_  
-  _Jan 10-Mar 14 <https://gallery44.org/exhibitions/butterfly-effect-0>_  
+-Feb 1 <http://www.circuitgallery.com/exhibitions/andreanne-michon-time-sensitive/>  
+-Feb 8 <https://gallery44.org/exhibitions/famous-men> <https://gallery44.org/exhibitions/meantime>  
+  -Mar 14 <https://gallery44.org/exhibitions/butterfly-effect-0>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -61,7 +62,7 @@ _Jan 10-Feb 8 <https://gallery44.org/exhibitions/famous-men> <https://gallery44.
 
 ### Queen St
 
--Jan 25 <http://susanhobbs.com/current>  
+<u>-Jan 25</u> <http://susanhobbs.com/current>  
 
 _**Jan 23-Mar 29 <http://kofflerarts.org/news/2019/07/15/karen-tam/>**_  
 
@@ -73,18 +74,18 @@ _**Jan 23-Mar 29 <http://kofflerarts.org/news/2019/07/15/karen-tam/>**_
 
 ### Bloordale & Junction Triangle
 
-**-Jan 25 <http://www.scrapmetalgallery.com> Eric Mack**  
+**<u>-Jan 25</u> <http://www.scrapmetalgallery.com> Eric Mack**  
 **-Feb 22 <http://www.mercerunion.org/exhibitions/laure-prouvost-jonas-staal-obscure-union/>**  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MOCA
 
 ### Dupont St & The Junction
 
--Jan 18 <https://angellgallery.com/exhibition/florilegium> <https://angellgallery.com/exhibition/the-spirit-is-willing>  
--Jan 22 <http://www.mattergallery.com/exhibitions/2019/12/14/simon-back>  
+<u>-Jan 18</u> <https://angellgallery.com/exhibition/florilegium> <https://angellgallery.com/exhibition/the-spirit-is-willing>  
+<u>-Jan 22</u> <http://www.mattergallery.com/exhibitions/2019/12/14/simon-back>  
 -Feb 1 <https://alisonmilne.com/gallery/exhibitions/little-gems-the-art-of-gift-giving>  
+-Feb 1 <http://www.franzkaka.com/franz-kaka--spilled-plenitude.html>  
 
-_Jan 9-Feb 1 <http://www.franzkaka.com/franz-kaka--spilled-plenitude.html>_  
 _**Jan 15-Feb 15 <https://interaccess.org/exhibition/upper-side-sky>**_  
 _**Feb 6-Apr 12 <https://museumofcontemporaryart.ca/megan-rooney-exhibitions-2020/>**_  
   _Feb 6-May 10 <https://museumofcontemporaryart.ca/carlos-bunga-exhibitions-2020/> <https://museumofcontemporaryart.ca/shelagh-keeley-exhibitions-2020/> <https://museumofcontemporaryart.ca/sarah-sze-exhibitions-2020/>_  
