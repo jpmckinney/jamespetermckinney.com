@@ -2,11 +2,8 @@
 <opml version="2.0">
   <body>
     <outline type="rss" title="Bodies" feedUrl="https://www.kcrw.com/podcast/show/bd" htmlUrl="https://podcasts.apple.com/us/podcast/id1408856271"/>
-    <outline type="rss" title="Born And Raised" feedUrl="http://feeds.soundcloud.com/users/soundcloud:users:535348644/sounds.rss" htmlUrl="https://podcasts.apple.com/us/podcast/id1441577595"/>
     <outline type="rss" title="CANADALAND ad-free master feed" feedUrl="https://www.patreon.com/rss/CANADALAND?auth=fdb6abcc99763179526f52f0c6ec7910"/>
-    <outline type="rss" title="Cavern of Secrets" feedUrl="https://feeds.simplecast.com/Rt5Fh8zM" htmlUrl="https://podcasts.apple.com/us/podcast/id1058901219"/>
     <outline type="rss" title="Crackdown" feedUrl="http://feeds.feedburner.com/crackdown" htmlUrl="https://podcasts.apple.com/us/podcast/id1450566001"/>
-    <outline type="rss" title="Dominionated Podcast" feedUrl="https://dominionated.podbean.com/feed/" htmlUrl="https://podcasts.apple.com/us/podcast/id1330621146"/>
     <outline type="rss" title="Ear Hustle" feedUrl="http://feeds.earhustlesq.com/earhustlesq" htmlUrl="https://podcasts.apple.com/us/podcast/id1240841298"/>
     <outline type="rss" title="Ferry, travers&#xE9;e &#xE9;rotique" feedUrl="http://feeds.feedburner.com/FerryTraverseeErotique" htmlUrl="https://podcasts.apple.com/us/podcast/id1415145814"/>
     <outline type="rss" title="Koffler.Digital Audio Programs" feedUrl="http://kofflerarts.libsyn.com/rss" htmlUrl="https://podcasts.apple.com/us/podcast/id1047265836"/>
@@ -17,7 +14,6 @@
     <outline type="rss" title="Other People's Problems" feedUrl="https://www.cbc.ca/podcasting/includes/opp.xml" htmlUrl="https://podcasts.apple.com/us/podcast/id1355059144"/>
     <outline type="rss" title="PlayME" feedUrl="https://www.cbc.ca/podcasting/includes/playme.xml" htmlUrl="https://podcasts.apple.com/us/podcast/id1440077470"/>
     <outline type="rss" title="Polaris Podcast" feedUrl="http://feeds.soundcloud.com/users/soundcloud:users:114211541/sounds.rss" htmlUrl="https://podcasts.apple.com/us/podcast/id1150161201"/>
-    <outline type="rss" title="RUDE the Podcast" feedUrl="http://feeds.soundcloud.com/users/soundcloud:users:447201786/sounds.rss" htmlUrl="https://podcasts.apple.com/us/podcast/id1384173008"/>
     <outline type="rss" title="Sanctioned: The Arrest of a Telecom Giant" feedUrl="https://www.cbc.ca/podcasting/includes/sanctioned.xml" htmlUrl="https://podcasts.apple.com/us/podcast/id1457362854"/>
     <outline type="rss" title="Sightlines" feedUrl="http://sightlines.libsyn.com/rss" htmlUrl="https://podcasts.apple.com/us/podcast/id1478471002"/>
     <outline type="rss" title="Spacing Radio" feedUrl="http://feeds.soundcloud.com/users/soundcloud:users:233628346/sounds.rss" htmlUrl="https://podcasts.apple.com/us/podcast/id1124077274"/>
@@ -30,6 +26,5 @@
     <outline type="rss" title="Underground Sounds" feedUrl="http://ckut.ca/en/program/1835/rss.xml"/>
     <outline type="rss" title="Where Should We Begin? with Esther Perel" feedUrl="http://esther.audible.libsynpro.com/rss" htmlUrl="https://podcasts.apple.com/us/podcast/id1237931798"/>
     <outline type="rss" title="Within the Wires" feedUrl="http://feeds.nightvalepresents.com/withinthewires" htmlUrl="https://podcasts.apple.com/us/podcast/id1121391184"/>
-    <outline type="rss" title="You Don't Know What It's Like Podcast" feedUrl="https://feeds.buzzsprout.com/275735.rss" htmlUrl="https://podcasts.apple.com/us/podcast/id1459693996"/>
   </body>
 </opml>
