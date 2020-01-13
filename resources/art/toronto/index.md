@@ -33,7 +33,8 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
   -Aug 30 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/ᖃᓪᓗᓈᖅᑕᐃᑦ-ᓯᑯᓯᓛᕐᒥᑦ-printed-textiles-from-kinngait-st>  
 **-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**  
 
-_**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/>**_  
+_**Jan 22-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/> <https://ryersonimagecentre.ca/exhibition/extending-the-frame-40-years-of-gallery-tpw/> <https://ryersonimagecentre.ca/exhibition/nir-evron-a-free-moment/>**_  
+_Jan 18-Mar 14 <https://www.yyzartistsoutlet.org/category/exhibitions/>_  
 _**Jan 18-Mar 21 <https://artmuseum.utoronto.ca/exhibition/listening-to-snow/>**_  
   _**Jan 25-Mar 21 <https://artmuseum.utoronto.ca/exhibition/lorenza-bottner-requiem-for-the-norm/>**_  
 
@@ -46,10 +47,11 @@ _**Jan 18-Mar 21 <https://artmuseum.utoronto.ca/exhibition/listening-to-snow/>**
 ### Downtown South
 
 **-Jan 31 <http://sugarcontemporary.com/#!slavs-and-tatars>**  
-
 -Feb 1 <http://www.circuitgallery.com/exhibitions/andreanne-michon-time-sensitive/>  
 -Feb 8 <https://gallery44.org/exhibitions/famous-men> <https://gallery44.org/exhibitions/meantime>  
   -Mar 14 <https://gallery44.org/exhibitions/butterfly-effect-0>  
+
+_**Jan 22-Apr 25 <https://www2.ocadu.ca/event/codex-playable-disruptive-futurist-eart>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -84,6 +86,7 @@ _**Jan 23-Mar 29 <http://kofflerarts.org/news/2019/07/15/karen-tam/>**_
 -Feb 1 <http://www.franzkaka.com/franz-kaka--spilled-plenitude.html>  
 
 _**Jan 15-Feb 15 <https://interaccess.org/exhibition/upper-side-sky>**_  
+_**Jan 18-Feb 29 <https://coopercolegallery.com/exhibitions/> Walter Scott Shawn Kuruneru**_  
 _**Feb 6-Apr 12 <https://museumofcontemporaryart.ca/megan-rooney-exhibitions-2020/>**_  
   _Feb 6-May 10 <https://museumofcontemporaryart.ca/carlos-bunga-exhibitions-2020/> <https://museumofcontemporaryart.ca/shelagh-keeley-exhibitions-2020/> <https://museumofcontemporaryart.ca/sarah-sze-exhibitions-2020/>_  
 
