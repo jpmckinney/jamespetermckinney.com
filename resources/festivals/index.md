@@ -50,32 +50,15 @@ Outdoor movies:
 * Jul-Sep <https://en.downsviewpark.ca/event/friday-night-lights-2018>
 * Jun-Sep <https://www.blogto.com/film/2018/06/free-outdoor-movies-toronto-summer-2018/>
 
-### Nov
-
-* <https://hotdocscinema.ca/c/podcast> podcasts 6-11
-* <http://handeyesociety.com/wordplay/> games 9-10
-* <http://regentparkfilmfestival.com> film 20-23
-* <https://www.femaleeyefilmfestival.com> film 7-10
-* <http://torontoqueerfilmfest.com> film 7-10
-* <http://eutorontofilmfest.ca> film 7-21
-* <https://syff.ca> film 15-17
-* <http://brazilfilmfest.net> film 1-3
-* <https://www.alumnaetheatre.com/fireworks-festival.html> theatre 6-24
-
-### Dec
-
-* <http://www.jayu.ca/film-festival/> film 7-9
-* <http://torontochristmasmarket.com>
-
 ### Jan
 
-* **<https://www.facebook.com/events/2030394877237005/> Come Up To My Room design 18-21**
+* **<https://www.facebook.com/events/1459385530878754/> Come Up To My Room design 16-19**
 * **<http://www.waterfrontbia.com/event/ice-breakers/> 19-Mar 18**
-* **<https://www.torontolightfest.com> 18-Mar 3**
+* **<https://www.torontolightfest.com> 17-Mar 1**
+* <https://www.winterstationspresents.com> 15-9
 * <http://todesignoffsite.com> design 15-21
-* <http://naisa.ca/festivals/deep-wireless/> radio 17
-* <https://factoronto.org> art 2019/2020
 * <http://the8fest.com> film 25-27
+* ✖ <http://naisa.ca/festivals/deep-wireless/> radio 17 (2017)
 * ✖ <http://www.durationanddialogue.com> performance 27-29 (2017)
 * ✖ <http://www.endlesscity.org/cu> art/music 20-Feb 28 (2016)
 
@@ -94,6 +77,7 @@ Outdoor movies:
 ### Mar
 
 * **<https://winterstations.com> art Feb 19-Apr 1**
+* <https://factoronto.org> art 5-7
 * <https://www.canfilmfest.ca> film 19-23
 * <http://www.torontosketchfest.com> 7-19
 * <http://www.torontostorytellingfestival.ca> talk 2-4, 19-25
@@ -238,3 +222,20 @@ Outdoor movies:
 * <http://ifoa.org> books 24-Nov 3
 * <https://musicgallery.org/xavant> music 17-20
 * ✖ <http://www.cxto.ca> sport 28 (2017)
+
+### Nov
+
+* <https://hotdocscinema.ca/c/podcast> podcasts 6-11
+* <http://handeyesociety.com/wordplay/> games 9-10
+* <http://regentparkfilmfestival.com> film 20-23
+* <https://www.femaleeyefilmfestival.com> film 7-10
+* <http://torontoqueerfilmfest.com> film 7-10
+* <http://eutorontofilmfest.ca> film 7-21
+* <https://syff.ca> film 15-17
+* <http://brazilfilmfest.net> film 1-3
+* <https://www.alumnaetheatre.com/fireworks-festival.html> theatre 6-24
+
+### Dec
+
+* <http://www.jayu.ca/film-festival/> film 7-9
+* <http://torontochristmasmarket.com>
