@@ -50,29 +50,22 @@ Outdoor movies:
 * Jul-Sep <https://en.downsviewpark.ca/event/friday-night-lights-2018>
 * Jun-Sep <https://www.blogto.com/film/2018/06/free-outdoor-movies-toronto-summer-2018/>
 
-### Jan
+### Winter
 
-* **<https://www.facebook.com/events/1459385530878754/> Come Up To My Room design 16-19**
-* **<http://www.waterfrontbia.com/event/ice-breakers/> 19-Mar 18**
 * **<https://www.torontolightfest.com> 17-Mar 1**
-* <https://www.winterstationspresents.com> 15-9
-* <http://todesignoffsite.com> design 15-21
-* <http://the8fest.com> film 25-27
-* ✖ <http://naisa.ca/festivals/deep-wireless/> radio 17 (2017)
-* ✖ <http://www.durationanddialogue.com> performance 27-29 (2017)
-* ✖ <http://www.endlesscity.org/cu> art/music 20-Feb 28 (2016)
+* ✖ <http://www.waterfrontbia.com/event/ice-breakers/> (2019)
 
 ### Feb
 
 * <http://progressfestival.org> performance Jan 30-17
-* <https://www.tiff.net/nextwave/> film 15-17
-* <http://buddiesinbadtimes.com> Rhubarb Festival 17-28
-* <http://www.theartistproject.com> art fair 22-25
-* <http://www.bloor-yorkville.com/icefest/> 9-10
-* <http://www.eroticartsandcrafts.com> 10
-* <http://cinefranco.com> film 14-15
-* <https://torontoblackfilm.com> film 14-19
-* <http://teafestivaltoronto.com> tea 3-4
+* <https://www.tiff.net/nextwave/> film 14-16
+* <http://buddiesinbadtimes.com> Rhubarb Festival 12-22
+* <http://www.bloor-yorkville.com/icefest/> 8-9
+* <http://www.theartistproject.com> art fair 20-23
+* <http://www.eroticartsandcrafts.com> 1
+* <http://cinefranco.com> film 18-Mar 4
+* <https://torontoblackfilm.com> film 12-17
+* <http://teafestivaltoronto.com> tea 1-2
 
 ### Mar
 
@@ -239,3 +232,13 @@ Outdoor movies:
 
 * <http://www.jayu.ca/film-festival/> film 7-9
 * <http://torontochristmasmarket.com>
+
+### Jan
+
+* **<https://www.facebook.com/events/1459385530878754/> Come Up To My Room design 16-19**
+* **<https://www.winterstationspresents.com> 15-Feb 9**
+* <http://todesignoffsite.com> design 15-21
+* <http://the8fest.com> film 24-26
+* ✖ <http://naisa.ca/festivals/deep-wireless/> radio 17 (2017)
+* ✖ <http://www.durationanddialogue.com> performance 27-29 (2017)
+* ✖ <http://www.endlesscity.org/cu> art/music 20-Feb 28 (2016)
