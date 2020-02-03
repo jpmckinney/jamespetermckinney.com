@@ -17,7 +17,7 @@ published: true
 ### Shows
 
 _**Feb 6-Feb 23 <https://www.crowstheatre.com/whats-on/view-all/secret-life-of-a-mother> (package)**_  
-_**Feb 27-Mar 8 <https://www.theatrewhynot.org/project/brainstorm/>**_  
+_**Feb 27-Mar 8 <http://whynot.theatre/work/brain-storm/>**_  
 _**Feb 29-Mar 1 Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
 _**Mar 24-Apr 12 <https://www.crowstheatre.com/whats-on/view-all/all-the-little-animals-i-have-eaten> (package)**_  
 _**May 19-Jun 7 <https://outsidethemarch.ca/the-experiences/the-ex-boyfriend-yard-sale/> (AZ)**_  
@@ -46,6 +46,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
   -Mar 14 <https://gallery44.org/exhibitions/butterfly-effect-0>  
 **-Apr 25 <https://www2.ocadu.ca/event/codex-playable-disruptive-futurist-eart>**  
 **-May 10 <http://thepowerplant.org/Exhibitions/2020/Solo-Exhibition.aspx> <http://thepowerplant.org/Exhibitions/2020/Solo-Exhibition-(1).aspx>**  
+-Jun 7 **<https://www.harbourfrontcentre.com/visualarts/2020/future-retrospectives/>** <https://www.harbourfrontcentre.com/visualarts/2020/amber-zuber/> <https://www.harbourfrontcentre.com/visualarts/2020/v2/> <https://www.harbourfrontcentre.com/visualarts/2020/array/> <https://www.harbourfrontcentre.com/visualarts/2019/building-black-amorphia/>  
 
 _Feb 12-Apr 4 <https://lacap.ca/sur-gallery/upcoming-exhibition/>_  
 
