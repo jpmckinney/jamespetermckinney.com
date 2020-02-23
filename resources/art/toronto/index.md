@@ -72,6 +72,8 @@ _Feb 12-Apr 4 <https://lacap.ca/sur-gallery/upcoming-exhibition/>_
 
 ### Bloordale & Junction Triangle
 
+**-Apr 12 <https://moca.ca/megan-rooney-exhibitions-2020/>**  
+  **-May 10 <https://moca.ca/carlos-bunga-exhibitions-2020/> <https://moca.ca/shelagh-keeley-exhibitions-2020/> <https://moca.ca/sarah-sze-exhibitions-2020/>**  
 **-May 30 <http://www.scrapmetalgallery.com/archive/eduardo-basualdo/>**  
 
 _**Mar 14-May 30 <http://www.mercerunion.org/exhibitions/native-art-department-international-bureau-of-aesthetics/>**_  
@@ -82,8 +84,6 @@ _**Mar 14-May 30 <http://www.mercerunion.org/exhibitions/native-art-department-i
 
 **<u>-Feb 29</u> <https://coopercolegallery.com/exhibitions/> Walter Scott Shawn Kuruneru**  
 <u>-Mar 7</u> <https://angellgallery.com/exhibition/lantern> <https://angellgallery.com/exhibition/tie-dye-for-germans>  
-**-Apr 12 <https://moca.ca/megan-rooney-exhibitions-2020/>**  
-  **-May 10 <https://moca.ca/carlos-bunga-exhibitions-2020/> <https://moca.ca/shelagh-keeley-exhibitions-2020/> <https://moca.ca/sarah-sze-exhibitions-2020/>**  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
 

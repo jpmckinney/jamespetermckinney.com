@@ -12,8 +12,8 @@ layout: default
 * [Festivals in Toronto and Montreal](resources/festivals/)
 * [Other events in Toronto and Montreal](resources/events/)
 * [Maps of art galleries in cities worldwide](resources/maps/)
-* [<span class="glyphicon glyphicon-download"></span> The feeds I subscribe to (OPML)](feeds.xml) (<span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> 2018-12-08)
-* [<span class="glyphicon glyphicon-download"></span> The podcasts I listen to (OPML)](podcasts.xml) (<span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> 2019-04-09)
+* [<span class="glyphicon glyphicon-download"></span> The feeds I subscribe to (OPML)](feeds.xml) (<span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> 2020-02-22)
+* [<span class="glyphicon glyphicon-download"></span> The podcasts I listen to (OPML)](podcasts.xml) (<span class="glyphicon glyphicon-refresh" aria-hidden="true"></span> 2020-01-12)
 
 [Other things I've done](projects/)
 
@@ -22,11 +22,9 @@ The lists I subscribe to:
 
 * [Forest Gregg](http://tinyletter.com/slow-news/archive)
 * [Gavin Starks](http://dgen.net)
-* [Mita Williams](https://tinyletter.com/UniversityOfWinds)
 * [Tom Steinberg](http://eepurl.com/bvqAT5)
-* [Training Commission](http://trainingcommission.com)
-* Art spaces in Toronto and Montreal
-* A few industry, local and miscellaneous newsletters
+* Art spaces in Toronto
+* A few industry, local and other newsletters
 {% endcomment %}
 {% endcapture %}
 
@@ -40,7 +38,7 @@ The lists I subscribe to:
 * [GitHub](https://github.com/jpmckinney/) <i class="fa fa-github" aria-hidden="true"></i>
 * [LinkedIn](https://www.linkedin.com/in/mckinneyjames/) <i class="fa fa-linkedin" aria-hidden="true"></i>
 
-Most recent post: [2018 Podcast Roundup](https://medium.com/@jpmckinney/2018-podcast-roundup-60c782e0fc3b)
+Most recent post: [2019 Podcast Roundup](https://medium.com/@jpmckinney/2019-podcast-roundup-2c72b0cf9eb8)
 {% endcapture %}
 
 {% include two-column.html one=one two=two %}
