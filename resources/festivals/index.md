@@ -55,27 +55,14 @@ Outdoor movies:
 * **<https://www.torontolightfest.com> 17-Mar 1**
 * ✖ <http://www.waterfrontbia.com/event/ice-breakers/> (2019)
 
-### Feb
-
-* <http://progressfestival.org> performance Jan 30-17
-* <https://www.tiff.net/nextwave/> film 14-16
-* <http://buddiesinbadtimes.com> Rhubarb Festival 12-22
-* <http://www.bloor-yorkville.com/icefest/> 8-9
-* <http://www.theartistproject.com> art fair 20-23
-* <http://www.eroticartsandcrafts.com> 1
-* <http://cinefranco.com> film 18-Mar 4
-* <https://torontoblackfilm.com> film 12-17
-* <http://teafestivaltoronto.com> tea 1-2
-
 ### Mar
 
-* **<https://winterstations.com> art Feb 19-Apr 1**
+* **<https://winterstations.com> art Feb 17-Mar 30**
 * <https://factoronto.org> art 5-7
-* <https://www.canfilmfest.ca> film 19-23
-* <http://www.torontosketchfest.com> 7-19
-* <http://www.torontostorytellingfestival.ca> talk 2-4, 19-25
-* <https://ff.hrw.org/toronto> film 18-25
-* <https://www.alumnaetheatre.com/new-ideas-festival-2019.html> theatre 6-24
+* <https://www.canfilmfest.ca> film 24-28
+* <http://www.torontosketchfest.com> 4-15
+* <http://www.torontostorytellingfestival.ca> talk 7-29
+* <https://www.alumnaetheatre.com/new-ideas-festival.html> theatre 11-29
 * ✖ <https://www.tso.ca/new-creations-festival> music 3-10 (2018)
 
 ### Apr
@@ -239,6 +226,19 @@ Outdoor movies:
 * **<https://www.winterstationspresents.com> 15-Feb 9**
 * <http://todesignoffsite.com> design 15-21
 * <http://the8fest.com> film 24-26
+* <https://ff.hrw.org/toronto> film 30-Feb 4
 * ✖ <http://naisa.ca/festivals/deep-wireless/> radio 17 (2017)
 * ✖ <http://www.durationanddialogue.com> performance 27-29 (2017)
 * ✖ <http://www.endlesscity.org/cu> art/music 20-Feb 28 (2016)
+
+### Feb
+
+* <http://progressfestival.org> performance Jan 30-17
+* <https://www.tiff.net/nextwave/> film 14-16
+* <http://buddiesinbadtimes.com> Rhubarb Festival 12-22
+* <http://www.bloor-yorkville.com/icefest/> 8-9
+* <http://www.theartistproject.com> art fair 20-23
+* <http://www.eroticartsandcrafts.com> 1
+* <http://cinefranco.com> film 18-Mar 4
+* <https://torontoblackfilm.com> film 12-17
+* <http://teafestivaltoronto.com> tea 1-2
