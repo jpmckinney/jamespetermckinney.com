@@ -19,6 +19,7 @@ published: true
 <u>-Mar 8</u> <http://whynot.theatre/work/brain-storm/>**  
 
 _**Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
+_**Mar 19-Mar 29 <https://peggybakerdance.com/her-body-as-words>**_  
 _**Mar 24-Apr 12 <https://www.crowstheatre.com/whats-on/view-all/all-the-little-animals-i-have-eaten> (package)**_  
 _**May 19-Jun 7 <https://outsidethemarch.ca/the-experiences/the-ex-boyfriend-yard-sale/> (AZ)**_  
 _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake> (AZ)**_  
