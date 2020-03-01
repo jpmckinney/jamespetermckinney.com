@@ -16,9 +16,9 @@ published: true
 
 ### Shows
 
-_**<u>Feb 27-Mar 8</u> <http://whynot.theatre/work/brain-storm/>**_  
-_**Feb 29-Mar 1 Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
+<u>-Mar 8</u> <http://whynot.theatre/work/brain-storm/>**  
 
+_**Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
 _**Mar 24-Apr 12 <https://www.crowstheatre.com/whats-on/view-all/all-the-little-animals-i-have-eaten> (package)**_  
 _**May 19-Jun 7 <https://outsidethemarch.ca/the-experiences/the-ex-boyfriend-yard-sale/> (AZ)**_  
 _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake> (AZ)**_  
@@ -44,14 +44,13 @@ _Apr 4-Oct 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna
 
 ### Downtown South
 
-<u>-Feb 28</u> <https://tangledarts.org/exhibits/hidden/>  
-  -Mar 14 <https://gallery44.org/exhibitions/butterfly-effect-0>  
+-Mar 14 <https://gallery44.org/exhibitions/butterfly-effect-0>  
   -Mar 14 <https://www.yyzartistsoutlet.org/category/exhibitions/>  
+  -Mar 28 <https://www.prefix.ca/exhibitions/amar-kanwar/>  
+-Apr 4 <https://lacap.ca/sur-gallery/upcoming-exhibition/>  
 **-Apr 25 <https://www2.ocadu.ca/event/codex-playable-disruptive-futurist-eart>**  
 **-May 10 <http://thepowerplant.org/Exhibitions/2020/Solo-Exhibition.aspx> <http://thepowerplant.org/Exhibitions/2020/Solo-Exhibition-(1).aspx>**  
 -Jun 7 **<https://www.harbourfrontcentre.com/visualarts/2020/future-retrospectives/>** <https://www.harbourfrontcentre.com/visualarts/2020/amber-zuber/> <https://www.harbourfrontcentre.com/visualarts/2020/v2/> <https://www.harbourfrontcentre.com/visualarts/2020/array/> <https://www.harbourfrontcentre.com/visualarts/2019/building-black-amorphia/>  
-
-_Feb 12-Apr 4 <https://lacap.ca/sur-gallery/upcoming-exhibition/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -72,18 +71,13 @@ _Feb 12-Apr 4 <https://lacap.ca/sur-gallery/upcoming-exhibition/>_
 
 ### Bloordale & Junction Triangle
 
-**-Apr 12 <https://moca.ca/megan-rooney-exhibitions-2020/>**  
-  **-May 10 <https://moca.ca/carlos-bunga-exhibitions-2020/> <https://moca.ca/shelagh-keeley-exhibitions-2020/> <https://moca.ca/sarah-sze-exhibitions-2020/>**  
-**-May 30 <http://www.scrapmetalgallery.com/archive/eduardo-basualdo/>**  
+**-Apr 4 <https://www.arsenalcontemporary.com/to/exhib/detail/liquid-language-hannah-perry>**  
 
 _**Mar 14-May 30 <http://www.mercerunion.org/exhibitions/native-art-department-international-bureau-of-aesthetics/>**_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MOCA
 
 ### Dupont St & The Junction
-
-**<u>-Feb 29</u> <https://coopercolegallery.com/exhibitions/> Walter Scott Shawn Kuruneru**  
-<u>-Mar 7</u> <https://angellgallery.com/exhibition/lantern> <https://angellgallery.com/exhibition/tie-dye-for-germans>  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
 
