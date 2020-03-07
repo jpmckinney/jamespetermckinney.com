@@ -30,6 +30,7 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 **-Mar 21 <https://artmuseum.utoronto.ca/exhibition/listening-to-snow/> <https://artmuseum.utoronto.ca/exhibition/lorenza-bottner-requiem-for-the-norm/>**  
 **-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/> <https://ryersonimagecentre.ca/exhibition/extending-the-frame-40-years-of-gallery-tpw/> <https://ryersonimagecentre.ca/exhibition/nir-evron-a-free-moment/> <https://ryersonimagecentre.ca/exhibition/shaun-fernandes-getting-the-most-from-your-hammer/>**  
 **-May 9 <https://interaccess.org/exhibition/filling-klein-bottle-y>**  
+
 **-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**  
 
 _Apr 4-Oct 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna-torma-permanent-danger>_  
