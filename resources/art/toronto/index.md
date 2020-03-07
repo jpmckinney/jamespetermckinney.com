@@ -16,8 +16,6 @@ published: true
 
 ### Shows
 
-<u>-Mar 8</u> <http://whynot.theatre/work/brain-storm/>**  
-
 _**Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
 _**Mar 19-Mar 29 <https://peggybakerdance.com/her-body-as-words>**_  
 _**Mar 24-Apr 12 <https://www.crowstheatre.com/whats-on/view-all/all-the-little-animals-i-have-eaten> (package)**_  
@@ -27,14 +25,13 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 ### Downtown North
 
 <https://ago.ca/exhibitions/yayoi-kusamas-infinity-mirrored-room-lets-survive-forever>  
--Mar 15 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/wild!>  
+<u>-Mar 15</u> <http://www.textilemuseum.ca/exhibitions/current-exhibitions/wild!>  
   -Aug 30 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/ᖃᓪᓗᓈᖅᑕᐃᑦ-ᓯᑯᓯᓛᕐᒥᑦ-printed-textiles-from-kinngait-st>  
 **-Mar 21 <https://artmuseum.utoronto.ca/exhibition/listening-to-snow/> <https://artmuseum.utoronto.ca/exhibition/lorenza-bottner-requiem-for-the-norm/>**  
-**-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/> <https://ryersonimagecentre.ca/exhibition/extending-the-frame-40-years-of-gallery-tpw/> <https://ryersonimagecentre.ca/exhibition/nir-evron-a-free-moment/>**  
+**-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/> <https://ryersonimagecentre.ca/exhibition/extending-the-frame-40-years-of-gallery-tpw/> <https://ryersonimagecentre.ca/exhibition/nir-evron-a-free-moment/> <https://ryersonimagecentre.ca/exhibition/shaun-fernandes-getting-the-most-from-your-hammer/>**  
+**-May 9 <https://interaccess.org/exhibition/filling-klein-bottle-y>**  
 **-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**  
 
-_Mar 4-Apr 5 <https://ryersonimagecentre.ca/exhibition/shaun-fernandes-getting-the-most-from-your-hammer/>_  
-_**Mar 4-May 9 <https://interaccess.org/exhibition/filling-klein-bottle-y>**_  
 _Apr 4-Oct 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna-torma-permanent-danger>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
@@ -45,8 +42,8 @@ _Apr 4-Oct 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna
 
 ### Downtown South
 
--Mar 14 <https://gallery44.org/exhibitions/butterfly-effect-0>  
-  -Mar 14 <https://www.yyzartistsoutlet.org/category/exhibitions/>  
+<u>-Mar 14</u> <https://gallery44.org/exhibitions/butterfly-effect-0>  
+  <u>-Mar 14</u> <https://www.yyzartistsoutlet.org/category/exhibitions/>  
   -Mar 28 <https://www.prefix.ca/exhibitions/amar-kanwar/>  
 -Apr 4 <https://lacap.ca/sur-gallery/upcoming-exhibition/>  
 **-Apr 25 <https://www2.ocadu.ca/event/codex-playable-disruptive-futurist-eart>**  
@@ -61,7 +58,6 @@ _Apr 4-Oct 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna
 
 ### Queen St
 
-<u>-Mar 7</u> <http://www.susanhobbs.com/>  
 **-Mar 29 <http://kofflerarts.org/news/2019/07/15/karen-tam/>**  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
