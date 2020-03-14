@@ -25,14 +25,13 @@ _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake
 ### Downtown North
 
 <https://ago.ca/exhibitions/yayoi-kusamas-infinity-mirrored-room-lets-survive-forever>  
-<u>-Mar 15</u> <http://www.textilemuseum.ca/exhibitions/current-exhibitions/wild!>  
-  -Aug 30 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/ᖃᓪᓗᓈᖅᑕᐃᑦ-ᓯᑯᓯᓛᕐᒥᑦ-printed-textiles-from-kinngait-st>  
-**-Mar 21 <https://artmuseum.utoronto.ca/exhibition/listening-to-snow/> <https://artmuseum.utoronto.ca/exhibition/lorenza-bottner-requiem-for-the-norm/>**  
+**<u>-Mar 21</u> <https://artmuseum.utoronto.ca/exhibition/listening-to-snow/> <https://artmuseum.utoronto.ca/exhibition/lorenza-bottner-requiem-for-the-norm/>**  
 **-Apr 5 <https://ryersonimagecentre.ca/exhibition/a-handful-of-dust-from-the-cosmic-to-the-domestic/> <https://ryersonimagecentre.ca/exhibition/extending-the-frame-40-years-of-gallery-tpw/> <https://ryersonimagecentre.ca/exhibition/nir-evron-a-free-moment/> <https://ryersonimagecentre.ca/exhibition/shaun-fernandes-getting-the-most-from-your-hammer/>**  
 **-May 9 <https://interaccess.org/exhibition/filling-klein-bottle-y>**  
-
 **-Jun 26 <https://artmuseum.utoronto.ca/exhibition/weather-amnesia/>**  
+-Aug 30 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/ᖃᓪᓗᓈᖅᑕᐃᑦ-ᓯᑯᓯᓛᕐᒥᑦ-printed-textiles-from-kinngait-st>  
 
+_Mar 13-Apr 12 <https://textilemuseum.ca/event/distant-water-will-not-quench-a-nearby-fire/>_  
 _Apr 4-Oct 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna-torma-permanent-danger>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
@@ -43,13 +42,16 @@ _Apr 4-Oct 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna
 
 ### Downtown South
 
-<u>-Mar 14</u> <https://gallery44.org/exhibitions/butterfly-effect-0>  
-  <u>-Mar 14</u> <https://www.yyzartistsoutlet.org/category/exhibitions/>  
-  -Mar 28 <https://www.prefix.ca/exhibitions/amar-kanwar/>  
+-Mar 28 <https://www.prefix.ca/exhibitions/amar-kanwar/>  
+  -Apr 24 <https://tangledarts.org/exhibits/thaumaturgy/>  
 -Apr 4 <https://lacap.ca/sur-gallery/upcoming-exhibition/>  
 **-Apr 25 <https://www2.ocadu.ca/event/codex-playable-disruptive-futurist-eart>**  
 **-May 10 <http://thepowerplant.org/Exhibitions/2020/Solo-Exhibition.aspx> <http://thepowerplant.org/Exhibitions/2020/Solo-Exhibition-(1).aspx>**  
 -Jun 7 **<https://www.harbourfrontcentre.com/visualarts/2020/future-retrospectives/>** <https://www.harbourfrontcentre.com/visualarts/2020/amber-zuber/> <https://www.harbourfrontcentre.com/visualarts/2020/v2/> <https://www.harbourfrontcentre.com/visualarts/2020/array/> <https://www.harbourfrontcentre.com/visualarts/2019/building-black-amorphia/>  
+
+_Mar 20-Apr 25 <https://gallery44.org/exhibitions/few-howls-again>_  
+_**Mar 28-May 16 <https://www.yyzartistsoutlet.org/2020/03/galia-eibenschutz-red-blue-orange-yellow-linescapes/> <https://www.yyzartistsoutlet.org/2020/03/brad-isaacs-beneath-the-pond/>**_  
+_May 1-Jun 6 <https://gallery44.org/exhibitions/range> <https://gallery44.org/exhibitions/alone-house-still-life-clarice-lispector>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -60,6 +62,11 @@ _Apr 4-Oct 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna
 ### Queen St
 
 **-Mar 29 <http://kofflerarts.org/news/2019/07/15/karen-tam/>**  
+  -Mar 29 <https://www.criticaldistance.ca/program/a-big-heritage-with-a-glorious-past-eleana-antonaki-and-marina-xenofontos/>  
+-Apr 11 <http://www.georgiascherman.com/2020-group-show-the-pleasures-of-lingering>  
+-Apr 18 <http://susanhobbs.com/exhibits/1459-the-little-operas>  
+
+_Apr 14-Apr 26 <https://imagesfestival.com/programs/pine-street:-charlotte-zhang/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -69,13 +76,15 @@ _Apr 4-Oct 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna
 
 ### Bloordale & Junction Triangle
 
+-Mar 28 <http://www.franzkaka.com/franz-kaka--spring-now-comes-unheralded.html>  
 **-Apr 4 <https://www.arsenalcontemporary.com/to/exhib/detail/liquid-language-hannah-perry>**  
-
-_**Mar 14-May 30 <http://www.mercerunion.org/exhibitions/native-art-department-international-bureau-of-aesthetics/>**_  
+**-May 30 <http://www.mercerunion.org/exhibitions/native-art-department-international-bureau-of-aesthetics/>**  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MOCA
 
 ### Dupont St & The Junction
+
+**-Apr 25 <https://angellgallery.com/exhibition/how-dark-does-it-get-when-the-lights-go-out->**  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
 

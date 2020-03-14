@@ -57,7 +57,8 @@ Outdoor movies:
 
 ### Mar
 
-* **<https://winterstations.com> art Feb 17-Mar 30**
+* **<https://winterstations.com> art Feb 17-30**
+* **<http://ontarioplace.com/en/special_programs/winter-light-exhibition-2020/> art Feb 8-29**
 * <https://factoronto.org> art 5-7
 * <https://www.canfilmfest.ca> film 24-28
 * <http://www.torontosketchfest.com> 4-15
