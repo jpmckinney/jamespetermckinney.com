@@ -55,23 +55,12 @@ Outdoor movies:
 * **<https://www.torontolightfest.com> 17-Mar 1**
 * ✖ <http://www.waterfrontbia.com/event/ice-breakers/> (2019)
 
-### Mar
-
-* **<https://winterstations.com> art Feb 17-30**
-* **<http://ontarioplace.com/en/special_programs/winter-light-exhibition-2020/> art Feb 8-29**
-* <https://factoronto.org> art 5-7
-* <https://www.canfilmfest.ca> film 24-28
-* <http://www.torontosketchfest.com> 4-15
-* <http://www.torontostorytellingfestival.ca> talk 7-29
-* <https://www.alumnaetheatre.com/new-ideas-festival.html> theatre 11-29
-* ✖ <https://www.tso.ca/new-creations-festival> music 3-10 (2018)
-
 ### Apr
 
+* **<http://imagesfestival.com> art 16-22**
+* **<https://www.hotdocs.ca> film 25-May 5**
 * **<http://www.torontosilentfilmfestival.com> 4-8**
 * **<https://www.wonkprom.com> meetup 11**
-* **<http://imagesfestival.com> art 11-18**
-* **<https://www.hotdocs.ca> film 25-May 5**
 * <http://fashionarttoronto.ca> art/fashion 24-28
 * <https://www.gladstonehotel.com/Grow-Op> art 17-21
 * <https://www.girotoronto.ca> food 4-14
@@ -243,3 +232,14 @@ Outdoor movies:
 * <http://cinefranco.com> film 18-Mar 4
 * <https://torontoblackfilm.com> film 12-17
 * <http://teafestivaltoronto.com> tea 1-2
+
+### Mar
+
+* **<https://winterstations.com> art Feb 17-30**
+* **<http://ontarioplace.com/en/special_programs/winter-light-exhibition-2020/> art Feb 8-29**
+* <https://factoronto.org> art 5-7
+* <https://www.canfilmfest.ca> film 24-28
+* <http://www.torontosketchfest.com> 4-15
+* <http://www.torontostorytellingfestival.ca> talk 7-29
+* <https://www.alumnaetheatre.com/new-ideas-festival.html> theatre 11-29
+* ✖ <https://www.tso.ca/new-creations-festival> music 3-10 (2018)

@@ -17,8 +17,6 @@ published: true
 ### Shows
 
 _**Mar 18-Mar 21 <https://national.ballet.ca/Productions/2019-20-Season/Chroma> (AZ)**_  
-_**Mar 19-Mar 29 <https://peggybakerdance.com/her-body-as-words>**_  
-_**Mar 24-Apr 12 <https://www.crowstheatre.com/whats-on/view-all/all-the-little-animals-i-have-eaten> (package)**_  
 _**May 19-Jun 7 <https://outsidethemarch.ca/the-experiences/the-ex-boyfriend-yard-sale/> (AZ)**_  
 _**Jun 5-Jun 21 <https://national.ballet.ca/Productions/2019-20-Season/Swan-Lake> (AZ)**_  
 
@@ -41,14 +39,11 @@ _Apr 4-Oct 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna
 
 ### Downtown South
 
-<u>-Mar 28</u> <https://www.prefix.ca/exhibitions/amar-kanwar/>  
-  -Apr 24 <https://tangledarts.org/exhibits/thaumaturgy/>  
 -Apr 4 <https://lacap.ca/sur-gallery/upcoming-exhibition/>  
-**-Apr 25 <https://www2.ocadu.ca/event/codex-playable-disruptive-futurist-eart>**  
+-Apr 24 <https://tangledarts.org/exhibits/thaumaturgy/>  
 **-May 10 <http://thepowerplant.org/Exhibitions/2020/Solo-Exhibition.aspx> <http://thepowerplant.org/Exhibitions/2020/Solo-Exhibition-(1).aspx>**  
 -Jun 7 **<https://www.harbourfrontcentre.com/visualarts/2020/future-retrospectives/>** <https://www.harbourfrontcentre.com/visualarts/2020/amber-zuber/> <https://www.harbourfrontcentre.com/visualarts/2020/v2/> <https://www.harbourfrontcentre.com/visualarts/2020/array/> <https://www.harbourfrontcentre.com/visualarts/2019/building-black-amorphia/>  
 
-_Mar 20-Apr 25 <https://gallery44.org/exhibitions/few-howls-again>_  
 _**Mar 28-May 16 <https://www.yyzartistsoutlet.org/2020/03/galia-eibenschutz-red-blue-orange-yellow-linescapes/> <https://www.yyzartistsoutlet.org/2020/03/brad-isaacs-beneath-the-pond/>**_  
 _May 1-Jun 6 <https://gallery44.org/exhibitions/range> <https://gallery44.org/exhibitions/alone-house-still-life-clarice-lispector>_  
 
@@ -61,7 +56,6 @@ _May 1-Jun 6 <https://gallery44.org/exhibitions/range> <https://gallery44.org/ex
 ### Queen St
 
 <u>-Mar 29</u> <https://www.criticaldistance.ca/program/a-big-heritage-with-a-glorious-past-eleana-antonaki-and-marina-xenofontos/>  
--Apr 11 <http://www.georgiascherman.com/2020-group-show-the-pleasures-of-lingering>  
 -Apr 18 <http://susanhobbs.com/exhibits/1459-the-little-operas>  
 
 _Apr 14-Apr 26 <https://imagesfestival.com/programs/pine-street:-charlotte-zhang/>_  
@@ -75,7 +69,6 @@ _Apr 23-Jun 7 <https://kofflerarts.org/Exhibitions/Gallery/Gallery-Exhibitions/T
 
 ### Bloordale & Junction Triangle
 
-<u>-Mar 28</u> <http://www.franzkaka.com/franz-kaka--spring-now-comes-unheralded.html>  
 **-Apr 4 <https://www.arsenalcontemporary.com/to/exhib/detail/liquid-language-hannah-perry>**  
 **-May 30 <http://www.mercerunion.org/exhibitions/native-art-department-international-bureau-of-aesthetics/>**  
 
@@ -83,7 +76,7 @@ _Apr 23-Jun 7 <https://kofflerarts.org/Exhibitions/Gallery/Gallery-Exhibitions/T
 
 ### Dupont St & The Junction
 
-**-Apr 25 <https://angellgallery.com/exhibition/how-dark-does-it-get-when-the-lights-go-out->**  
+**May 2-Jun 13 <https://angellgallery.com/exhibition/how-dark-does-it-get-when-the-lights-go-out->**  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
 
