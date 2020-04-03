@@ -41,8 +41,8 @@ _Apr 4-Oct 25 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna
 
 -Apr 4 <https://lacap.ca/sur-gallery/upcoming-exhibition/>  
 -Apr 24 <https://tangledarts.org/exhibits/thaumaturgy/>  
-**-May 10 <http://thepowerplant.org/Exhibitions/2020/Solo-Exhibition.aspx> <http://thepowerplant.org/Exhibitions/2020/Solo-Exhibition-(1).aspx>**  
 -Jun 7 **<https://www.harbourfrontcentre.com/visualarts/2020/future-retrospectives/>** <https://www.harbourfrontcentre.com/visualarts/2020/amber-zuber/> <https://www.harbourfrontcentre.com/visualarts/2020/v2/> <https://www.harbourfrontcentre.com/visualarts/2020/array/> <https://www.harbourfrontcentre.com/visualarts/2019/building-black-amorphia/>  
+**-Sep 7 <http://thepowerplant.org/Exhibitions/2020/Solo-Exhibition.aspx> <http://thepowerplant.org/Exhibitions/2020/Solo-Exhibition-(1).aspx>**  
 
 _**Mar 28-May 16 <https://www.yyzartistsoutlet.org/2020/03/galia-eibenschutz-red-blue-orange-yellow-linescapes/> <https://www.yyzartistsoutlet.org/2020/03/brad-isaacs-beneath-the-pond/>**_  
 _May 1-Jun 6 <https://gallery44.org/exhibitions/range> <https://gallery44.org/exhibitions/alone-house-still-life-clarice-lispector>_  
