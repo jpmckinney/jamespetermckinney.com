@@ -55,22 +55,6 @@ Outdoor movies:
 * **<https://www.torontolightfest.com> 17-Mar 1**
 * ✖ <http://www.waterfrontbia.com/event/ice-breakers/> (2019)
 
-### Apr
-
-* **<http://imagesfestival.com> art 16-22**
-* **<https://www.hotdocs.ca> film 25-May 5**
-* **<http://www.torontosilentfilmfestival.com> 4-8**
-* **<https://www.wonkprom.com> meetup 11**
-* <http://fashionarttoronto.ca> art/fashion 24-28
-* <https://www.gladstonehotel.com/Grow-Op> art 17-21
-* <https://www.girotoronto.ca> food 4-14
-* _<http://meta2018.ca> art (grad) 5-7_
-* _<http://www.sheridanillustration.com> art (grad) 11-12_
-* _<https://www.senecacollege.ca/create/news/articles/artsfestival-2019> art (grad)_
-* _<https://ysdn2019.com> design (grad) 10-11_
-* _<https://massexodus.ca> fashion (grad) 4-6_
-* ✖ <http://www.harbourfrontcentre.com/worldstage/performances/> performance 4-22 (2017)
-
 ### May
 
 * **<http://scotiabankcontactphoto.com> photography**
@@ -179,6 +163,7 @@ Outdoor movies:
 
 * **<http://www.nbto.com> art 5**
 * **<https://worldpressphoto.org/calendar/world-press-photo-exhibition-2019/38232/Toronto%2c-Canada> photography 1-23**
+* **<http://www.torontosilentfilmfestival.com>**
 * <http://7a-11d.ca> performance 2-7 biennial (even)
 * <https://www.alunatheatre.ca/festival/caminos-2019/> performance 3-13 biennial (odd)
 * <https://www.alunatheatre.ca/festival/rutas-2018/> performance 3-14 biennial (even)
@@ -240,6 +225,21 @@ Outdoor movies:
 * <https://factoronto.org> art 5-7
 * <https://www.canfilmfest.ca> film 24-28
 * <http://www.torontosketchfest.com> 4-15
+* <https://www.gladstonehotel.com/Grow-Op> art 12-15
 * <http://www.torontostorytellingfestival.ca> talk 7-29
 * <https://www.alumnaetheatre.com/new-ideas-festival.html> theatre 11-29
 * ✖ <https://www.tso.ca/new-creations-festival> music 3-10 (2018)
+
+### Apr
+
+* **<http://imagesfestival.com> art 16-22**
+* **<https://www.hotdocs.ca> film 25-May 5**
+* **<https://www.wonkprom.com> meetup 11**
+* <http://fashionarttoronto.ca> art/fashion 24-28
+* <https://www.girotoronto.ca> food 4-14
+* _<http://meta2018.ca> art (grad) 5-7_
+* _<http://www.sheridanillustration.com> art (grad) 11-12_
+* _<https://www.senecacollege.ca/create/news/articles/artsfestival-2019> art (grad)_
+* _<https://ysdn2019.com> design (grad) 10-11_
+* _<https://massexodus.ca> fashion (grad) 4-6_
+* ✖ <http://www.harbourfrontcentre.com/worldstage/performances/> performance 4-22 (2017)
