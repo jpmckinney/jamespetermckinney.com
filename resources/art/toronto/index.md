@@ -40,13 +40,12 @@ _**Jan 13-Apr 10 <https://artmuseum.utoronto.ca/exhibition/plastic-heart/>**_
 
 ### Downtown South
 
-**-Sep 26 <https://www.yyzartistsoutlet.org/2020/03/galia-eibenschutz-red-blue-orange-yellow-linescapes/> <https://www.yyzartistsoutlet.org/2020/03/brad-isaacs-beneath-the-pond/>**  
 -Oct 3 <https://www.trinitysquarevideo.com/exhibition-2020emerging-digital-artists-award/>  
 **-Oct 24 <https://www.gallery44.org/content/alone-in-the-house-still-life-with-clarice-lispector> <https://www.gallery44.org/content/in-range> <https://www.gallery44.org/content/city-in-motion>**  
 -Oct 25 <https://www.harbourfrontcentre.com/whatson/today.cfm?id=10958> _after sunset_
 -Dec 31 <https://www.harbourfrontcentre.com/visualarts/2020/the-only-tongue-in-vogue/>  
+**-Jan 3 <http://thepowerplant.org/Exhibitions/2020/Fall-2020/Cut-from-the-same-cloth.aspx> <http://thepowerplant.org/Exhibitions/2020/Fall-2020/World-Discovered-Under-Other-Skies.aspx> <http://thepowerplant.org/Exhibitions/2020/Fall-2020/From-swelling-shadows,-we-draw-our-bows.aspx>**  
 
-_**Sep 26-Jan 3 <http://thepowerplant.org/Exhibitions/2020/Fall-2020/Cut-from-the-same-cloth.aspx> <http://thepowerplant.org/Exhibitions/2020/Fall-2020/World-Discovered-Under-Other-Skies.aspx> <http://thepowerplant.org/Exhibitions/2020/Fall-2020/From-swelling-shadows,-we-draw-our-bows.aspx>**_  
 _Oct 2-Nov 28 <https://www.prefix.ca/exhibitions/lyla-rye/>_  
 _Oct 9-Nov 14 <https://www.trinitysquarevideo.com/exhibition-this-moment-an-endurance-to-the-end-forever/>_  
 
@@ -82,7 +81,6 @@ _**Oct 3-Nov 14 <http://gallerytpw.ca/patrick-cruz/>**_
 
 ### Dupont St & The Junction
 
--Sep 26 <https://www.christiecontemporary.com/vincent-images-infinityofone>  
 -Oct 3 <https://coopercolegallery.com/exhibition/2020-paul-p-gamboling-green/> <https://coopercolegallery.com/exhibition/2020-paul-p-gb-jones-temple-of-friendship/>  
 -Oct 10 <https://franzkaka.com/Memory-Palace>  
 -Oct 17 <http://zaluckycontemporary.com/exhibition/ckelir8e80hgf01797bpc32jx>  
