@@ -22,11 +22,9 @@ _**Jun 11-Jun 27 <https://national.ballet.ca/Productions/Swan-Lake>**_
 
 <https://ago.ca/exhibitions/yayoi-kusamas-infinity-mirrored-room-lets-survive-forever> _temporarily closed_
 
--Oct 4 <https://textilemuseum.ca/event/distant-water-will-not-quench-a-nearby-fire/>  
-  -Mar 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna-torma-permanent-danger>  
+-Mar 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna-torma-permanent-danger>  
   -Jun 2 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/ᖃᓪᓗᓈᖅᑕᐃᑦ-ᓯᑯᓯᓛᕐᒥᑦ-printed-textiles-from-kinngait-st>  
-**-Nov 28 <https://ryersonimagecentre.ca/exhibition/scotiabank-photography-award-stephen-waddell/> <https://ryersonimagecentre.ca/exhibition/mohamed-bourouissa-horse-day/>**  
-  -Oct 17 <https://ryersonimagecentre.ca/exhibition/ethan-murphy-front-back/>  
+**-Nov 28 <https://ryersonimagecentre.ca/exhibition/scotiabank-photography-award-stephen-waddell/> <https://ryersonimagecentre.ca/exhibition/mohamed-bourouissa-horse-day/> <https://ryersonimagecentre.ca/exhibition/ethan-murphy-front-back/>**  
 
 _**Oct 28-Nov 21 <https://artmuseum.utoronto.ca/exhibition/2020-university-of-toronto-mvs-studio-program-graduating-exhibition/>**_  
   Oct 28-Jun 25 <https://artmuseum.utoronto.ca/exhibition/birds-of-a-feather/>  
@@ -40,14 +38,12 @@ _**Jan 13-Apr 10 <https://artmuseum.utoronto.ca/exhibition/plastic-heart/>**_
 
 ### Downtown South
 
--Oct 3 <https://www.trinitysquarevideo.com/exhibition-2020emerging-digital-artists-award/>  
-**-Oct 24 <https://www.gallery44.org/content/alone-in-the-house-still-life-with-clarice-lispector> <https://www.gallery44.org/content/in-range> <https://www.gallery44.org/content/city-in-motion>**  
--Oct 25 <https://www.harbourfrontcentre.com/whatson/today.cfm?id=10958> _after sunset_
+-Nov 14 <https://www.trinitysquarevideo.com/exhibition-this-moment-an-endurance-to-the-end-forever/>  
+  -Nov 28 <https://www.prefix.ca/exhibitions/lyla-rye/>  
+  -Dec 12 <https://www.gallery44.org/content/a-few-howls-again>  
+  -Dec 19 <https://www.yyzartistsoutlet.org/2020/08/suzanne-nacha-meghan-price-land-line/> <https://www.yyzartistsoutlet.org/2020/09/they-make-desolation-and-call-it-peace-featuring-riaz-mehmood/>  
 -Dec 31 <https://www.harbourfrontcentre.com/visualarts/2020/the-only-tongue-in-vogue/>  
 **-Jan 3 <http://thepowerplant.org/Exhibitions/2020/Fall-2020/Cut-from-the-same-cloth.aspx> <http://thepowerplant.org/Exhibitions/2020/Fall-2020/World-Discovered-Under-Other-Skies.aspx> <http://thepowerplant.org/Exhibitions/2020/Fall-2020/From-swelling-shadows,-we-draw-our-bows.aspx>**  
-
-_Oct 2-Nov 28 <https://www.prefix.ca/exhibitions/lyla-rye/>_  
-_Oct 9-Nov 14 <https://www.trinitysquarevideo.com/exhibition-this-moment-an-endurance-to-the-end-forever/>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -57,9 +53,9 @@ _Oct 9-Nov 14 <https://www.trinitysquarevideo.com/exhibition-this-moment-an-endu
 
 ### Queen St
 
--Oct 17 <http://www.susanhobbs.com/current>  
--Oct 17 <https://birchcontemporary.com/exhibition/moving-target> <https://birchcontemporary.com/exhibition/polychrome>  
 **-Nov 15 <https://kofflerarts.org/Exhibitions/Gallery/Gallery-Exhibitions/The-Natalie-Brettschneider-Archive>**  
+-Nov 21 <http://www.susanhobbs.com/current>  
+-Nov 21 <http://birchcontemporary.com/exhibition/drawings> <http://birchcontemporary.com/exhibition/here-we-are>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -69,35 +65,24 @@ _Oct 9-Nov 14 <https://www.trinitysquarevideo.com/exhibition-this-moment-an-endu
 
 ### Bloordale & Junction Triangle
 
--Oct 10 <https://www.olgakorpergallery.com/exhibitions/view?id=128>  
--Oct 17 <https://www.arsenalcontemporary.com/to/exhib/detail/here-francine-savard-matthew-feyld> <https://www.arsenalcontemporary.com/to/exhib/detail/crawling-out-of-a-hidden-space>  
--Oct 17 <http://www.cuttsgallery.com/exhibitions/harold-town-unlocking-the-70s/>
 **-Oct 31 <https://www.mercerunion.org/exhibitions/native-art-department-international-bureau-of-aesthetics/>**  
+-Nov 8 <https://akimbo.ca/listings/at-intervals-akin-artists-in-residence-program-exhibition/>  
+**-Nov 14 <http://gallerytpw.ca/patrick-cruz/>**  
 **-Nov 15 <https://moca.ca/yazan-khalili-exhibitions-2020/>**  
-
-_**Oct 3-Nov 14 <http://gallerytpw.ca/patrick-cruz/>**_  
+  **-Jan 3 <https://moca.ca/fatma-bucak-krista-belle-stewart-programmes-2020/>**  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MOCA
 
 ### Dupont St & The Junction
 
--Oct 3 <https://coopercolegallery.com/exhibition/2020-paul-p-gamboling-green/> <https://coopercolegallery.com/exhibition/2020-paul-p-gb-jones-temple-of-friendship/>  
--Oct 10 <https://franzkaka.com/Memory-Palace>  
--Oct 17 <http://zaluckycontemporary.com/exhibition/ckelir8e80hgf01797bpc32jx>  
--Oct 18 <http://cassandracassandra.ca/projects/deep-vision/>  
--Oct 24 <https://angellgallery.com/exhibition/mixed-greens> <https://angellgallery.com/exhibition/from-walking-so-much-in-circles-i-will-end-up-making-a-sphere>  
--Oct 24 <https://www.unitedcontemporary.com/#/amanda-clyne-your-body-haunts-mine/>  
-**-Oct 26 <https://interaccess.org/exhibition/filling-klein-bottle-y>**  
-
-_Oct 8-Nov 28 <https://www.alisonmilneexhibitions.com>_  
+-Nov 14 <https://franzkaka.com/Subtle-Bodies>  
+**-Nov 28 <https://interaccess.org/exhibition/life-we-know-it>**  
+-Nov 28 <https://coopercolegallery.com/exhibition/2020-tau-lewis-triumphant-alliance-of-the-ubiquitous-blossoms-of-incarnate-souls/>  
+-Nov 28 <https://www.alisonmilneexhibitions.com>  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Cassandra Cassandra
 
 ### Dundas St
-
--Oct 2 <http://www.xpace.info/exhibition-event/ivetta-sunyoung-kang-proposition-1-hands/>  
--Oct 17 <https://www.bulgergallery.com/events/57/>  
--Oct 24 <http://mkg127.com/archive/2020-2/disruptions/>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Ossington
 
