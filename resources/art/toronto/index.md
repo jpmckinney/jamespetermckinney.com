@@ -47,6 +47,7 @@ _**Jan 13-Apr 10 <https://artmuseum.utoronto.ca/exhibition/plastic-heart/>**_
 
 ### Queen St
 
+-Jan 16 <http://birchcontemporary.com/exhibition/absent-friends> <http://birchcontemporary.com/exhibition/textiles>  
 -Jan 23 <http://www.susanhobbs.com/current>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
