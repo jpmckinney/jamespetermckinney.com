@@ -36,8 +36,7 @@ _**Jan 13-Apr 10 <https://artmuseum.utoronto.ca/exhibition/plastic-heart/>**_
 
 ### Downtown South
 
--Jan 2 <https://www.gallery44.org/exhibitions/looking-forward>  
-**-Jan 3 <http://thepowerplant.org/Exhibitions/2020/Fall-2020/Cut-from-the-same-cloth.aspx> <http://thepowerplant.org/Exhibitions/2020/Fall-2020/World-Discovered-Under-Other-Skies.aspx> <http://thepowerplant.org/Exhibitions/2020/Fall-2020/From-swelling-shadows,-we-draw-our-bows.aspx>**  
+-Feb 6 <https://www.gallery44.org/exhibitions/looking-forward>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -50,6 +49,8 @@ _**Jan 13-Apr 10 <https://artmuseum.utoronto.ca/exhibition/plastic-heart/>**_
 -Jan 16 <http://birchcontemporary.com/exhibition/absent-friends> <http://birchcontemporary.com/exhibition/textiles>  
 -Jan 23 <http://www.susanhobbs.com/current>  
 
+*Jan 21-Mar 28 <https://kofflerarts.org/Exhibitions/Gallery/Gallery-Exhibitions/Sameer-Farooq>*  
+
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> InterAccess W8, Only One 7
@@ -58,10 +59,9 @@ _**Jan 13-Apr 10 <https://artmuseum.utoronto.ca/exhibition/plastic-heart/>**_
 
 ### Bloordale & Junction Triangle
 
-**-Jan 3 <https://moca.ca/fatma-bucak-krista-belle-stewart-programmes-2020/>**  
-**-Feb <https://moca.ca/michael-lin-exhibition-2020/>**  
 **-Feb 21 <https://www.mercerunion.org/exhibitions/erdem-tasdelen-a-minaret-for-the-generals-wife/>**  
-**-Apr 11 <https://moca.ca/mika-rottenberg-exhibition-2020/>**  
+**-Mar <https://moca.ca/michael-lin-exhibition-2020/>**  
+  **-Apr 11 <https://moca.ca/mika-rottenberg-exhibition-2020/>**  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MOCA
 
