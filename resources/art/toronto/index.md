@@ -38,6 +38,8 @@ _**Jan 13-Apr 10 <https://artmuseum.utoronto.ca/exhibition/plastic-heart/>**_
 
 -Feb 6 <https://www.gallery44.org/exhibitions/looking-forward>  
 
+_Jan-May 28 <https://www.ocadu.ca/event/fable-tomorrow-survey-works-wendy-coburn>_  
+
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
 <span class="glyphicon glyphicon-time" aria-hidden="true"></span> Power Plant U8, Onsite W8, Coldstream 7 / Urban U8
@@ -62,6 +64,9 @@ _**Jan 13-Apr 10 <https://artmuseum.utoronto.ca/exhibition/plastic-heart/>**_
 **-Feb 21 <https://www.mercerunion.org/exhibitions/erdem-tasdelen-a-minaret-for-the-generals-wife/>**  
 **-Mar <https://moca.ca/michael-lin-exhibition-2020/>**  
   **-Apr 11 <https://moca.ca/mika-rottenberg-exhibition-2020/>**  
+
+_Jan 8-Feb 6 <https://franzkaka.com/Exhibitions>_  
+_Feb 12-Mar 13 <https://franzkaka.com/Exhibitions>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MOCA
 
