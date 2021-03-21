@@ -23,10 +23,9 @@ _**Jun 11-Jun 27 <https://national.ballet.ca/Productions/Swan-Lake>**_
 <https://ago.ca/exhibitions/yayoi-kusamas-infinity-mirrored-room-lets-survive-forever> _temporarily closed_
 
 -Mar 21 <http://www.textilemuseum.ca/exhibitions/upcoming-exhibitions/anna-torma-permanent-danger>  
+**-Apr 10 <https://artmuseum.utoronto.ca/exhibition/plastic-heart/>**  
   -Jun 2 <http://www.textilemuseum.ca/exhibitions/current-exhibitions/ᖃᓪᓗᓈᖅᑕᐃᑦ-ᓯᑯᓯᓛᕐᒥᑦ-printed-textiles-from-kinngait-st>  
 **-Jun 25 <https://artmuseum.utoronto.ca/exhibition/birds-of-a-feather/>**  
-
-_**Jan 13-Apr 10 <https://artmuseum.utoronto.ca/exhibition/plastic-heart/>**_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Bloor to Queen and Ossington to Don Valley
 
@@ -36,9 +35,9 @@ _**Jan 13-Apr 10 <https://artmuseum.utoronto.ca/exhibition/plastic-heart/>**_
 
 ### Downtown South
 
--Feb 6 <https://www.gallery44.org/exhibitions/looking-forward>  
+-Apr 10 <https://www.yyzartistsoutlet.org/2021/01/foam-fatigue-featuring-tegan-moore/> <https://www.yyzartistsoutlet.org/2021/01/yesterday-today-tomorrow-featuring-nina-leo-and-moez-surani/> <https://www.yyzartistsoutlet.org/2021/01/suzanne-nacha-meghan-price-land-line-window-only/>  
+-May 28 <https://www.ocadu.ca/event/fable-tomorrow-survey-works-wendy-coburn>  
 
-_Jan-May 28 <https://www.ocadu.ca/event/fable-tomorrow-survey-works-wendy-coburn>_  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> South of Queen and Bathurst to Don Valley
 
@@ -48,10 +47,9 @@ _Jan-May 28 <https://www.ocadu.ca/event/fable-tomorrow-survey-works-wendy-coburn
 
 ### Queen St
 
--Jan 16 <http://birchcontemporary.com/exhibition/absent-friends> <http://birchcontemporary.com/exhibition/textiles>  
--Jan 23 <http://www.susanhobbs.com/current>  
-
-*Jan 21-Mar 28 <https://kofflerarts.org/Exhibitions/Gallery/Gallery-Exhibitions/Sameer-Farooq>*  
+-Mar 28 <https://kofflerarts.org/Exhibitions/Gallery/Gallery-Exhibitions/Sameer-Farooq>  
+-Apr 3 <http://birchcontemporary.com/exhibition/absent-friends> <http://birchcontemporary.com/exhibition/textiles>  
+-Apr 3 <http://www.susanhobbs.com/current>  
 
 <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> West of Bathurst
 
@@ -61,12 +59,9 @@ _Jan-May 28 <https://www.ocadu.ca/event/fable-tomorrow-survey-works-wendy-coburn
 
 ### Bloordale & Junction Triangle
 
-**-Feb 21 <https://www.mercerunion.org/exhibitions/erdem-tasdelen-a-minaret-for-the-generals-wife/>**  
+**-Apr 25 <https://www.mercerunion.org/exhibitions/erdem-tasdelen-a-minaret-for-the-generals-wife/>**  
 **-Mar <https://moca.ca/michael-lin-exhibition-2020/>**  
   **-Apr 11 <https://moca.ca/mika-rottenberg-exhibition-2020/>**  
-
-_Jan 8-Feb 6 <https://franzkaka.com/Exhibitions>_  
-_Feb 12-Mar 13 <https://franzkaka.com/Exhibitions>_  
 
 <span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> MOCA
 
