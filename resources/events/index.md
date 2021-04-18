@@ -93,8 +93,8 @@ published: true
 
 * <http://national.ballet.ca/> <https://national.ballet.ca/Tickets/Box-Office/Rush-Tickets> standing tickets
 * <http://www.ago.net/art-and-cinema> film
+* <https://jazzintoronto.ca> music
 * <https://www.tso.ca> music
-* <http://www.soundscapesmusic.com/tickets/> music
 * <https://www.sofarsounds.com/toronto> music
 * <https://www.groupmuse.com/calendar?q=Toronto> music
 * <https://artery.is/exploreShowcases>
